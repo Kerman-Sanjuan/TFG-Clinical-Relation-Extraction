@@ -1,0 +1,48 @@
+*	Equiv T18 T17
+T25	Binding 0 16	Homodimerization
+T26	Binding 396 403	binding
+T27	Negative_regulation 649 659	deficiency
+T28	Gene_expression 728 732	lack
+T29	Positive_regulation 1163 1170	induces
+T30	Positive_regulation 1193 1203	activation
+T31	Positive_regulation 1422 1433	transfected
+T32	Gene_expression 1422 1433	transfected
+T33	Gene_expression 1489 1498	expressed
+T34	Binding 1519 1533	as a homodimer
+T35	Binding 1618 1634	homodimerization
+E1	Binding:T25 Theme:T1
+E2	Binding:T26 Theme:T5 Theme2:T6
+E3	Negative_regulation:T27 Theme:T11
+E4	Gene_expression:T28 Theme:T13
+E5	Positive_regulation:T29 Theme:E6
+E6	Positive_regulation:T30 Theme:T18
+E7	Positive_regulation:T31 Theme:E8
+E8	Gene_expression:T32 Theme:T22
+E9	Gene_expression:T33 Theme:T22
+E10	Binding:T34 Theme:T22
+E11	Binding:T35 Theme:T23
+M1	Negation E4
+T1	Protein 30 64	interleukin 4 receptor alpha chain
+T2	Protein 136 170	interleukin 2 receptor gamma chain
+T3	Protein 187 205	interleukin (IL)-4
+T4	Protein 210 215	IL-13
+T5	Protein 391 395	IL-4
+T6	Protein 404 420	IL-4Ralpha chain
+T7	Protein 463 488	IL-2Rgamma (gammac) chain
+T8	Protein 511 516	IL-7R
+T9	Protein 518 523	IL-9R
+T10	Protein 537 541	IL-4
+T11	Protein 636 648	gammac chain
+T12	Protein 707 711	IL-4
+T13	Protein 737 749	gammac chain
+T14	Protein 807 823	IL-4Ralpha chain
+T15	Protein 1093 1107	erythropoietin
+T16	Protein 1152 1162	IL-4Ralpha
+T17	Protein 1171 1185	Janus kinase 1
+T18	Protein 1187 1191	Jak1
+T19	Protein 1205 1210	STAT6
+T20	Protein 1302 1306	Jak1
+T21	Protein 1343 1353	IL-4Ralpha
+T22	Protein 1441 1478	chimeric CD8alpha/IL-4Ralpha receptor
+T23	Protein 1642 1658	IL-4Ralpha chain
+T24	Protein 1686 1690	Jak1

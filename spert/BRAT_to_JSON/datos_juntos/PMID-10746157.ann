@@ -1,0 +1,31 @@
+*	Equiv T4 T5
+T19	Acetylation 23 34	acetylation
+T20	Acetylation 207 218	acetylation
+T21	Acetylation 391 402	acetylation
+T22	Acetylation 729 740	acetylation
+T23	Acetylation 1309 1320	acetylation
+T24	Acetylation 1518 1529	acetylation
+E1	Acetylation:T19 Theme:T1
+E2	Acetylation:T20 Theme:T3
+E3	Acetylation:T21 Theme:T6
+E4	Acetylation:T22 Theme:T9
+E5	Acetylation:T23 Theme:T15
+E6	Acetylation:T24 Theme:T17
+T1	Protein 15 22	histone
+T2	Protein 39 43	IL-2
+T3	Protein 199 206	histone
+T4	Protein 333 346	interleukin 2
+T5	Protein 348 352	IL-2
+T6	Protein 413 423	histone H4
+T7	Protein 534 538	IL-2
+T8	Protein 666 670	IL-2
+T9	Protein 718 728	histone H4
+T10	Protein 889 893	IL-2
+T11	Protein 922 929	histone
+T12	Protein 1026 1030	IL-2
+T13	Protein 1178 1182	IL-2
+T14	Protein 1271 1275	IL-2
+T15	Protein 1330 1340	histone H4
+T16	Protein 1449 1453	IL-2
+T17	Protein 1510 1517	histone
+T18	Protein 1660 1664	IL-2

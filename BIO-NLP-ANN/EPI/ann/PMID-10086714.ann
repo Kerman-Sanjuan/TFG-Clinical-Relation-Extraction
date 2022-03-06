@@ -1,0 +1,29 @@
+T14	Glycosylation 20 33	glycosylation
+T15	Deglycosylation 326 340	deglycosylated
+T16	Catalysis 326 340	deglycosylated
+T17	Deglycosylation 985 999	Deglycosylated
+T18	Deglycosylation 1264 1279	deglycosylation
+T19	Deglycosylation 1421 1436	deglycosylation
+T20	Deglycosylation 1513 1528	deglycosylation
+T21	Glycosylation 1623 1636	glycosylation
+E1	Glycosylation:T14 Theme:T1
+E2	Deglycosylation:T15 Theme:T4
+E3	Catalysis:T16 Theme:E2 Cause:T5
+E4	Deglycosylation:T17 Theme:T10
+E5	Deglycosylation:T18 Theme:T10
+E6	Deglycosylation:T19 Theme:T10
+E7	Deglycosylation:T20 Theme:T10
+E8	Glycosylation:T21 Theme:T13
+T1	Protein 83 89	avidin
+T2	Protein 105 111	avidin
+T3	Protein 298 304	avidin
+T4	Protein 315 321	Avidin
+T5	Protein 349 366	endoglycosydase-H
+T6	Protein 482 488	Avidin
+T7	Protein 502 509	avidins
+T8	Protein 733 739	Avidin
+T9	Protein 753 760	avidins
+T10	Protein 1000 1007	avidins
+T11	Protein 1101 1108	avidins
+T12	Protein 1167 1174	avidins
+T13	Protein 1660 1666	avidin

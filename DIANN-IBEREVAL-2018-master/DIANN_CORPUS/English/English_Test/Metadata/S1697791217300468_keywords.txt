@@ -1,0 +1,38 @@
+ 
+  Keywords
+ 
+ 
+  
+   Computer Assisted diagnosis
+  
+ 
+ 
+  
+   binary classifiers
+  
+ 
+ 
+  
+   Parkinson- Essential classification
+  
+ 
+ 
+  
+   objective tremor measure
+  
+ 
+ 
+  
+   pattern analysis
+  
+ 
+ 
+  
+   feature extraction
+  
+ 
+ 
+  
+   medical diagnosis
+  
+ 

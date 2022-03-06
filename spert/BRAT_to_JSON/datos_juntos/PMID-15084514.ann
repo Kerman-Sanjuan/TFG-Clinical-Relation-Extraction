@@ -1,0 +1,42 @@
+*	Equiv T5 T6
+*	Equiv T12 T13
+*	Equiv T15 T16
+*	Equiv T18 T19
+T21	Hydroxylation 398 410	hydroxylated
+T22	Entity 411 418	Pro-402
+T23	Entity 422 429	Pro-564
+T24	Entity 862 869	Pro-564
+T25	Hydroxylation 870 883	hydroxylation
+T26	Catalysis 870 883	hydroxylation
+T27	Hydroxylation 910 922	hydroxylated
+T28	Entity 923 930	Pro-564
+T29	Hydroxylation 1070 1082	hydroxylated
+T30	Entity 1190 1196	prolyl
+T31	Hydroxylation 1197 1210	hydroxylation
+E1	Hydroxylation:T21 Theme:T8 Site:T22
+E2	Hydroxylation:T21 Theme:T8 Site:T23
+E3	Hydroxylation:T25 Theme:T10 Site:T24
+E4	Catalysis:T26 Theme:E3 Cause:T12
+E5	Hydroxylation:T27 Theme:T14 Site:T28
+E6	Hydroxylation:T29 Theme:T14
+E7	Hydroxylation:T31 Theme:T14 Site:T30
+T1	Protein 17 27	HIF-1alpha
+T2	Protein 81 118	Hypoxia-inducible factor (HIF)-1alpha
+T3	Protein 229 239	HIF-1alpha
+T4	Protein 271 280	ubiquitin
+T5	Protein 305 322	von Hippel-Lindau
+T6	Protein 324 327	VHL
+T7	Protein 332 341	ubiquitin
+T8	Protein 355 365	HIF-1alpha
+T9	Protein 617 627	HIF-1alpha
+T10	Protein 715 725	HIF-1alpha
+T11	Protein 779 782	VHL
+T12	Protein 848 852	PHD2
+T13	Protein 853 857	HPH2
+T14	Protein 1083 1093	HIF-1alpha
+T15	Protein 1269 1273	PHD2
+T16	Protein 1274 1278	HPH2
+T17	Protein 1341 1351	HIF-1alpha
+T18	Protein 1423 1427	PHD2
+T19	Protein 1428 1432	HPH2
+T20	Protein 1485 1495	HIF-1alpha

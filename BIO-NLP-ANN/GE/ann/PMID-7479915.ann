@@ -1,0 +1,24 @@
+T10	Gene_expression 0 12	Coexpression
+T11	Gene_expression 744 754	expression
+T12	Positive_regulation 759 767	activity
+T13	Gene_expression 1011 1018	express
+T14	Gene_expression 1175 1179	lack
+T15	Gene_expression 1254 1266	Coexpression
+E1	Gene_expression:T10 Theme:T1
+E2	Gene_expression:T11 Theme:T3
+E3	Positive_regulation:T12 Theme:T3
+E4	Gene_expression:T13 Theme:T4
+E5	Gene_expression:T14 Theme:T8
+E6	Gene_expression:T15 Theme:T9
+M1	Speculation E2
+M2	Speculation E3
+M3	Negation E5
+T1	Protein 35 38	Sp1
+T2	Protein 445 448	Sp1
+T3	Protein 786 789	Sp1
+T4	Protein 1019 1022	Sp1
+T5	Protein 1142 1146	RelB
+T6	Protein 1148 1151	p50
+T7	Protein 1157 1160	p65
+T8	Protein 1180 1183	Sp1
+T9	Protein 1285 1288	Sp1

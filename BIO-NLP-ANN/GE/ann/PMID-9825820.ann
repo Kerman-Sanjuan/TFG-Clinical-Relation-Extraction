@@ -1,0 +1,46 @@
+*	Equiv T10 T9
+*	Equiv T3 T4
+T18	Gene_expression 910 924	co-transfected
+T19	Positive_regulation 910 924	co-transfected
+T20	Positive_regulation 1297 1304	induced
+T21	Entity 1305 1312	nuclear
+T22	Localization 1313 1326	translocation
+T23	Gene_expression 1418 1426	presence
+T24	Localization 1520 1528	secreted
+T25	Positive_regulation 1551 1566	Co-transfection
+T26	Gene_expression 1551 1566	Co-transfection
+T27	Positive_regulation 1851 1858	leading
+T28	Transcription 1898 1911	transcription
+E1	Gene_expression:T18 Theme:T3
+E2	Positive_regulation:T19 Theme:E1
+E3	Positive_regulation:T20 Theme:E6
+E4	Positive_regulation:T20 Theme:E5
+E5	Localization:T22 Theme:T8 ToLoc:T21
+E6	Localization:T22 Theme:T7 ToLoc:T21
+E7	Gene_expression:T23 Theme:T11
+E8	Gene_expression:T23 Theme:T10
+E9	Localization:T24 Theme:T12
+E10	Positive_regulation:T25 Theme:E11
+E11	Gene_expression:T26 Theme:T13
+E12	Positive_regulation:T27 Theme:E15
+E13	Positive_regulation:T27 Theme:E14
+E14	Transcription:T28 Theme:T15
+E15	Transcription:T28 Theme:T16
+M1	Negation E7
+T1	Protein 719 729	E-selectin
+T2	Protein 733 751	interleukin (IL)-8
+T3	Protein 847 879	tumor necrosis factor receptor I
+T4	Protein 881 886	TNFRI
+T5	Protein 1169 1179	E-selectin
+T6	Protein 1181 1185	IL-8
+T7	Protein 1341 1344	p50
+T8	Protein 1349 1352	p65
+T9	Protein 1430 1447	Lymphotoxin-alpha
+T10	Protein 1449 1456	LTalpha
+T11	Protein 1466 1493	tumor necrosis factor-alpha
+T12	Protein 1508 1515	LTalpha
+T13	Protein 1597 1602	TNFRI
+T14	Protein 1844 1849	TNFRI
+T15	Protein 1915 1925	E-selectin
+T16	Protein 1930 1934	IL-8
+T17	Protein 2058 2063	TNFRI

@@ -1,0 +1,16 @@
+Abstract
+ Introduction and objectives
+Haemorrhoids are a frequent complaint that can be treated with homeopathy, but effectiveness of this treatment has not been evaluated.
+The aim was to evaluate the effectiveness of treating haemorrhoids with homeopathic treatment (intervention group) compared to usual care (control group).
+Methods
+A non-randomised, controlled, prospective study was conducted on patients (> 18 years, <scp><neg>without</neg> <dis>cognitive impairment</dis></scp>) with haemorrhoids, of which 21 were assigned to receive usual care and 32 homeopathic treatment, on the basis of their preference and regular practice in 14 community pharmacies in Girona, Spain (May-August 2013).
+At baseline, 15 days, and 30 days, pain and itch were measured using visual analogue scales (VAS), and quality of life was measured using the EUROQoL-5D and VAS.
+Results
+The usual care patients were more likely to be using other treatments for haemorrhoids at baseline ( _P_ < .05).
+Both groups showed a general improvement in the symptoms.
+No statistically significant differences were found between the groups in terms of relief of itching, reduction in the level of pain, or improvement in the quality of life.
+Statistical power was only adequate in the analysis of the reduction of pain.
+Only 55% of patients suffering the condition for more than 10 years had visited a physician for their haemorrhoids.
+Conclusions
+The sample size was limited and there were confounding factors (use of other medications) that may have limited the possibility of detecting differences.
+Randomised controlled studies, with a longer follow-up period and a larger sample size, should be carried out before making systematic recommendations concerning these treatments.

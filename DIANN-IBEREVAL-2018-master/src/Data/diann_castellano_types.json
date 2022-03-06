@@ -1,0 +1,8 @@
+{
+  "entities": {
+    "dis": { "short": "dis", "verbose": "dis" },
+    "scp": { "short": "scp", "verbose": "scp" },
+    "neg": { "short": "neg", "verbose": "neg" }
+  },
+  "relations": {}
+}

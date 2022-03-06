@@ -1,0 +1,63 @@
+{
+  "entities": {
+    "Process": { "short": "Process", "verbose": "Process" },
+    "Organism": { "short": "Organism", "verbose": "Organism" },
+    "Protein": { "short": "Protein", "verbose": "Protein" },
+    "Negative_regulation": {
+      "short": "Negative_regulation",
+      "verbose": "Negative_regulation"
+    },
+    "Positive_regulation": {
+      "short": "Positive_regulation",
+      "verbose": "Positive_regulation"
+    },
+    "Gene_expression": {
+      "short": "Gene_expression",
+      "verbose": "Gene_expression"
+    },
+    "Transcription": { "short": "Transcription", "verbose": "Transcription" },
+    "Chemical": { "short": "Chemical", "verbose": "Chemical" },
+    "Two-component-system": {
+      "short": "Two-component-system",
+      "verbose": "Two-component-system"
+    },
+    "Regulon-operon": {
+      "short": "Regulon-operon",
+      "verbose": "Regulon-operon"
+    },
+    "Regulation": { "short": "Regulation", "verbose": "Regulation" },
+    "Localization": { "short": "Localization", "verbose": "Localization" },
+    "Entity": { "short": "Entity", "verbose": "Entity" },
+    "Binding": { "short": "Binding", "verbose": "Binding" },
+    "Phosphorylation": {
+      "short": "Phosphorylation",
+      "verbose": "Phosphorylation"
+    },
+    "Protein_catabolism": {
+      "short": "Protein_catabolism",
+      "verbose": "Protein_catabolism"
+    }
+  },
+  "relations": {
+    "Participant": {
+      "short": "Participant",
+      "verbose": "Participant",
+      "symmetric": false
+    },
+    "Theme": {
+      "short": "Theme",
+      "verbose": "Theme",
+      "symmetric": false
+    },
+    "Cause": {
+      "short": "Cause",
+      "verbose": "Cause",
+      "symmetric": false
+    },
+    "AtLoc": { "short": "AtLoc", "verbose": "AtLoc", "symmetric": false },
+    "Site2": { "short": "Site2", "verbose": "Site2", "symmetric": false },
+    "Theme2": { "short": "Theme2", "verbose": "Theme2", "symmetric": false },
+    "Site": { "short": "Site", "verbose": "Site", "symmetric": false },
+    "ToLoc": { "short": "ToLoc", "verbose": "ToLoc", "symmetric": false }
+  }
+}

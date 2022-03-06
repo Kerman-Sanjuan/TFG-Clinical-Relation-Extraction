@@ -1,0 +1,37 @@
+--- Entities (named entity recognition (NER)) ---
+An entity is considered correct if the entity type and span is predicted correctly
+
+                type    precision       recall     f1-score      support
+             Protein        70.69        91.11        79.61           45
+       Deacetylation       100.00       100.00       100.00            1
+           Catalysis        50.00        50.00        50.00            2
+      Ubiquitination       100.00       100.00       100.00            3
+
+               micro        71.88        90.20        80.00           51
+               macro        80.17        85.28        82.40           51
+GT_flat [4, 1, 1, 0, 1, 1, 3, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 0, 2, 0, 1, 1, 1, 1, 4, 3, 1, 1, 1, 1, 1, 1, 1,
+0, 1, 1, 1, 0, 1, 1, 1, 4, 1, 1, 1]
+GT_flat [4, 1, 1, 3, 1, 1, 3, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 2, 1, 0, 1, 1, 1, , 0, 1, 1, 1, 1, 1, 1, 1,
+1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 1, 1]
+
+--- Relations ---
+
+Without named entity classification (NEC)
+A relation is considered correct if the relation type and the spans of the two related entities are predicted correctly (entity type is not considered)
+
+                type    precision       recall     f1-score      support
+      Ubiquitination        50.00        83.33        62.50            6
+
+               micro        50.00        83.33        62.50            6
+               macro        50.00        83.33        62.50            6
+GT_flat [1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 1]
+GT_flat [1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+With named entity classification (NEC)
+A relation is considered correct if the relation type and the two related entities are predicted correctly (in span and entity type)
+
+                type    precision       recall     f1-score      support
+      Ubiquitination        30.00        50.00        37.50            6
+
+               micro        30.00        50.00        37.50            6
+               macro        30.00        50.00        37.50            64

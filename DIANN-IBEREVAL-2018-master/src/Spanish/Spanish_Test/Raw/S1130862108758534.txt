@@ -1,0 +1,16 @@
+Resumen
+ Objetivo
+Medir la recuperación de la independencia para actividades de la vida diaria (AVD) en ancianos independientes y sin deterioro cognitivo que han tenido fractura de cadera secundaria a caída a los 6 meses tras intervención quirúrgica.
+Método
+Estudio analítico, longitudinal, prospectivo, de seguimiento de una cohorte.
+_Inclusión:_ sujetos previamente independientes para las AVD o con dependencia leve, sin deterioro del estado mental.
+Muestreo consecutivo.
+_Variables:_ edad, sexo, lugar de residencia, tipo de fractura, estado mental (SPMSQ de Pfeiffer), independencia para AVD (según índice de Barthel [IB]) previa y a los 6 meses de la caída.
+Resultados
+Se han incluido 207 pacientes, siendo más frecuente fue el sexo femenino (74,4%) y la fractura pertrocantérea (45,9%).
+La media de edad fue 80,17 años (desviación estándar [DE] = 6,95), el 7,7% estaba institucionalizado.
+A los 6 meses de la intervención quirúrgica, la media del IB fue de 73,37 (DE = 26,76) (antes de la caída era de 90,05); un 16,8% presentó incontinencia urinaria (previa 5,9%); un 59,2% caminó sin ayuda (previo 82,4%) y un 24,6% subía escaleras sin ayuda (previo 50,7%).
+Un 64,6% (previamente, un 82,1%) recuperó la capacidad de caminar por la calle.
+Hubo peor recuperación de la independencia en las personas institucionalizadas, en los que no eran capaces de caminar por la calle previamente a la fractura y en los que tenían leve deterioro intelectual, de forma estadísticamente significativa.
+Conclusiones
+Sólo un 33,6% recuperó o superó su nivel de independencia previo en los 6 meses transcurridos.

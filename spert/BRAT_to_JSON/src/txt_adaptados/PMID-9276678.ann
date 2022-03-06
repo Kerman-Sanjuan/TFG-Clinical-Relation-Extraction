@@ -1,0 +1,4 @@
+T1	Protein 562 571	alpha2(I)
+T2	Entity 540 545	lysyl
+T3	Hydroxylation 545 558	hydroxylation
+E1	Hydroxylation:T3 Theme:T1 Site:T2

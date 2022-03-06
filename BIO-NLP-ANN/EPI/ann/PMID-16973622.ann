@@ -1,0 +1,31 @@
+*	Equiv T3 T4
+T13	Ubiquitination 52 66	ubiquitination
+T14	Entity 71 81	asparagine
+T15	Hydroxylation 82 95	hydroxylation
+T16	Ubiquitination 550 564	ubiquitination
+T17	Hydroxylation 644 657	hydroxylating
+T18	Catalysis 644 657	hydroxylating
+T19	Entity 662 686	asparagine residue (803)
+T20	Entity 808 814	prolyl
+T21	Entity 823 834	asparaginyl
+T22	Hydroxylation 835 847	hydroxylated
+E1	Ubiquitination:T13 Theme:T1
+E2	Hydroxylation:T15 Theme:T1 Site:T14
+E3	Ubiquitination:T16 Theme:T6
+E4	Hydroxylation:T17 Theme:T8 Site:T19
+E5	Catalysis:T18 Theme:E4 Cause:T7
+E6	Hydroxylation:T22 Theme:T9 Site:T20
+E7	Hydroxylation:T22 Theme:T9 Site:T21
+M1	Negation E7
+T1	Protein 99 130	hypoxia-inducible factor-1alpha
+T2	Protein 196 210	erythropoietin
+T3	Protein 332 363	hypoxia-inducible factor 1alpha
+T4	Protein 365 375	HIF-1alpha
+T5	Protein 479 493	erythropoietin
+T6	Protein 568 578	HIF-1alpha
+T7	Protein 633 638	FIH-1
+T8	Protein 690 700	HIF-1alpha
+T9	Protein 789 799	HIF-1alpha
+T10	Protein 932 942	HIF-1alpha
+T11	Protein 1079 1089	HIF-1alpha
+T12	Protein 1161 1171	HIF-1alpha

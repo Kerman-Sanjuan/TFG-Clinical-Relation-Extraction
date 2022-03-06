@@ -1,0 +1,7 @@
+Resumen
+ Presentamos el caso de una paciente de 90 años atendida en nuestro centro de salud cuyo síntoma principal es la aparición aislada de alucinaciones visuales complejas.
+La sintomatología produce una inquietud intensa a la paciente y a su entorno.
+La valoración por parte del equipo de atención primaria descartó enfermedades agudas subsidiarias de tratamiento urgente.
+Finalmente fue derivada a la unidad de demencias de zona para descartar <dis>deterioro cognitivo</dis> con inicio de <dis>síndrome de demencia</dis> como diagnóstico más probable.
+Allí, tras el estudio neuropsicológico <scp>se <neg>excluyó</neg> la <dis>demencia</dis></scp> y se orientó como síndrome de Charles Bonnet, consistente en la aparición de alucinaciones visuales secundarias a <dis>déficit visual severo</dis>.
+Tras 5 años de seguimiento, la sintomatología ha desaparecido casi en su totalidad <scp><neg>sin aparición</neg> de signos de <dis>deterioro cognitivo</dis></scp>, lo cual hace patente la necesidad de incluir esta entidad en el diagnóstico diferencial de las alucinaciones visuales de los pacientes ancianos en atención primaria.

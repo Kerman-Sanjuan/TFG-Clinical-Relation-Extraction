@@ -1,0 +1,18 @@
+Abstract
+ Background
+There are many stereotypes and prejudices about the sexual lives of the elderly.
+However, there are no validated and reliable tools for measuring these in the Latin-American context.
+Objective
+To determine the internal consistency, dimensionality, differential item functioning (DIF) by gender and stability of the Attitudes towards Sexuality in the Elderly Questionnaire (ASEQ) in adults over 60 years-old in Cartagena, Colombia.
+Method
+A validation study was designed that included a sample of 130 participants <scp><neg>without</neg> <dis>cognitive impairment</dis></scp> attending a Life Center.
+The ages ranged between 60 and 90 years (mean, 73.7 ± 8.0), and there were 61.5% females.
+Internal consistency was calculated using Cronbach alpha and McDonald omega, exploratory factor analysis (EFA) (dimensionality), DIF by gender (item response theory) with Kendall correlation, and stability (reproducibility) with Pearson correlation and intraclass correlation coefficient (ICC).
+Results
+The ASEQ showed high internal consistency on the first application (α=.83 and ω=.87) and in the second one (α=.85 and ω=.89).
+AFE showed two salient factors (prejudices and limitations) that explained 42.6% of the total variance.
+The IDF presented appropriate coefficients, with the exception of item 14 that showed a high value (τ=.37).
+ASEQ showed high stability (r=.82 and ICC=.89; 95% confidence interval, 0.83- 0.92; _P_ <.001).
+Conclusions
+ASEQ is a two-dimensional and reliable scale in older adults attending a Life Center in Cartagena, Colombia.
+New studies are required to evaluate the performance in a representative sample.

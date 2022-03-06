@@ -1,0 +1,27 @@
+T1	Protein 20 24	CHD1
+T2	Protein 59 69	histone H3
+T3	Protein 206 213	histone
+T4	Protein 360 364	CHD1
+T5	Protein 466 476	histone H3
+T6	Protein 542 546	CHD1
+T7	Protein 672 676	CHD1
+T8	Protein 727 731	CHD1
+T9	Protein 752 754	H3
+T10	Protein 865 869	CHD1
+T11	Protein 877 881	Chd1
+T12	Protein 907 909	H3
+T13	Protein 956 960	CHD1
+T14	Protein 1028 1036	histones
+T15	Protein 1046 1053	histone
+T16	Methylation 70 80	methylated
+T17	Entity 84 92	lysine 4
+T18	Methylation 477 487	methylated
+T19	Entity 491 499	lysine 4
+T20	Methylation 741 751	methylated
+T21	Entity 754 756	K4
+T22	Methylation 896 906	methylated
+T23	Entity 909 911	K4
+E1	Methylation:T16 Theme:T2 Site:T17
+E2	Methylation:T18 Theme:T5 Site:T19
+E3	Methylation:T20 Theme:T9 Site:T21
+E4	Methylation:T22 Theme:T12 Site:T23

@@ -1,0 +1,4075 @@
+T14	Glycosylation 20 33	glycosylation
+T15	Deglycosylation 326 340	deglycosylated
+T16	Catalysis 326 340	deglycosylated
+T17	Deglycosylation 985 999	Deglycosylated
+T18	Deglycosylation 1264 1279	deglycosylation
+T19	Deglycosylation 1421 1436	deglycosylation
+T20	Deglycosylation 1513 1528	deglycosylation
+T21	Glycosylation 1623 1636	glycosylation
+E1	Glycosylation:T14 Theme:T1
+E2	Deglycosylation:T15 Theme:T4
+E3	Catalysis:T16 Theme:E2 Cause:T5
+E4	Deglycosylation:T17 Theme:T10
+E5	Deglycosylation:T18 Theme:T10
+E6	Deglycosylation:T19 Theme:T10
+E7	Deglycosylation:T20 Theme:T10
+E8	Glycosylation:T21 Theme:T13
+T1	Protein 83 89	avidin
+T2	Protein 105 111	avidin
+T3	Protein 298 304	avidin
+T4	Protein 315 321	Avidin
+T5	Protein 349 366	endoglycosydase-H
+T6	Protein 482 488	Avidin
+T7	Protein 502 509	avidins
+T8	Protein 733 739	Avidin
+T9	Protein 753 760	avidins
+T10	Protein 1000 1007	avidins
+T11	Protein 1101 1108	avidins
+T12	Protein 1167 1174	avidins
+T13	Protein 1660 1666	avidin
+T49	Protein 2083 2088	ditA1
+T50	Protein 2090 2095	ditA2
+T51	Protein 2101 2106	ditA3
+T52	Protein 2400 2404	ditC
+T53	Protein 2449 2454	ditA1
+T54	Protein 2589 2594	ditA3
+T55	Protein 2998 3003	ditA1
+T56	Protein 3003 3005	A2
+T57	Protein 3005 3007	A3
+T58	Protein 3949 3954	MeCP2
+T59	Protein 3956 3961	MeCP2
+T60	Protein 3992 3996	Sin3
+T61	Protein 3997 4004	histone
+T62	Protein 4237 4244	histone
+T63	Protein 5385 5393	Catalase
+T64	Protein 8062 8074	collagen III
+T65	Protein 8551 8563	collagen III
+T66	Protein 9079 9085	NAGT I
+T67	Protein 10183 10193	H1 histone
+T68	Protein 10253 10260	histone
+T69	Protein 10337 10347	histone H1
+T70	Protein 10471 10481	histone H1
+T71	Protein 11275 11285	histone H1
+T72	Phosphorylation 10168 10182	phosphorylated
+T73	Phosphorylation 10311 10326	phosphorylation
+T74	Phosphorylation 10456 10470	phosphorylated
+T75	Phosphorylation 11260 11274	phosphorylated
+E19	Phosphorylation:T72 Theme:T67
+E20	Phosphorylation:T73 Theme:T69
+E21	Phosphorylation:T74 Theme:T70
+E22	Phosphorylation:T75 Theme:T71
+T76	Protein 12007 12018	transferrin
+T77	Protein 12077 12095	beta-trace protein
+T78	Protein 12363 12427	dolichol pyrophosphate-Man9GlcNAc2 alpha-1,3 glucosyltransferase
+T79	Glycosylation 12190 12207	hypoglycosylation
+E23	Glycosylation:T79 Theme:T77
+M1	Negation E23
+*	Equiv T87 T88 T89 T90 T91 T92
+T80	Phosphorylation 12492 12507	Phosphorylation
+T81	Phosphorylation 13065 13079	phosphorylated
+T82	Phosphorylation 13313 13327	phosphorylated
+T83	Phosphorylation 13358 13372	phosphorylated
+T84	Phosphorylation 13513 13527	phosphorylated
+T85	Phosphorylation 13563 13578	phosphorylation
+E24	Phosphorylation:T80 Theme:T86
+E25	Phosphorylation:T81 Theme:T96
+E26	Phosphorylation:T82 Theme:T97
+E27	Phosphorylation:T83 Theme:T97
+E28	Phosphorylation:T84 Theme:T98
+E29	Phosphorylation:T85 Theme:T98
+T86	Protein 12511 12514	RTP
+T87	Protein 12562 12565	RTP
+T88	Protein 12579 12583	Drg1
+T89	Protein 12584 12589	Cap43
+T90	Protein 12590 12595	rit42
+T91	Protein 12596 12600	TDD5
+T92	Protein 12601 12605	Ndr1
+T93	Protein 12817 12822	N-myc
+T94	Protein 12884 12887	RTP
+T95	Protein 12923 12926	RTP
+T96	Protein 13047 13050	RTP
+T97	Protein 13340 13343	RTP
+T98	Protein 13504 13507	RTP
+T99	Protein 13711 13716	Gap1p
+T100	Protein 13769 13774	Shr3p
+T101	Protein 13810 13815	Gap1p
+T102	Protein 14049 14054	Suc2p
+T103	Protein 14266 14271	Gap1p
+T104	Protein 14340 14344	gap1
+T105	Protein 14607 14612	Gap1p
+T106	Protein 14825 14830	Gap1p
+T107	Protein 15020 15025	Gap1p
+T108	Protein 15082 15087	Shr3p
+T109	Protein 15100 15105	Gap1p
+T110	Protein 16704 16712	ST6Gal-I
+T111	Protein 16877 16885	ST6Gal-I
+T112	Protein 17097 17106	GalNAcT-8
+T113	Protein 17108 17161	UDP-GalNAc:polypeptide O-Ser/Thr GalNAc transferase 8
+*	Equiv T112 T113
+T114	Methylation 18902 18913	methylation
+E30	Methylation:T114 Theme:T116
+T115	Protein 18817 18828	fibrillarin
+T116	Protein 18890 18901	Fibrillarin
+T117	Protein 19394 19402	HP1alpha
+T118	Protein 19404 19407	M31
+T119	Protein 19412 19415	M32
+T120	Protein 20139 20142	M31
+T121	Protein 20338 20346	LAP2beta
+*	Equiv T122 T123
+*	Equiv T124 T125
+T122	Protein 20556 20588	macrophage inhibitory cytokine-1
+T123	Protein 20590 20595	MIC-1
+T124	Protein 20678 20710	Macrophage inhibitory cytokine-1
+T125	Protein 20712 20717	MIC-1
+T126	Protein 21081 21086	MIC-1
+T127	Protein 21087 21096	TGF-beta1
+T128	Protein 21467 21472	MIC-1
+T129	Protein 21476 21485	TGF-beta1
+T130	Protein 21610 21615	MIC-1
+T131	Entity 22043 22051	promoter
+T132	DNA_methylation 22052 22068	hypermethylation
+T133	DNA_methylation 22342 22358	hypermethylation
+T134	Entity 22366 22378	5'CpG island
+T135	DNA_methylation 22650 22661	methylation
+T136	DNA_demethylation 22763 22776	demethylation
+T137	Entity 22859 22867	promoter
+T138	DNA_methylation 22868 22884	hypermethylation
+E31	DNA_methylation:T132 Theme:T139 Site:T131
+E32	DNA_methylation:T133 Theme:T141 Site:T134
+E33	DNA_methylation:T135 Theme:T142
+E34	DNA_demethylation:T136 Theme:T143
+E35	DNA_methylation:T138 Theme:T144 Site:T137
+T139	Protein 22072 22079	RASSF1A
+T140	Protein 22219 22226	RASSF1A
+T141	Protein 22382 22389	RASSF1A
+T142	Protein 22666 22673	RASSF1A
+T143	Protein 22784 22791	RASSF1A
+T144	Protein 22944 22951	RASSF1A
+T145	Protein 22987 22994	RASSF1A
+T146	Protein 23139 23167	glutathione S-transferase P1
+T147	Protein 23169 23174	GSTP1
+T148	Protein 23244 23272	glutathione S-transferase P1
+T149	Protein 23274 23279	GSTP1
+T150	Protein 23438 23443	GSTP1
+T151	Protein 23499 23504	GSTP1
+T152	Protein 23695 23700	GSTP1
+T153	Protein 23746 23751	GSTP1
+T154	Protein 23833 23838	GSTP1
+T155	Protein 23855 23865	luciferase
+T156	Protein 23883 23888	GSTP1
+T157	Protein 24005 24012	histone
+T158	Protein 24195 24200	GSTP1
+T159	Protein 24272 24277	GSTP1
+T160	Protein 24322 24327	GSTP1
+T161	Protein 24444 24479	methyl-CpG-binding domain 2 protein
+T162	Protein 24481 24485	MBD2
+T163	Protein 24624 24629	GSTP1
+T164	Protein 24879 24886	histone
+*	Equiv T146 T147
+*	Equiv T148 T149
+*	Equiv T161 T162
+T165	DNA_methylation 23225 23236	Methylation
+T166	DNA_methylation 23416 23427	methylation
+T22	Entity 23510 23518	promoter
+T23	DNA_methylation 23536 23546	methylated
+T24	DNA_methylation 23718 23728	methylated
+T25	DNA_methylation 23733 23745	unmethylated
+T26	DNA_methylation 23814 23825	methylation
+T27	Entity 23839 23847	promoter
+T28	DNA_demethylation 24159 24172	demethylation
+T29	DNA_demethylation 24244 24255	demethylate
+T30	DNA_methylation 24290 24300	methylated
+T31	Entity 24328 24336	promoter
+T32	Entity 24591 24599	cytosine
+T33	DNA_methylation 24600 24611	methylation
+T34	Deacetylation 24887 24900	deacetylation
+E36	DNA_methylation:T165 Theme:T148
+E37	DNA_methylation:T166 Theme:T150
+E38	DNA_methylation:T23 Theme:T151 Site:T22
+E39	DNA_methylation:T24 Theme:T153
+E40	DNA_methylation:T25 Theme:T153
+M7	Negation E40
+E41	DNA_methylation:T26 Theme:T154 Site:T27
+E42	DNA_demethylation:T28 Theme:T158
+E43	DNA_demethylation:T29 Theme:T159
+M2	Negation E43
+E9	DNA_methylation:T30 Theme:T160 Site:T31
+E10	DNA_methylation:T33 Theme:T163 Site:T32
+E11	Deacetylation:T34 Theme:T164
+T167	Protein 26023 26028	Bcl-2
+T168	Protein 27010 27017	insulin
+*	Equiv T170 T171
+T169	Protein 28547 28567	thyrotropin receptor
+T170	Protein 28617 28637	Thyrotropin receptor
+T171	Protein 28639 28643	TSHR
+T172	Protein 28822 28826	TSHR
+T173	Protein 29005 29009	TSHR
+T174	Protein 29046 29050	TSHR
+T175	Protein 29091 29106	glycoprotein 67
+T176	Protein 29592 29596	TSHR
+T177	Protein 29745 29749	TSHR
+T178	Protein 29772 29776	TSHR
+T179	Protein 29834 29838	TSHR
+T180	Protein 29909 29913	TSHR
+T181	Protein 29994 29998	TSHR
+T182	Protein 30078 30082	TSHR
+T183	Protein 30115 30120	EGL-9
+T184	Protein 30489 30506	von Hippel-Lindau
+T185	Protein 30563 30566	VHL
+T186	Protein 30648 30653	EGL-9
+T187	Protein 31184 31204	vanilloid receptor 1
+T188	Protein 31283 31286	VR1
+T189	Protein 31522 31525	VR1
+T190	Protein 31657 31660	VR1
+T191	Protein 31966 31969	VR1
+T192	Protein 32097 32100	VR1
+T193	Protein 32110 32113	VR1
+T194	Protein 32263 32266	VR1
+T195	Protein 32443 32446	VR1
+T196	Protein 32673 32676	VR1
+T197	Protein 32814 32817	VR1
+T198	Protein 32937 32940	VR1
+T199	Glycosylation 31470 31483	glycosylation
+T200	Glycosylation 31677 31689	glycosylated
+T201	Glycosylation 31978 31990	glycosylated
+T202	Entity 32033 32037	N604
+T203	Glycosylation 32076 32089	glycosylation
+E44	Glycosylation:T199 Theme:T189
+E45	Glycosylation:T200 Theme:T190
+E46	Glycosylation:T201 Theme:T191
+M8	Negation E46
+E47	Glycosylation:T203 Theme:T192 Site:T202
+T204	Protein 32997 33001	JBP1
+T205	Protein 33006 33011	pICln
+T206	Protein 33523 33527	SmD1
+T207	Protein 33532 33536	SmD3
+T208	Protein 33609 33613	SmD1
+T209	Protein 33618 33622	SmD3
+T210	Protein 33731 33735	JBP1
+T211	Protein 33742 33746	JBP1
+T212	Protein 33768 33773	pICln
+T213	Protein 33775 33779	JBP1
+T214	Protein 33786 33790	SmD1
+T215	Protein 33795 33799	SmD3
+T216	Protein 33828 33833	pICln
+T217	Protein 33856 33860	JBP1
+T218	Protein 33984 33989	pICln
+T219	Protein 33991 33995	SmD1
+T220	Protein 34001 34005	SmD3
+T221	Protein 34014 34018	JBP1
+T222	Protein 34020 34024	SmD3
+T223	Protein 34814 34821	histone
+T224	Protein 34995 35002	histone
+T225	Protein 35595 35600	MeCP2
+T226	Protein 35602 35606	MBD1
+T227	Protein 35608 35612	MBD2
+T228	Protein 35618 35622	MBD3
+T229	Protein 35780 35783	p16
+T230	Protein 35859 35862	p16
+T231	Protein 36047 36050	p16
+T232	Protein 36124 36127	p16
+T233	Protein 36249 36252	p16
+T234	Protein 36355 36358	p16
+T235	Protein 36563 36566	p16
+T236	Protein 36607 36610	p16
+T237	Protein 36842 36845	p16
+T238	Protein 37016 37019	p16
+T239	Protein 37035 37038	p16
+T240	Protein 37163 37166	p16
+T241	Protein 37207 37210	p16
+T242	Protein 37241 37244	p16
+T243	Protein 37296 37299	p16
+T244	Protein 37346 37349	p16
+T245	Protein 37400 37403	p16
+T246	DNA_methylation 36364 36375	methylation
+T247	DNA_methylation 36862 36878	Hypermethylation
+T248	DNA_methylation 36996 37008	unmethylated
+E48	DNA_methylation:T246 Theme:T234
+M9	Speculation E48
+E49	DNA_methylation:T247 Theme:T237
+E50	DNA_methylation:T248 Theme:T238
+M10	Negation E50
+T249	Protein 37732 37748	interferon-gamma
+T250	Protein 37750 37777	tumor necrosis factor-alpha
+T251	Protein 37783 37793	Fas ligand
+T252	Protein 39419 39458	hypoxia-inducible factors (HIFs) 1alpha
+T253	Protein 39463 39469	2alpha
+T254	Protein 39754 39771	von Hippel-Lindau
+T255	Protein 39773 39793	VHL tumor suppressor
+T256	Protein 39795 39804	ubiquitin
+T257	Protein 40129 40133	p300
+T258	Protein 40226 40230	p300
+T259	Protein 40298 40308	HIF-1alpha
+T260	Protein 40313 40320	-2alpha
+*	Equiv T254 T255
+T261	Entity 39682 39689	proline
+T262	Hydroxylation 39690 39703	hydroxylation
+T263	Entity 40366 40369	Pro
+T264	Entity 40374 40377	Asn
+T265	Hydroxylation 40378 40391	hydroxylation
+E51	Hydroxylation:T262 Theme:T252 Site:T261
+M11	Negation E51
+E52	Hydroxylation:T262 Theme:T253 Site:T261
+M12	Negation E52
+E53	Hydroxylation:T265 Theme:T259 Site:T263
+M3	Negation E53
+E54	Hydroxylation:T265 Theme:T259 Site:T264
+M4	Negation E54
+E55	Hydroxylation:T265 Theme:T260 Site:T263
+M5	Negation E55
+E56	Hydroxylation:T265 Theme:T260 Site:T264
+M6	Negation E56
+T266	Protein 40517 40538	N-acetyltransferase 2
+T267	Protein 41110 41114	NAT2
+T268	Protein 41376 41380	NAT2
+T269	Protein 42206 42210	NAT2
+*	Equiv T271 T272
+T270	Protein 42659 42675	type II collagen
+T271	Protein 42840 42856	type II collagen
+T272	Protein 42858 42861	CII
+T273	Protein 42914 42917	CII
+T274	Protein 42938 42941	CII
+T275	Protein 43105 43108	CII
+T276	Protein 43504 43507	CII
+T277	Protein 43619 43622	CII
+T278	Protein 44067 44097	type IIb Na-P(i) cotransporter
+T279	Protein 44212 44223	Na-P(i)-IIb
+T280	Protein 44484 44495	Na-P(i)-IIb
+T281	Protein 44656 44667	Na-P(i)-IIb
+T282	Protein 44976 44987	Na-P(i)-IIb
+T283	Protein 45191 45202	Na-P(i)-IIb
+T284	Protein 45257 45268	Na-P(i)-IIb
+T285	Glycosylation 44033 44046	glycosylation
+T286	Glycosylation 45306 45319	glycosylation
+E57	Glycosylation:T285 Theme:T278
+E58	Glycosylation:T286 Theme:T284
+T287	Protein 45342 45376	von Hippel-Lindau tumor suppressor
+T288	Protein 45436 45470	von Hippel-Lindau tumor suppressor
+T289	Protein 45480 45484	pVHL
+T290	Protein 45679 45683	pVHL
+T291	Protein 45849 45883	vascular endothelial growth factor
+T292	Protein 45888 45920	transforming growth factor alpha
+T293	Protein 46042 46046	pVHL
+*	Equiv T288 T289
+T294	Protein 46103 46107	XIST
+T295	Protein 46313 46318	TGCT1
+T296	Protein 46627 46631	XIST
+T297	Protein 46925 46929	XIST
+T298	Protein 46955 46972	androgen receptor
+T299	Protein 46974 46976	AR
+T300	Protein 47009 47013	FMR1
+T301	Protein 47020 47030	Glypican 3
+T302	Protein 47032 47036	GPC3
+T303	Protein 47055 47076	reverse transcriptase
+T304	Protein 47185 47187	AR
+T305	Protein 47189 47193	FMR1
+T306	Protein 47198 47202	GPC3
+T307	Protein 47275 47280	ARAF1
+T308	Protein 47285 47289	ELK1
+T309	Protein 47319 47340	reverse transcriptase
+T310	Protein 47377 47381	XIST
+T311	Protein 47821 47825	XIST
+T312	Protein 47944 47946	AR
+T313	Protein 47948 47952	FMR1
+T314	Protein 47956 47960	GPC3
+T315	Protein 48013 48015	AR
+T316	Protein 48017 48021	FMR1
+T317	Protein 48026 48030	GPC3
+T318	Protein 48200 48204	XIST
+T319	Protein 48372 48377	ARAF1
+T320	Protein 48382 48386	ELK1
+*	Equiv T298 T299
+*	Equiv T301 T302
+T321	DNA_methylation 47157 47168	methylation
+T322	DNA_methylation 47925 47936	methylation
+E59	DNA_methylation:T321 Theme:T304
+M13	Speculation E59
+E60	DNA_methylation:T321 Theme:T305
+M14	Speculation E60
+E61	DNA_methylation:T321 Theme:T306
+M15	Speculation E61
+E62	DNA_methylation:T322 Theme:T312
+E63	DNA_methylation:T322 Theme:T313
+E64	DNA_methylation:T322 Theme:T314
+T323	Protein 48965 48992	gonadotropin subunits alpha
+T324	Protein 48994 49033	follicle-stimulating hormone (FSH) beta
+T325	Protein 49038 49067	luteinizing hormone (LH) beta
+T326	Protein 49257 49284	gonadotropin subunits alpha
+T327	Protein 49286 49294	FSH beta
+T328	Protein 49299 49306	LH beta
+T329	Protein 49425 49433	FSH beta
+T330	Protein 49438 49445	LH beta
+T331	Protein 49727 49735	FSH beta
+T332	Protein 50173 50178	Igf2r
+T333	Protein 50452 50457	Igf2r
+T334	Protein 51051 51056	Igf2r
+T335	Protein 51115 51140	green fluorescent protein
+*	Equiv T338 T339
+T336	DNA_methylation 50147 50158	methylation
+T337	DNA_methylation 50543 50554	methylation
+T338	Entity 50558 50592	differentially methylated region 2
+T339	Entity 50594 50598	DMR2
+T340	DNA_methylation 50695 50706	methylation
+T341	Entity 50723 50727	DMR2
+T342	DNA_demethylation 50731 50743	demethylated
+T343	DNA_demethylation 50849 50862	demethylation
+T344	DNA_demethylation 51028 51047	methylation erasure
+T345	Entity 51057 51061	DMR2
+T346	DNA_methylation 51241 51252	methylation
+T347	Entity 51263 51267	DMR2
+T348	Entity 51296 51305	CpG sites
+T349	DNA_demethylation 51324 51337	demethylation
+T350	DNA_demethylation 51438 51451	demethylation
+T351	DNA_methylation 51592 51603	methylation
+T352	Entity 51607 51611	DMR2
+T353	DNA_demethylation 51774 51787	demethylation
+E65	DNA_methylation:T336 Theme:T332
+E66	DNA_methylation:T337 Theme:T333 Site:T338
+E67	DNA_methylation:T340 Theme:T333
+E68	DNA_demethylation:T342 Theme:T333 Site:T341
+E69	DNA_demethylation:T343 Theme:T333 Site:T341
+E70	DNA_demethylation:T344 Theme:T334 Site:T345
+E71	DNA_methylation:T346 Theme:T334 Site:T347
+M16	Speculation E71
+E72	DNA_demethylation:T349 Theme:T334 Site:T348
+E73	DNA_demethylation:T350 Theme:T334 Site:T348
+E74	DNA_methylation:T351 Theme:T334 Site:T352
+M17	Speculation E74
+E75	DNA_demethylation:T353 Theme:T334 Site:T352
+*	Equiv T360 T361
+*	Equiv T356 T357
+T354	Glycosylation 51856 51869	glycosylation
+T355	Glycosylation 52149 52161	glycosylated
+T356	Entity 52600 52628	glycosylphosphatidylinositol
+T357	Entity 52630 52633	GPI
+T358	Glycosylation 52922 52935	glycosylation
+E76	Glycosylation:T354 Theme:T359
+E77	Glycosylation:T355 Theme:T360
+E78	Glycosylation:T358 Theme:T372
+T359	Protein 51897 51900	PrP
+T360	Protein 52172 52185	prion protein
+T361	Protein 52187 52191	PrPC
+T362	Protein 52280 52284	PrPC
+T363	Protein 52372 52375	PrP
+T364	Protein 52376 52381	Grp94
+T365	Protein 52457 52462	Grp94
+T366	Protein 52502 52506	PrPC
+T367	Protein 52694 52698	PrPC
+T368	Protein 52807 52811	PrPC
+T369	Protein 52870 52873	PrP
+T370	Protein 52883 52886	PrP
+T371	Protein 52983 52987	PrPC
+T372	Protein 53020 53023	PrP
+T373	Acetylation 54299 54310	acetylation
+E79	Acetylation:T373 Theme:T375
+T374	Protein 54020 54024	p300
+T375	Protein 54314 54324	histone H4
+T376	Protein 54359 54369	histone H3
+T377	Protein 54584 54587	ZPC
+T378	Protein 54793 54796	ZPA
+T379	Protein 54798 54801	ZPB
+T380	Protein 54803 54806	ZPC
+T381	Protein 54808 54811	ZPD
+T382	Protein 54817 54820	ZPX
+T383	Protein 54844 54847	ZPC
+T384	Protein 55341 55344	ZPC
+T385	Protein 55387 55390	ZPA
+T386	Protein 55475 55478	ZPX
+T387	Protein 55523 55526	ZPB
+T388	Protein 55663 55666	ZPC
+T389	Protein 55841 55844	ZPC
+T390	Protein 55899 55902	ZPC
+T391	Protein 55967 55970	ZPC
+T392	Protein 56277 56280	ZPC
+T393	Glycosylation 55176 55184	N-linked
+T394	Entity 55261 55279	high-mannose (5-9)
+T395	Entity 55284 55317	neutral, complex oligosaccharides
+T396	Glycosylation 55391 55399	N-linked
+T397	Entity 55425 55439	acidic-complex
+T398	Entity 55444 55473	high-mannose oligosaccharides
+T399	Glycosylation 55534 55542	N-linked
+T400	Entity 55543 55559	oligosaccharides
+T401	Entity 55651 55655	N113
+T402	Glycosylation 55688 55700	glycosylated
+T403	Entity 55713 55742	high-mannose oligosaccharides
+E80	Glycosylation:T393 Theme:T384 Sidechain:T394
+E81	Glycosylation:T393 Theme:T384 Sidechain:T395
+E82	Glycosylation:T396 Theme:T385 Sidechain:T397
+E83	Glycosylation:T396 Theme:T385 Sidechain:T398
+E84	Glycosylation:T399 Theme:T387 Sidechain:T400
+M18	Negation E84
+E85	Glycosylation:T402 Theme:T388 Site:T401 Sidechain:T403
+T404	Catalysis 56428 56437	catalyzed
+T405	Methylation 56438 56449	methylation
+T406	Methylation 56564 56575	methylation
+T407	Catalysis 57100 57109	catalyzes
+T408	Methylation 57110 57121	methylation
+T409	Entity 57125 57134	lysine 36
+T410	Entity 57338 57347	lysine 36
+T411	Methylation 57373 57383	methylated
+T412	Catalysis 57413 57422	dependent
+E86	Catalysis:T404 Theme:E87 Cause:T413
+E87	Methylation:T405 Theme:T414 Contextgene:T415
+E88	Methylation:T406 Theme:T416
+E89	Catalysis:T407 Theme:E90 Cause:T421
+E90	Methylation:T408 Theme:T422 Site:T409
+E91	Methylation:T411 Theme:T425 Site:T410 Contextgene:T426
+E92	Catalysis:T412 Theme:E91 Cause:T427
+T413	Protein 56423 56427	Set2
+T414	Protein 56453 56463	histone H3
+T415	Protein 56494 56498	GAL4
+T416	Protein 56556 56563	histone
+T417	Protein 56879 56883	Set2
+T418	Protein 56899 56903	SET2
+T419	Protein 56942 56946	GAL4
+T420	Protein 57039 57043	Set2
+T421	Protein 57095 57099	Set2
+T422	Protein 57161 57171	histone H3
+T423	Protein 57266 57270	GAL4
+T424	Protein 57302 57306	set2
+T425	Protein 57351 57361	histone H3
+T426	Protein 57365 57369	GAL4
+T427	Protein 57444 57448	SET2
+T428	Protein 57494 57510	prostaglandin D2
+T429	Protein 58108 58144	endo-alpha-N-acetylgalactosaminidase
+T430	Protein 59134 59135	M
+T431	Protein 59476 59477	M
+T432	Protein 59707 59708	M
+T433	Protein 59771 59772	M
+T434	Protein 60000 60001	M
+T435	Protein 60198 60199	M
+T436	Protein 60419 60420	M
+T437	Protein 60458 60466	peplomer
+T438	Protein 60468 60469	S
+T439	Protein 60475 60498	haemagglutinin-esterase
+T440	Protein 60500 60502	HE
+T441	Protein 60561 60562	S
+T442	Protein 60567 60569	HE
+T443	Protein 60719 60720	M
+*	Equiv T437 T438
+*	Equiv T439 T440
+T444	Glycosylation 60177 60190	glycosylation
+T445	Glycosylation 60281 60296	O-glycosylation
+T446	Glycosylation 60538 60553	N-glycosylation
+E93	Glycosylation:T444 Theme:T435
+E94	Glycosylation:T445 Theme:T435
+M19	Speculation E94
+E95	Glycosylation:T446 Theme:T441
+E96	Glycosylation:T446 Theme:T442
+T447	Protein 60791 60811	acetylcholinesterase
+T448	Protein 60928 60948	acetylcholinesterase
+T449	Protein 60951 60955	AChE
+T450	Protein 61236 61240	AChE
+T451	Protein 61454 61458	AChE
+T452	Protein 61463 61467	AChE
+T453	Protein 61553 61557	AChE
+T454	Protein 61571 61575	AChE
+T455	Protein 61918 61922	AChE
+T456	Protein 62045 62049	AChE
+T457	Protein 62305 62316	N-glycanase
+*	Equiv T448 T449
+T458	Glycosylation 62127 62142	N-glycosylation
+T459	Deglycosylation 62286 62301	deglycosylation
+T460	Catalysis 62286 62301	deglycosylation
+E97	Glycosylation:T458 Theme:T452
+E98	Deglycosylation:T459 Theme:T452
+E99	Catalysis:T460 Theme:E98 Cause:T457
+T461	Protein 62728 62732	CD44
+T462	Protein 62939 62943	CD44
+T463	Protein 62966 62971	c-Met
+T464	Protein 63081 63085	CD44
+T465	Protein 63251 63255	CD44
+T466	Protein 63393 63397	CD44
+T467	Protein 63500 63504	CD44
+T468	Protein 63936 63940	CD44
+T469	Protein 64044 64048	CD44
+T470	Protein 64261 64265	CD44
+T471	Protein 64400 64404	CD44
+T472	Protein 64703 64707	CD44
+T473	Glycosylation 63195 63208	glycosylation
+E100	Glycosylation:T473 Theme:T464
+T474	Protein 64804 64806	H3
+T475	Protein 64894 64901	histone
+T476	Protein 64971 64973	H3
+T477	Protein 65260 65262	H3
+T478	Protein 65429 65431	H3
+T479	Protein 65500 65502	H3
+T480	Protein 65686 65688	H3
+*	Equiv T486 T487
+T481	Entity 64807 64812	Lys 4
+T482	Methylation 64813 64827	di-methylation
+T483	Methylation 64879 64890	Methylation
+T484	Entity 64902 64907	tails
+T485	Methylation 64960 64970	Methylated
+T486	Entity 64974 64979	Lys 4
+T487	Entity 64981 64983	K4
+T488	Entity 65262 65264	K4
+T489	Methylation 65265 65279	di-methylation
+T490	Methylation 65415 65428	di-methylated
+T491	Entity 65431 65433	K4
+T492	Entity 65502 65504	K4
+T493	Methylation 65505 65519	di-methylation
+T494	Entity 65689 65694	Lys 4
+T495	Methylation 65695 65709	di-methylation
+E101	Methylation:T482 Theme:T474 Site:T481
+E102	Methylation:T483 Theme:T475 Site:T484
+E103	Methylation:T485 Theme:T476 Site:T486
+E104	Methylation:T489 Theme:T477 Site:T488
+E105	Methylation:T490 Theme:T478 Site:T491
+E106	Methylation:T493 Theme:T479 Site:T492
+E107	Methylation:T495 Theme:T480 Site:T494
+T496	Protein 65902 65909	histone
+T497	Protein 66305 66312	histone
+T498	Protein 66819 66822	p53
+T499	Protein 66824 66827	p21
+T500	Protein 66833 66839	Gadd45
+T501	Protein 66954 66957	p53
+T502	Protein 67196 67203	histone
+T503	Acetylation 67204 67215	acetylation
+E108	Acetylation:T503 Theme:T502
+*	Equiv T525 T526
+*	Equiv T506 T507
+*	Equiv T534 T535
+T504	Catalysis 68072 68078	govern
+T505	Methylation 68079 68090	methylation
+T506	Entity 68105 68109	Lys9
+T507	Entity 68114 68118	Lys9
+T508	Methylation 68358 68361	di-
+T509	Methylation 68366 68379	trimethylated
+T510	Entity 68383 68387	Lys9
+T511	Methylation 68433 68445	dimethylated
+T512	Methylation 68450 68463	trimethylated
+T513	Entity 68467 68471	Lys9
+T514	Methylation 68481 68495	monomethylated
+T515	Entity 68499 68503	Lys9
+T516	Entity 68541 68545	Lys9
+T35	Methylation 68546 68557	methylation
+E109	Catalysis:T504 Theme:E111 Cause:T523
+E110	Catalysis:T504 Theme:E111 Cause:T524
+E111	Methylation:T505 Theme:T525 Site:T506
+E112	Methylation:T508 Theme:T527 Site:T510
+E113	Methylation:T509 Theme:T527 Site:T510
+E114	Methylation:T511 Theme:T528 Site:T513
+M20	Negation E114
+E115	Methylation:T512 Theme:T528 Site:T513
+E116	Methylation:T514 Theme:T529 Site:T515
+E117	Methylation:T35 Theme:T530 Site:T516
+T517	Protein 67439 67446	Suv39h1
+T518	Protein 67451 67458	Suv39h2
+T519	Protein 67459 67466	histone
+T520	Protein 67972 67979	histone
+T521	Protein 68009 68016	Suv39h1
+T522	Protein 68021 68028	Suv39h2
+T523	Protein 68052 68059	Suv39h1
+T524	Protein 68064 68071	Suv39h2
+T525	Protein 68094 68104	histone H3
+T526	Protein 68111 68113	H3
+T527	Protein 68380 68382	H3
+T528	Protein 68464 68466	H3
+T529	Protein 68496 68498	H3
+T530	Protein 68538 68540	H3
+T531	Protein 68632 68636	Cbx1
+T532	Protein 68638 68642	Cbx3
+T533	Protein 68647 68651	Cbx5
+T534	Protein 68689 68714	heterochromatin protein 1
+T535	Protein 68716 68719	HP1
+T536	Protein 68974 68981	Suv39h1
+T537	Protein 68986 68993	Suv39h2
+T538	Protein 69050 69054	OAT1
+T539	Protein 69586 69590	OAT1
+T540	Protein 69643 69647	OAT1
+T541	Protein 69754 69758	OAT1
+T542	Protein 69794 69798	OAT1
+T543	Protein 69943 69947	OAT1
+T544	Protein 70009 70013	OAT1
+T545	Protein 70109 70113	OAT1
+T546	Protein 70119 70123	OAT1
+T547	Protein 70617 70621	OAT1
+T548	Protein 70627 70631	OAT1
+T549	Protein 70803 70807	OAT1
+T550	Protein 70866 70870	OAT1
+T551	Protein 70946 70950	OAT1
+T552	Protein 71067 71071	OAT1
+T553	Glycosylation 69003 69016	glycosylation
+T554	Glycosylation 69625 69638	glycosylation
+T555	Entity 69932 69938	Asp-39
+T556	Glycosylation 69956 69968	glycosylated
+T557	Entity 69997 70003	Asp-39
+T558	Glycosylation 70018 70030	glycosylated
+T559	Deglycosylation 70228 70243	deglycosylation
+T560	Entity 70247 70253	Asp-39
+T561	Glycosylation 70812 70825	glycosylation
+T562	Glycosylation 70888 70901	glycosylation
+T563	Glycosylation 71050 71063	glycosylation
+E118	Glycosylation:T553 Theme:T538
+E119	Glycosylation:T554 Theme:T540
+E120	Glycosylation:T556 Theme:T543 Site:T555
+M21	Negation E120
+E121	Glycosylation:T558 Theme:T544 Site:T557
+E122	Deglycosylation:T559 Theme:T546 Site:T560
+E123	Glycosylation:T561 Theme:T550
+E124	Glycosylation:T562 Theme:T551
+E125	Glycosylation:T563 Theme:T552
+T564	Protein 71663 71669	CYP1A2
+T565	Protein 71671 71677	CYP2D1
+T566	Protein 71683 71689	CYP3A2
+T567	Protein 71755 71762	CYP2C11
+T568	Protein 71894 71900	CYP3A2
+T569	Protein 71926 71932	CYP1A2
+T570	Protein 71937 71943	CYP2D1
+T571	Protein 71956 71963	CYP2C11
+T572	Protein 71965 71971	CYP2D1
+T573	Protein 71976 71983	CYP2C11
+T574	Protein 72078 72084	CYP1A2
+T575	Protein 72089 72095	CYP3A2
+T576	DNA_methylation 72621 72632	methylation
+T577	DNA_methylation 73018 73029	methylation
+T578	DNA_methylation 73153 73163	methylated
+T579	DNA_methylation 73872 73887	DNA methylation
+T580	DNA_methylation 73936 73947	methylation
+T581	Entity 73959 73971	17 CpG sites
+T582	DNA_methylation 74199 74210	methylation
+E126	DNA_methylation:T576 Theme:T583
+M22	Speculation E126
+E127	DNA_methylation:T577 Theme:T585
+M23	Speculation E127
+E128	DNA_methylation:T578 Theme:T586
+E129	DNA_methylation:T579 Theme:T591
+E130	DNA_methylation:T580 Theme:T592 Site:T581
+E131	DNA_methylation:T582 Theme:T593
+T583	Protein 72643 72655	14-3-3 sigma
+T584	Protein 72754 72766	14-3-3 sigma
+T585	Protein 73033 73045	14-3-3 sigma
+T586	Protein 73131 73143	14-3-3 sigma
+T587	Protein 73360 73372	14-3-3 sigma
+T588	Protein 73430 73442	14-3-3 sigma
+T589	Protein 73535 73547	14-3-3 sigma
+T590	Protein 73766 73778	14-3-3 sigma
+T591	Protein 73843 73855	14-3-3 sigma
+T592	Protein 73918 73930	14-3-3 sigma
+T593	Protein 74166 74178	14-3-3 sigma
+*	Equiv T594 T595
+T594	Protein 75426 75454	tissue plasminogen activator
+T595	Protein 75456 75459	tPA
+T596	Protein 75471 75478	plasmin
+*	Equiv T600 T601
+T597	Protein 76051 76064	hemagglutinin
+T598	Protein 77277 77279	E1
+T599	Protein 77284 77286	E2
+T600	Protein 77450 77463	hemagglutinin
+T601	Protein 77467 77470	HA1
+T602	Protein 77609 77619	HIF-1alpha
+T603	Protein 77847 77857	HIF-1alpha
+T604	Protein 77862 77871	HIF-1beta
+T605	Protein 77895 77905	HIF-1alpha
+T606	Protein 77947 77957	HIF-1alpha
+T607	Protein 78204 78214	HIF-1alpha
+T608	Protein 78299 78309	HIF-1alpha
+T609	Protein 78545 78555	HIF-1alpha
+T610	Protein 78774 78784	HIF-1alpha
+T611	Protein 78860 78870	HIF-1alpha
+T612	Protein 79094 79104	HIF-1alpha
+T613	Protein 79647 79657	HIF-1alpha
+T614	Phosphorylation 77644 77659	phosphorylation
+T615	Entity 78057 78063	prolyl
+T616	Hydroxylation 78064 78077	hydroxylation
+T617	Hydroxylation 78130 78143	hydroxylation
+T618	Entity 78157 78173	proline residues
+T619	Phosphorylation 78372 78387	phosphorylation
+T620	Phosphorylation 78898 78913	phosphorylation
+T621	Phosphorylation 79151 79166	phosphorylation
+T622	Entity 79524 79539	prolyl residues
+T623	Hydroxylation 79560 79573	hydroxylation
+T624	Entity 79603 79611	residues
+T625	Phosphorylation 79628 79643	phosphorylation
+E132	Phosphorylation:T614 Theme:T602
+E133	Hydroxylation:T616 Theme:T606 Site:T615
+E134	Hydroxylation:T617 Theme:T607 Site:T618
+E135	Phosphorylation:T619 Theme:T608
+E136	Phosphorylation:T620 Theme:T611
+E137	Phosphorylation:T621 Theme:T612
+E138	Hydroxylation:T623 Theme:T613 Site:T622
+E139	Phosphorylation:T625 Theme:T613 Site:T624
+T626	Hydroxylation 80374 80387	hydroxylation
+E140	Hydroxylation:T626 Theme:T632
+T627	Protein 79871 79881	HIF-1alpha
+T628	Protein 80022 80032	HIF-1alpha
+T629	Protein 80134 80144	HIF-1alpha
+T630	Protein 80277 80279	M1
+T631	Protein 80280 80317	M4 muscarinic acetylcholine receptors
+T632	Protein 80363 80373	HIF-1alpha
+T633	Protein 80416 80426	HIF-1alpha
+T634	Protein 80517 80527	HIF-1alpha
+T635	Protein 80749 80754	Rac-1
+T636	Protein 80836 80839	M1-
+T637	Protein 80844 80847	M3-
+T638	Protein 80856 80859	M2-
+T639	Protein 80863 80871	M4-AchRs
+T640	Protein 80927 80937	HIF-1alpha
+T641	Protein 81043 81053	HIF-1alpha
+T642	Protein 81102 81112	HIF-1alpha
+T643	Protein 81114 81133	Protein C inhibitor
+T644	Protein 81832 81851	protein C inhibitor
+T645	Protein 81853 81856	PCI
+T646	Protein 81909 81917	thrombin
+T647	Protein 82055 82058	PCI
+T648	Protein 82126 82135	protein C
+T649	Protein 82227 82241	thrombomodulin
+T650	Protein 82307 82310	PCI
+T651	Protein 82339 82342	PCI
+T652	Protein 82442 82450	thrombin
+T653	Protein 82474 82477	PCI
+T654	Protein 82552 82555	PCI
+T655	Protein 82613 82616	PCI
+T656	Protein 82642 82645	PCI
+*	Equiv T644 T645
+T657	Glycosylation 82570 82582	modification
+T658	Entity 82586 82609	N-glycosylation site(s)
+E141	Glycosylation:T657 Theme:T655 Site:T658
+T659	Protein 83198 83205	DNase I
+T660	Protein 84262 84266	PHD1
+T661	Protein 84268 84269	2
+T662	Protein 84274 84275	3
+T663	Protein 84565 84569	PHD2
+T664	Protein 84570 84574	PHD3
+T665	Protein 84575 84579	PHD1
+T666	Protein 84838 84889	hypoxia-inducible transcription factor (HIF)-1alpha
+T667	Protein 85435 85445	HIF-1alpha
+T668	Protein 85741 85750	HIF-P4H-3
+T669	Protein 85890 85899	HIF-P4H-1
+T670	Protein 85976 85986	HIF-P4Hs 2
+T671	Protein 85991 85992	3
+T672	Protein 86786 86795	HIF-P4H-3
+T673	Protein 87938 87943	DFR-B
+T674	Protein 87945 87948	CHI
+T675	Protein 87950 87955	CHS-D
+T676	Protein 87961 87967	InNHX1
+T677	Protein 88132 88137	CHS-D
+T678	Protein 88142 88146	F3'H
+T679	Protein 88833 88838	DFR-B
+T680	Protein 88892 88897	DFR-B
+T681	Protein 89065 89070	DFR-B
+T682	DNA_methylation 89042 89057	DNA methylation
+T683	Entity 89071 89079	promoter
+E142	DNA_methylation:T682 Theme:T681 Site:T683
+T684	Protein 89305 89312	elastin
+T685	Protein 89529 89534	P4H-2
+T686	Protein 89667 89672	P4H-1
+T687	Protein 89709 89714	P4H-2
+T688	Protein 89820 89825	P4H-1
+T689	Protein 89878 89883	P4H-2
+T690	Protein 89912 89917	P4H-1
+T691	Protein 89963 89968	P4H-2
+T692	Protein 90096 90101	P4H-1
+T693	Protein 90179 90184	P4H-1
+T694	Protein 90189 90194	P4H-2
+T695	Protein 90394 90399	P4H-2
+T696	Protein 90632 90637	P4H-2
+T697	Protein 90733 90738	P4H-2
+T698	Protein 90833 90838	P4H-1
+T699	Protein 91090 91095	P4H-2
+T700	Protein 91292 91297	P4H-2
+T701	Protein 91412 91429	androgen receptor
+T702	Protein 91460 91485	prostate-specific antigen
+T703	Protein 91875 91892	androgen receptor
+T704	Protein 91894 91896	AR
+T705	Protein 91932 91934	AR
+T706	Protein 92156 92158	AR
+T707	Protein 92175 92200	prostate-specific antigen
+T708	Protein 92202 92205	PSA
+T709	Protein 92312 92315	PSA
+T710	Protein 92356 92358	AR
+T711	Protein 92412 92416	p300
+T712	Protein 92420 92423	CBP
+T713	Protein 92486 92489	PSA
+T714	Protein 92632 92634	AR
+T715	Protein 92969 92976	histone
+T716	Protein 93082 93085	PSA
+T717	Protein 93146 93150	p300
+T718	Protein 93151 93154	CBP
+T719	Protein 93190 93192	AR
+T720	Protein 93369 93371	AR
+*	Equiv T703 T704
+*	Equiv T707 T708
+T721	Acetylation 92977 92988	acetylation
+E143	Acetylation:T721 Theme:T715 Contextgene:T716
+T722	Protein 93527 93534	histone
+T723	Protein 93610 93617	histone
+T724	Protein 93648 93655	histone
+T725	Protein 93750 93757	histone
+T726	Protein 93954 93961	histone
+T727	Protein 94111 94118	histone
+T728	Protein 94239 94247	catalase
+T729	Protein 94350 94357	histone
+T730	Protein 94468 94475	histone
+T731	Protein 94558 94565	histone
+T732	Protein 94675 94682	histone
+T733	Protein 94796 94803	histone
+T734	Acetylation 93535 93546	acetylation
+T735	Acetylation 93618 93633	hypoacetylation
+T736	Acetylation 93758 93769	acetylation
+T737	Acetylation 93962 93973	acetylation
+T738	Acetylation 94119 94130	acetylation
+T739	Acetylation 94358 94369	acetylation
+T740	Acetylation 94566 94577	acetylation
+T741	Acetylation 94683 94694	acetylation
+T742	Acetylation 94804 94815	acetylation
+E144	Acetylation:T734 Theme:T722
+E145	Acetylation:T735 Theme:T723
+M24	Negation E145
+E146	Acetylation:T736 Theme:T725
+E147	Acetylation:T737 Theme:T726
+E148	Acetylation:T738 Theme:T727
+E149	Acetylation:T739 Theme:T729
+E150	Acetylation:T740 Theme:T731
+E151	Acetylation:T741 Theme:T732
+E152	Acetylation:T742 Theme:T733
+T743	Protein 95041 95062	delta-opioid receptor
+T744	Protein 95233 95254	delta-opioid receptor
+T745	Protein 95257 95260	DOR
+T746	Protein 95342 95345	DOR
+T747	Protein 95426 95432	HaeIII
+T748	Protein 95437 95441	MspI
+T749	Protein 95486 95496	histone H3
+T750	Protein 95501 95503	H4
+T751	Protein 95531 95534	DOR
+T752	Protein 95612 95647	methyl-CpG-binding domain protein 2
+T753	Protein 95649 95653	MBD2
+T754	Protein 95672 95675	DOR
+T755	Protein 95710 95714	MBD2
+T756	Protein 95764 95767	DOR
+T757	Protein 95873 95880	histone
+T758	Protein 95920 95924	MBD2
+T759	Protein 96028 96031	DOR
+T760	Protein 96114 96117	DOR
+T761	Protein 96186 96189	DOR
+T762	Protein 96271 96274	DOR
+T763	Protein 96366 96373	histone
+*	Equiv T744 T745
+*	Equiv T752 T753
+T764	Entity 95201 95204	CpG
+T765	DNA_methylation 95205 95216	methylation
+T766	DNA_methylation 95326 95337	methylation
+T767	Entity 95351 95359	promoter
+T768	Deacetylation 95473 95485	deacetylated
+T769	DNA_methylation 95517 95529	unmethylated
+T770	Entity 95535 95543	promoter
+T771	DNA_methylation 95660 95670	methylated
+T772	Entity 95676 95684	promoter
+T773	DNA_methylation 95752 95762	methylated
+T774	Entity 95768 95776	promoter
+T775	DNA_methylation 96102 96112	methylated
+T776	Entity 96118 96126	promoter
+T777	Acetylation 96374 96385	acetylation
+T36	Deacetylation 96390 96403	deacetylation
+E153	DNA_methylation:T765 Theme:T744 Site:T764
+E154	DNA_methylation:T766 Theme:T746 Site:T767
+E155	Deacetylation:T768 Theme:T749 Contextgene:T746
+E156	Deacetylation:T768 Theme:T750 Contextgene:T746
+E157	DNA_methylation:T769 Theme:T751 Site:T770
+M25	Negation E157
+E158	DNA_methylation:T771 Theme:T754 Site:T772
+E159	DNA_methylation:T773 Theme:T756 Site:T774
+E160	DNA_methylation:T775 Theme:T760 Site:T776
+E161	Acetylation:T777 Theme:T763
+E162	Deacetylation:T36 Theme:T763
+T778	Protein 96941 96966	Green fluorescent protein
+T779	Protein 96968 96971	GFP
+T780	Protein 97087 97095	lysozyme
+*	Equiv T778 T779
+T781	Protein 98429 98447	beta-lactoglobulin
+T782	Protein 98449 98456	beta-lg
+T783	Protein 98586 98603	alpha-lactalbumin
+T784	Protein 98605 98613	alpha-la
+T785	Protein 98800 98807	beta-lg
+T786	Protein 98903 98911	alpha-la
+T787	Protein 99379 99386	beta-lg
+T788	Protein 99437 99444	beta-lg
+T789	Protein 99508 99515	beta-lg
+*	Equiv T781 T782
+*	Equiv T783 T784
+T790	Entity 99697 99703	lysine
+T791	Methylation 99704 99715	methylation
+T792	Entity 99885 99900	lysine residues
+T793	Methylation 99919 99929	methylated
+T794	Methylation 100033 100044	methylation
+E163	Methylation:T791 Theme:T795 Site:T790
+E164	Methylation:T793 Theme:T797 Site:T792
+E165	Methylation:T794 Theme:T798 Contextgene:T799
+T795	Protein 99719 99729	histone H3
+T796	Protein 99809 99817	histones
+T797	Protein 99904 99914	histone H3
+T798	Protein 100030 100032	H3
+T799	Protein 100082 100087	MET16
+T800	Protein 100250 100254	Isw1
+T801	Protein 100380 100384	Spp1
+T802	Protein 100420 100424	Set1
+T803	Protein 100439 100443	Set2
+T804	Protein 100567 100571	Isw1
+T805	Protein 100902 100911	HIF1alpha
+T806	Protein 100948 100956	HIF1beta
+T807	Protein 100960 100964	ARNT
+T808	Protein 101186 101195	ubiquitin
+T809	Protein 101226 101266	von Hippel-Lindau (VHL) tumor suppressor
+T810	Protein 101429 101432	FIH
+T811	Protein 101434 101455	factor-inhibiting HIF
+T812	Protein 101504 101508	p300
+T813	Protein 101513 101516	CBP
+*	Equiv T806 T807
+*	Equiv T810 T811
+*	Equiv T824 T825
+T814	Acetylation 102729 102740	acetylation
+T815	Entity 102744 102751	lysines
+T816	Acetylation 103042 103053	acetylation
+E166	Acetylation:T814 Theme:T828 Site:T815
+E167	Acetylation:T816 Theme:T833
+T817	Protein 101865 101872	Histone
+T818	Protein 101903 101907	p300
+T819	Protein 102003 102010	Histone
+T820	Protein 102066 102070	p300
+T821	Protein 102072 102075	CBP
+T822	Protein 102081 102086	P/CAF
+T823	Protein 102179 102183	p300
+T824	Protein 102278 102312	Promyelocytic leukemia zinc finger
+T825	Protein 102314 102318	PLZF
+T826	Protein 102360 102388	retinoic acid receptor alpha
+T827	Protein 102515 102522	histone
+T828	Protein 102599 102603	PLZF
+T829	Protein 102620 102624	p300
+T830	Protein 102720 102724	p300
+T831	Protein 102825 102829	PLZF
+T832	Protein 102982 102989	histone
+T833	Protein 103057 103061	PLZF
+T834	Protein 103186 103193	histone
+T835	Protein 103447 103479	hypoxia-inducible factor 1 alpha
+T836	Protein 103840 103857	von Hippel-Lindau
+T837	Protein 103859 103862	VHL
+T838	Protein 103867 103876	ubiquitin
+T839	Protein 103907 103917	HIF-1alpha
+T840	Protein 104017 104027	HIF-1alpha
+T841	Protein 104138 104148	HIF-1alpha
+T842	Protein 104196 104206	HIF-1alpha
+T843	Protein 104267 104277	HIF-1alpha
+T844	Protein 104966 104976	HIF-1alpha
+T845	Protein 105561 105571	HIF-1alpha
+T846	Protein 105717 105727	HIF-1alpha
+T847	Protein 105767 105777	HIF-1alpha
+*	Equiv T836 T837
+T848	Entity 103972 103979	proline
+T849	Hydroxylation 104097 104110	hydroxylation
+T850	Entity 104457 104468	proline 564
+T851	Hydroxylation 104472 104484	hydroxylated
+T852	Entity 104494 104505	proline 402
+T853	Hydroxylation 104577 104590	hydroxylation
+T854	Entity 104594 104605	proline 402
+T855	Hydroxylation 104666 104679	hydroxylation
+T856	Entity 104683 104694	proline 564
+T857	Hydroxylation 104732 104745	hydroxylation
+T858	Entity 104753 104764	proline 564
+T859	Hydroxylation 105083 105095	hydroxylated
+T860	Entity 105100 105107	proline
+T861	Entity 105271 105282	proline 402
+T862	Hydroxylation 105324 105337	hydroxylation
+T863	Entity 105376 105387	proline 564
+T864	Hydroxylation 105388 105401	hydroxylation
+T865	Hydroxylation 105431 105444	hydroxylation
+T866	Entity 105448 105459	proline 402
+T867	Hydroxylation 105693 105705	hydroxylated
+T868	Entity 105706 105713	proline
+E168	Hydroxylation:T849 Theme:T841 Site:T848
+E169	Hydroxylation:T851 Theme:T842 Site:T850
+E170	Hydroxylation:T851 Theme:T842 Site:T852
+E171	Hydroxylation:T853 Theme:T842 Site:T854
+E172	Hydroxylation:T855 Theme:T842 Site:T856
+E173	Hydroxylation:T857 Theme:T844 Site:T858
+E174	Hydroxylation:T859 Theme:T844 Site:T860
+E175	Hydroxylation:T862 Theme:T842 Site:T861
+E176	Hydroxylation:T864 Theme:T842 Site:T863
+E177	Hydroxylation:T865 Theme:T845 Site:T866
+E178	Hydroxylation:T867 Theme:T846 Site:T868
+T869	Methylation 106881 106892	methylation
+T870	Demethylation 106894 106907	demethylation
+E179	Methylation:T869 Theme:T873
+M26	Speculation E179
+E180	Methylation:T869 Theme:T874
+M27	Speculation E180
+E181	Demethylation:T870 Theme:T873
+M28	Speculation E181
+E182	Demethylation:T870 Theme:T874
+M29	Speculation E182
+T871	Protein 106159 106163	CheR
+T872	Protein 106183 106187	CheB
+T873	Protein 106747 106750	Tsr
+T874	Protein 106754 106757	Tar
+T875	Protein 107099 107103	CheB
+T876	Protein 107148 107152	CheR
+T877	Methylation 107840 107853	Dimethylation
+T878	Entity 107871 107880	lysine 36
+T879	Catalysis 107958 107966	mediates
+T880	Entity 107978 107987	lysine 36
+T881	Methylation 107988 108001	dimethylation
+T882	Methylation 108330 108342	dimethylated
+T883	Entity 108348 108351	K36
+E183	Methylation:T877 Theme:T884 Site:T878
+E184	Catalysis:T879 Theme:E185 Cause:T885
+E185	Methylation:T881 Theme:T886 Site:T880
+E186	Methylation:T882 Theme:T888 Site:T883
+T884	Protein 107857 107867	histone H3
+T885	Protein 107945 107950	Set2p
+T886	Protein 107967 107977	histone H3
+T887	Protein 108003 108005	H3
+T888	Protein 108346 108348	H3
+T889	Protein 108361 108366	Set2p
+T890	Protein 108459 108461	H3
+T891	Protein 108662 108667	Set2p
+T892	Protein 108731 108733	H3
+T893	Protein 108828 108830	H3
+T894	Protein 108936 108938	H3
+T895	Protein 109120 109122	H3
+T896	Protein 109231 109233	H3
+T897	Protein 109310 109312	H3
+T898	Protein 110291 110295	VPS1
+T899	Entity 112134 112142	Promoter
+T900	DNA_methylation 112143 112159	hypermethylation
+T901	DNA_methylation 112737 112748	methylation
+T902	Entity 112759 112775	promoter regions
+T903	Entity 112960 112968	promoter
+T904	DNA_methylation 112969 112985	hypermethylation
+T905	Entity 113099 113107	promoter
+T906	DNA_methylation 113108 113124	hypermethylation
+T907	Entity 113244 113252	promoter
+T908	DNA_methylation 113253 113269	hypermethylation
+T909	Entity 113509 113517	promoter
+T910	DNA_methylation 113518 113534	hypermethylation
+T911	Entity 113590 113598	promoter
+T912	DNA_methylation 113599 113615	hypermethylation
+T913	Entity 113770 113778	promoter
+T914	DNA_methylation 113779 113795	hypermethylation
+E187	DNA_methylation:T900 Theme:T915 Site:T899
+E188	DNA_methylation:T900 Theme:T916 Site:T899
+E189	DNA_methylation:T900 Theme:T917 Site:T899
+E190	DNA_methylation:T901 Theme:T918 Site:T902
+M30	Speculation E190
+E191	DNA_methylation:T901 Theme:T919 Site:T902
+M31	Speculation E191
+E192	DNA_methylation:T901 Theme:T920 Site:T902
+M32	Speculation E192
+E193	DNA_methylation:T904 Theme:T921 Site:T903
+M33	Negation E193
+E194	DNA_methylation:T904 Theme:T922 Site:T903
+M34	Negation E194
+E195	DNA_methylation:T904 Theme:T923 Site:T903
+M35	Negation E195
+E196	DNA_methylation:T906 Theme:T924 Site:T905
+E197	DNA_methylation:T908 Theme:T925 Site:T907
+E12	DNA_methylation:T910 Theme:T927 Site:T909
+E13	DNA_methylation:T912 Theme:T928 Site:T911
+E14	DNA_methylation:T912 Theme:T929 Site:T911
+E15	DNA_methylation:T914 Theme:T930 Site:T913
+E16	DNA_methylation:T914 Theme:T931 Site:T913
+E17	DNA_methylation:T914 Theme:T932 Site:T913
+T915	Protein 112171 112178	RASSF1A
+T916	Protein 112180 112184	FHIT
+T917	Protein 112190 112195	sFRP1
+T918	Protein 112779 112786	RASSF1A
+T919	Protein 112788 112792	FHIT
+T920	Protein 112798 112803	sFRP1
+T921	Protein 112989 112996	RASSF1A
+T922	Protein 112998 113002	FHIT
+T923	Protein 113008 113013	sFRP1
+T924	Protein 113128 113135	RASSF1A
+T925	Protein 113273 113280	RASSF1A
+T926	Protein 113371 113378	RASSF1A
+T927	Protein 113465 113472	RASSF1A
+T928	Protein 113619 113623	FHIT
+T929	Protein 113628 113633	sFRP1
+T930	Protein 113799 113806	RASSF1A
+T931	Protein 113856 113860	FHIT
+T932	Protein 113865 113870	sFRP1
+T933	Protein 113924 113938	Macroprolactin
+T934	Protein 114069 114083	Macroprolactin
+T935	Protein 114120 114129	prolactin
+T936	Protein 114170 114179	prolactin
+T937	Protein 114229 114243	macroprolactin
+T938	Protein 114668 114677	prolactin
+T939	Protein 114768 114777	prolactin
+T940	Protein 114888 114902	macroprolactin
+T941	Protein 115092 115106	concanavalin A
+T942	Protein 115162 115176	macroprolactin
+T943	Protein 115198 115213	macroprolactins
+T944	Protein 115340 115354	macroprolactin
+T945	Protein 115461 115475	macroprolactin
+T946	Protein 115650 115659	prolactin
+T947	Protein 115776 115790	macroprolactin
+T948	Protein 115872 115886	macroprolactin
+T949	Protein 116002 116011	prolactin
+T950	Protein 116201 116216	macroprolactins
+T951	Protein 116351 116365	macroprolactin
+T952	Protein 116483 116497	macroprolactin
+T953	Glycosylation 115276 115289	glycosylation
+E198	Glycosylation:T953 Theme:T943
+T954	Protein 116535 116542	histone
+T955	Protein 116754 116764	Atrophin-1
+T956	Protein 116938 116948	Atrophin-1
+T957	Protein 117101 117111	Atrophin-1
+T958	Protein 117322 117332	Atrophin-1
+T959	Protein 117587 117597	histone H3
+T960	Protein 117806 117813	histone
+T961	Protein 117853 117860	histone
+T962	Deacetylation 116543 116558	hypoacetylation
+T963	Deacetylation 117568 117583	hypoacetylation
+T964	Acetylation 117861 117872	acetylation
+E199	Deacetylation:T962 Theme:T954
+E200	Deacetylation:T963 Theme:T959
+E201	Acetylation:T964 Theme:T961
+*	Equiv T968 T969
+*	Equiv T970 T971
+T965	Glycosylation 119448 119461	glycosylation
+T966	Glycosylation 119534 119546	glycosylated
+E202	Glycosylation:T965 Theme:T981
+E203	Glycosylation:T966 Theme:T982
+T967	Protein 118306 118326	acetylcholinesterase
+T968	Protein 118468 118489	butyrylcholinesterase
+T969	Protein 118491 118496	BuChE
+T970	Protein 118507 118527	acetylcholinesterase
+T971	Protein 118529 118533	AChE
+T972	Protein 118607 118611	AChE
+T973	Protein 118758 118762	AChE
+T974	Protein 118860 118865	BuChE
+T975	Protein 118923 118927	AChE
+T976	Protein 119107 119111	AChE
+T977	Protein 119204 119208	AChE
+T978	Protein 119252 119256	AChE
+T979	Protein 119303 119307	AChE
+T980	Protein 119368 119372	AChE
+T981	Protein 119443 119447	AChE
+T982	Protein 119502 119506	AChE
+T983	Protein 119560 119564	AChE
+T984	Protein 119628 119632	AChE
+T985	Protein 119696 119700	AChE
+T986	Protein 119759 119763	AChE
+T987	Protein 119913 119917	AChE
+T988	Protein 119927 119931	AChE
+*	Equiv T990 T991
+T989	Protein 120019 120045	fibroblast growth factor 8
+T990	Protein 120096 120122	Fibroblast growth factor 8
+T991	Protein 120124 120128	FGF8
+T992	Protein 120288 120292	FGF8
+T993	Protein 120320 120327	histone
+T994	Protein 120388 120392	FGF8
+T995	Protein 120571 120575	FGF8
+T996	Protein 120686 120689	p65
+T997	Protein 120700 120704	FGF8
+T998	Protein 120741 120744	p65
+T999	Protein 120764 120768	fgf8
+T1000	Protein 120890 120894	FGF8
+T1001	Protein 121093 121097	FGF8
+T1002	Deacetylation 121258 121271	deacetylation
+T1003	Deacetylation 121314 121327	deacetylation
+T1004	Deacetylation 121521 121534	deacetylation
+T1005	Deacetylation 121664 121677	deacetylation
+T1006	DNA_methylation 122228 122243	DNA methylation
+E204	Deacetylation:T1002 Theme:T1007
+E205	Deacetylation:T1003 Theme:T1008
+E206	Deacetylation:T1004 Theme:T1009
+E207	Deacetylation:T1005 Theme:T1010
+E208	DNA_methylation:T1006 Theme:T1011
+E209	DNA_methylation:T1006 Theme:T1012
+T1007	Protein 121250 121257	histone
+T1008	Protein 121306 121313	histone
+T1009	Protein 121513 121520	histone
+T1010	Protein 121656 121663	histone
+T1011	Protein 122253 122256	H19
+T1012	Protein 122261 122265	NNAT
+T1013	Protein 122392 122398	CYP3A4
+T1014	Protein 122400 122406	CYP3A5
+T1015	Protein 122412 122418	CYP3A7
+T1016	Protein 122446 122453	CYP17A1
+T1017	Protein 122458 122465	CYP19A1
+T1018	Protein 122519 122529	C/EBPalpha
+T1019	Protein 122531 122540	C/EBPbeta
+T1020	Protein 122546 122556	C/EBPgamma
+T1021	Protein 123324 123333	U2af1-rs1
+T1022	Protein 123757 123766	U2af1-rs1
+T1023	Protein 124020 124029	U2af1-rs1
+T1024	Protein 124224 124233	U2af1-rs1
+T1025	Protein 124358 124365	DNase-I
+T1026	Protein 124530 124539	U2af1-rs1
+T1027	DNA_methylation 124001 124012	methylation
+T1028	DNA_methylation 124613 124628	DNA methylation
+E210	DNA_methylation:T1027 Theme:T1023
+E211	DNA_methylation:T1028 Theme:T1026
+T1029	Entity 124777 124785	lysine 4
+T1030	Methylation 124786 124796	methylated
+T1031	Entity 125783 125791	lysine 4
+T1032	Methylation 125792 125803	methylation
+T1033	Entity 125968 125976	lysine 4
+T1034	Methylation 125977 125987	methylated
+T1035	Entity 126277 126285	lysine 4
+T1036	Methylation 126286 126297	methylation
+E212	Methylation:T1030 Theme:T1039 Site:T1029
+E213	Methylation:T1032 Theme:T1050 Site:T1031
+E214	Methylation:T1034 Theme:T1052 Site:T1033
+E215	Methylation:T1036 Theme:T1054 Site:T1035
+T1037	Protein 124695 124700	Yng1p
+T1038	Protein 124738 124745	histone
+T1039	Protein 124797 124807	histone H3
+T1040	Protein 125089 125097	histones
+T1041	Protein 125295 125300	Yng1p
+T1042	Protein 125302 125307	Yng2p
+T1043	Protein 125313 125319	Pho23p
+T1044	Protein 125321 125326	Yng1p
+T1045	Protein 125354 125361	histone
+T1046	Protein 125583 125588	Yng1p
+T1047	Protein 125592 125600	histones
+T1048	Protein 125624 125628	YNG1
+T1049	Protein 125670 125675	Yng1p
+T1050	Protein 125718 125728	histone H3
+T1051	Protein 125860 125865	Yng1p
+T1052	Protein 125988 125998	histone H3
+T1053	Protein 126166 126171	Yng1p
+T1054	Protein 126266 126276	histone H3
+*	Equiv T1067 T1068
+T1055	Ubiquitination 126351 126365	ubiquitination
+T1056	Entity 126370 126380	asparagine
+T1057	Hydroxylation 126381 126394	hydroxylation
+T1058	Ubiquitination 126849 126863	ubiquitination
+T1059	Hydroxylation 126943 126956	hydroxylating
+T1060	Catalysis 126943 126956	hydroxylating
+T1061	Entity 126961 126985	asparagine residue (803)
+T1062	Entity 127107 127113	prolyl
+T1063	Entity 127122 127133	asparaginyl
+T1064	Hydroxylation 127134 127146	hydroxylated
+E216	Ubiquitination:T1055 Theme:T1065
+E217	Hydroxylation:T1057 Theme:T1065 Site:T1056
+E218	Ubiquitination:T1058 Theme:T1070
+E219	Hydroxylation:T1059 Theme:T1072 Site:T1061
+E220	Catalysis:T1060 Theme:E219 Cause:T1071
+E221	Hydroxylation:T1064 Theme:T1073 Site:T1062
+E222	Hydroxylation:T1064 Theme:T1073 Site:T1063
+M36	Negation E222
+T1065	Protein 126398 126429	hypoxia-inducible factor-1alpha
+T1066	Protein 126495 126509	erythropoietin
+T1067	Protein 126631 126662	hypoxia-inducible factor 1alpha
+T1068	Protein 126664 126674	HIF-1alpha
+T1069	Protein 126778 126792	erythropoietin
+T1070	Protein 126867 126877	HIF-1alpha
+T1071	Protein 126932 126937	FIH-1
+T1072	Protein 126989 126999	HIF-1alpha
+T1073	Protein 127088 127098	HIF-1alpha
+T1074	Protein 127231 127241	HIF-1alpha
+T1075	Protein 127378 127388	HIF-1alpha
+T1076	Protein 127460 127470	HIF-1alpha
+T1077	Protein 127540 127618	dendritic cell-specific intercellular adhesion molecule-3-grabbing nonintegrin
+T1078	Protein 127653 127658	gp120
+T1079	Protein 127776 127779	CD4
+T1080	Protein 127826 127831	gp120
+T1081	Protein 127872 127950	dendritic cell-specific intercellular adhesion molecule-3-grabbing nonintegrin
+T1082	Protein 127974 127979	gp120
+T1083	Protein 128072 128075	CD4
+T1084	Protein 128112 128116	CCR5
+T1085	Protein 128121 128126	CXCR4
+T1086	Protein 128202 128207	gp120
+T1087	Protein 128314 128392	dendritic cell-specific intercellular adhesion molecule-3-grabbing nonintegrin
+T1088	Protein 128399 128406	DC-SIGN
+T1089	Protein 128559 128637	dendritic cell-specific intercellular adhesion molecule-3-grabbing nonintegrin
+T1090	Protein 128891 128894	CD4
+T1091	Protein 129183 129190	DC-SIGN
+T1092	Protein 129333 129411	dendritic cell-specific intercellular adhesion molecule-3-grabbing nonintegrin
+*	Equiv T1087 T1088
+T1093	Protein 129528 129531	ALR
+T1094	Protein 129533 129537	MLL2
+T1095	Protein 129547 129550	ALR
+T1096	Protein 129619 129622	ALR
+T1097	Protein 129624 129628	MLL2
+T1098	Protein 129708 129715	histone
+T1099	Protein 129750 129753	ALR
+T1100	Protein 129913 129917	PTIP
+T1101	Protein 129948 129951	UTX
+T1102	Protein 130009 130012	ALR
+T1103	Protein 130038 130040	H3
+T1104	Protein 130088 130091	ALR
+T1105	Protein 130118 130121	ALR
+T1106	Protein 130271 130274	ALR
+T1107	Protein 130355 130358	ALR
+T1108	Protein 130372 130375	ALR
+T1109	Protein 130413 130416	ALR
+T1110	Protein 130515 130517	H3
+T1111	Protein 130576 130579	ALR
+T1112	Protein 130827 130830	ALR
+T1113	Protein 130943 130946	ALR
+*	Equiv T1093 T1094
+*	Equiv T1096 T1097
+T1114	Entity 130517 130519	K4
+T1115	Methylation 130520 130534	trimethylation
+E223	Methylation:T1115 Theme:T1110 Site:T1114
+T1116	Protein 131116 131147	hypoxia-inducible factor 1alpha
+T1117	Protein 131211 131256	Hypoxia-inducible transcription factor 1alpha
+T1118	Protein 131258 131268	HIF-1alpha
+T1119	Protein 131328 131338	HIF-1alpha
+T1120	Protein 131397 131413	protein kinase B
+T1121	Protein 131415 131418	Akt
+T1122	Protein 131430 131440	HIF-1alpha
+T1123	Protein 131523 131539	protein kinase B
+T1124	Protein 131604 131614	HIF-1alpha
+T1125	Protein 131675 131685	HIF-1alpha
+T1126	Protein 131716 131725	GSK-3beta
+T1127	Protein 131734 131744	HIF-1alpha
+T1128	Protein 131850 131860	HIF-1alpha
+T1129	Protein 131914 131931	von Hippel-Lindau
+T1130	Protein 131933 131936	VHL
+T1131	Protein 131984 131994	HIF-1alpha
+T1132	Protein 132012 132015	VHL
+T1133	Protein 132163 132173	HIF-1alpha
+T1134	Protein 132243 132253	HIF-1alpha
+*	Equiv T1117 T1118
+*	Equiv T1120 T1121
+*	Equiv T1129 T1130
+T1135	Phosphorylation 131101 131115	phosphorylates
+T1136	Phosphorylation 132195 132210	phosphorylation
+E224	Phosphorylation:T1135 Theme:T1116
+E225	Phosphorylation:T1136 Theme:T1133
+T1137	Protein 132576 132615	Rubisco large subunit methyltransferase
+T1138	Protein 132832 132871	Rubisco large subunit methyltransferase
+T1139	Protein 133528 133534	SET7/9
+T1140	Protein 133567 133571	CLR4
+T1141	Protein 134496 134502	p14ARF
+T1142	Protein 134507 134545	O6-methylguanine-DNA methyltransferase
+T1143	Protein 134932 134935	p14
+T1144	Protein 134936 134939	ARF
+T1145	Protein 134945 134985	O(6)-methylguanine-DNA methyltransferase
+T1146	Protein 134987 134991	MGMT
+T1147	Protein 135250 135254	TP53
+T1148	Protein 135312 135316	MGMT
+T1149	Protein 135349 135352	p21
+T1150	Protein 135353 135357	Waf1
+T1151	Protein 135358 135362	Cip1
+T1152	Protein 135365 135368	p27
+T1153	Protein 135369 135373	Kip1
+T1154	Protein 135379 135382	p73
+T1155	Protein 135420 135423	p16
+T1156	Protein 135424 135429	INK4a
+T1157	Protein 135432 135435	p15
+T1158	Protein 135436 135441	INK4b
+T1159	Protein 135447 135450	p14
+T1160	Protein 135451 135454	ARF
+T1161	Protein 135536 135539	p14
+T1162	Protein 135540 135543	ARF
+T1163	Protein 135643 135647	MGMT
+T1164	Protein 135872 135875	p14
+T1165	Protein 135876 135879	ARF
+T1166	Protein 135939 135943	MGMT
+T1167	Protein 136067 136070	p14
+T1168	Protein 136071 136074	ARF
+T1169	Protein 136129 136132	p14
+T1170	Protein 136133 136136	ARF
+T1171	Protein 136139 136142	p15
+T1172	Protein 136143 136148	INK4b
+T1173	Protein 136154 136157	p16
+T1174	Protein 136158 136163	INK4a
+T1175	Protein 136269 136272	p14
+T1176	Protein 136273 136276	ARF
+T37	Protein 136299 136303	MGMT
+*	Equiv T1143 T1144
+*	Equiv T1145 T1146
+*	Equiv T1149 T1150 T1151
+*	Equiv T1152 T1153
+*	Equiv T1155 T1156
+*	Equiv T1157 T1158
+*	Equiv T1159 T1160
+*	Equiv T1161 T1162
+*	Equiv T1164 T1165
+*	Equiv T1167 T1168
+*	Equiv T1169 T1170
+*	Equiv T1171 T1172
+*	Equiv T1173 T1174
+*	Equiv T1175 T1176
+T38	DNA_methylation 134476 134492	hypermethylation
+T39	DNA_methylation 134993 135009	hypermethylation
+T40	DNA_methylation 135317 135328	methylation
+T41	DNA_methylation 135330 135341	Methylation
+T42	DNA_methylation 135545 135556	methylation
+T43	DNA_methylation 135648 135659	methylation
+T44	DNA_methylation 135881 135892	methylation
+T45	DNA_methylation 135944 135955	methylation
+T46	DNA_methylation 136076 136087	methylation
+T47	DNA_methylation 136278 136294	hypermethylation
+T48	DNA_methylation 136304 136320	hypermethylation
+E226	DNA_methylation:T38 Theme:T1141
+E227	DNA_methylation:T38 Theme:T1142
+E228	DNA_methylation:T39 Theme:T1143
+E229	DNA_methylation:T39 Theme:T1145
+E230	DNA_methylation:T40 Theme:T1148
+E231	DNA_methylation:T41 Theme:T1149
+M37	Negation E231
+E232	DNA_methylation:T41 Theme:T1152
+M38	Negation E232
+E233	DNA_methylation:T41 Theme:T1154
+M39	Negation E233
+E234	DNA_methylation:T42 Theme:T1161
+E235	DNA_methylation:T43 Theme:T1163
+E236	DNA_methylation:T44 Theme:T1164
+E237	DNA_methylation:T45 Theme:T1166
+E238	DNA_methylation:T46 Theme:T1167
+E239	DNA_methylation:T47 Theme:T1175
+E240	DNA_methylation:T48 Theme:T37
+*	Equiv T1196 T1197
+*	Equiv T1202 T1203
+*	Equiv T1210 T1211
+*	Equiv T1212 T1213
+*	Equiv T1214 T1215
+T1177	Deacetylation 136554 136567	deacetylation
+T1178	Catalysis 136554 136567	deacetylation
+T1179	Deacetylation 136698 136710	deacetylated
+T1180	Deacetylation 136984 136997	deacetylation
+T1181	Catalysis 136984 136997	deacetylation
+T1182	Deacetylation 137136 137149	deacetylation
+T1183	Deacetylation 137227 137239	deacetylated
+T1184	Acetylation 137243 137253	acetylated
+T1185	Entity 137269 137283	lysine (K) 551
+T1186	Deacetylation 137303 137315	deacetylated
+T1187	Acetylation 137363 137373	acetylated
+T1188	Acetylation 137564 137574	acetylated
+T1189	Deacetylation 137619 137631	deacetylated
+T1190	Deacetylation 137997 138009	deacetylated
+E241	Deacetylation:T1177 Theme:T1192
+E242	Catalysis:T1178 Theme:E241 Cause:T1193
+E243	Deacetylation:T1179 Theme:T1194
+E244	Deacetylation:T1180 Theme:T1201
+E245	Catalysis:T1181 Theme:E244 Cause:T1202
+E246	Deacetylation:T1182 Theme:T1204
+E247	Deacetylation:T1183 Theme:T1206 Site:T1185
+E248	Acetylation:T1184 Theme:T1206 Site:T1185
+E249	Deacetylation:T1186 Theme:T1207
+E250	Acetylation:T1187 Theme:T1207
+E251	Acetylation:T1188 Theme:T1210
+E252	Deacetylation:T1189 Theme:T1212
+E253	Deacetylation:T1190 Theme:T1217
+T1191	Protein 136508 136540	telomerase reverse transcriptase
+T1192	Protein 136571 136574	Sp3
+T1193	Protein 136578 136599	histone deacetylase 1
+T1194	Protein 136711 136714	Sp3
+T1195	Protein 136730 136734	TERT
+T1196	Protein 136855 136874	ceramide synthase 1
+T1197	Protein 136876 136881	CerS1
+T1198	Protein 136908 136913	CerS5
+T1199	Protein 136917 136922	CerS6
+T1200	Protein 136966 136970	TERT
+T1201	Protein 137001 137004	Sp3
+T1202	Protein 137008 137029	histone deacetylase 1
+T1203	Protein 137031 137036	HDAC1
+T1204	Protein 137153 137156	Sp3
+T1205	Protein 137176 137180	TERT
+T1206	Protein 137254 137257	Sp3
+T1207	Protein 137316 137319	Sp3
+T1208	Protein 137396 137400	TERT
+T1209	Protein 137479 137482	Sp3
+T1210	Protein 137575 137578	Sp3
+T1211	Protein 137593 137596	Sp3
+T1212	Protein 137632 137635	Sp3
+T1213	Protein 137643 137646	Sp3
+T1214	Protein 137723 137744	histone deacetylase 1
+T1215	Protein 137746 137751	HDAC1
+T1216	Protein 137885 137890	CerS1
+T1217	Protein 138010 138013	Sp3
+T1218	Protein 138014 138019	HDAC1
+T1219	Protein 138036 138040	TERT
+T1220	Protein 138078 138088	histone H3
+T1221	Protein 138146 138151	dSet2
+T1222	Protein 138165 138167	H3
+T1223	Protein 138393 138398	dSet2
+T1224	Protein 138435 138445	histone H3
+T1225	Protein 138549 138554	dSet2
+T1226	Protein 138560 138565	dSet2
+T1227	Protein 138581 138583	H3
+T1228	Protein 138617 138622	dSet2
+T1229	Protein 138704 138709	dSet2
+T1230	Protein 138939 138942	EcR
+T1231	Protein 138957 138962	dSet2
+T1232	Protein 139083 139086	EcR
+T1233	Protein 139091 139096	dSet2
+T1234	Protein 139145 139150	dSet2
+T1235	Entity 138168 138171	K36
+T1236	Methylation 138172 138183	methylation
+T1237	Entity 138584 138587	K36
+T1238	Methylation 138588 138599	methylation
+E254	Methylation:T1236 Theme:T1222 Site:T1235
+E255	Methylation:T1238 Theme:T1227 Site:T1237
+M40	Negation E255
+T1239	Protein 139227 139231	VIPL
+T1240	Protein 139376 139394	VIP36-like protein
+T1241	Protein 139396 139400	VIPL
+T1242	Protein 139484 139489	VIP36
+T1243	Protein 139574 139578	VIPL
+T1244	Protein 139606 139611	VIP36
+T1245	Protein 139613 139617	VIPL
+T1246	Protein 139756 139760	VIPL
+T1247	Protein 139772 139776	VIPL
+T1248	Protein 139832 139845	biotin ligase
+T1249	Protein 139897 139909	streptavidin
+T1250	Protein 139911 139913	SA
+T1251	Protein 139961 139965	VIPL
+T1252	Protein 139966 139968	SA
+T1253	Protein 140169 140173	VIPL
+T1254	Protein 140218 140220	SA
+T1255	Protein 140249 140253	VIPL
+T1256	Protein 140254 140256	SA
+T1257	Protein 140274 140309	endo beta-N-acetylglucosaminidase H
+T1258	Protein 140417 140421	VIPL
+T1259	Protein 140450 140454	VIPL
+T1260	Protein 140632 140636	VIPL
+T1261	Protein 140661 140666	VIP36
+T1262	Protein 140698 140702	VIPL
+*	Equiv T1240 T1241
+*	Equiv T1249 T1250
+T1263	Protein 140904 140927	estrogen receptor-alpha
+T1264	Protein 140934 140962	estrogen receptor (ER)-alpha
+T1265	Protein 140964 140968	ESR1
+T1266	Protein 141047 141055	ER-alpha
+T1267	Protein 141225 141233	ER-alpha
+T1268	Protein 141308 141316	ER-alpha
+T1269	Protein 141452 141456	MTA3
+T1270	Protein 141700 141708	ER-alpha
+T1271	Protein 141854 141862	ER-alpha
+T1272	Protein 141997 142001	ESR1
+T1273	Protein 142034 142042	ER-alpha
+T1274	Protein 142171 142179	ER-alpha
+*	Equiv T1264 T1265
+T1275	Protein 142349 142384	secreted frizzled-related protein-1
+T1276	Protein 142522 142557	secreted frizzled-related protein-1
+T1277	Protein 142917 142952	secreted frizzled-related protein-1
+T1278	Protein 142992 143027	secreted frizzled-related protein-1
+T1279	Protein 143277 143312	secreted frizzled-related protein-1
+T1280	Protein 143553 143588	secreted frizzled-related protein-1
+T1281	Protein 143662 143697	secreted frizzled-related protein-1
+T1282	Protein 143796 143831	secreted frizzled-related protein-1
+T1283	DNA_methylation 142325 142341	hypermethylation
+T1284	DNA_methylation 142498 142514	hypermethylation
+T1285	Entity 142563 142571	promoter
+T1286	DNA_methylation 142864 142874	methylated
+T1287	DNA_methylation 142878 142890	unmethylated
+T1288	Entity 142891 142899	promoter
+T1289	DNA_methylation 142968 142984	Hypermethylation
+T1290	Entity 143028 143036	promoter
+T1291	DNA_methylation 143246 143262	hypermethylation
+T1292	Entity 143313 143321	promoter
+T1293	DNA_methylation 143525 143537	unmethylated
+T1294	DNA_methylation 143542 143552	methylated
+T1295	Entity 143589 143597	promoter
+T1296	DNA_methylation 143651 143661	methylated
+T1297	DNA_methylation 143772 143788	hypermethylation
+T1298	Entity 143832 143840	promoter
+E256	DNA_methylation:T1283 Theme:T1275
+E257	DNA_methylation:T1284 Theme:T1276 Site:T1285
+M41	Speculation E257
+E258	DNA_methylation:T1286 Theme:T1277 Site:T1288
+E259	DNA_methylation:T1287 Theme:T1277 Site:T1288
+M42	Negation E259
+E260	DNA_methylation:T1289 Theme:T1278 Site:T1290
+E261	DNA_methylation:T1291 Theme:T1279 Site:T1292
+E262	DNA_methylation:T1293 Theme:T1280 Site:T1295
+M43	Negation E262
+E263	DNA_methylation:T1294 Theme:T1280 Site:T1295
+E264	DNA_methylation:T1296 Theme:T1281
+E265	DNA_methylation:T1297 Theme:T1282 Site:T1298
+*	Equiv T1302 T1303
+*	Equiv T1308 T1309
+T1299	Ubiquitination 144384 144402	polyubiquitination
+E266	Ubiquitination:T1299 Theme:T1311
+T1300	Protein 144000 144007	Cullin5
+T1301	Protein 144032 144035	Vif
+T1302	Protein 144135 144143	APOBEC3G
+T1303	Protein 144145 144148	A3G
+T1304	Protein 144175 144184	ubiquitin
+T1305	Protein 144207 144210	Vif
+T1306	Protein 144255 144263	ElonginB
+T1307	Protein 144264 144272	ElonginC
+T1308	Protein 144320 144327	Cullin5
+T1309	Protein 144329 144333	Cul5
+T1310	Protein 144349 144358	ubiquitin
+T1311	Protein 144376 144379	A3G
+T1312	Protein 144514 144518	Cul5
+T1313	Protein 144531 144534	Vif
+T1314	Protein 144817 144820	Vif
+T1315	Protein 144851 144855	Cul5
+T1316	Protein 144960 144963	Vif
+T1317	Protein 145002 145006	Cul5
+T1318	Protein 145076 145080	Cul5
+T1319	Protein 145106 145109	A3G
+*	Equiv T1331 T1332
+*	Equiv T1335 T1336
+T1320	Glycosylation 145234 145247	glycosylation
+T1321	Glycosylation 145481 145493	glycosylated
+T1322	Glycosylation 145693 145715	O-linked glycosylation
+T1323	Entity 145916 145923	Pro(11)
+T1324	Entity 145928 145935	Ser(17)
+T1325	Hydroxylation 145970 145982	hydroxylated
+T1326	Phosphorylation 145987 146001	phosphorylated
+T1327	Entity 146142 146149	Ser(86)
+T1328	Glycosylation 146169 146191	O-linked glycosylation
+T1329	Glycosylation 146434 146446	glycosylated
+E267	Glycosylation:T1320 Theme:T1330
+E268	Glycosylation:T1321 Theme:T1333
+M44	Speculation E268
+E269	Glycosylation:T1322 Theme:T1334
+E270	Hydroxylation:T1325 Theme:T1337 Site:T1323
+E271	Phosphorylation:T1326 Theme:T1337 Site:T1324
+E272	Glycosylation:T1328 Theme:T1338 Site:T1327
+E273	Glycosylation:T1329 Theme:T1340
+T1330	Protein 145257 145269	ameloblastin
+T1331	Protein 145362 145374	ameloblastin
+T1332	Protein 145376 145380	Ambn
+T1333	Protein 145435 145447	ameloblastin
+T1334	Protein 145504 145508	Ambn
+T1335	Protein 145569 145579	agglutinin
+T1336	Protein 145581 145584	PNA
+T1337	Protein 145848 145852	Ambn
+T1338	Protein 146097 146101	Ambn
+T1339	Protein 146331 146335	Ambn
+T1340	Protein 146382 146386	Ambn
+T1341	Protein 146417 146421	Ambn
+T1342	Protein 147153 147157	HYR1
+T1343	Protein 147276 147280	HYR1
+T1344	Protein 147374 147378	HYR1
+T1345	Protein 147702 147736	latency-associated nuclear antigen
+T1346	Protein 147795 147800	Sel10
+T1347	Protein 148151 148156	Sel10
+T1348	Protein 148166 148175	ubiquitin
+T1349	Protein 148196 148201	Sel10
+T1350	Protein 148378 148412	latency-associated nuclear antigen
+T1351	Protein 148414 148418	LANA
+T1352	Protein 148444 148449	Sel10
+T1353	Protein 148586 148590	LANA
+T1354	Protein 148636 148641	Sel10
+T1355	Protein 148679 148684	Sel10
+T1356	Protein 148865 148869	LANA
+T1357	Protein 148959 148964	Sel10
+*	Equiv T1350 T1351
+T1358	Protein 149060 149070	histone H4
+T1359	Protein 149404 149414	histone H4
+T1360	Protein 149517 149527	Histone H4
+T1361	Protein 149547 149551	pksA
+T1362	Protein 149668 149672	omtA
+T1363	Protein 149677 149681	ordA
+T1364	Protein 149762 149766	pksA
+T1365	Protein 149768 149773	ver-1
+T1366	Protein 149806 149810	omtA
+T1367	Protein 149880 149890	histone H4
+T1368	Protein 149915 149919	AflR
+T1369	Protein 149976 149980	ordA
+T1370	Protein 150039 150049	histone H4
+T1371	Protein 150242 150252	histone H4
+T1372	Acetylation 149071 149082	acetylation
+T1373	Acetylation 149415 149426	acetylation
+T1374	Acetylation 149528 149539	acetylation
+T1375	Acetylation 149649 149660	acetylation
+T1376	Acetylation 149891 149902	acetylation
+T1377	Acetylation 150050 150061	acetylation
+T1378	Acetylation 150253 150264	acetylation
+E274	Acetylation:T1372 Theme:T1358
+E275	Acetylation:T1373 Theme:T1359
+E276	Acetylation:T1374 Theme:T1360 Contextgene:T1361
+E277	Acetylation:T1375 Theme:T1360 Contextgene:T1362
+E278	Acetylation:T1375 Theme:T1360 Contextgene:T1363
+E279	Acetylation:T1376 Theme:T1367 Contextgene:T1366
+E280	Acetylation:T1376 Theme:T1367 Contextgene:T1364
+E281	Acetylation:T1376 Theme:T1367 Contextgene:T1365
+E282	Acetylation:T1377 Theme:T1370 Contextgene:T1369
+E283	Acetylation:T1378 Theme:T1371
+T1379	Protein 150440 150447	histone
+T1380	Protein 150473 150481	HNRPA2B1
+T1381	Protein 150482 150486	CBX3
+T1382	Protein 150629 150637	HNRPA2B1
+T1383	Protein 150642 150646	CBX3
+T1384	Protein 150919 150926	histone
+T1385	Protein 150957 150965	HNRPA2B1
+T1386	Protein 150966 150970	CBX3
+T1387	Protein 151192 151200	HNRPA2B1
+T1388	Protein 151205 151209	CBX3
+T1389	Protein 151315 151325	Histone H4
+T1390	Protein 151402 151412	histone H3
+T1391	Protein 151541 151543	H3
+T1392	Protein 151615 151617	H3
+T1393	Protein 151796 151803	histone
+T1394	Protein 151996 152003	histone
+*	Equiv T1396 T1397
+*	Equiv T1405 T1406
+T1395	DNA_methylation 150419 150434	DNA methylation
+T1396	Entity 150487 150529	ubiquitously-acting chromatin open element
+T1397	Entity 150531 150535	UCOE
+T1398	DNA_methylation 150543 150554	methylation
+T1399	Entity 150560 150570	CpG island
+T1400	DNA_methylation 150899 150914	DNA methylation
+T1401	Entity 151105 151108	CpG
+T1402	DNA_methylation 151109 151120	methylation
+T1403	Entity 151278 151285	3' half
+T1404	DNA_methylation 151303 151313	methylated
+T1405	Entity 151326 151332	lysine
+T1406	Entity 151334 151335	K
+T1407	Acetylation 151337 151348	acetylation
+T1408	Entity 151413 151419	lysine
+T1409	Acetylation 151420 151431	acetylation
+T1410	Entity 151543 151545	K4
+T1411	Methylation 151546 151560	di-methylation
+T1412	Entity 151617 151619	K4
+T1413	Methylation 151620 151635	tri-methylation
+E284	DNA_methylation:T1395 Theme:T1380 Site:T1396
+E285	DNA_methylation:T1395 Theme:T1381 Site:T1396
+E286	DNA_methylation:T1398 Theme:T1382 Site:T1399
+M45	Negation E286
+E287	DNA_methylation:T1398 Theme:T1383 Site:T1399
+M46	Negation E287
+E288	DNA_methylation:T1400 Theme:T1386
+E289	DNA_methylation:T1400 Theme:T1385
+E290	DNA_methylation:T1402 Theme:T1387 Site:T1401
+M47	Negation E290
+E291	DNA_methylation:T1402 Theme:T1388 Site:T1401
+M48	Negation E291
+E292	DNA_methylation:T1404 Theme:T1387 Site:T1403
+E293	DNA_methylation:T1404 Theme:T1388 Site:T1403
+E294	Acetylation:T1407 Theme:T1389 Site:T1405 Contextgene:T1387
+E295	Acetylation:T1407 Theme:T1389 Site:T1405 Contextgene:T1388
+E296	Acetylation:T1409 Theme:T1390 Site:T1408 Contextgene:T1388
+E297	Acetylation:T1409 Theme:T1390 Site:T1408 Contextgene:T1387
+E298	Methylation:T1411 Theme:T1391 Site:T1410 Contextgene:T1388
+E299	Methylation:T1411 Theme:T1391 Site:T1410 Contextgene:T1387
+E300	Methylation:T1413 Theme:T1392 Site:T1412 Contextgene:T1388
+E18	Methylation:T1413 Theme:T1392 Site:T1412 Contextgene:T1387
+*	Equiv T1427 T1428
+T1414	Ubiquitination 152088 152102	ubiquitination
+T1415	Ubiquitination 152385 152399	ubiquitination
+T1416	Ubiquitination 152682 152696	ubiquitination
+T1417	Ubiquitination 152896 152910	ubiquitination
+T1418	Ubiquitination 153070 153084	ubiquitination
+E301	Ubiquitination:T1414 Theme:T1420
+E302	Ubiquitination:T1415 Theme:T1424
+E303	Ubiquitination:T1416 Theme:T1430
+E304	Ubiquitination:T1417 Theme:T1436
+E305	Ubiquitination:T1418 Theme:T1441
+T1419	Protein 152061 152066	Cdc42
+T1420	Protein 152077 152087	E-cadherin
+T1421	Protein 152130 152162	epidermal growth factor receptor
+T1422	Protein 152166 152169	Src
+T1423	Protein 152189 152200	E-cadherins
+T1424	Protein 152374 152384	E-cadherin
+T1425	Protein 152435 152440	Cdc42
+T1426	Protein 152550 152555	Cdc42
+T1427	Protein 152583 152615	epidermal growth factor receptor
+T1428	Protein 152617 152621	EGFR
+T1429	Protein 152644 152647	Src
+T1430	Protein 152671 152681	E-cadherin
+T1431	Protein 152734 152739	Cdc42
+T1432	Protein 152761 152765	EGFR
+T1433	Protein 152770 152773	Src
+T1434	Protein 152829 152839	E-cadherin
+T1435	Protein 152865 152870	Cdc42
+T1436	Protein 152885 152895	E-cadherin
+T1437	Protein 152981 152986	Cdc42
+T1438	Protein 152987 152991	F28L
+T1439	Protein 153019 153023	EGFR
+T1440	Protein 153028 153031	Src
+T1441	Protein 153059 153069	E-cadherin
+T1442	Protein 153164 153169	Cdc42
+T1443	Protein 153173 153183	E-cadherin
+T1444	Protein 153200 153205	Cdc42
+T1445	Protein 153299 153304	Cdc42
+T1446	Protein 153362 153372	E-cadherin
+*	Equiv T1460 T1461
+T1447	Methylation 154367 154377	methylated
+T1448	Methylation 154532 154543	methylation
+T1449	Catalysis 154618 154626	modified
+T1450	Entity 154694 154702	lysine 3
+T1451	Methylation 154708 154719	methylation
+T1452	Catalysis 154725 154733	modified
+T1453	Methylation 155026 155037	methylation
+E306	Methylation:T1447 Theme:T1464
+E307	Methylation:T1448 Theme:T1467 Site:T1450
+E308	Catalysis:T1449 Theme:E307 Cause:T1466
+E309	Methylation:T1451 Theme:T1469
+E310	Catalysis:T1452 Theme:E309 Cause:T1468
+E311	Methylation:T1453 Theme:T1472
+T1454	Protein 153442 153447	Set11
+T1455	Protein 153476 153481	Rpl12
+T1456	Protein 153610 153618	histones
+T1457	Protein 153620 153632	cytochrome c
+T1458	Protein 153917 153924	histone
+T1459	Protein 154094 154099	Set11
+T1460	Protein 154180 154185	Rpl12
+T1461	Protein 154187 154208	ribosomal protein L12
+T1462	Protein 154223 154228	Set11
+T1463	Protein 154343 154348	set11
+T1464	Protein 154495 154500	Rpl12
+T1465	Protein 154583 154588	Rpl12
+T1466	Protein 154612 154617	Set11
+T1467	Protein 154639 154644	Rpl12
+T1468	Protein 154737 154742	Set11
+T1469	Protein 154848 154853	Rpl12
+T1470	Protein 154878 154883	Set11
+T1471	Protein 154956 154961	Set11
+T1472	Protein 155020 155025	Rpl12
+T1473	Protein 155109 155114	Set11
+T1474	Protein 155178 155182	Chfr
+T1475	Protein 155229 155233	Ubc4
+T1476	Protein 155238 155243	Ubc13
+T1477	Protein 155244 155248	Mms2
+T1478	Protein 155276 155320	Checkpoint with forkhead-associated and RING
+T1479	Protein 155322 155326	Chfr
+T1480	Protein 155333 155342	ubiquitin
+T1481	Protein 155527 155536	ubiquitin
+T1482	Protein 155632 155636	Chfr
+T1483	Protein 155664 155668	Chf1
+T1484	Protein 155673 155677	Chf2
+T1485	Protein 155785 155789	Ubc4
+T1486	Protein 155806 155810	Chf2
+T1487	Protein 155882 155887	Ubc13
+T1488	Protein 155888 155892	Mms2
+T1489	Protein 156165 156170	Ubc13
+T1490	Protein 156171 156175	Mms2
+T1491	Protein 156245 156249	Ubc4
+T1492	Protein 156328 156332	Ubc4
+*	Equiv T1478 T1479
+T1493	Protein 156573 156580	histone
+T1494	Protein 156683 156686	H2A
+T1495	Protein 156687 156690	H2B
+T1496	Protein 156896 156903	histone
+T1497	Protein 157148 157150	H3
+T1498	Protein 157162 157164	H3
+T1499	Protein 157270 157272	H3
+T1500	Protein 157284 157286	H3
+T1501	Protein 157524 157526	H4
+T1502	Protein 157537 157539	H3
+T1503	Protein 157583 157588	NF-YA
+T1504	Protein 157665 157667	H3
+T1505	Protein 157677 157679	H3
+T1506	Protein 157824 157831	histone
+T1507	Ubiquitination 159327 159345	poly-ubiquitylated
+T1508	Ubiquitination 159690 159708	poly-ubiquitylated
+E312	Ubiquitination:T1507 Theme:T1512
+E313	Ubiquitination:T1507 Theme:T1513
+E314	Ubiquitination:T1508 Theme:T1512
+E315	Ubiquitination:T1508 Theme:T1513
+T1509	Protein 158024 158030	KCa2.3
+T1510	Protein 158035 158041	KCa3.1
+T1511	Protein 158322 158328	KCa3.1
+T1512	Protein 158589 158595	KCa3.1
+T1513	Protein 158599 158605	KCa2.3
+T1514	Protein 158851 158857	KCa3.1
+T1515	Protein 159204 159210	KCa3.1
+T1516	Protein 159215 159221	KCa2.3
+T1517	Protein 159288 159296	Derlin-1
+T1518	Protein 159361 159364	p97
+T1519	Protein 159653 159661	Derlin-1
+T1520	Protein 159667 159670	p97
+T1521	Protein 160446 160450	PHD2
+T1522	Protein 160455 160459	PHD3
+T1523	Protein 161167 161179	tropoelastin
+T1524	Protein 161184 161189	DANCE
+T1525	Protein 161190 161199	fibulin-5
+T1526	Protein 161202 161211	Fibulin-5
+T1527	Protein 161373 161382	fibulin-5
+T1528	Protein 161387 161399	tropoelastin
+T1529	Protein 161510 161519	fibulin-5
+T1530	Protein 161523 161535	tropoelastin
+T1531	Protein 161576 161585	fibulin-5
+T1532	Protein 161622 161634	tropoelastin
+T1533	Protein 161651 161660	fibulin-5
+T1534	Protein 161677 161689	tropoelastin
+T1535	Protein 161744 161756	tropoelastin
+T1536	Protein 161768 161777	Fibulin-5
+T1537	Protein 161926 161938	tropoelastin
+T1538	Protein 161977 161986	fibulin-5
+T1539	Protein 162027 162039	tropoelastin
+T1540	Protein 162051 162060	fibulin-5
+T1541	Protein 162183 162195	tropoelastin
+T1542	Protein 162212 162224	tropoelastin
+T1543	Protein 162238 162247	fibulin-5
+T1544	Protein 162338 162347	fibulin-5
+T1545	Protein 162351 162363	tropoelastin
+T1546	Protein 162435 162444	fibulin-5
+T1547	Protein 162534 162546	tropoelastin
+*	Equiv T1524 T1525
+T1548	Glycosylation 161550 161572	N-linked glycosylation
+E316	Glycosylation:T1548 Theme:T1531
+*	Equiv T1554 T1555
+T1549	Catalysis 162574 162582	mediates
+T1550	Ubiquitination 162583 162597	ubiquitination
+E317	Catalysis:T1549 Theme:E318 Cause:T1552
+E318	Ubiquitination:T1550 Theme:T1553
+T1551	Protein 162551 162560	ubiquitin
+T1552	Protein 162568 162573	SIAH1
+T1553	Protein 162617 162621	TRB3
+T1554	Protein 162624 162642	Tribbles 3 homolog
+T1555	Protein 162644 162648	TRB3
+T1556	Protein 162787 162794	insulin
+T1557	Protein 162908 162912	TRB3
+T1558	Protein 163259 163268	ubiquitin
+T1559	Protein 163276 163281	SIAH1
+T1560	Protein 163308 163313	SIAH1
+T1561	Protein 163334 163338	TRB3
+T1562	Protein 163379 163384	SIAH1
+T1563	Protein 163394 163398	TRB3
+T1564	Protein 163455 163460	SIAH1
+T1565	Protein 163515 163519	TRB3
+T1566	Protein 163532 163537	SIAH1
+T1567	Protein 163561 163565	TRB3
+T1568	Protein 163634 163655	Histone deacetylase 3
+T1569	Protein 163836 163857	Histone deacetylase 3
+T1570	Protein 163859 163864	HDAC3
+T1571	Protein 164022 164027	HDAC3
+T1572	Protein 164075 164080	HDAC3
+T1573	Protein 164206 164211	HDAC3
+T1574	Protein 164312 164334	TBL1-related protein 1
+T1575	Protein 164336 164341	TBLR1
+T1576	Protein 164394 164399	HDAC3
+T1577	Protein 164692 164697	HDAC3
+T1578	Protein 164732 164737	HDAC3
+T1579	Protein 164764 164769	HDAC3
+T1580	Protein 164828 164833	HDAC3
+T1581	Protein 164956 164961	HDAC3
+T1582	Protein 165131 165136	HDAC3
+T1583	Protein 165325 165330	HDAC3
+*	Equiv T1569 T1570
+*	Equiv T1574 T1575
+*	Equiv T1590 T1591
+T1584	Ubiquitination 166633 166651	polyubiquitination
+E319	Ubiquitination:T1584 Theme:T1608
+T1585	Protein 165518 165523	VprBP
+T1586	Protein 165532 165538	Merlin
+T1587	Protein 165546 165550	Roc1
+T1588	Protein 165551 165556	Cul4A
+T1589	Protein 165557 165561	DDB1
+T1590	Protein 165618 165642	neurofibromatosis type 2
+T1591	Protein 165644 165647	NF2
+T1592	Protein 165818 165821	NF2
+T1593	Protein 165861 165864	NF2
+T1594	Protein 165893 165896	NF2
+T1595	Protein 165913 165919	Merlin
+T1596	Protein 165946 165951	Ezrin
+T1597	Protein 165952 165959	Radixin
+T1598	Protein 165960 165966	Moesin
+T1599	Protein 166129 166133	Rac1
+T1600	Protein 166206 166212	Merlin
+T1601	Protein 166279 166285	Merlin
+T1602	Protein 166351 166357	Merlin
+T1603	Protein 166376 166380	Roc1
+T1604	Protein 166381 166389	Cullin4A
+T1605	Protein 166390 166394	DDB1
+T1606	Protein 166442 166448	Merlin
+T1607	Protein 166557 166562	VprBP
+T1608	Protein 166575 166581	Merlin
+T1609	Protein 166592 166601	ubiquitin
+T1610	Protein 166721 166726	VprBP
+T1611	Protein 166774 166780	Merlin
+T1612	Protein 166785 166789	Roc1
+T1613	Protein 166790 166798	Cullin4A
+T1614	Protein 166799 166803	DDB1
+T1615	Protein 166823 166829	Merlin
+T1616	Protein 166976 166982	Merlin
+T1617	Protein 166999 167004	LRP15
+T1618	Protein 167120 167125	LRP15
+T1619	Protein 167239 167244	LRP15
+T1620	Protein 167380 167385	LRP15
+T1621	Protein 167449 167454	LRP15
+T1622	Protein 167569 167574	LRP15
+T1623	Protein 167741 167748	histone
+T1624	Protein 167810 167815	LRP15
+T1625	Protein 167938 167943	LRP15
+T1626	Protein 168047 168052	LRP15
+T1627	Protein 168120 168125	LRP15
+T1628	Protein 168186 168191	LRP15
+T1629	Protein 168262 168267	LRP15
+T1630	Protein 168332 168337	LRP15
+T1631	DNA_methylation 167021 167036	DNA methylation
+T1632	DNA_methylation 167267 167282	DNA methylation
+T1633	DNA_methylation 167402 167417	DNA methylation
+T1634	Entity 167557 167565	promoter
+T1635	DNA_methylation 167579 167594	hypermethylated
+T1636	DNA_methylation 168285 168296	methylation
+T1637	Entity 168304 168312	promoter
+E320	DNA_methylation:T1631 Theme:T1617
+E321	DNA_methylation:T1632 Theme:T1619
+M49	Speculation E321
+E322	DNA_methylation:T1633 Theme:T1620
+M50	Speculation E322
+E323	DNA_methylation:T1635 Theme:T1622 Site:T1634
+E324	DNA_methylation:T1636 Theme:T1629 Site:T1637
+T1638	Protein 168748 168754	SET7/9
+T1639	Protein 168872 168878	SET7/9
+T1640	Protein 169748 169754	Cdc34p
+T1641	Protein 169755 169764	ubiquitin
+T1642	Protein 169854 169857	p33
+T1643	Protein 170184 170187	p33
+T1644	Protein 170267 170276	ubiquitin
+T1645	Protein 170451 170454	p33
+T1646	Protein 170478 170487	ubiquitin
+T1647	Protein 170532 170538	Cdc34p
+T1648	Protein 170542 170551	ubiquitin
+T1649	Protein 170623 170626	p33
+T1650	Protein 170642 170648	Cdc34p
+T1651	Protein 170721 170727	Cdc34p
+T1652	Protein 170930 170936	Cdc34p
+T1653	Protein 170980 170986	Cdc34p
+T1654	Protein 171057 171066	ubiquitin
+T1655	Protein 171098 171104	Cdc34p
+T1656	Protein 171132 171138	Cdc34p
+T1657	Protein 171164 171167	p33
+T1658	Protein 171210 171213	p33
+T1659	Protein 171279 171282	p33
+T1660	Catalysis 169840 169853	ubiquitinates
+T1661	Ubiquitination 169840 169853	ubiquitinates
+T1662	Catalysis 171151 171163	ubiquitinate
+T1663	Ubiquitination 171151 171163	ubiquitinate
+T1664	Ubiquitination 171222 171235	ubiquitinated
+T1665	Ubiquitination 171261 171275	ubiquitination
+E325	Ubiquitination:T1661 Theme:T1642
+E326	Catalysis:T1660 Theme:E325 Cause:T1640
+E327	Ubiquitination:T1663 Theme:T1657
+E328	Catalysis:T1662 Theme:E327 Cause:T1656
+E329	Ubiquitination:T1664 Theme:T1658
+E330	Ubiquitination:T1665 Theme:T1659
+T1666	Protein 171378 171416	O6-Methylguanine-DNA-methyltransferase
+T1667	Protein 171663 171703	O(6)-Methylguanine-DNA-Methyltransferase
+T1668	Protein 171705 171709	MGMT
+T1669	Protein 171806 171810	MGMT
+T1670	Protein 171850 171854	MGMT
+T1671	Protein 171886 171890	MGMT
+T1672	Protein 171945 171949	MGMT
+T1673	Protein 172207 172211	MGMT
+T1674	Protein 172262 172266	MGMT
+T1675	Protein 172416 172420	MGMT
+*	Equiv T1667 T1668
+T1676	DNA_methylation 171782 171798	Hypermethylation
+T1677	Entity 171816 171824	promoter
+T1678	Entity 171896 171904	promoter
+T1679	DNA_methylation 171905 171916	methylation
+T1680	Entity 172212 172220	promoter
+T1681	DNA_methylation 172221 172237	hypermethylation
+E331	DNA_methylation:T1676 Theme:T1669 Site:T1677
+E332	DNA_methylation:T1679 Theme:T1671 Site:T1678
+M51	Speculation E332
+E333	DNA_methylation:T1681 Theme:T1673 Site:T1680
+M52	Negation E333
+*	Equiv T1682 T1683
+T1682	Protein 172987 173008	Histone deacetylase 6
+T1683	Protein 173010 173015	HDAC6
+T1684	Protein 173162 173167	HDAC6
+T1685	Protein 173719 173724	HDAC6
+T1686	Catalysis 174915 174934	auto-ubiquitination
+T1687	Ubiquitination 174915 174934	auto-ubiquitination
+E334	Ubiquitination:T1687 Theme:T1710
+E335	Catalysis:T1686 Theme:E334 Cause:T1710
+T1688	Protein 173795 173804	ubiquitin
+T1689	Protein 173812 173816	CHIP
+T1690	Protein 173821 173830	ubiquitin
+T1691	Protein 173865 173874	Ubiquitin
+T1692	Protein 173911 173920	ubiquitin
+T1693	Protein 174181 174185	CHIP
+T1694	Protein 174301 174305	CHIP
+T1695	Protein 174346 174351	UbcH5
+T1696	Protein 174356 174361	Ubc13
+T1697	Protein 174362 174367	Uev1a
+T1698	Protein 174397 174401	CHIP
+T1699	Protein 174457 174461	CHIP
+T1700	Protein 174492 174497	UbcH5
+T1701	Protein 174501 174506	Ubc13
+T1702	Protein 174507 174512	Uev1a
+T1703	Protein 174548 174557	ubiquitin
+T1704	Protein 174610 174614	CHIP
+T1705	Protein 174643 174649	UbcH5a
+T1706	Protein 174661 174665	CHIP
+T1707	Protein 174675 174680	UbcH5
+T1708	Protein 174685 174690	Ubc13
+T1709	Protein 174871 174875	CHIP
+T1710	Protein 174900 174904	CHIP
+T1711	Protein 174938 174943	UbcH5
+T1712	Protein 174955 174960	Ubc13
+T1713	Protein 174961 174966	Uev1a
+T1714	Protein 174977 174981	CHIP
+T1715	Protein 175021 175030	ubiquitin
+T1716	Protein 175034 175039	Ubc13
+T1717	Protein 175040 175045	Uev1a
+T1718	Protein 175047 175051	CHIP
+T1719	Protein 175109 175115	Ube2e2
+T1720	Protein 175130 175135	UbcH5
+T1721	Protein 175141 175146	Ubc13
+T1722	Protein 175218 175222	CHIP
+T1723	Protein 175223 175229	UbcH5a
+T1724	Protein 175345 175349	CHIP
+T1725	Protein 175524 175528	CHIP
+T1726	Protein 175582 175586	CHIP
+T1727	Protein 175607 175612	UbcH5
+T1728	Protein 175614 175620	Ube2e2
+T1729	Protein 175625 175630	Ubc13
+T1730	Protein 175631 175636	Uev1a
+T1731	Protein 175673 175678	Ubc13
+T1732	Protein 175679 175684	Uev1a
+T1733	Protein 175775 175779	CHIP
+T1734	Catalysis 175814 175833	self-ubiquitination
+T1735	Ubiquitination 175814 175833	self-ubiquitination
+T1736	Ubiquitination 176536 176555	auto-ubiquitination
+T1737	Catalysis 176945 176964	self-ubiquitination
+T1738	Ubiquitination 176945 176964	self-ubiquitination
+T1739	Catalysis 177104 177123	self-ubiquitination
+T1740	Ubiquitination 177104 177123	self-ubiquitination
+T1741	Catalysis 177179 177198	self-ubiquitination
+T1742	Ubiquitination 177179 177198	self-ubiquitination
+E336	Ubiquitination:T1735 Theme:T1743
+E337	Catalysis:T1734 Theme:E336 Cause:T1743
+E338	Ubiquitination:T1736 Theme:T1749
+E339	Ubiquitination:T1738 Theme:T1752
+E340	Catalysis:T1737 Theme:E339 Cause:T1752
+E341	Ubiquitination:T1740 Theme:T1753
+E342	Catalysis:T1739 Theme:E341 Cause:T1753
+E343	Ubiquitination:T1742 Theme:T1754
+E344	Catalysis:T1741 Theme:E343 Cause:T1754
+T1743	Protein 175806 175813	Nedd4-2
+T1744	Protein 175895 175904	Ubiquitin
+T1745	Protein 175962 175971	ubiquitin
+T1746	Protein 176052 176127	Nedd4 (neural-precursor-cell-expressed, developmentally down-regulated 4)-2
+T1747	Protein 176137 176146	ubiquitin
+T1748	Protein 176313 176322	ubiquitin
+T1749	Protein 176446 176453	Nedd4-2
+T1750	Protein 176656 176663	Nedd4-2
+T1751	Protein 176835 176842	Nedd4-2
+T1752	Protein 176937 176944	Nedd4-2
+T1753	Protein 177082 177089	Nedd4-2
+T1754	Protein 177202 177209	Nedd4-2
+T1755	Protein 177270 177277	Nedd4-2
+T1756	Protein 177377 177386	ubiquitin
+T1757	Protein 177504 177522	prolactin receptor
+T1758	Protein 177732 177741	prolactin
+T1759	Protein 177743 177746	PRL
+T1760	Protein 177871 177874	PRL
+T1761	Protein 177903 177915	PRL receptor
+T1762	Protein 177917 177921	PRLr
+T1763	Protein 177998 178002	PRLr
+T1764	Protein 178087 178091	PRLr
+T1765	Protein 178138 178142	PRLr
+T1766	Protein 178277 178281	PRLr
+T1767	Protein 178299 178303	PRLr
+T1768	Protein 178561 178565	PRLr
+T1769	Protein 178621 178630	ubiquitin
+T1770	Protein 178653 178657	PRLr
+T1771	Protein 178741 178745	PRLr
+T1772	Protein 178854 178858	PRLr
+T1773	Protein 178952 178956	PRLr
+*	Equiv T1758 T1759
+*	Equiv T1761 T1762
+T1774	Ubiquitination 177482 177500	Polyubiquitination
+T1775	Ubiquitination 178069 178083	Ubiquitination
+T1776	Ubiquitination 178304 178318	ubiquitination
+T1777	Ubiquitination 178472 178490	monoubiquitination
+T1778	Ubiquitination 178495 178513	polyubiquitination
+T1779	Ubiquitination 178658 178676	polyubiquitination
+T1780	Ubiquitination 178884 178898	ubiquitination
+E345	Ubiquitination:T1774 Theme:T1757
+E346	Ubiquitination:T1775 Theme:T1764
+E347	Ubiquitination:T1776 Theme:T1767
+E348	Ubiquitination:T1777 Theme:T1768
+E349	Ubiquitination:T1778 Theme:T1768
+E350	Ubiquitination:T1779 Theme:T1770
+E351	Ubiquitination:T1780 Theme:T1773
+T1781	Protein 179296 179299	CD4
+T1782	Protein 180109 180119	agglutinin
+T1783	Protein 180121 180124	PNA
+T1784	Protein 180281 180291	agglutinin
+T1785	Protein 180293 180296	GNA
+T1786	Protein 180746 180749	PNA
+T1787	Protein 180769 180772	GNA
+*	Equiv T1782 T1783
+*	Equiv T1784 T1785
+T1788	Protein 180995 180999	FMR1
+T1789	Protein 181120 181124	FMR1
+T1790	Protein 182014 182019	PRMT1
+T1791	Protein 182023 182028	PRMT3
+T1792	Entity 181039 181047	arginine
+T1793	Methylation 181048 181059	methylation
+T1794	Entity 181559 181567	arginine
+T1795	Methylation 181568 181579	methylation
+T1796	Entity 181596 181601	S 500
+T1797	Phosphorylation 181602 181617	phosphorylation
+T1798	Methylation 181960 181970	methylated
+T1799	Catalysis 181960 181970	methylated
+E352	Methylation:T1793 Theme:T1788 Site:T1792
+E353	Methylation:T1795 Theme:T1789 Site:T1794
+E354	Phosphorylation:T1797 Theme:T1789 Site:T1796
+E355	Methylation:T1798 Theme:T1789
+E356	Catalysis:T1799 Theme:E355 Cause:T1790
+E357	Methylation:T1798 Theme:T1789
+E358	Catalysis:T1799 Theme:E357 Cause:T1791
+*	Equiv T1802 T1803
+T1800	Ubiquitination 184075 184089	ubiquitination
+E359	Ubiquitination:T1800 Theme:T1808
+T1801	Protein 183187 183191	Nrf2
+T1802	Protein 183453 183496	nuclear factor erythroid 2-related factor 2
+T1803	Protein 183498 183502	Nrf2
+T1804	Protein 183620 183624	Nrf2
+T1805	Protein 183806 183810	Nrf2
+T1806	Protein 183981 183985	Nrf2
+T1807	Protein 184053 184057	Nrf2
+T1808	Protein 184070 184074	Nrf2
+T1809	Protein 184138 184142	Nrf2
+T1810	Protein 184173 184177	Nrf2
+T1811	Protein 184489 184493	Nrf2
+T1812	Protein 184548 184552	Nrf2
+T1813	Protein 184657 184661	Nrf2
+T1814	Protein 184887 184891	AspH
+T1815	Protein 184896 184900	SyrP
+T1816	Protein 185266 185270	AspH
+T1817	Protein 185319 185323	AspH
+T1818	Protein 185572 185576	SyrP
+T1819	Protein 185735 185739	TauD
+T1820	Protein 185758 185762	SyrP
+T1821	Protein 185858 185862	SyrE
+T1822	Protein 185989 185993	syrP
+T1823	Protein 186067 186071	aspH
+*	Equiv T1827 T1828
+*	Equiv T1829 T1830
+*	Equiv T1841 T1842
+T1824	Catalysis 186758 186766	promotes
+T1825	Ubiquitination 186771 186785	ubiquitination
+E360	Catalysis:T1824 Theme:E361 Cause:T1832
+E361	Ubiquitination:T1825 Theme:T1833
+T1826	Protein 186134 186138	CHIP
+T1827	Protein 186379 186410	inducible nitric oxide synthase
+T1828	Protein 186412 186416	iNOS
+T1829	Protein 186454 186458	CHIP
+T1830	Protein 186460 186505	carboxy terminus of Hsp70-interacting protein
+T1831	Protein 186656 186660	CHIP
+T1832	Protein 186729 186733	CHIP
+T1833	Protein 186749 186753	iNOS
+T1834	Protein 186867 186871	CHIP
+T1835	Protein 186881 186885	iNOS
+T1836	Protein 186936 186940	CHIP
+T1837	Protein 186950 186954	iNOS
+T1838	Protein 186987 186991	CHIP
+T1839	Protein 187008 187012	iNOS
+T1840	Protein 187078 187082	CHIP
+T1841	Protein 187128 187170	cystic fibrosis transconductance regulator
+T1842	Protein 187172 187176	CFTR
+T1843	Protein 187222 187231	ubiquitin
+T1844	Protein 187251 187255	CHIP
+T1845	Protein 187339 187343	iNOS
+T1846	Protein 187361 187382	histone deacetylase 6
+T1847	Protein 187503 187507	CHIP
+T1848	Protein 187534 187539	AZGP1
+T1849	Protein 187575 187582	histone
+T1850	Protein 187683 187711	alpha-2-glycoprotein 1, zinc
+T1851	Protein 187713 187718	AZGP1
+T1852	Protein 188040 188045	AZGP1
+T1853	Protein 188175 188180	AZGP1
+T1854	Protein 188290 188295	AZGP1
+T1855	Protein 188661 188668	histone
+T1856	Protein 188704 188709	AZGP1
+T1857	Protein 188824 188829	AZGP1
+T1858	Protein 189309 189314	AZGP1
+T1859	Protein 189470 189475	AZGP1
+T1860	Protein 189560 189565	AZGP1
+T1861	Protein 189782 189787	AZGP1
+T1862	Protein 189834 189839	AZGP1
+T1863	Protein 189945 189950	AZGP1
+T1864	Protein 190014 190021	histone
+*	Equiv T1850 T1851
+T1865	Entity 188636 188644	promoter
+T1866	DNA_methylation 188645 188656	methylation
+T1867	Deacetylation 188669 188682	deacetylation
+T1868	Acetylation 190022 190033	acetylation
+E362	DNA_methylation:T1866 Theme:T1856 Site:T1865
+E363	Deacetylation:T1867 Theme:T1855 Contextgene:T1856
+E364	Acetylation:T1868 Theme:T1864 Contextgene:T1863
+M53	Speculation E364
+*	Equiv T1890 T1891
+T1869	Acetylation 190326 190337	acetylation
+T1870	Acetylation 190357 190368	acetylation
+T1871	Phosphorylation 190408 190423	phosphorylation
+T1872	Catalysis 190761 190769	mediated
+T1873	Acetylation 190770 190781	acetylation
+T1874	Acetylation 190862 190873	acetylation
+T1875	Catalysis 190906 190915	catalyzes
+T1876	Dephosphorylation 190916 190933	dephosphorylation
+T1877	Phosphorylation 191174 191189	phosphorylation
+T1878	Acetylation 191194 191205	acetylation
+E365	Acetylation:T1869 Theme:T1883
+E366	Acetylation:T1870 Theme:T1884
+E367	Phosphorylation:T1871 Theme:T1885
+E368	Catalysis:T1872 Theme:E369 Cause:T1893
+E369	Acetylation:T1873 Theme:T1892
+E370	Acetylation:T1874 Theme:T1894
+E371	Catalysis:T1875 Theme:E372 Cause:T1895
+E372	Dephosphorylation:T1876 Theme:T1896
+E373	Phosphorylation:T1877 Theme:T1898
+E374	Acetylation:T1878 Theme:T1898
+T1879	Protein 190082 190087	STAT1
+T1880	Protein 190226 190233	Histone
+T1881	Protein 190263 190270	histone
+T1882	Protein 190295 190298	CBP
+T1883	Protein 190320 190325	STAT1
+T1884	Protein 190372 190377	STAT1
+T1885	Protein 190402 190407	STAT1
+T1886	Protein 190566 190571	STAT1
+T1887	Protein 190626 190631	STAT1
+T1888	Protein 190646 190649	CBP
+T1889	Protein 190651 190656	HDAC3
+T1890	Protein 190666 190701	T-cell protein tyrosine phosphatase
+T1891	Protein 190703 190708	TCP45
+T1892	Protein 190737 190742	STAT1
+T1893	Protein 190757 190760	CBP
+T1894	Protein 190856 190861	STAT1
+T1895	Protein 190893 190898	TCP45
+T1896	Protein 190949 190954	STAT1
+T1897	Protein 191020 191025	STAT1
+T1898	Protein 191098 191103	STAT1
+T1899	Protein 191234 191239	Sem1p
+T1900	Protein 191244 191249	Ubp6p
+T1901	Protein 191296 191307	histone H2B
+T1902	Protein 191327 191329	H3
+T1903	Protein 191344 191351	Histone
+T1904	Protein 191621 191626	Sem1p
+T1905	Protein 191656 191661	Ubp6p
+T1906	Protein 191763 191767	SEM1
+T1907	Protein 191772 191776	UBP6
+T1908	Protein 191873 191884	histone H2B
+T1909	Protein 191947 191957	histone H3
+T1910	Protein 191997 192002	Sem1p
+T1911	Protein 192007 192012	Ubp6p
+T1912	Protein 192259 192264	Sem1p
+T1913	Protein 192269 192274	Ubp6p
+T1914	Protein 192456 192461	Sem1p
+T1915	Protein 192466 192471	Ubp6p
+T1916	Protein 192561 192568	histone
+T1917	Ubiquitination 191308 191322	ubiquitination
+T1918	Acetylation 191330 191341	acetylation
+T1919	Ubiquitination 191859 191872	ubiquitinated
+T1920	Acetylation 191916 191926	acetylated
+T1921	Entity 191927 191936	lysine 14
+T1922	Entity 191941 191943	23
+E375	Ubiquitination:T1917 Theme:T1901
+E376	Acetylation:T1918 Theme:T1902
+E377	Ubiquitination:T1919 Theme:T1908
+E378	Acetylation:T1920 Theme:T1909 Site:T1921
+E379	Acetylation:T1920 Theme:T1909 Site:T1922
+*	Equiv T1936 T1937
+*	Equiv T1938 T1939
+*	Equiv T1942 T1943
+T1923	Ubiquitination 192755 192769	Ubiquitination
+T1924	Ubiquitination 193166 193180	ubiquitination
+T1925	Ubiquitination 193187 193201	ubiquitination
+T1926	Entity 193227 193239	Lys residues
+T1927	Catalysis 193278 193286	enhanced
+T1928	Ubiquitination 193458 193472	ubiquitination
+T1929	Catalysis 193563 193571	mediated
+T1930	Ubiquitination 193572 193586	ubiquitination
+T1931	Ubiquitination 193752 193770	monoubiquitination
+T1932	Ubiquitination 193920 193934	ubiquitination
+E380	Ubiquitination:T1923 Theme:T1933
+E381	Ubiquitination:T1924 Theme:T1940
+E382	Ubiquitination:T1925 Theme:T1941 Site:T1926
+E383	Catalysis:T1927 Theme:E382 Cause:T1942
+E384	Ubiquitination:T1928 Theme:T1947
+E385	Catalysis:T1929 Theme:E386 Cause:T1951
+E386	Ubiquitination:T1930 Theme:T1950
+E387	Ubiquitination:T1931 Theme:T1956
+E388	Ubiquitination:T1932 Theme:T1957
+T1933	Protein 192800 192804	APE1
+T1934	Protein 192823 192826	p53
+T1935	Protein 192827 192831	MDM2
+T1936	Protein 192852 192856	APE1
+T1937	Protein 192857 192862	Ref-1
+T1938	Protein 193019 193055	apurinic/apyrimidinic endonuclease 1
+T1939	Protein 193057 193061	APE1
+T1940	Protein 193141 193145	APE1
+T1941	Protein 193182 193186	APE1
+T1942	Protein 193290 193311	mouse double minute 2
+T1943	Protein 193313 193317	MDM2
+T1944	Protein 193344 193347	p53
+T1945	Protein 193421 193425	MDM2
+T1946	Protein 193426 193429	p53
+T1947	Protein 193453 193457	APE1
+T1948	Protein 193492 193495	p53
+T1949	Protein 193515 193519	MDM2
+T1950	Protein 193530 193534	APE1
+T1951	Protein 193558 193562	MDM2
+T1952	Protein 193607 193611	APE1
+T1953	Protein 193659 193663	APE1
+T1954	Protein 193665 193674	ubiquitin
+T1955	Protein 193675 193679	APE1
+T1956	Protein 193838 193842	APE1
+T1957	Protein 193907 193911	APE1
+*	Equiv T1959 T1960
+*	Equiv T1974 T1975
+*	Equiv T1962 T1963
+*	Equiv T1976 T1977
+*	Equiv T1966 T1967
+*	Equiv T1980 T1981
+*	Equiv T1969 T1970
+*	Equiv T1982 T1983
+T1958	Methylation 194601 194614	di-methylated
+T1959	Entity 194615 194623	lysine 4
+T1960	Entity 194641 194643	K4
+T1961	Methylation 194649 194663	tri-methylated
+T1962	Entity 194664 194672	lysine 4
+T1963	Entity 194690 194692	K4
+T1964	Acetylation 194700 194710	acetylated
+T1965	Methylation 194730 194745	mono-methylated
+T1966	Entity 194746 194754	lysine 4
+T1967	Entity 194772 194774	K4
+T1968	Methylation 194849 194863	tri-methylated
+T1969	Entity 194864 194873	lysine 27
+T1970	Entity 194891 194894	K27
+E389	Methylation:T1958 Theme:T1974 Site:T1959
+E390	Methylation:T1961 Theme:T1976 Site:T1962
+E391	Acetylation:T1964 Theme:T1978
+E392	Methylation:T1965 Theme:T1980 Site:T1966
+M54	Negation E392
+E393	Methylation:T1968 Theme:T1982 Site:T1969
+M55	Negation E393
+E394	Methylation:T1968 Theme:T1982 Site:T1969
+T1971	Protein 193938 193945	histone
+T1972	Protein 194239 194246	histone
+T1973	Protein 194301 194305	CTCF
+T1974	Protein 194627 194637	histone H3
+T1975	Protein 194639 194641	H3
+T1976	Protein 194676 194686	histone H3
+T1977	Protein 194688 194690	H3
+T1978	Protein 194711 194713	H3
+T1979	Protein 194715 194717	H3
+T1980	Protein 194758 194768	histone H3
+T1981	Protein 194770 194772	H3
+T1982	Protein 194877 194887	histone H3
+T1983	Protein 194889 194891	H3
+T1984	Protein 195001 195005	CTCF
+T1985	Protein 195228 195238	luciferase
+T1986	Entity 195363 195367	tail
+T1987	Acetylation 195368 195379	acetylation
+T1988	Acetylation 195435 195446	acetylation
+T1989	Entity 195450 195465	lysine residues
+T1990	Acetylation 195895 195906	acetylation
+T1991	Acetylation 195980 195991	acetylation
+T1992	Acetylation 196110 196121	acetylation
+T1993	Acetylation 196342 196353	acetylation
+E395	Acetylation:T1987 Theme:T1994 Site:T1986
+E396	Acetylation:T1988 Theme:T1995 Site:T1989
+E397	Acetylation:T1990 Theme:T1997
+E398	Acetylation:T1991 Theme:T1998
+E399	Acetylation:T1992 Theme:T1999
+M56	Speculation E399
+E400	Acetylation:T1993 Theme:T1999
+T1994	Protein 195383 195391	histones
+T1995	Protein 195506 195514	histones
+T1996	Protein 195707 195714	histone
+T1997	Protein 195887 195894	histone
+T1998	Protein 195972 195979	histone
+T1999	Protein 196143 196151	histones
+T2000	Protein 196186 196188	H3
+T2001	Protein 196193 196195	H4
+T2002	Protein 196450 196454	Hdm2
+T2003	Protein 196460 196469	ubiquitin
+T2004	Protein 196480 196484	Ku70
+T2005	Protein 196485 196488	Akt
+T2006	Protein 196526 196530	Hdm2
+T2007	Protein 196541 196545	Ku70
+T2008	Protein 196637 196641	Ku70
+T2009	Protein 196662 196665	Bax
+T2010	Protein 196699 196708	ubiquitin
+T2011	Protein 196710 196712	Ub
+T2012	Protein 196749 196753	Ku70
+T2013	Protein 196766 196769	Bax
+T2014	Protein 196804 196808	Hdm2
+T2015	Protein 196880 196884	Ku70
+T2016	Protein 196894 196898	Hdm2
+T2017	Protein 196953 196957	Ku70
+T2018	Protein 197000 197004	Ku70
+T2019	Protein 197009 197013	Hdm2
+T2020	Protein 197138 197142	Hdm2
+T2021	Protein 197144 197178	Vascular endothelial growth factor
+T2022	Protein 197180 197184	VEGF
+T2023	Protein 197394 197398	VEGF
+T2024	Protein 197419 197423	Ku70
+T2025	Protein 197515 197519	Hdm2
+T2026	Protein 197552 197556	Hdm2
+T2027	Protein 197599 197602	p53
+T2028	Protein 197618 197622	VEGF
+T2029	Protein 197659 197663	Hdm2
+T2030	Protein 197696 197700	Ku70
+T2031	Protein 197795 197799	Ku70
+T2032	Protein 197841 197845	Ku70
+T2033	Protein 197930 197934	Hdm2
+T2034	Protein 197940 197944	Ku70
+T2035	Protein 197945 197947	Ub
+T2036	Protein 197977 197980	Bax
+T2037	Protein 198034 198038	Ku70
+T2038	Protein 198071 198075	Hdm2
+*	Equiv T2010 T2011
+*	Equiv T2021 T2022
+T2039	Catalysis 196867 196879	ubiquitinate
+T2040	Ubiquitination 196867 196879	ubiquitinate
+T2041	Phosphorylation 197496 197511	phosphorylation
+E401	Catalysis:T2039 Theme:E402 Cause:T2014
+E402	Ubiquitination:T2040 Theme:T2015
+E403	Phosphorylation:T2041 Theme:T2025
+*	Equiv T2045 T2046
+*	Equiv T2047 T2048
+*	Equiv T2053 T2054
+T2042	Ubiquitination 198801 198815	ubiquitination
+E404	Ubiquitination:T2042 Theme:T2056
+T2043	Protein 198099 198105	TRIM21
+T2044	Protein 198130 198153	IFN regulatory factor 3
+T2045	Protein 198299 198322	IFN regulatory factor 3
+T2046	Protein 198324 198328	IRF3
+T2047	Protein 198418 198424	TRIM21
+T2048	Protein 198426 198456	tripartite motif-containing 21
+T2049	Protein 198502 198506	IRF3
+T2050	Protein 198568 198574	TRIM21
+T2051	Protein 198612 198616	IRF3
+T2052	Protein 198660 198666	TRIM21
+T2053	Protein 198707 198711	Pin1
+T2054	Protein 198713 198768	peptidyl-prolyl cis/trans isomerase, NIMA-interacting 1
+T2055	Protein 198774 198778	IRF3
+T2056	Protein 198796 198800	IRF3
+T2057	Protein 198875 198881	TRIM21
+T2058	Protein 198916 198920	IRF3
+T2059	Protein 199062 199068	TRIM21
+T2060	Protein 199091 199097	TRIM21
+T2061	Protein 199127 199131	IRF3
+T2062	Protein 199383 199386	p65
+T2063	Protein 199410 199416	COMMD1
+T2064	Protein 199864 199867	p65
+T2065	Protein 199877 199899	Tumour necrosis factor
+T2066	Protein 199927 199930	p65
+T2067	Protein 199959 199965	COMMD1
+T2068	Protein 199970 199978	cullin 2
+T2069	Protein 200007 200016	ubiquitin
+T2070	Protein 200042 200045	p65
+T2071	Protein 200074 200077	p65
+T2072	Protein 200105 200108	p65
+T2073	Protein 200163 200166	p65
+T2074	Protein 200239 200244	Icam1
+T2075	Protein 200359 200362	p65
+T2076	Protein 200367 200373	COMMD1
+T2077	Protein 200381 200386	Icam1
+T2078	Protein 200416 200419	p65
+T2079	Protein 200439 200448	ubiquitin
+T2080	Protein 200497 200500	p65
+T2081	Phosphorylation 199354 199369	Phosphorylation
+T2082	Entity 199390 199396	Ser468
+T2083	Catalysis 199417 199426	dependent
+T2084	Ubiquitination 199427 199441	ubiquitination
+T2085	Phosphorylation 199908 199923	phosphorylation
+T2086	Entity 199934 199940	Ser468
+T2087	Ubiquitination 200046 200060	ubiquitination
+T2088	Ubiquitination 200109 200123	ubiquitination
+T2089	Entity 200337 200343	Ser468
+T2090	Phosphorylation 200344 200358	phosphorylated
+T2091	Phosphorylation 200397 200412	Phosphorylation
+T2092	Entity 200423 200429	Ser468
+E405	Phosphorylation:T2081 Theme:T2062 Site:T2082
+E406	Catalysis:T2083 Theme:E407 Cause:T2063
+E407	Ubiquitination:T2084 Theme:T2062
+E408	Phosphorylation:T2085 Theme:T2066 Site:T2086
+E409	Ubiquitination:T2087 Theme:T2070
+E410	Ubiquitination:T2088 Theme:T2072
+E411	Phosphorylation:T2090 Theme:T2075 Site:T2089
+E412	Phosphorylation:T2091 Theme:T2078 Site:T2092
+T2093	Protein 200589 200594	PDCD5
+T2094	Protein 200610 200615	Tip60
+T2095	Protein 200711 200716	Tip60
+T2096	Protein 200722 200729	histone
+T2097	Protein 200857 200880	programmed cell death 5
+T2098	Protein 200882 200887	PDCD5
+T2099	Protein 200934 200939	Tip60
+T2100	Protein 200970 200975	Tip60
+T2101	Protein 201032 201037	PDCD5
+T2102	Protein 201042 201047	Tip60
+T2103	Protein 201106 201111	PDCD5
+T2104	Protein 201137 201142	Tip60
+T2105	Protein 201147 201152	Tip60
+T2106	Protein 201163 201170	histone
+T2107	Protein 201238 201243	PDCD5
+T2108	Protein 201254 201259	Tip60
+T2109	Protein 201290 201293	p53
+T2110	Protein 201318 201321	p53
+T2111	Protein 201379 201382	Bax
+T2112	Protein 201444 201449	PDCD5
+T2113	Protein 201450 201455	Tip60
+T2114	Protein 201567 201572	PDCD5
+T2115	Protein 201576 201581	Tip60
+T2116	Protein 201661 201666	PDCD5
+T2117	Protein 201734 201739	Tip60
+T2118	Protein 201778 201783	PDCD5
+T2119	Protein 201812 201817	Tip60
+T2120	Protein 201873 201878	PDCD5
+T2121	Protein 201922 201927	Tip60
+T2122	Protein 201968 201973	PDCD5
+T2123	Protein 201989 201994	Tip60
+*	Equiv T2097 T2098
+T2124	Catalysis 201153 201162	dependent
+T2125	Acetylation 201171 201182	acetylation
+T2126	Catalysis 201260 201269	dependent
+T2127	Entity 201270 201274	K120
+T2128	Acetylation 201275 201286	acetylation
+E413	Catalysis:T2124 Theme:E414 Cause:T2105
+E414	Acetylation:T2125 Theme:T2106
+E415	Catalysis:T2126 Theme:E416 Cause:T2108
+E416	Acetylation:T2128 Theme:T2109 Site:T2127
+T2129	Catalysis 202430 202438	promotes
+T2130	Ubiquitination 202445 202459	ubiquitination
+T2131	Catalysis 202713 202721	promotes
+T2132	Ubiquitination 202726 202740	ubiquitination
+E417	Catalysis:T2129 Theme:E419 Cause:T2136
+E418	Catalysis:T2129 Theme:E420 Cause:T2136
+E419	Ubiquitination:T2130 Theme:T2137
+E420	Ubiquitination:T2130 Theme:T2138
+E421	Catalysis:T2131 Theme:E422 Cause:T2144
+E422	Ubiquitination:T2132 Theme:T2145
+T2133	Protein 202029 202033	MDM2
+T2134	Protein 202053 202056	p53
+T2135	Protein 202322 202331	ubiquitin
+T2136	Protein 202395 202399	MDM2
+T2137	Protein 202409 202414	FOXO1
+T2138	Protein 202419 202425	FOXO3A
+T2139	Protein 202535 202538	AKT
+T2140	Protein 202575 202579	MDM2
+T2141	Protein 202592 202596	MDM2
+T2142	Protein 202634 202638	MDM2
+T2143	Protein 202701 202706	FOXO1
+T2144	Protein 202708 202712	MDM2
+T2145	Protein 202744 202749	FOXO1
+T2146	Protein 202850 202856	FOXO3A
+T2147	Protein 202975 202978	p53
+T2148	Protein 203001 203004	p53
+T2149	Protein 203053 203057	MDM2
+T2150	Protein 203098 203104	FOXO3A
+T2151	Protein 203130 203134	MDM2
+T2152	Protein 203146 203155	ubiquitin
+T2153	Protein 203181 203184	p53
+T2154	Protein 203255 203259	Nat4
+T2155	Protein 203346 203358	histones H2A
+T2156	Protein 203363 203365	H4
+T2157	Protein 203368 203372	Nat4
+T2158	Protein 203390 203394	NatD
+T2159	Protein 203447 203459	histones H2A
+T2160	Protein 203464 203466	H4
+T2161	Protein 203672 203682	histone H4
+T2162	Protein 203692 203710	iso-1-cytochrome c
+T2163	Protein 203750 203754	NatD
+T2164	Protein 203823 203833	histone H4
+T2165	Protein 203961 203965	NatA
+T2166	Protein 203967 203971	NatB
+T2167	Protein 203977 203981	NatC
+T2168	Protein 204104 204108	NatD
+T2169	Protein 204143 204147	nat4
+T2170	Protein 204280 204284	nat4
+T2171	Protein 204384 204394	histone H4
+T2172	Protein 204503 204505	H4
+T2173	Protein 204561 204571	histone H4
+T2174	Protein 204639 204652	histone H2A.Z
+*	Equiv T2157 T2158
+T2175	Acetylation 203420 203429	acetylate
+T2176	Catalysis 203420 203429	acetylate
+T2177	Entity 203434 203443	N termini
+T2178	Acetylation 203735 203746	acetylation
+T2179	Catalysis 203735 203746	acetylation
+T2180	Entity 203809 203819	N terminus
+T2181	Entity 204424 204441	N-terminal serine
+T2182	Acetylation 204442 204453	acetylation
+T2183	Acetylation 204484 204495	acetylation
+T2184	Entity 204513 204520	lysines
+T2185	Entity 204528 204545	N-terminal serine
+T2186	Acetylation 204546 204557	acetylation
+E423	Acetylation:T2175 Theme:T2159 Site:T2177
+E424	Catalysis:T2176 Theme:E423 Cause:T2157
+E425	Acetylation:T2175 Theme:T2160 Site:T2177
+E426	Catalysis:T2176 Theme:E425 Cause:T2157
+E427	Acetylation:T2178 Theme:T2164 Site:T2180
+E428	Catalysis:T2179 Theme:E427 Cause:T2163
+E429	Acetylation:T2182 Theme:T2172 Site:T2181
+M57	Negation E429
+E430	Acetylation:T2183 Theme:T2172 Site:T2184
+M58	Negation E430
+E431	Acetylation:T2186 Theme:T2173 Site:T2185
+*	Equiv T2189 T2190
+*	Equiv T2191 T2192
+T2187	Acetylation 205459 205470	acetylation
+E432	Acetylation:T2187 Theme:T2202 Contextgene:T2203
+T2188	Protein 204685 204696	Ah receptor
+T2189	Protein 204968 204993	aryl hydrocarbon receptor
+T2190	Protein 204995 204998	AHR
+T2191	Protein 205087 205102	serum amyloid A
+T2192	Protein 205104 205107	Saa
+T2193	Protein 205116 205119	AHR
+T2194	Protein 205202 205205	AHR
+T2195	Protein 205277 205280	AHR
+T2196	Protein 205290 205293	Saa
+T2197	Protein 205318 205321	AHR
+T2198	Protein 205357 205361	Saa3
+T2199	Protein 205374 205377	AHR
+T2200	Protein 205412 205416	RELA
+T2201	Protein 205421 205431	C/EBP/beta
+T2202	Protein 205451 205458	histone
+T2203	Protein 205474 205478	Saa3
+T2204	Protein 205529 205547	C-reactive protein
+T2205	Protein 205552 205563	haptoglobin
+T2206	Protein 205611 205614	AHR
+T2207	Protein 205671 205674	AHR
+T2208	Protein 205814 205817	Saa
+T2209	Protein 205866 205869	AHR
+T2210	Protein 205951 205954	AHR
+T2211	Protein 205995 205998	Saa
+T2212	Protein 206051 206054	AHR
+T2213	Protein 206153 206156	AHR
+T2214	Protein 206208 206217	Ubiquitin
+T2215	Protein 206317 206326	ubiquitin
+T2216	Protein 206330 206339	ubiquitin
+T2217	Acetylation 207065 207077	acetylations
+T2218	Acetylation 208170 208180	acetylated
+T2219	Acetylation 208330 208340	acetylated
+T2220	Acetylation 208848 208858	acetylated
+E433	Acetylation:T2217 Theme:T2221
+E434	Acetylation:T2218 Theme:T2226
+E435	Acetylation:T2219 Theme:T2227
+E436	Acetylation:T2220 Theme:T2229
+T2221	Protein 207057 207064	Histone
+T2222	Protein 207824 207828	TRF4
+T2223	Protein 207873 207879	SNAP50
+T2224	Protein 207886 207897	H3 histones
+T2225	Protein 208042 208048	SNAP50
+T2226	Protein 208181 208191	H3 histone
+T2227	Protein 208341 208343	H3
+T2228	Protein 208547 208553	SNAP50
+T2229	Protein 208762 208773	H3 histones
+T2230	Protein 208994 209017	epidermal growth factor
+T2231	Protein 209192 209215	epidermal growth factor
+T2232	Protein 209218 209221	EGF
+T2233	Protein 209322 209325	EGF
+T2234	Protein 209580 209584	KEX2
+T2235	Protein 209666 209669	EGF
+T2236	Protein 209782 209786	KEX2
+T2237	Protein 209865 209869	KEX2
+*	Equiv T2231 T2232
+*	Equiv T2240 T2241
+T2238	Protein 210081 210085	CYLD
+T2239	Protein 210250 210259	ubiquitin
+T2240	Protein 210521 210536	cylindromatosis
+T2241	Protein 210538 210542	CYLD
+T2242	Protein 210723 210732	ubiquitin
+T2243	Protein 210909 210918	ubiquitin
+T2244	Protein 210927 210931	CYLD
+T2245	Protein 211030 211034	CYLD
+T2246	Protein 211212 211216	CYLD
+T2247	Protein 211274 211279	LYRIC
+T2248	Protein 211280 211285	AEG-1
+T2249	Protein 211410 211415	LYRIC
+T2250	Protein 211416 211421	AEG-1
+T2251	Protein 211583 211588	LYRIC
+T2252	Protein 211589 211594	AEG-1
+T2253	Protein 211670 211675	LYRIC
+T2254	Protein 211676 211681	AEG-1
+T2255	Protein 211974 211979	LYRIC
+T2256	Protein 211980 211985	AEG-1
+T2257	Protein 212000 212025	Green fluorescent protein
+T2258	Protein 212103 212108	LYRIC
+T2259	Protein 212109 212114	AEG-1
+T2260	Protein 212129 212154	green fluorescent protein
+T2261	Protein 212283 212288	LYRIC
+T2262	Protein 212289 212294	AEG-1
+T2263	Protein 212396 212401	LYRIC
+T2264	Protein 212402 212407	AEG-1
+T2265	Protein 212894 212899	LYRIC
+T2266	Protein 212900 212905	AEG-1
+T2267	Protein 212925 212934	ubiquitin
+T2268	Protein 213000 213005	LYRIC
+T2269	Protein 213006 213011	AEG-1
+T2270	Protein 213130 213135	LYRIC
+T2271	Protein 213136 213141	AEG-1
+T2272	Protein 213199 213208	ubiquitin
+*	Equiv T2247 T2248
+*	Equiv T2249 T2250
+*	Equiv T2251 T2252
+*	Equiv T2253 T2254
+*	Equiv T2255 T2256
+*	Equiv T2258 T2259
+*	Equiv T2261 T2262
+*	Equiv T2263 T2264
+*	Equiv T2265 T2266
+*	Equiv T2268 T2269
+*	Equiv T2270 T2271
+T2273	Ubiquitination 211339 211355	ubiquitinylation
+T2274	Entity 212858 212870	NLS-2 region
+T2275	Ubiquitination 212913 212921	modified
+T2276	Ubiquitination 213187 213195	modified
+E437	Ubiquitination:T2273 Theme:T2247
+E438	Ubiquitination:T2275 Theme:T2265 Site:T2274
+E439	Ubiquitination:T2276 Theme:T2270
+T2277	Protein 213278 213303	Small Heterodimer Partner
+T2278	Protein 213305 213308	SHP
+T2279	Protein 213324 213333	ubiquitin
+T2280	Protein 213360 213385	Small Heterodimer Partner
+T2281	Protein 213387 213390	SHP
+T2282	Protein 213524 213527	SHP
+T2283	Protein 213656 213659	SHP
+T2284	Protein 213728 213731	SHP
+T2285	Protein 213817 213820	SHP
+T2286	Protein 213859 213868	ubiquitin
+T2287	Protein 213941 213968	fibroblast growth factor 19
+T2288	Protein 213970 213975	FGF19
+T2289	Protein 214008 214011	SHP
+T2290	Protein 214118 214121	SHP
+T2291	Protein 214302 214305	SHP
+T2292	Protein 214358 214361	SHP
+T2293	Protein 214412 214415	SHP
+T2294	Protein 214441 214444	SHP
+T2295	Protein 214584 214587	SHP
+T2296	Protein 214678 214681	SHP
+*	Equiv T2277 T2278
+*	Equiv T2280 T2281
+*	Equiv T2287 T2288
+T2297	Ubiquitination 214126 214138	ubiquitinate
+T2298	Entity 214143 214149	Lys122
+T2299	Entity 214154 214160	Lys123
+T2300	Phosphorylation 214310 214324	phosphorylated
+T2301	Entity 214328 214333	Ser26
+E440	Ubiquitination:T2297 Theme:T2290 Site:T2298
+E441	Ubiquitination:T2297 Theme:T2290 Site:T2299
+E442	Phosphorylation:T2300 Theme:T2291 Site:T2301
+T2302	Ubiquitination 215339 215357	poly-ubiquitinated
+E443	Ubiquitination:T2302 Theme:T2306
+T2303	Protein 214791 214815	transcription factor IIB
+T2304	Protein 215075 215080	TFIIB
+T2305	Protein 215186 215191	TFIIB
+T2306	Protein 215328 215333	TFIIB
+T2307	Protein 215503 215508	TFIIB
+T2308	Protein 215553 215562	ubiquitin
+T2309	Protein 215607 215613	FANCD2
+T2310	Protein 215634 215638	H2AX
+T2311	Protein 215660 215665	BRCA1
+T2312	Protein 217052 217058	FANCD2
+T2313	Protein 217145 217150	BRCA1
+T2314	Protein 217205 217214	gammaH2AX
+T2315	Protein 217352 217357	RPA34
+T2316	Ubiquitination 215614 215632	monoubiquitination
+T2317	Phosphorylation 215639 215654	phosphorylation
+T2318	Phosphorylation 215666 215681	phosphorylation
+T2319	Ubiquitination 217059 217077	monoubiquitination
+T2320	Phosphorylation 217151 217166	phosphorylation
+T2321	Entity 217170 217177	Ser1524
+T2322	Phosphorylation 217332 217351	hyperphosphorylated
+E444	Ubiquitination:T2316 Theme:T2309
+E445	Phosphorylation:T2317 Theme:T2310
+E446	Phosphorylation:T2318 Theme:T2311
+E447	Ubiquitination:T2319 Theme:T2312
+E448	Phosphorylation:T2320 Theme:T2313 Site:T2321
+E449	Phosphorylation:T2322 Theme:T2315
+T2323	Protein 217762 217766	Atg5
+T2324	Protein 218789 218795	LAMP-1
+T2325	Protein 218941 218947	LAMP-1
+T2326	Protein 219059 219063	Atg5
+T2327	Protein 219125 219131	LAMP-1
+T2328	Protein 219191 219196	ESX-1
+T2329	Protein 219308 219313	ESX-1
+T2330	Ubiquitination 220195 220209	ubiquitination
+T2331	Ubiquitination 220500 220514	ubiquitination
+E450	Ubiquitination:T2330 Theme:T2341
+E451	Ubiquitination:T2331 Theme:T2347
+T2332	Protein 219745 219749	CHIP
+T2333	Protein 219766 219775	ubiquitin
+T2334	Protein 219786 219791	Runx1
+T2335	Protein 219794 219799	Runx1
+T2336	Protein 219916 219921	Runx1
+T2337	Protein 219988 219992	CHIP
+T2338	Protein 220057 220062	Stub1
+T2339	Protein 220090 220095	Runx1
+T2340	Protein 220167 220171	CHIP
+T2341	Protein 220189 220194	Runx1
+T2342	Protein 220238 220247	ubiquitin
+T2343	Protein 220297 220301	CHIP
+T2344	Protein 220326 220331	Runx1
+T2345	Protein 220416 220420	CHIP
+T2346	Protein 220437 220446	ubiquitin
+T2347	Protein 220469 220474	Runx1
+T2348	Protein 220574 220579	RIG-I
+T2349	Protein 221020 221025	RIG-I
+T2350	Protein 221030 221035	MDA-5
+T2351	Protein 221075 221080	RIG-I
+T2352	Protein 221275 221280	RIG-I
+T2353	Protein 221509 221514	SFRS9
+T2354	Protein 221515 221521	SRP30C
+T2355	Protein 221534 221539	SFRS9
+T2356	Protein 221540 221546	SRp30c
+T2357	Protein 221764 221769	SFRS9
+T2358	Protein 221786 221791	PRMT1
+T2359	Protein 222049 222052	GFP
+T2360	Protein 222053 222058	SFRS9
+T2361	Protein 222164 222167	GFP
+T2362	Protein 222168 222173	SFRS9
+T2363	Protein 222315 222320	SFRS9
+*	Equiv T2353 T2354
+*	Equiv T2355 T2356
+T2364	Entity 221441 221449	Arginine
+T2365	Methylation 221450 221461	methylation
+T2366	Catalysis 221792 221800	mediated
+T2367	Entity 221801 221809	arginine
+T2368	Methylation 221810 221821	methylation
+T2369	Entity 222259 222267	arginine
+T2370	Methylation 222268 222279	methylation
+E452	Methylation:T2365 Theme:T2353 Site:T2364
+E453	Catalysis:T2366 Theme:E454 Cause:T2358
+E454	Methylation:T2368 Theme:T2357 Site:T2367
+E455	Methylation:T2370 Theme:T2363 Site:T2369
+T2371	DNA_methylation 222734 222745	methylation
+E456	DNA_methylation:T2371 Theme:T2374
+M59	Speculation E456
+E457	DNA_methylation:T2371 Theme:T2375
+M60	Speculation E457
+E458	DNA_methylation:T2371 Theme:T2376
+M61	Speculation E458
+T2372	Protein 222412 222437	Prostate specific antigen
+T2373	Protein 222561 222586	prostate specific antigen
+T2374	Protein 222760 222765	GSTP1
+T2375	Protein 222767 222775	RARbeta2
+T2376	Protein 222780 222783	APC
+T2377	Protein 223096 223121	prostate specific antigen
+T2378	Protein 223559 223584	prostate specific antigen
+T2379	Protein 223956 223981	prostate specific antigen
+T2380	Protein 224042 224067	prostate specific antigen
+*	Equiv T2400 T2401
+T2381	Catalysis 224453 224463	catalyzing
+T2382	Ubiquitination 224469 224483	ubiquitination
+T2383	Ubiquitination 225296 225310	ubiquitination
+E459	Catalysis:T2381 Theme:E460 Cause:T2385
+E460	Ubiquitination:T2382 Theme:T2386
+E461	Ubiquitination:T2383 Theme:T2404
+T2384	Protein 224387 224396	ubiquitin
+T2385	Protein 224404 224408	AIP2
+T2386	Protein 224464 224468	EGR2
+T2387	Protein 224489 224498	ubiquitin
+T2388	Protein 224632 224641	ubiquitin
+T2389	Protein 224661 224666	c-Cbl
+T2390	Protein 224668 224673	Cbl-b
+T2391	Protein 224675 224680	GRAIL
+T2392	Protein 224682 224686	Itch
+T2393	Protein 224692 224697	Nedd4
+T2394	Protein 224802 224806	AIP2
+T2395	Protein 224869 224873	AIP2
+T2396	Protein 224932 224945	interleukin-2
+T2397	Protein 224998 225002	AIP2
+T2398	Protein 225031 225040	ubiquitin
+T2399	Protein 225065 225069	EGR2
+T2400	Protein 225138 225148	Fas ligand
+T2401	Protein 225150 225154	FasL
+T2402	Protein 225222 225226	AIP2
+T2403	Protein 225276 225280	EGR2
+T2404	Protein 225291 225295	EGR2
+T2405	Protein 225315 225319	FasL
+T2406	Protein 225382 225386	AIP2
+T2407	Protein 225444 225448	EGR2
+T2408	Protein 225458 225462	FasL
+T2409	Protein 225482 225491	ubiquitin
+T2410	Protein 225523 225530	histone
+T2411	Protein 225554 225557	H2B
+T2412	Protein 225616 225618	H3
+T2413	Protein 225713 225715	H3
+T2414	Protein 225734 225738	Dot1
+T2415	Protein 225841 225843	H3
+T2416	Protein 225947 225949	H3
+T2417	Protein 225987 225989	H3
+T2418	Protein 226104 226106	H3
+T2419	Protein 226131 226133	H3
+T2420	Protein 226189 226192	H2B
+T2421	Protein 226232 226235	H2B
+T2422	Protein 226275 226278	H2B
+T2423	Protein 226369 226371	H3
+T2424	Protein 226395 226397	H3
+T2425	Protein 226488 226490	H3
+T2426	Protein 226538 226542	NRM1
+T2427	Protein 226547 226551	WHI3
+T2428	Protein 226686 226688	H3
+T2429	Ubiquitination 225558 225576	monoubiquitination
+T2430	Entity 225618 225621	K79
+T2431	Methylation 225622 225635	dimethylation
+T2432	Entity 225715 225718	K79
+T2433	Methylation 225719 225730	methylation
+T2434	Catalysis 225719 225730	methylation
+T2435	Entity 225843 225846	K79
+T2436	Methylation 225847 225850	di-
+T2437	Methylation 225859 225873	trimethylation
+T2438	Entity 225949 225952	K79
+T2439	Methylation 225953 225966	dimethylation
+T2440	Entity 225989 225992	K79
+T2441	Methylation 225993 225996	di-
+T2442	Methylation 226001 226015	trimethylation
+T2443	Entity 226106 226109	K79
+T2444	Methylation 226110 226123	dimethylation
+T2445	Entity 226133 226136	K79
+T2446	Methylation 226137 226151	trimethylation
+T2447	Ubiquitination 226167 226185	monoubiquitination
+T2448	Entity 226235 226239	K123
+T2449	Ubiquitination 226240 226258	monoubiquitination
+T2450	Entity 226278 226282	K123
+T2451	Ubiquitination 226283 226301	monoubiquitination
+T2452	Entity 226490 226493	K79
+T2453	Methylation 226494 226507	dimethylation
+E462	Ubiquitination:T2429 Theme:T2411
+E463	Methylation:T2431 Theme:T2412 Site:T2430
+E464	Methylation:T2433 Theme:T2413 Site:T2432
+E465	Catalysis:T2434 Theme:E464 Cause:T2414
+E466	Methylation:T2436 Theme:T2415 Site:T2435
+E467	Methylation:T2437 Theme:T2415 Site:T2435
+M62	Negation E467
+E468	Methylation:T2439 Theme:T2416 Site:T2438
+E469	Methylation:T2441 Theme:T2417 Site:T2440
+E470	Methylation:T2442 Theme:T2417 Site:T2440
+E471	Methylation:T2444 Theme:T2418 Site:T2443
+E472	Methylation:T2446 Theme:T2419 Site:T2445
+E473	Ubiquitination:T2447 Theme:T2420
+E474	Ubiquitination:T2449 Theme:T2421 Site:T2448
+E475	Ubiquitination:T2451 Theme:T2422 Site:T2450
+E476	Methylation:T2453 Theme:T2425 Site:T2452
+*	Equiv T2458 T2459
+*	Equiv T2460 T2461
+T2454	Protein 226750 226760	hypocretin
+T2455	Protein 226824 226834	hypocretin
+T2456	Protein 226996 227006	hypocretin
+T2457	Protein 227455 227464	ubiquitin
+T2458	Protein 227499 227530	allograft inflammatory factor 1
+T2459	Protein 227532 227536	AIF1
+T2460	Protein 227571 227602	glial fibrillary acidic protein
+T2461	Protein 227604 227608	GFAP
+T2462	Protein 227645 227655	hypocretin
+T2463	Protein 227784 227787	tau
+T2464	Protein 227789 227804	alpha-synuclein
+T2465	Protein 227806 227818	amyloid beta
+T2466	Protein 227824 227830	TDP-43
+T2467	Protein 227842 227852	Hypocretin
+T2468	Protein 227990 228000	hypocretin
+T2469	Protein 228121 228131	hypocretin
+T2470	Protein 228179 228183	AIF1
+T2471	Protein 228188 228192	GFAP
+T2472	Protein 228284 228294	hypocretin
+T2473	Catalysis 228899 228907	mediates
+T2474	Entity 228908 228911	K63
+T2475	Ubiquitination 228919 228937	polyubiquitination
+E477	Catalysis:T2473 Theme:E478 Cause:T2478
+E478	Ubiquitination:T2475 Theme:T2481 Site:T2474
+T2476	Protein 228589 228594	TRAF2
+T2477	Protein 228709 228714	TRAF2
+T2478	Protein 228856 228861	TRAF2
+T2479	Protein 228867 228876	ubiquitin
+T2480	Protein 228889 228894	TRAF6
+T2481	Protein 228941 228945	RIP1
+T2482	Protein 228967 228975	TNFalpha
+T2483	Protein 229092 229097	TRAF2
+T2484	Protein 229116 229121	TRAF2
+T2485	Protein 229170 229175	TRAF6
+T2486	Protein 229275 229280	Ubc13
+T2487	Protein 229422 229427	TRAF2
+T2488	Protein 229466 229471	TRAF2
+T2489	Protein 229494 229499	Ubc13
+T2490	Protein 229639 229644	TRAF2
+T2491	Protein 229648 229656	TNFalpha
+T2492	Protein 229689 229694	TRAF2
+T2493	Protein 229740 229749	ubiquitin
+T2494	DNA_methylation 229806 229817	methylation
+T2495	DNA_methylation 229901 229912	methylation
+T2496	DNA_methylation 230276 230286	methylated
+T2497	Entity 230327 230340	Several sites
+T2498	DNA_methylation 230370 230380	methylated
+T2499	DNA_methylation 230499 230509	methylated
+T2500	DNA_methylation 230631 230642	methylation
+E479	DNA_methylation:T2494 Theme:T2501
+M63	Speculation E479
+E480	DNA_methylation:T2494 Theme:T2502
+M64	Speculation E480
+E481	DNA_methylation:T2494 Theme:T2503
+M65	Speculation E481
+E482	DNA_methylation:T2495 Theme:T2504
+M66	Speculation E482
+E483	DNA_methylation:T2495 Theme:T2505
+M67	Speculation E483
+E484	DNA_methylation:T2495 Theme:T2506
+M68	Speculation E484
+E485	DNA_methylation:T2496 Theme:T2507
+E486	DNA_methylation:T2496 Theme:T2508
+E487	DNA_methylation:T2498 Theme:T2507 Site:T2497
+E488	DNA_methylation:T2498 Theme:T2508 Site:T2497
+E489	DNA_methylation:T2499 Theme:T2509
+E490	DNA_methylation:T2500 Theme:T2504
+E491	DNA_methylation:T2500 Theme:T2505
+E492	DNA_methylation:T2500 Theme:T2506
+T2501	Protein 229830 229839	c-H-ras-1
+T2502	Protein 229841 229848	insulin
+T2503	Protein 229853 229867	retinoblastoma
+T2504	Protein 229927 229936	c-H-ras-1
+T2505	Protein 229938 229945	insulin
+T2506	Protein 229950 229964	retinoblastoma
+T2507	Protein 230094 230103	c-H-ras-1
+T2508	Protein 230108 230115	insulin
+T2509	Protein 230468 230482	retinoblastoma
+*	Equiv T2510 T2511
+T2510	Protein 232011 232023	ribophorin 2
+T2511	Protein 232025 232029	RPN2
+*	Equiv T2520 T2521
+T2512	Deubiquitination 232373 232387	deubiquitinate
+T2513	Catalysis 232373 232387	deubiquitinate
+T2514	Catalysis 232416 232424	mediated
+T2515	Ubiquitination 232429 232443	ubiquitination
+T2516	Deubiquitination 232794 232808	deubiquitinate
+T2517	Catalysis 232794 232808	deubiquitinate
+E493	Deubiquitination:T2512 Theme:T2526
+E494	Catalysis:T2513 Theme:E493 Cause:T2524
+E495	Catalysis:T2514 Theme:E496 Cause:T2527
+E496	Ubiquitination:T2515 Theme:T2528
+E497	Deubiquitination:T2516 Theme:T2540
+E498	Catalysis:T2517 Theme:E497 Cause:T2539
+T2518	Protein 232172 232176	MdmX
+T2519	Protein 232224 232229	USP2a
+T2520	Protein 232266 232296	ubiquitin-specific protease 2a
+T2521	Protein 232298 232303	USP2a
+T2522	Protein 232327 232331	Mdm2
+T2523	Protein 232332 232335	p53
+T2524	Protein 232345 232350	USP2a
+T2525	Protein 232360 232364	Mdm2
+T2526	Protein 232388 232392	Mdm2
+T2527	Protein 232411 232415	Mdm2
+T2528	Protein 232425 232428	p53
+T2529	Protein 232463 232468	USP2a
+T2530	Protein 232492 232496	Mdm2
+T2531	Protein 232510 232513	p53
+T2532	Protein 232544 232548	MdmX
+T2533	Protein 232573 232578	USP2a
+T2534	Protein 232601 232606	USP2a
+T2535	Protein 232624 232628	Mdm2
+T2536	Protein 232662 232667	USP2a
+T2537	Protein 232704 232708	Mdm2
+T2538	Protein 232733 232737	MdmX
+T2539	Protein 232785 232790	USP2a
+T2540	Protein 232809 232813	MdmX
+T2541	Protein 232844 232849	USP2a
+T2542	Protein 232953 232957	MdmX
+T2543	Protein 232987 232991	MdmX
+T2544	Protein 233032 233037	USP2a
+T2545	Protein 233072 233076	MdmX
+T2546	Protein 233130 233134	MdmX
+T2547	Protein 233155 233160	USP2a
+T2548	Protein 233262 233267	USP2a
+T2549	Protein 233314 233319	USP2a
+T2550	Protein 233363 233367	MdmX
+T2551	Protein 233428 233433	USP2a
+T2552	Protein 233535 233540	USP2a
+*	Equiv T2557 T2558
+*	Equiv T2559 T2560 T2561
+*	Equiv T2564 T2565
+T2553	Hydroxylation 234129 234143	3-hydroxylates
+T2554	Entity 234148 234154	Pro986
+E499	Hydroxylation:T2553 Theme:T2566 Site:T2554
+E500	Hydroxylation:T2553 Theme:T2567 Site:T2554
+T2555	Protein 233610 233632	Prolyl 3-hydroxylase 1
+T2556	Protein 233637 233642	CRTAP
+T2557	Protein 233757 233785	cartilage-associated protein
+T2558	Protein 233787 233792	CRTAP
+T2559	Protein 233798 233820	prolyl 3-hydroxylase 1
+T2560	Protein 233822 233826	P3H1
+T2561	Protein 233827 233833	LEPRE1
+T2562	Protein 234033 234038	CRTAP
+T2563	Protein 234043 234047	P3H1
+T2564	Protein 234068 234081	cyclophilin B
+T2565	Protein 234083 234087	CyPB
+T2566	Protein 234166 234175	alpha1(I)
+T2567	Protein 234180 234199	alpha1(II) collagen
+T2568	Protein 234319 234324	CRTAP
+T2569	Protein 234329 234333	P3H1
+T2570	Protein 234471 234477	LEPRE1
+T2571	Protein 234481 234486	CRTAP
+T2572	Protein 234523 234528	CRTAP
+T2573	Protein 234533 234539	LEPRE1
+T2574	Protein 234591 234596	CRTAP
+T2575	Protein 234600 234606	LEPRE1
+T2576	Protein 234698 234703	CRTAP
+T2577	Protein 234708 234712	P3H1
+T2578	Protein 234791 234796	CRTAP
+T2579	Protein 234910 234915	CRTAP
+T2580	Protein 234920 234924	P3H1
+T2581	Protein 234997 235001	CyPB
+T2582	Protein 235048 235053	CRTAP
+T2583	Protein 235057 235063	LEPRE1
+T2584	Protein 235105 235109	P3H1
+T2585	Protein 235121 235126	CRTAP
+T2586	Protein 235142 235148	LEPRE1
+T2587	Protein 235174 235179	CRTAP
+T2588	Protein 235262 235267	CRTAP
+T2589	Protein 235317 235321	P3H1
+T2590	Protein 235326 235331	CRTAP
+*	Equiv T2592 T2593
+T2591	Protein 235455 235484	GDP-mannose pyrophosphorylase
+T2592	Protein 235557 235567	GDP-Man PP
+T2593	Protein 235569 235613	guanidine diphosphomannose pyrophosphorylase
+T2594	Protein 235647 235657	GDP-Man PP
+T2595	Protein 236071 236081	GDP-Man PP
+T2596	Protein 236210 236220	GDP-Man PP
+T2597	Protein 236801 236806	OTUB1
+T2598	Protein 236812 236817	OTUB2
+T2599	Protein 236847 236852	TRAF3
+T2600	Protein 236857 236862	TRAF6
+T2601	Protein 237126 237131	OTUB1
+T2602	Protein 237136 237141	OTUB2
+T2603	Protein 237225 237230	OTUB1
+T2604	Protein 237235 237240	OTUB2
+T2605	Protein 237279 237283	IRF3
+T2606	Protein 237320 237325	IFNB1
+T2607	Protein 237392 237397	OTUB1
+T2608	Protein 237402 237407	OTUB2
+T2609	Protein 237463 237468	OTUB1
+T2610	Protein 237473 237475	-2
+T2611	Protein 237492 237497	TRAF3
+T2612	Protein 237502 237507	TRAF6
+T2613	Protein 237516 237525	ubiquitin
+T2614	Protein 237563 237567	IRF3
+T2615	Protein 237635 237640	OTUB1
+T2616	Protein 237645 237650	OTUB2
+T2617	Protein 237696 237701	TRAF3
+T2618	Protein 237706 237708	-6
+T2619	Protein 237738 237743	OTUB1
+T2620	Protein 237748 237753	OTUB2
+T2621	Protein 237863 237868	TRAF3
+T2622	Protein 237873 237875	-6
+T2623	Catalysis 236818 236826	mediated
+T2624	Deubiquitination 236827 236843	deubiquitination
+T2625	Catalysis 237651 237659	mediated
+T2626	Deubiquitination 237676 237692	deubiquitination
+T2627	Deubiquitination 237846 237862	deubiquitinating
+T2628	Catalysis 237846 237862	deubiquitinating
+E501	Catalysis:T2623 Theme:E505 Cause:T2597
+E502	Catalysis:T2623 Theme:E505 Cause:T2598
+E503	Catalysis:T2623 Theme:E506 Cause:T2597
+E504	Catalysis:T2623 Theme:E506 Cause:T2598
+E505	Deubiquitination:T2624 Theme:T2599
+E506	Deubiquitination:T2624 Theme:T2600
+E507	Catalysis:T2625 Theme:E511 Cause:T2615
+E508	Catalysis:T2625 Theme:E511 Cause:T2616
+E509	Catalysis:T2625 Theme:E512 Cause:T2615
+E510	Catalysis:T2625 Theme:E512 Cause:T2616
+E511	Deubiquitination:T2626 Theme:T2618
+E512	Deubiquitination:T2626 Theme:T2617
+E513	Deubiquitination:T2627 Theme:T2621
+E514	Deubiquitination:T2627 Theme:T2622
+E515	Catalysis:T2628 Theme:E513 Cause:T2619
+E516	Catalysis:T2628 Theme:E513 Cause:T2620
+E517	Catalysis:T2628 Theme:E514 Cause:T2619
+E518	Catalysis:T2628 Theme:E514 Cause:T2620
+T2629	Protein 237877 237883	Fbxo45
+T2630	Protein 237893 237902	ubiquitin
+T2631	Protein 238136 238145	ubiquitin
+T2632	Protein 238347 238356	ubiquitin
+T2633	Protein 238365 238371	Fbxo45
+T2634	Protein 238401 238407	Fbxo45
+T2635	Protein 238523 238529	Fbxo45
+T2636	Protein 238668 238674	Fbxo45
+T2637	Protein 238737 238745	Munc13-1
+T2638	Protein 238763 238769	Fbxo45
+T2639	Protein 238847 238855	Munc13-1
+T2640	Protein 238904 238908	POH1
+T2641	Protein 238952 238956	Mitf
+T2642	Protein 238978 239024	microphthalmia-associated transcription factor
+T2643	Protein 239026 239030	Mitf
+T2644	Protein 239118 239122	Mitf
+T2645	Protein 239201 239205	Mitf
+T2646	Protein 239273 239277	POH1
+T2647	Protein 239333 239337	Mitf
+T2648	Protein 239352 239356	POH1
+T2649	Protein 239361 239365	Mitf
+T2650	Protein 239432 239437	RANKL
+T2651	Protein 239467 239471	POH1
+T2652	Protein 239482 239486	Mitf
+T2653	Protein 239517 239521	Acp5
+T2654	Protein 239555 239559	POH1
+T2655	Protein 239584 239588	Mitf
+T2656	Protein 239619 239623	Mitf
+T2657	Protein 239705 239709	POH1
+T2658	Protein 239718 239722	Mitf
+T2659	Protein 239802 239806	Mitf
+T2660	Protein 239836 239840	POH1
+*	Equiv T2642 T2643
+T2661	Protein 239855 239864	Cullin 4B
+T2662	Protein 239939 239954	topoisomerase I
+T2663	Protein 239978 239983	CUL4A
+T2664	Protein 239988 239989	B
+T2665	Protein 240012 240021	ubiquitin
+T2666	Protein 240215 240220	CUL4A
+T2667	Protein 240225 240230	CUL4B
+T2668	Protein 240275 240280	CUL4B
+T2669	Protein 240518 240523	CUL4B
+T2670	Protein 240643 240658	topoisomerase I
+T2671	Protein 240660 240666	Topo I
+T2672	Protein 240719 240725	Topo I
+T2673	Protein 240944 240948	Cdt1
+T2674	Protein 240953 240956	p21
+T2675	Protein 241071 241076	CUL4A
+T2676	Protein 241081 241086	CUL4B
+T2677	Protein 241132 241137	CUL4B
+*	Equiv T2670 T2671
+T2678	Ubiquitination 240684 240698	ubiquitination
+E519	Ubiquitination:T2678 Theme:T2670
+M69	Negation E519
+*	Equiv T2680 T2681
+T2679	Protein 241261 241282	histone deacetylase 6
+T2680	Protein 241658 241679	histone deacetylase 6
+T2681	Protein 241681 241686	HDAC6
+T2682	Protein 242272 242277	HDAC6
+T2683	Protein 242331 242336	HDAC6
+T2684	Protein 242472 242477	HDAC6
+T2685	Protein 243055 243060	HDAC6
+*	Equiv T2690 T2691
+T2686	Protein 243631 243634	Lck
+T2687	Protein 243636 243641	c-Cbl
+T2688	Protein 243647 243651	SLAP
+T2689	Protein 243983 243990	CD3zeta
+T2690	Protein 243995 244004	ubiquitin
+T2691	Protein 244010 244012	Ub
+T2692	Ubiquitination 244886 244900	ubiquitination
+T2693	Catalysis 245379 245388	dependent
+T2694	Ubiquitination 245397 245411	ubiquitination
+T2695	Entity 245422 245425	K16
+T2696	Acetylation 245426 245437	acetylation
+T2697	Ubiquitination 245587 245601	ubiquitination
+T2698	Acetylation 245630 245641	acetylation
+E520	Ubiquitination:T2692 Theme:T2702
+E521	Catalysis:T2693 Theme:E522 Cause:T2707
+E522	Ubiquitination:T2694 Theme:T2708
+E523	Acetylation:T2696 Theme:T2709 Site:T2695
+E524	Ubiquitination:T2697 Theme:T2711
+E525	Acetylation:T2698 Theme:T2712
+T2699	Protein 244480 244484	RNF8
+T2700	Protein 244495 244502	histone
+T2701	Protein 244633 244641	histones
+T2702	Protein 244878 244885	Histone
+T2703	Protein 245079 245088	ubiquitin
+T2704	Protein 245167 245176	ubiquitin
+T2705	Protein 245184 245188	RNF8
+T2706	Protein 245226 245230	RNF8
+T2707	Protein 245374 245378	RNF8
+T2708	Protein 245389 245396	histone
+T2709	Protein 245420 245422	H4
+T2710	Protein 245519 245523	RNF8
+T2711	Protein 245579 245586	histone
+T2712	Protein 245622 245629	histone
+T2713	Protein 245696 245700	MdmX
+T2714	Protein 245732 245735	p53
+T2715	Protein 245777 245780	p53
+T2716	Protein 245835 245839	Mdm2
+T2717	Protein 245844 245848	MdmX
+T2718	Protein 245865 245869	Mdm2
+T2719	Protein 245871 245875	MdmX
+T2720	Protein 245882 245891	ubiquitin
+T2721	Protein 245948 245952	MdmX
+T2722	Protein 246010 246013	p53
+T2723	Protein 246050 246053	p53
+T2724	Protein 246057 246061	Mdm2
+T2725	Protein 246066 246070	MdmX
+T2726	Protein 246337 246341	MdmX
+T2727	Protein 246386 246389	p53
+T2728	Protein 246453 246457	MdmX
+T2729	Protein 246488 246491	p53
+T2730	Protein 246496 246500	MdmX
+T2731	Protein 246505 246509	Mdm2
+T2732	Protein 246514 246518	MdmX
+T2733	Protein 246538 246542	MdmX
+T2734	Protein 246575 246578	p53
+T2735	Protein 246586 246590	Mdm2
+T2736	Protein 246757 246761	MdmX
+T2737	Protein 246797 246800	p53
+T2738	Protein 246837 246841	Mdm2
+T2739	Protein 246872 246875	p53
+T2740	Protein 246949 246953	MdmX
+T2741	Protein 246983 246986	p53
+T2742	Protein 247016 247020	MdmX
+T2743	Protein 247131 247135	MdmX
+T2744	Protein 247171 247174	p53
+T2745	Protein 247224 247227	p53
+T2746	Protein 247231 247235	Mdm2
+T2747	Protein 247268 247271	p53
+T2748	Protein 247334 247370	Glioma pathogenesis-related 1-like 1
+T2749	Protein 247519 247548	glioma pathogenesis-related 1
+T2750	Protein 247550 247556	GLIPR1
+T2751	Protein 247590 247596	GLIPR1
+T2752	Protein 247598 247611	GLIPR1-like 1
+T2753	Protein 247613 247621	GLIPR1L1
+T2754	Protein 247628 247641	GLIPR1-like 2
+T2755	Protein 247643 247651	GLIPR1L2
+T2756	Protein 248214 248222	Glipr1l1
+T2757	Protein 248283 248291	GLIPR1L1
+T2758	Protein 248500 248508	GLIPR1L1
+T2759	Protein 248614 248622	GLIPR1L1
+T2760	Protein 248805 248813	GLIPR1L1
+*	Equiv T2749 T2750
+*	Equiv T2752 T2753
+*	Equiv T2754 T2755
+T2761	Glycosylation 248327 248349	N-linked glycosylation
+E526	Glycosylation:T2761 Theme:T2757
+T2762	Protein 249088 249091	UTX
+T2763	Protein 249118 249120	H3
+T2764	Protein 249318 249322	Ezh2
+T2765	Protein 249360 249370	histone H3
+T2766	Protein 249393 249395	H3
+T2767	Protein 249420 249422	H3
+T2768	Protein 249494 249496	H3
+T2769	Protein 249518 249520	H3
+T2770	Protein 249537 249539	H3
+T2771	Protein 249666 249668	H3
+T2772	Protein 249753 249756	UTX
+T2773	Protein 249852 249856	Six4
+T2774	Protein 249876 249879	UTX
+T2775	Protein 249944 249946	H3
+T2776	Protein 250054 250056	H3
+T2777	Protein 250228 250230	H3
+T2778	Protein 250290 250292	H3
+T2779	Protein 250299 250301	H3
+T2780	Protein 250355 250357	H3
+T2781	Protein 250373 250376	UTX
+*	Equiv T2765 T2766
+*	Equiv T2786 T2788
+*	Equiv T2768 T2769
+*	Equiv T2791 T2793
+T2782	Catalysis 249092 249100	mediates
+T2783	Demethylation 249101 249114	demethylation
+T2784	Entity 249120 249123	K27
+T2785	Catalysis 249349 249359	catalysing
+T2786	Entity 249371 249376	Lys27
+T2787	Methylation 249377 249391	trimethylation
+T2788	Entity 249395 249398	K27
+T2789	Entity 249422 249425	K27
+T2790	Demethylation 249439 249446	removed
+T2791	Entity 249497 249501	Lys4
+T2792	Methylation 249502 249516	trimethylation
+T2793	Entity 249520 249522	K4
+T2794	Demethylation 249936 249940	loss
+T2795	Entity 249946 249949	K27
+T2796	Demethylation 250028 250035	Removal
+T2797	Entity 250056 250059	K27
+T2798	Methylation 250218 250227	increased
+T2799	Entity 250230 250233	K27
+T2800	Demethylation 250333 250340	removal
+T2801	Catalysis 250333 250340	removal
+T2802	Entity 250357 250360	K27
+E527	Catalysis:T2782 Theme:E528 Cause:T2762
+E528	Demethylation:T2783 Theme:T2763 Site:T2784
+E529	Catalysis:T2785 Theme:E530 Cause:T2764
+E530	Methylation:T2787 Theme:T2765 Site:T2786
+E531	Demethylation:T2790 Theme:T2767 Site:T2789
+E532	Methylation:T2792 Theme:T2768 Site:T2791
+E533	Demethylation:T2794 Theme:T2775 Site:T2795
+E534	Demethylation:T2796 Theme:T2776 Site:T2797
+E535	Methylation:T2798 Theme:T2777 Site:T2799
+E536	Demethylation:T2800 Theme:T2780 Site:T2802
+E537	Catalysis:T2801 Theme:E536 Cause:T2781
+T2803	Protein 250491 250499	IKKgamma
+T2804	Protein 250501 250505	NEMO
+T2805	Protein 250550 250588	Inhibitor of kappaB kinase (IKK) gamma
+T2806	Protein 250590 250598	IKKgamma
+T2807	Protein 250621 250674	nuclear factor kappaB (NF-kappaB) essential modulator
+T2808	Protein 250676 250680	NEMO
+T2809	Protein 250925 250933	IKKgamma
+T2810	Protein 250935 250939	NEMO
+T2811	Protein 251075 251083	IKKgamma
+T2812	Protein 251326 251334	IKKgamma
+T2813	Protein 251358 251366	IKKgamma
+T2814	Protein 251461 251469	IKKgamma
+T2815	Protein 251534 251542	IKKgamma
+*	Equiv T2803 T2804
+*	Equiv T2805 T2806 T2807 T2808
+*	Equiv T2809 T2810
+T2816	Ubiquitination 251377 251391	ubiquitination
+T2817	Phosphorylation 251442 251457	phosphorylation
+E538	Ubiquitination:T2816 Theme:T2813
+E539	Phosphorylation:T2817 Theme:T2814
+T2818	Protein 251571 251580	HIF1alpha
+T2819	Protein 251803 251812	HIF1alpha
+T2820	Protein 252009 252018	HIF1alpha
+T2821	Protein 252262 252271	HIF1alpha
+T2822	Protein 252390 252399	HIF1alpha
+T2823	Protein 252542 252551	HIF1alpha
+T2824	Protein 252696 252705	HIF1alpha
+T2825	Protein 252866 252875	HIF1alpha
+T2826	Protein 253311 253320	HIF1alpha
+T2827	Entity 251623 251629	prolyl
+T2828	Hydroxylation 251630 251643	hydroxylation
+T2829	Hydroxylation 251955 251968	hydroxylation
+T2830	Hydroxylation 252706 252719	hydroxylation
+E540	Hydroxylation:T2828 Theme:T2818 Site:T2827
+E541	Hydroxylation:T2829 Theme:T2820
+E542	Hydroxylation:T2830 Theme:T2824
+T2831	Protein 253464 253473	ubiquitin
+T2832	Protein 253844 253847	Ran
+T2833	Protein 253876 253881	Bard1
+T2834	Protein 253883 253887	Hmmr
+T2835	Protein 253889 253893	HURP
+T2836	Protein 253899 253904	NuSAP
+T2837	Protein 253930 253934	HURP
+T2838	Protein 253939 253944	NuSAP
+T2839	Protein 254176 254179	Ran
+T2840	Protein 254270 254273	Ran
+T2841	Ubiquitination 253783 253797	ubiquitination
+E543	Ubiquitination:T2841 Theme:T2833
+E544	Ubiquitination:T2841 Theme:T2834
+E545	Ubiquitination:T2841 Theme:T2835
+E546	Ubiquitination:T2841 Theme:T2836
+T2842	Protein 254951 254966	glucose oxidase
+T2843	Protein 257063 257072	factor IX
+T2844	Protein 257077 257086	factor IX
+T2845	Protein 257087 257095	factor X
+T2846	Protein 257148 257157	factor IX
+T2847	Protein 257189 257198	factor IX
+T2848	Protein 257336 257344	factor X
+T2849	Protein 257507 257516	factor IX
+T2850	Protein 257576 257586	factor XIa
+T2851	Protein 257637 257646	factor IX
+T2852	Protein 257663 257674	factor VIIa
+T2853	Protein 257675 257688	tissue factor
+T2854	Protein 257855 257863	factor X
+T2855	Protein 258153 258161	factor X
+T2856	Protein 258216 258230	thromboplastin
+T2857	Protein 258330 258338	factor X
+T2858	Protein 258462 258473	factor VIII
+T2859	Protein 258504 258510	kinins
+T2860	Protein 258590 258600	kininogens
+T2861	Protein 258642 258652	bradykinin
+T2862	Protein 258733 258739	kinins
+T2863	Protein 259160 259166	kinins
+T2864	Protein 259174 259184	bradykinin
+T2865	Protein 259210 259220	bradykinin
+T2866	Protein 259274 259284	bradykinin
+T2867	Protein 259300 259310	bradykinin
+T2868	Protein 259348 259358	bradykinin
+T2869	Protein 259502 259512	kininogens
+T2870	Protein 259548 259558	kininogens
+T2871	Hydroxylation 259470 259484	unhydroxylated
+T2872	Hydroxylation 259489 259501	hydroxylated
+T2873	Hydroxylation 259525 259538	hydroxylation
+E547	Hydroxylation:T2871 Theme:T2869
+M70	Negation E547
+E548	Hydroxylation:T2872 Theme:T2869
+E549	Hydroxylation:T2873 Theme:T2870
+T2874	Protein 259703 259707	gp55
+T2875	Protein 259708 259711	116
+T2876	Protein 259743 259745	gB
+T2877	Protein 259841 259845	gp55
+T2878	Protein 259846 259849	116
+T2879	Protein 259851 259853	gB
+T2880	Protein 260004 260008	gp55
+T2881	Protein 260009 260012	116
+T2882	Protein 260240 260245	gp150
+T2883	Protein 260267 260284	endoglycosidase H
+T2884	Protein 260315 260320	gp150
+T2885	Protein 260393 260402	gp165-170
+T2886	Protein 260447 260451	gp55
+T2887	Protein 260452 260455	116
+T2888	Protein 260510 260515	gp150
+T2889	Protein 260783 260787	gp55
+T2890	Protein 260842 260847	gp116
+T2891	Glycosylation 260071 260079	N-linked
+T2892	Entity 260080 260086	sugars
+T2893	Glycosylation 260199 260211	glycosylated
+T2894	Glycosylation 260814 260822	N-linked
+T2895	Entity 260823 260829	sugars
+T2896	Glycosylation 260890 260898	N-linked
+T2897	Entity 260899 260912	carbohydrates
+T2898	Glycosylation 260948 260956	O-linked
+T2899	Entity 260957 260963	sugars
+E550	Glycosylation:T2891 Theme:T2880 Sidechain:T2892
+E551	Glycosylation:T2891 Theme:T2881 Sidechain:T2892
+E552	Glycosylation:T2893 Theme:T2882
+E553	Glycosylation:T2894 Theme:T2889 Sidechain:T2895
+E554	Glycosylation:T2896 Theme:T2890 Sidechain:T2897
+E555	Glycosylation:T2898 Theme:T2890 Sidechain:T2899
+*	Equiv T2907 T2908
+T2900	Protein 260970 260984	thrombomodulin
+T2901	Protein 261013 261036	epidermal growth factor
+T2902	Protein 261066 261080	thrombomodulin
+T2903	Protein 261120 261134	Thrombomodulin
+T2904	Protein 261205 261214	protein C
+T2905	Protein 261247 261255	thrombin
+T2906	Protein 261288 261311	epidermal growth factor
+T2907	Protein 261339 261362	epidermal growth factor
+T2908	Protein 261364 261367	EGF
+T2909	Protein 261386 261400	thrombomodulin
+T2910	Protein 261545 261554	protein C
+T2911	Protein 261664 261667	EGF
+T2912	Protein 261683 261697	thrombomodulin
+T2913	Protein 261723 261731	thrombin
+T2914	Protein 261748 261756	thrombin
+T2915	Protein 261767 261776	protein C
+T2916	Protein 261840 261849	protein C
+T2917	Protein 261888 261896	thrombin
+T2918	Protein 262185 262188	EGF
+T2919	Protein 262204 262218	thrombomodulin
+T2920	Protein 262264 262273	protein C
+T2921	Protein 262314 262322	thrombin
+T2922	Protein 262391 262405	thrombomodulin
+T2923	Protein 262422 262430	thrombin
+T2924	Protein 262460 262469	protein C
+T2925	Protein 262566 262569	EGF
+*	Equiv T2926 T2927
+T2926	Protein 262950 262964	concanavalin A
+T2927	Protein 262966 262971	Con A
+T2928	Protein 263445 263450	Con A
+T2929	Protein 264693 264698	H-2Db
+T2930	Protein 264703 264708	H-2Kb
+T2931	Protein 264882 264885	H-Y
+T2932	Protein 264919 264922	CD8
+T2933	Protein 265030 265033	CD4
+T2934	Protein 265069 265072	CD8
+T2935	Protein 265802 265816	concanavalin A
+T2936	Protein 266072 266079	histone
+T2937	Protein 266244 266252	histones
+T2938	Protein 266386 266394	histones
+T2939	Protein 266563 266573	histone H4
+T2940	Protein 266654 266656	H4
+T2941	Protein 266690 266692	H4
+T2942	Protein 266813 266821	histones
+T2943	Protein 266968 266998	high mobility group protein-17
+T2944	Acetylation 266080 266091	acetylation
+T2945	Acetylation 266233 266243	acetylated
+T2946	Acetylation 266375 266385	acetylated
+T2947	Acetylation 266538 266553	hyperacetylated
+T2948	Acetylation 266621 266635	non-acetylated
+T2949	Acetylation 266639 266653	hypoacetylated
+T2950	Acetylation 266674 266689	hyperacetylated
+E556	Acetylation:T2944 Theme:T2936
+E557	Acetylation:T2945 Theme:T2937
+E558	Acetylation:T2946 Theme:T2938
+E559	Acetylation:T2947 Theme:T2939
+E560	Acetylation:T2948 Theme:T2940
+M71	Negation E560
+E561	Acetylation:T2949 Theme:T2940
+M72	Negation E561
+E562	Acetylation:T2950 Theme:T2941
+*	Equiv T2957 T2958
+T2951	Hydroxylation 267845 267858	hydroxylation
+T2952	Entity 267862 267872	asparagine
+E563	Hydroxylation:T2951 Theme:T2960 Site:T2952
+T2953	Protein 267052 267075	epidermal growth factor
+T2954	Protein 267089 267118	vitamin K-dependent protein S
+T2955	Protein 267121 267150	Vitamin K-dependent protein S
+T2956	Protein 267319 267327	thrombin
+T2957	Protein 267417 267440	epidermal growth factor
+T2958	Protein 267442 267445	EGF
+T2959	Protein 267728 267731	EGF
+T2960	Protein 267764 267773	protein S
+T2961	Protein 268179 268193	hemagglutinins
+T2962	Protein 268276 268289	hemagglutinin
+T2963	Protein 268291 268293	HA
+T2964	Protein 268357 268359	HA
+T2965	Protein 268427 268429	HA
+*	Equiv T2962 T2963
+T2966	Protein 270068 270078	alpha 1(I)
+T2967	Protein 271034 271036	L8
+T2968	Protein 271038 271041	L10
+T2969	Protein 271043 271046	L17
+T2970	Protein 271048 271051	L26
+T2971	Protein 271052 271054	28
+T2972	Protein 271056 271059	L31
+T2973	Protein 271064 271067	L36
+T2974	Protein 271095 271097	L4
+T2975	Protein 271099 271101	L5
+T2976	Protein 271103 271105	L7
+T2977	Protein 271110 271113	L29
+T2978	Protein 271171 271173	L3
+T2979	Protein 271383 271387	ACTH
+T2980	Protein 271546 271559	corticotropin
+T2981	Protein 271561 271565	ACTH
+T2982	Protein 271642 271646	ACTH
+T2983	Protein 271778 271782	ACTH
+T2984	Protein 271848 271852	ACTH
+T2985	Protein 271915 271919	ACTH
+T2986	Protein 272039 272043	ACTH
+T2987	Protein 272266 272270	ACTH
+T2988	Protein 272336 272340	ACTH
+T2989	Protein 272522 272526	ACTH
+T2990	Protein 272721 272725	ACTH
+T2991	Protein 272824 272828	ACTH
+T2992	Protein 273045 273049	ACTH
+T2993	Protein 273116 273120	ACTH
+T2994	Protein 273192 273196	ACTH
+T2995	Protein 273447 273451	ACTH
+T2996	Protein 273535 273539	ACTH
+T2997	Protein 273584 273588	ACTH
+*	Equiv T2980 T2981
+T2998	Protein 274096 274104	lysozyme
+T2999	Protein 274575 274583	lysozyme
+T3000	Protein 274723 274732	ovomucoid
+T3001	Protein 274763 274772	ovomucoid
+T3002	Protein 274886 274894	lysozyme
+T3003	Protein 274904 274913	ovomucoid
+T3004	Protein 275176 275189	serum albumin
+T3005	Protein 275590 275603	serum albumin
+T3006	Methylation 274856 274867	methylation
+T3007	Entity 274875 274882	lysines
+E564	Methylation:T3006 Theme:T3002 Site:T3007
+E565	Methylation:T3006 Theme:T3003 Site:T3007
+T3008	Protein 275657 275691	arylalkylamine N-acetyltransferase
+T3009	Protein 276880 276914	arylalkylamine N-acetyltransferase
+T3010	Protein 277168 277202	arylalkylamine N-acetyltransferase
+T3011	DNA_methylation 277344 277360	Undermethylation
+T3012	Entity 277368 277374	5' end
+T3013	DNA_methylation 277502 277513	methylation
+T3014	DNA_methylation 277716 277731	undermethylated
+T3015	Entity 277740 277753	entire length
+T3016	Entity 277777 277783	5' end
+T3017	DNA_methylation 277792 277807	undermethylated
+T3018	DNA_methylation 277837 277853	undermethylation
+T3019	Entity 277861 277867	5' end
+T3020	DNA_methylation 277971 277987	undermethylation
+T3021	DNA_methylation 278168 278184	undermethylation
+T3022	Entity 278192 278198	5' end
+E566	DNA_methylation:T3011 Theme:T3023 Site:T3012
+E567	DNA_methylation:T3013 Theme:T3025
+M73	Speculation E567
+E568	DNA_methylation:T3014 Theme:T3028 Site:T3015
+E569	DNA_methylation:T3017 Theme:T3028 Site:T3016
+E570	DNA_methylation:T3018 Theme:T3029 Site:T3019
+E571	DNA_methylation:T3020 Theme:T3029 Site:T3019
+E572	DNA_methylation:T3021 Theme:T3032 Site:T3022
+T3023	Protein 277382 277389	albumin
+T3024	Protein 277431 277438	albumin
+T3025	Protein 277521 277528	albumin
+T3026	Protein 277622 277629	albumin
+T3027	Protein 277678 277685	albumin
+T3028	Protein 277700 277707	albumin
+T3029	Protein 277933 277940	albumin
+T3030	Protein 278055 278062	albumin
+T3031	Protein 278101 278108	albumin
+T3032	Protein 278206 278213	albumin
+T3033	Protein 278444 278453	integrase
+T3034	Protein 278616 278625	integrase
+T3035	Protein 278807 278816	integrase
+T3036	Protein 278984 278993	integrase
+T3037	Protein 279779 279788	integrase
+T3038	Protein 280267 280276	integrase
+T3039	Protein 280395 280399	MUC1
+T3040	Protein 280434 280438	MUC1
+T3041	Protein 280449 280477	polymorphic epithelial mucin
+T3042	Protein 280479 280482	PEM
+*	Equiv T3040 T3041 T3042
+T3043	Glycosylation 280691 280699	O-linked
+T3044	Entity 280700 280712	carbohydrate
+T3045	Glycosylation 281771 281779	O-linked
+T3046	Entity 281780 281804	carbohydrate side chains
+E573	Glycosylation:T3043 Theme:T3040 Sidechain:T3044
+E574	Glycosylation:T3045 Theme:T3040 Sidechain:T3046
+T3047	Glycosylation 282169 282182	serine-linked
+T3048	Entity 282169 282175	serine
+T3049	Entity 282183 282199	oligosaccharides
+E575	Glycosylation:T3047 Theme:T3051 Site:T3048 Sidechain:T3049
+T3050	Protein 281935 281975	chorionic gonadotropin (CG) beta-subunit
+T3051	Protein 282102 282117	CG beta-subunit
+T3052	Protein 282430 282438	FSH beta
+T3053	Protein 283189 283196	CG beta
+T3054	Protein 283297 283312	CG beta-subunit
+T3055	Protein 283490 283505	LH-hCG receptor
+T3056	Protein 285553 285571	beta-galactosidase
+T3057	Protein 286011 286022	plasminogen
+T3058	Protein 286027 286055	tissue plasminogen activator
+T3059	Protein 286463 286474	plasminogen
+T3060	Protein 286479 286507	tissue plasminogen activator
+T3061	Protein 286921 286932	plasminogen
+T3062	Protein 287052 287063	plasminogen
+T3063	Protein 287110 287121	plasminogen
+T3064	Protein 287180 287191	plasminogen
+T3065	Protein 287200 287209	urokinase
+T3066	Protein 287214 287242	tissue plasminogen activator
+T3067	Protein 287311 287322	plasminogen
+T3068	Protein 287327 287355	tissue plasminogen activator
+T3069	Protein 287379 287390	plasminogen
+T3070	Protein 287428 287456	tissue plasminogen activator
+T3071	Protein 287554 287582	tissue plasminogen activator
+T3072	Glycosylation 285951 285964	glycosylation
+T3073	Glycosylation 286636 286643	absence
+T3074	Entity 286650 286665	oligosaccharide
+T3075	Entity 286673 286691	glycosylation site
+T3076	Glycosylation 286903 286911	N-linked
+T3077	Entity 286912 286917	sugar
+T3078	Entity 286937 286944	Asn-288
+T3079	Glycosylation 287361 287369	N-linked
+T3080	Entity 287370 287375	sugar
+T3081	Glycosylation 287498 287506	N-linked
+T3082	Entity 287507 287513	glycan
+T3083	Entity 287518 287525	Asn-184
+E576	Glycosylation:T3072 Theme:T3057
+E577	Glycosylation:T3072 Theme:T3058
+E578	Glycosylation:T3073 Theme:T3059 Site:T3075 Sidechain:T3074
+M74	Negation E578
+E579	Glycosylation:T3073 Theme:T3060 Site:T3075 Sidechain:T3074
+M75	Negation E579
+E580	Glycosylation:T3076 Theme:T3061 Site:T3078 Sidechain:T3077
+E581	Glycosylation:T3079 Theme:T3069 Sidechain:T3080
+E582	Glycosylation:T3081 Theme:T3071 Site:T3083 Sidechain:T3082
+T3084	Glycosylation 288220 288233	glycosylation
+E583	Glycosylation:T3084 Theme:T3091
+T3085	Protein 287697 287708	plasminogen
+T3086	Protein 287719 287731	DSPA alpha 1
+T3087	Protein 287767 287778	plasminogen
+T3088	Protein 287829 287841	DSPA alpha 1
+T3089	Protein 287995 288007	DSPA alpha 1
+T3090	Protein 288113 288125	DSPA alpha 1
+T3091	Protein 288319 288331	DSPA alpha 1
+T3092	Protein 288402 288405	CD4
+T3093	Protein 288410 288415	Thy-1
+T3094	Protein 288499 288502	CD4
+T3095	Protein 288505 288508	CD4
+T3096	Protein 288690 288693	CD4
+T3097	Protein 288808 288811	CD4
+T3098	Protein 288915 288918	CD4
+T3099	Protein 289237 289240	CD2
+T3100	Protein 289268 289273	Thy-1
+T3101	Glycosylation 288385 288398	Glycosylation
+T3102	Glycosylation 288436 288449	glycosylation
+T3103	Glycosylation 288710 288719	abundance
+T3104	Entity 288723 288735	oligomannose
+T3105	Entity 288740 288759	hybrid type glycans
+T3106	Entity 288781 288799	glycosylation site
+E584	Glycosylation:T3101 Theme:T3092
+E585	Glycosylation:T3101 Theme:T3093
+E586	Glycosylation:T3102 Theme:T3095
+E587	Glycosylation:T3103 Theme:T3097 Site:T3106 Sidechain:T3104
+E588	Glycosylation:T3103 Theme:T3097 Site:T3106 Sidechain:T3105
+T3107	Protein 289626 289631	STE14
+T3108	Protein 289646 289651	STE14
+T3109	Protein 290164 290178	ribonuclease A
+T3110	Protein 290182 290194	proteinase K
+T3111	Protein 290442 290447	STE14
+T3112	Protein 290556 290561	STE14
+T3113	Protein 290666 290671	ste14
+T3114	Protein 290769 290774	STE14
+T3115	Protein 290818 290823	STE14
+T3116	Protein 290913 290918	STE14
+T3117	Protein 291074 291079	STE14
+T3118	Protein 291140 291145	STE14
+T3119	Protein 291644 291659	type-X collagen
+T3120	Protein 291688 291703	type-X collagen
+T3121	Protein 291899 291914	type-X collagen
+T3122	Protein 291921 291936	type-X collagen
+T3123	Protein 293603 293607	apoB
+T3124	Protein 293664 293677	serum albumin
+T3125	Protein 295095 295116	adenosine A1-receptor
+T3126	Protein 295347 295368	adenosine A1-receptor
+*	Equiv T3128 T3129
+*	Equiv T3130 T3131
+T3127	Glycosylation 297009 297028	N-link-glycosylated
+E589	Glycosylation:T3127 Theme:T3134
+T3128	Protein 296237 296269	DNA damage-responsive protein 48
+T3129	Protein 296271 296278	DDRP 48
+T3130	Protein 296610 296639	DNA Damage-responsive gene 48
+T3131	Protein 296641 296646	DDR48
+T3132	Protein 296850 296857	DDRP 48
+T3133	Protein 296859 296866	DDRP 48
+T3134	Protein 296990 296997	DDRP 48
+T3135	Protein 297061 297068	DDRP 48
+T3136	Protein 297119 297126	DDRP 48
+T3137	Protein 297294 297301	DDRP 48
+T3138	Protein 297388 297392	DDRP
+T3139	Protein 297450 297471	wild type RAD 52 gene
+T3140	Protein 297621 297628	DDRP 48
+T3141	Protein 297791 297797	DDR 48
+T3142	Protein 297972 297974	Fc
+T3143	Protein 300359 300363	CD44
+T3144	Protein 300520 300524	CD44
+T3145	Protein 300600 300604	CD44
+T3146	Protein 300689 300693	CD44
+T3147	Protein 300696 300700	CD44
+T3148	Protein 300745 300749	CD44
+T3149	Protein 300755 300759	CD44
+T3150	Protein 300762 300766	CD44
+T3151	Protein 300772 300776	CD44
+T3152	Protein 300808 300812	CD44
+T3153	Protein 300835 300839	CD44
+T3154	Protein 300872 300876	CD44
+T3155	Protein 300885 300889	CD44
+T3156	Protein 300952 300956	CD44
+T3157	Protein 301010 301014	CD44
+T3158	Protein 301050 301056	ICAM-1
+T3159	Protein 301129 301133	CD44
+T3160	Protein 301148 301152	CD44
+T3161	Protein 301213 301217	CD34
+T3162	Protein 301293 301297	CD44
+T3163	Protein 301319 301323	CD44
+T3164	Protein 301428 301432	CD44
+T3165	Protein 301560 301564	CD44
+T3166	Protein 301727 301731	CD44
+T3167	Glycosylation 300389 300402	glycosylation
+T3168	Entity 301218 301230	mucin domain
+T3169	Glycosylation 301261 301269	O-linked
+T3170	Entity 301270 301277	glycans
+T3171	Glycosylation 301620 301628	O-linked
+T3172	Entity 301629 301641	carbohydrate
+T3173	Entity 301674 301694	Ser/Thr rich regions
+E590	Glycosylation:T3167 Theme:T3143
+E591	Glycosylation:T3169 Theme:T3160 Site:T3168 Sidechain:T3170
+E592	Glycosylation:T3171 Theme:T3165 Site:T3173 Sidechain:T3172
+T3174	Protein 301888 301902	neurotrophin-6
+T3175	Protein 301983 301997	Neurotrophin-6
+T3176	Protein 301999 302003	NT-6
+T3177	Protein 302101 302105	NT-6
+T3178	Protein 302170 302174	NT-6
+T3179	Protein 302367 302371	NT-6
+T3180	Protein 302628 302632	NT-6
+T3181	Protein 302775 302779	NT-6
+T3182	Protein 302924 302928	NT-6
+T3183	Protein 303008 303012	NT-6
+T3184	Protein 303094 303098	NT-6
+T3185	Protein 303166 303170	NT-6
+T3186	Protein 303254 303258	NT-6
+T3187	Protein 303341 303345	NT-6
+*	Equiv T3175 T3176
+T3188	Glycosylation 302490 302502	glycosylated
+E593	Glycosylation:T3188 Theme:T3179
+T3189	Protein 303927 303944	type III collagen
+T3190	Protein 304494 304511	type III collagen
+T3191	Protein 304597 304623	matrix metalloproteinase-1
+T3192	Protein 304701 304720	metalloproteinase-2
+T3193	Glycosylation 305221 305235	N-glycosylated
+T3194	Glycosylation 305456 305464	N-linked
+T3195	Entity 305465 305481	oligosaccharides
+T3196	Glycosylation 305566 305578	glycosylated
+T3197	Glycosylation 305782 305796	N-glycosylated
+E594	Glycosylation:T3193 Theme:T3199
+E595	Glycosylation:T3194 Theme:T3199 Sidechain:T3195
+M76	Negation E595
+E596	Glycosylation:T3196 Theme:T3199
+E597	Glycosylation:T3197 Theme:T3199
+T3198	Protein 304782 304800	submaxillary mucin
+T3199	Protein 304946 304964	submaxillary mucin
+T3200	Protein 307076 307097	von Willebrand factor
+T3201	Protein 307303 307307	RSE1
+T3202	Protein 307646 307650	PRP2
+T3203	Protein 307704 307708	RSE1
+T3204	Protein 307780 307784	prp2
+T3205	Protein 307792 307796	rse1
+T3206	Protein 307870 307873	CPY
+T3207	Protein 307984 307988	SAR1
+T3208	Protein 308105 308109	SAR1
+T3209	Protein 308161 308165	SAR1
+T3210	Protein 308225 308229	prp2
+T3211	Protein 308237 308241	rse1
+T3212	Protein 308277 308282	Sar1p
+T3213	Protein 308608 308619	vasopressin
+T3214	Protein 308623 308625	VP
+T3215	Protein 308718 308729	transferrin
+T3216	Protein 308731 308734	TFN
+T3217	Protein 308838 308840	VP
+T3218	Protein 309003 309005	VP
+T3219	Protein 309159 309162	TFN
+T3220	Protein 309312 309315	TFN
+T3221	Protein 309322 309324	VP
+*	Equiv T3213 T3214
+*	Equiv T3215 T3216
+T3222	Entity 308851 308866	promoter region
+T3223	DNA_methylation 308870 308882	unmethylated
+T3224	DNA_methylation 308936 308946	methylated
+T3225	DNA_methylation 309089 309101	unmethylated
+T3226	Entity 309173 309188	promoter region
+T3227	DNA_methylation 309192 309206	hypomethylated
+E598	DNA_methylation:T3223 Theme:T3217 Site:T3222
+M77	Negation E598
+E599	DNA_methylation:T3224 Theme:T3217 Site:T3222
+E600	DNA_methylation:T3225 Theme:T3218
+M78	Negation E600
+E601	DNA_methylation:T3227 Theme:T3219 Site:T3226
+M79	Negation E601

@@ -1,0 +1,17 @@
+Resumen
+ Introducción
+En nuestro entorno, la <dis>parálisis cerebral</dis> (<dis>PCI</dis>) es la causa más frecuente de <dis>discapacidad física</dis> en población infantil.
+En la <dis>PCI</dis> existen alteraciones del tono que producen disfunciones posturales y de equilibrio.
+La fisioterapia es necesaria desde el nacimiento.
+El objetivo principal de este estudio es la mejora del desarrollo psicomotor del niño <dis>PCI</dis> con ayuda de los videojuegos en el tratamiento fisioterápico.
+Pacientes y método
+Es un diseño prospectivo, longitudinal, experimental pretest postest con un solo grupo.
+Participaron 8 pacientes con <dis>PCI</dis> con edades entre 6 y 12 años, nivel I-II en GMFCS y puntuación entre 75-100% en GMFM-88.
+La intervención fisioterápica emplea la videoconsola Nintendo Wii y el juego Wii-fit con tabla de equilibrio durante 15 sesiones.
+Se estudió el equilibrio (escala de Berg), la distribución de cargas y localización del centro de gravedad (con el _software_ de la tabla de equilibrio), así como la motivación en las sesiones de fisioterapia (medidas por una escala ad hoc).
+El estudio se realizó durante el curso 2013-2014 en la sala de fisioterapia de un colegio.
+Resultados
+Este estudio muestra una evidencia estadísticamente significativa que apoya la mejoría en equilibrio, en satisfacción del paciente y una redistribución más adecuada en la carga de miembros inferiores.
+Discusión y conclusiones
+La realidad virtual ayuda en la consecución de diferentes objetivos fisioterápicos, siendo interesante su uso para mejorar el equilibrio y el control postural.
+Los resultados obtenidos apoyan el uso de la videoconsola como un complemento, nunca un sustituto, del tratamiento fisioterápico en niños con <dis>PCI</dis>.

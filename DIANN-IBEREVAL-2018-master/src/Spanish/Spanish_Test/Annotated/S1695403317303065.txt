@@ -1,0 +1,16 @@
+Resumen
+ Fundamento y objetivo
+La citogenética convencional detecta un 3-5% de los pacientes con <dis>retraso global del desarrollo</dis>/<dis>discapacidad intelectual</dis> y/o malformaciones congénitas.
+La amplificación de sondas múltiples dependientes de ligación permite incrementar la tasa diagnóstica entre 2,4-5,8%.
+Actualmente, los arrays de hibridación genómica comparada o aCGH son la herramienta diagnóstica con mayor rendimiento en estos pacientes, en malformaciones congénitas y <dis>trastornos del espectro autista</dis>.
+El objetivo del presente trabajo ha sido evaluar la eficiencia del uso del aCGH como técnica de primera línea diagnóstica en estas y otras indicaciones (epilepsia, talla baja).
+Pacientes y método
+Se ha estudiado a 1.000 pacientes afectados por las patologías mencionadas mediante la técnica de aCGH.
+Resultados
+Se detectaron desequilibrios de efecto patogénico en un 14% de los pacientes (140/1.000).
+Según el fenotipo, se diagnosticaron un 18,9% de los pacientes afectados de <dis>retraso global del desarrollo</dis>/<dis>discapacidad intelectual</dis>; un 13,7% de las malformaciones congénitas; un 9,76% de las patologías psiquiátricas, un 7,02% de los casos con epilepsia y un 13,3% de los pacientes con talla baja.
+Dentro de las malformaciones congénitas destacan las del sistema nervioso central con un 14,9% y las cardiopatías congénitas con un 10,6% de diagnósticos.
+En las <dis>patologías psiquiátricas</dis> destacan los pacientes con <dis>trastornos del espectro autista</dis>, con un 8,9% de diagnósticos.
+Conclusiones
+Nuestros resultados demuestran la efectividad y la eficiencia de la utilización del aCGH como test de primera línea en el diagnóstico genético de los pacientes con sospecha de desequilibrios genómicos.
+Todo ello avala su inclusión dentro del Sistema Nacional de Salud.

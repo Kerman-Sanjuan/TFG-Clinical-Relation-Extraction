@@ -1,0 +1,16 @@
+Objective
+To validate the Life-Support Preferences Questionnaire (LSPQ) for its use in Spain.
+Design
+Three-stage study: _a)_ translation and linguistic adaptation; _b)_ evaluation of its validity; and _c)_ validation of its psychometric properties.
+Setting
+Nine primary care nursing clinics and 2 university classes in Granada, Spain.
+Participants
+Patients who were of age and were first- or second-year university students, without any cognitive deterioration.
+Main measurements
+The equivalence of the translation and the original was checked by bilingual people; its linguistic and grammatical standard was appraised by experts in Spanish.
+The validity of the questionnaire was evaluated by 15 judges-experts and 20 patients; linguistic complexity (Szigriszt index); stability in time (McNemar test); internal consistency (Cronbach's alpha).
+Results
+ _a)_ 2 bilingual people did a translation that was reviewed by 6 experts in Spanish.
+After alterations suggested by the experts, the bilingual people ratified its equivalence with the original; _b)_ 15 experts affirmed that each item was a good indicator of care preferences atthe end of life; c) 20 users confirmed the acceptability and comprehensibility of the questionnaire; _d)_ reliability: 299 participants out of the 369 initially selected filled in the questionnaire; and _e)_ its stability was 0.92; and its internal consistency, 0.85.
+Conclusion
+The LSPQ questionnaire in Spanish (LSPQ-e) is a reliable tool, designed to help patients to clarify their care and treatment preferences at the end of their lives.

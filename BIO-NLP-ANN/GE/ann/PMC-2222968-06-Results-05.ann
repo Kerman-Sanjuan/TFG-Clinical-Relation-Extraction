@@ -1,0 +1,121 @@
+T56	Negative_regulation 11 29	Negative Regulator
+T57	Gene_expression 39 49	Expression
+T58	Gene_expression 56 66	expression
+T59	Negative_regulation 67 76	decreased
+T60	Gene_expression 88 98	expression
+T61	Positive_regulation 102 106	high
+T62	Regulation 147 151	role
+T63	Negative_regulation 165 175	repressing
+T64	Negative_regulation 330 340	inhibiting
+T65	Gene_expression 347 357	expression
+T66	Negative_regulation 469 476	inhibit
+T67	Positive_regulation 483 492	induction
+T68	Negative_regulation 535 542	lacking
+T69	Entity 547 565	DNA-binding domain
+T70	Negative_regulation 906 913	reduced
+T71	Gene_expression 920 930	expression
+T72	Entity 969 987	DNA-binding domain
+T73	Negative_regulation 988 997	truncated
+T74	Regulation 1035 1041	affect
+T75	Gene_expression 1048 1058	expression
+T76	Negative_regulation 1151 1168	inhibitory effect
+T77	Positive_regulation 1230 1244	overexpressing
+T78	Regulation 1558 1564	effect
+T79	Gene_expression 1690 1700	expression
+T80	Positive_regulation 1839 1851	up-regulated
+T81	Negative_regulation 1969 1976	reduced
+T82	Gene_expression 1983 1993	expression
+T83	Positive_regulation 1999 2008	activated
+T84	Gene_expression 2053 2061	produced
+T85	Gene_expression 2122 2131	expressed
+T86	Positive_regulation 2290 2297	induced
+E1	Negative_regulation:T56 Theme:E2 Cause:T1
+E2	Gene_expression:T57 Theme:T2
+E3	Gene_expression:T58 Theme:T3
+E4	Negative_regulation:T59 Theme:E3 Cause:E5
+E5	Gene_expression:T60 Theme:T4
+E6	Positive_regulation:T61 Theme:E5
+E7	Regulation:T62 Theme:E8 Cause:T5
+E8	Negative_regulation:T63 Theme:T6
+E9	Negative_regulation:T64 Theme:E10 Cause:T8
+E10	Gene_expression:T65 Theme:T9
+E11	Negative_regulation:T66 Theme:E12 Cause:T11
+E12	Positive_regulation:T67 Theme:T12
+E13	Negative_regulation:T68 Theme:T14 Site:T69
+E14	Negative_regulation:T70 Theme:E15 Cause:T23
+E15	Gene_expression:T71 Theme:T24
+E16	Negative_regulation:T73 Theme:T25 Site:T72
+E17	Regulation:T74 Theme:E18 Cause:E16
+E18	Gene_expression:T75 Theme:T26
+E19	Negative_regulation:T76 Theme:T28 Cause:T27
+E20	Positive_regulation:T77 Theme:T29
+E21	Regulation:T78 Theme:E22 Cause:T36
+E22	Gene_expression:T79 Theme:T41
+E23	Positive_regulation:T80 Theme:T46 Cause:T45
+E24	Negative_regulation:T81 Theme:E25 Cause:T48
+E25	Gene_expression:T82 Theme:T49
+E26	Positive_regulation:T83 Theme:E25 Cause:T50
+E27	Gene_expression:T84 Theme:T51
+E28	Gene_expression:T85 Theme:T52
+E29	Positive_regulation:T86 Theme:T55 Cause:T54
+M1	Speculation E7
+M2	Speculation E11
+M3	Negation E17
+M4	Speculation E19
+M5	Speculation E21
+M6	Speculation E22
+T1	Protein 0 5	GATA3
+T2	Protein 33 38	FOXP3
+T3	Protein 50 55	FOXP3
+T4	Protein 82 87	GATA3
+T5	Protein 156 161	GATA3
+T6	Protein 176 181	FOXP3
+T7	Protein 191 196	GATA3
+T8	Protein 246 251	GATA3
+T9	Protein 341 346	STAT4
+T10	Protein 380 385	GATA3
+T11	Protein 450 455	GATA3
+T12	Protein 477 482	FOXP3
+T13	Protein 508 513	GATA3
+T14	Protein 529 534	GATA3
+T15	Protein 583 586	CD4
+T16	Protein 587 593	CD45RA
+T17	Protein 611 651	TAT-fused, recombinantly expressed GATA3
+T18	Protein 716 719	CD3
+T19	Protein 720 724	CD28
+T20	Protein 755 763	TGF-beta
+T21	Protein 765 774	TAT-GATA3
+T22	Protein 857 860	CD4
+T23	Protein 896 905	TAT-GATA3
+T24	Protein 914 919	FOXP3
+T25	Protein 1020 1025	GATA3
+T26	Protein 1042 1047	FOXP3
+T27	Protein 1172 1177	GATA3
+T28	Protein 1181 1186	FOXP3
+T29	Protein 1245 1250	GATA3
+T30	Protein 1276 1279	CD2
+T31	Protein 1310 1313	CD2
+T32	Protein 1314 1319	GATA3
+T33	Protein 1352 1355	CD4
+T34	Protein 1393 1396	CD2
+T35	Protein 1397 1402	GATA3
+T36	Protein 1568 1573	GATA3
+T37	Protein 1584 1587	CD4
+T38	Protein 1588 1593	CD62L
+T39	Protein 1594 1598	CD25
+T40	Protein 1670 1678	TGF-beta
+T41	Protein 1684 1689	Foxp3
+T42	Protein 1735 1738	CD4
+T43	Protein 1739 1743	CD25
+T44	Protein 1756 1761	Foxp3
+T45	Protein 1817 1825	TGF-beta
+T46	Protein 1852 1857	Foxp3
+T47	Protein 1926 1929	CD2
+T48	Protein 1930 1935	GATA3
+T49	Protein 1977 1982	Foxp3
+T50	Protein 2014 2022	TGF-beta
+T51	Protein 2081 2089	TGF-beta
+T52	Protein 2104 2109	Smad7
+T53	Protein 2200 2208	TGF-beta
+T54	Protein 2285 2289	IL-4
+T55	Protein 2298 2303	GATA3

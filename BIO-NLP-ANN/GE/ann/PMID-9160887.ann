@@ -1,0 +1,20 @@
+T10	Gene_expression 51 61	transduced
+T11	Positive_regulation 51 61	transduced
+T12	Binding 277 288	interaction
+T13	Gene_expression 598 608	introduced
+T14	Positive_regulation 598 608	introduced
+E1	Gene_expression:T10 Theme:T1
+E2	Positive_regulation:T11 Theme:E1
+E3	Binding:T12 Theme:T2 Theme2:T3
+E4	Binding:T12 Theme:T2
+E5	Gene_expression:T13 Theme:T6
+E6	Positive_regulation:T14 Theme:E5
+T1	Protein 74 77	Tax
+T2	Protein 131 135	Tax1
+T3	Protein 375 378	SRF
+T4	Protein 385 389	Tax1
+T5	Protein 530 534	Tax1
+T6	Protein 609 613	Tax1
+T7	Protein 849 853	IL-2
+T8	Protein 892 895	CD4
+T9	Protein 991 994	SRF

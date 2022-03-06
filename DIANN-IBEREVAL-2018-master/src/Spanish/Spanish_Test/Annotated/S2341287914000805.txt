@@ -1,0 +1,20 @@
+Resumen
+ Introducción
+La esclerosis tuberosa (ET) es una enfermedad de afectación multisistémica y gran variabilidad fenotípica.
+Están identificados 2 genes involved en la génesis de la enfermedad: TSC1 y TSC2.
+Objetivos
+Caracterizar clínicamente a los pacientes con ET seguidos en Neurología Pediátrica de un hospital de tercer nivel durante los últimos 10 años y correlacionar el genotipo con la gravedad de la clínica neurológica y los estudios de imagen.
+Pacientes y métodos
+Estudio retrospectivo descriptivo, mediante consulta de la historia clínica y evaluación de las resonancias magnéticas (RM) de pacientes con ET.
+Resultados
+Se estudiaron 35 casos, con una mediana de edad, al diagnóstico, de 10 meses.
+En el 91,4% se registraron crisis epilépticas, con un predominio de espasmos epilépticos a la presentación.
+Más del 50% tenía <dis>deterioro cognitivo</dis> y el 49% <dis>trastornos de conducta</dis>.
+Se sometieron a estudio genético 24 niños con predominio de mutaciones TSC2 (58,3%).
+De los 11 casos de epilepsia refractaria, 6 tenían mutación del gen TSC2.
+De los 8 pacientes con <dis>déficit cognitivo</dis> moderado a grave, se identificaron 5 mutaciones TSC2.
+Se revisaron 26 RM y en el 76,9% se observó una afectación completa de los lóbulos cerebrales, lo que refleja una gran cantidad de lesiones.
+De los enfermos con mutaciones TSC2 y RM realizada, todos tenían alta carga de lesión y 5 epilepsia refractaria.
+Discusión
+En nuestra muestra, nos encontramos con un alto porcentaje de mutaciones en el gen TSC2.
+Esta mutación está asociada a un peor pronóstico neurológico, con crisis más farmacorresistentes y un <dis>atraso cognitivo</dis> más severo.

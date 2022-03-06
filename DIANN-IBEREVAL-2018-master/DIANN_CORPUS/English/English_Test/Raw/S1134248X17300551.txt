@@ -1,0 +1,45 @@
+Objective.
+Primary objective. 
+To determine survival and survival predictive factors in advanced chronic renal failure (ACRF) patients not considered candidates for renal replacement therapy (RRT). 
+Secondary objectives. 
+To describe: a) the sociodemographic characteristics of the patients and the main caregiver; b) the aetiology and associated comorbidity of the nephropathy; c) the clinical variables of patients when they are included in the programme; d) the clinical outcome in terms of blood pressure (BP), episodes of fluid overload, treatments received, frequency of hospitalisation, causes of hospitalisation, place and cause of death; e) the evolution of analytical parameters; f) the degree of information about diagnosis and prognosis given to the patient and family, and g) care activity provided by the domiciliary palliative care support team (DPCST) during follow-up.
+
+Material and method.
+Design. 
+Longitudinal descriptive study of a historical cohort. 
+Scope. 
+DPCST of Madrid areas 1, 5 and 7. 
+Study subjects. 
+Patients with ACRF not considered candidates for RRT. 
+Selection criteria. 
+1) patients with ACRF considered and rejected for extra-renal depuration, and 2) the patient and/or caregiver and/or family had accepted follow-up by the DPCST and/or his or her Primary Care physician. 
+Sample size. 
+All clinical histories from the archives of the DPCSTs were selected, from 1997 up to December 2009. 
+Variables analysed. 
+1) Main answer: time of survival; 2) secondary variables: 2.1) sociodemographic characteristics of patient and caregiver: age and gender; main caregiver: marital status, kinship; 2.2) variables related to the renal disease: the aetiology of the nephropathy, reason for exclusion from RRT, comorbidity; 2.3) clinical variables: degree of BP control during evolution of disease; measurements from several visits were collected; at initiation of programme, the presence or absence of the following was recorded: oedema, pain, constipation, pruritus, dyspnoea, insomnia, anxiety, sadness and cognitive deterioration; number of episodes of fluid overload; cause for exiting the programme; place of death; cause of death and symptoms observed in last days situation; 2.4) therapeutic variables: number of medications at beginning of programme, number of medications at time of exiting the programme, when cause of exit was death; type of medications; number of transfusions received; 2.5) variables of hospital admission: number of admissions; causes of admission; 2.6) analytical variables: degree of control of analytical parameters during illness until death; 2.7) variables on the degree of information about diagnosis and prognosis; 2.8) variables of care activity: number of domiciliary visits to the patient.
+
+Results.
+N: 102 patients. 
+Mean age: 76.92 (9.94) years. 
+Aetiology ACRF: vascular 37, unknown origin 32, diabetic 15. 
+Comorbidity: low risk SCG 17; medium risk SCG 35; high risk SCG 50. 
+Median Charlson comorbidity index: 6.88 (2.5). 
+Cause for rejection for RRT: comorbidity 47.5%, age 25.7%, patient's decision 22.8%, others 4%. 
+Degree of information about diagnosis to patient and caregiver: 57.9 and 94.4%, respectively. 
+Degree of information about prognosis to patient and caregiver: 11.8 and 90%, respectively. 
+Symptoms on first visit: dyspnoea 33.3%, pruritus 30.4%, insomnia 34.3%, sadness 36.3%, oedema 43.1%. 
+Average medications at beginning of follow-up: 10. 
+At the end: 11. 
+Number of transfusions: 5. 
+Number of hospital admissions: 50; caused by fluid overload: 35, comorbidity: 12, oliguria: 3. 
+Cause of death: ACRF 72.9%, intercurrent illness 27.1%. 
+Place of death: home 39, acute hospitalization ward 31, palliative care ward 13, emergency room 2. 
+Average of visits by DPCST: 11.32, median 6.5. 
+Average survival: 4 months, survival at one year: 25%. 
+Predictive survival factors: creatinine on first visit HZ 1.106 (95% CI 1.01-1.20), p=.024; age 71-80 years, HZ 4.42 (95% CI 1.60-12.21), age>81 years, HZ 2.97 (95% CI 1.16-7.61). 
+The following were not associated with survival rates: BP, volume of diuresis, levels of sodium, potassium, calcium, phosphorus and haemoglobin.
+
+Conclusions.
+ACRF patients rejected for RRT receiving domiciliary follow-up by palliative care teams had an average survival of 4 months; age and residual renal function were predictive factors for survival, whereas comorbidity, electrolyte levels, BP and diuresis were not. 
+During follow-up, the most frequent cause of hospital admission was fluid overload. 
+Most patients died because of disease progression, at home or in a palliative care medium-long term hospital ward.

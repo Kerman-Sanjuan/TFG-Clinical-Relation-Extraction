@@ -1,0 +1,18 @@
+T1	Protein 157 160	III
+T2	Protein 172 174	II
+T3	Protein 179 191	III collagen
+T4	Protein 567 577	alpha 1(I)
+T5	Protein 591 603	alpha 1(III)
+T6	Protein 781 791	alpha 1(I)
+T7	Protein 1019 1029	alpha 1(I)
+T8	Protein 1043 1055	alpha 1(III)
+T9	Hydroxylation 109 122	hydroxylation
+T10	Entity 126 132	lysine
+T11	Entity 721 743	hydroxylysine residues
+T12	Glycosylation 753 765	glycosylated
+T13	Hydroxylation 992 1005	hydroxylation
+T14	Entity 1009 1015	lysine
+E1	Hydroxylation:T9 Theme:T1 Site:T10
+E2	Glycosylation:T12 Theme:T6 Site:T11
+E3	Hydroxylation:T13 Theme:T7 Site:T14
+E4	Hydroxylation:T13 Theme:T8 Site:T14

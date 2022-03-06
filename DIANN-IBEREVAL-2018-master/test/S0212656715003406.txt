@@ -1,0 +1,23 @@
+Abstract
+ Objective
+To assess the influence of an educational intervention in reducing «fear- avoidance» (FA) and «pain catastrophising» (CAT) in a population with unspecific chronic low back pain (UCLBP), attending physiotherapy in Primary Health Care.
+A pragmatic quasi-experimental study was conducted in Health Centres of a Costa del Sol Health District.
+Design
+Quasi-experimental study.
+Setting
+Primary Health Care physiotherapy Back Schools in Health Centres of a Costa del Sol Health District.
+Participants
+The selection criteria were: UCLBP; 18-65 years; understanding of the Spanish language; absence of parallel educational interventions; absence of red flags; <scp><neg>not</neg> showing <dis>cognitive impairment</dis> or fibromyalgia</scp>; absence of thoracic-lumbar surgery, and exercise tolerance.
+Interventions
+The control group received the usual Back Schools program.
+The experimental group also received a written document for home reading, plus the subsequent sharing, clarifying doubts, and beliefs and goals restructuring during the development of the sessions.
+Both interventions lasted about 280 minutes (7 sessions × 40 min).
+Results
+The main variables included FA and CAT.
+Pain and disability were also assessed.
+Some «demographic» and «related disorder» variables were considered in the analysis.
+Statistically significant differences were observed in the experimental group versus control, in the variation of FA −14 (−25.5; 0) vs −4 (−13; 0) ( _P_ = .009), and CAT −9 (−18; −4) vs −4,5 (−8.25; 0) ( _P_ = .000), were observed.
+Also differences in disability ( _P_ = .046), but not in pain ( _P_ = .280).
+Conclusions
+These results should be considered in light of possible limits imposed by the study.
+Its pragmatic nature would allow a potential transfer to usual care.

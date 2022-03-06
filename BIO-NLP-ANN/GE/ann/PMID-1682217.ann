@@ -1,0 +1,56 @@
+T1	Protein 0 6	v-erbA
+T2	Protein 48 54	c-erbA
+T3	Protein 137 141	CAII
+T4	Protein 148 154	v-erbA
+T5	Protein 260 266	c-erbA
+T6	Protein 477 483	v-erbA
+T7	Protein 488 494	c-erbA
+T8	Protein 570 591	carbonic anhydrase II
+T9	Protein 593 597	CAII
+T10	Protein 656 662	v-erbA
+T11	Protein 838 842	CAII
+T12	Protein 864 870	v-erbA
+T13	Protein 937 943	v-erbA
+T14	Protein 964 970	c-erbA
+T15	Protein 1020 1026	c-erbA
+T16	Protein 1053 1059	v-erbA
+T17	Protein 1146 1152	v-erbA
+T18	Protein 1209 1213	CAII
+T19	Protein 1308 1312	CAII
+T20	Protein 1345 1351	c-erbA
+T21	Protein 1381 1385	CAII
+T22	Protein 1454 1460	v-erbA
+T23	Protein 1505 1511	v-erbA
+*	Equiv T9 T8
+T24	Gene_expression 7 21	overexpression
+T25	Negative_regulation 37 47	extinguish
+T26	Regulation 102 112	regulation
+T27	Binding 495 499	bind
+T28	Transcription 613 626	transcription
+T29	Negative_regulation 642 652	suppressed
+T30	Regulation 798 804	target
+T31	Negative_regulation 819 834	down-regulation
+T32	Transcription 843 856	transcription
+T33	Gene_expression 920 932	coexpressing
+T34	Positive_regulation 1199 1208	activated
+T35	Transcription 1214 1227	transcription
+T36	Positive_regulation 1487 1501	overexpression
+T37	Gene_expression 1487 1501	overexpression
+T38	Positive_regulation 1515 1523	required
+E1	Gene_expression:T24 Theme:T1
+E2	Negative_regulation:T25 Theme:E3 Cause:E1
+E3	Regulation:T26 Theme:T3 Cause:T2
+E4	Binding:T27 Theme:T6 Theme2:T9
+E5	Binding:T27 Theme:T7 Theme2:T9
+E6	Transcription:T28 Theme:T9
+E7	Negative_regulation:T29 Theme:E6 Cause:T10
+E8	Regulation:T30 Theme:E9 Cause:T12
+E9	Negative_regulation:T31 Theme:E10
+E10	Transcription:T32 Theme:T11
+E11	Gene_expression:T33 Theme:T13
+E12	Gene_expression:T33 Theme:T14
+E13	Positive_regulation:T34 Theme:E14
+E14	Transcription:T35 Theme:T18
+E15	Positive_regulation:T36 Theme:E16
+E16	Gene_expression:T37 Theme:T23
+E17	Positive_regulation:T38 Theme:T23 Cause:E15

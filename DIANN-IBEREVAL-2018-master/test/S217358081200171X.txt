@@ -1,0 +1,13 @@
+Abstract
+ Introduction
+RBANS is a short neuropsychological battery which has shown to be sensitive in detecting <dis>cognitive impairment</dis> in degenerative and non-degenerative diseases.
+It has been translated and adapted to different languages and is widely used in other countries, but no Spanish version has been published.
+The objective was to make a valid translation of the RBANS to Spanish, and obtain a version adapted to the Spanish population.
+Patients and methods
+The study included 73 subjects: 25 males with a mean age of 54 years and 9.72 years of education, and 48 females with a mean age of 53 years and 10.29 years of education.
+The battery was translated using the translation-back- translation method (with slight differences), followed by a descriptive pilot study in a sample of the normal population.
+Results
+An overall reliability coefficient with a Cronbach alpha of 0.73 was obtained in the translation and adaptation of the RBANS, form A (1998).
+Statistically significant positive correlations between the indices were obtained.
+Conclusions
+The version translated and adapted to Spanish performs similarly to the original version.

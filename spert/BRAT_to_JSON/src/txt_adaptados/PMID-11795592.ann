@@ -1,0 +1,14 @@
+T1	Protein 25 60	von Hippel-Lindau tumour suppressor
+T2	Protein 644 653	ubiquitin
+T3	Protein 696 731	von Hippel-Lindau tumour suppressor
+T4	Protein 741 745	pVHL
+T5	Protein 795 804	ubiquitin
+T6	Protein 987 991	pVHL
+T7	Protein 1128 1132	pVHL
+T8	Protein 1205 1215	HIF-1alpha
+*	Equiv T3 T4
+*	Equiv T10 T11
+T9	Hydroxylation 1159 1172	hydroxylation
+T10	Entity 1189 1203	prolyl residue
+T11	Entity 1217 1224	Pro 564
+E1	Hydroxylation:T9 Theme:T8 Site:T10

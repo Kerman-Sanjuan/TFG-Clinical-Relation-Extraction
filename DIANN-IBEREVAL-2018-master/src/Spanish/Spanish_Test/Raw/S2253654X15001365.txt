@@ -1,0 +1,18 @@
+Resumen
+ Objetivo
+Evaluar los patrones de distribución cortical cerebral de 11C-PIB en pacientes con deterioro cognitivo leve (DCL).
+Material y métodos
+El estudio incluyó 69 pacientes (37 varones, rango de edad 42–79 años) con DCL, que fueron clasificados en 53 DCL amnésico (DCL-A) y 16 DCL no amnésico (DCL-NA).
+Se obtuvo una PET/TC 11C-PIB 60 min después de la inyección intravenosa del radiotrazador.
+Se realizó un análisis visual de las imágenes por 2 médicos con experiencia.
+Los estudios 11C-PIB se consideraron positivos cuando la captación en la sustancia gris fue igual o superior a la captación en la sustancia blanca.
+Dependiendo de las regiones afectadas, los estudios 11C-PIB positivos se clasificaron en patrón A (retención predominante en frontal, cingulado anterior, lateral temporal y ganglios basales) y patrón B (retención generalizada).
+Resultados
+De los 69 pacientes con DCL, 39 (56%) mostraron retención de 11C-PIB.
+De los 53 pacientes DCL-A, 36 (68%) tuvieron retención cerebral de 11C-PIB.
+Once de los 36 (30%) estudios positivos en los pacientes DCL-A mostraron un patrón A y 25 de los 36 (70%) pacientes presentaron un patrón B.
+Se observaron estudios 11C-PIB positivos en 3 de los 16 (19%) pacientes con DCL-NA.
+En estos 3 pacientes la distribución regional mostró patrón A en uno y patrón B en 2 pacientes.
+Conclusión
+La retención cortical de 11C-PIB fue más frecuente en pacientes con DCL-A que en pacientes con DCL-NA, y, asimismo, el patrón B que el patrón A en el grupo 11C-PIB positivo.
+La identificación de los patrones de distribución de 11C-PIB permite una caracterización de los pacientes con DCL; el patrón A puede ofrecer una ventana para potenciales tratamientos en el futuro.

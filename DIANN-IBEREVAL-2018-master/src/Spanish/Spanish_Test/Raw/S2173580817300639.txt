@@ -1,0 +1,13 @@
+Introducción.
+La enfermedad de Alzheimer (EA) es el principal trastorno neurodegenerativo que provoca una discapacidad intelectual total en los pacientes que la presentan. 
+La elevada prevalencia a nivel mundial, así como la elevada carga socioeconómica que conlleva la EA para la sociedad en general, hace que sea considerada un importante problema de salud pública en este siglo xxi. 
+En este trabajo se revisan los tratamientos actuales y en fase de desarrollo que actúan principalmente sobre la proteína β-amiloide.
+
+Discusión.
+La hipótesis amiloidogénica propone que el péptido β-amiloide tiene un papel clave en esta enfermedad. 
+Se han desarrollado varias estrategias farmacológicas diferentes con el objetivo de inhibir la formación de los péptidos β-amiloides, como son los inhibidores de β-secretasa y γ-secretasa. 
+Además, se han desarrollado los tratamientos antiamiloide, que incluyen inmunoterapias pasivas y activas enfocadas a inhibir la agregación del péptido β-amiloide.
+
+Conclusiones.
+Los avances en la identificación de las bases moleculares de la EA pueden servir como modelo para comprender las causas de esta enfermedad neurodegenerativa. 
+Sin embargo, los ensayos clínicos más recientes en 2 ensayos de fase iii con solanezumab, un anticuerpo monoclonal humanizado que promueve el aclaramiento del β-amiloide en el cerebro, indican que este anticuerpo no muestra eficacia en pacientes con EA leve, sugiriendo que hay que replantearse esta hipótesis amiloidogénica de la EA.

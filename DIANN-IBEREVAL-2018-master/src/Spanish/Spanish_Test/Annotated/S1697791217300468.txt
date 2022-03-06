@@ -1,0 +1,6 @@
+Resumen
+ Los enfermos de Párkinson (EP) y de temblor esencial (TE) suponen un porcentaje importante de la casuística clínica en los <dis>trastornos del movimiento</dis>, que impiden a los sujetos afectados el llevar una vida normal, produciendo <dis>discapacidad física</dis> y una no menos importante exclusión social en muchos de los casos.
+Las vías de tratamiento son dispares, de ahí que sea crítico acertar con precisión en el diagnóstico en las etapas iniciales de la enfermedad.
+Hasta la actualidad, los profesionales y expertos en medicina, utilizan unas escalas cualitativas para diferenciar la patología y su grado de afectación.
+Dichas escalas también se utilizan para efectuar un seguimiento clínico y registrar la historia del paciente.
+En este trabajo se propone la utilización de clasificadores binarios centrados en las Máquinas de Soporte Vectorial (SVM) para obtener un diagnóstico diferencial entre las dos patologías de temblor mencionadas.

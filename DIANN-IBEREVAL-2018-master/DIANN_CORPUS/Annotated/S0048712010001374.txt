@@ -1,0 +1,12 @@
+Abstract
+ Objective
+To update knowledge about energy cost methods in gait for people with neurological disorders.
+Search strategy
+We reviewed the following databases: Medline, Physiotherapy Evidence Database, Ovid, the Cochrane Library and Sport Discus up to December 2009.
+Study selection
+Those articles in which energy cost was recorded during gait analysis in people with neurological disorders, especially those related to methodological aspects, were selected.
+A total of 11 articles were located.
+Six were related to children with <dis>cerebral palsy</dis>, 1 to traumatic brain injury, 2 to stroke and 2 to spinal cord injury.
+Results and conclusions
+Much difference exists in regards to the protocols used to evaluate energy cost of gait in persons with neurological disorders.
+This type of analysis can be a useful tool to study functional performance in patients with neurological disorders complementary to the biomechanical analysis.

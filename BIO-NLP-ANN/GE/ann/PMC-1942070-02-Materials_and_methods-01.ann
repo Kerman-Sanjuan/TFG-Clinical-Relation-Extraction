@@ -1,0 +1,9 @@
+T1	Protein 101 105	PKD1
+T2	Protein 110 114	PKD3
+T3	Protein 122 126	PKD1
+T4	Protein 127 128	3
+T5	Negative_regulation 132 140	knockout
+E1	Negative_regulation:T5 Theme:T1
+E2	Negative_regulation:T5 Theme:T2
+E3	Negative_regulation:T5 Theme:T3
+E4	Negative_regulation:T5 Theme:T4

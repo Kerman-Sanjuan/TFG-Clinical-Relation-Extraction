@@ -1,0 +1,20 @@
+Objetivo
+Validar el Cuestionario de Preferencias de Soporte Vital (LSPQ) para su uso en población española.
+Diseño
+Estudio realizado en tres fases: _a)_ traducción y adaptación idiomática; _b)_ evaluación de su validez, y _c)_ validación de sus propiedades psicométricas.
+Emplazamiento
+El estudio se ha llevado a cabo en 9 consultas de enfermería de atención primaria y en 2 aulas universitarias de Granada.
+Participantes
+Se incluyeron pacientes mayores de edad y estudiantes universitarios de primer y segundo cursos, sin deterioro cognitivo.
+Mediciones principales
+Equivalencia de la traducción con el original verificada por bilingües.
+Corrección lingüística y gramatical evaluada por expertos en lengua española.
+Validez del cuestionario evaluada por 15 jueces-expertos y 20 pacientes.
+Complejidad lingüística (índice de Szigriszt).
+Estabilidad temporal (test de McNemar).
+Consistencia interna (alfa de Cronbach).
+Resultados
+ _a)_ 2 personas bilingües realizaron una traducción que fue revisada por 6 expertos en lengua española.
+Tras las modificaciones que sugirieron, las personas bilingües aseguraron su equivalencia con el original; _b)_ 15 expertos afirmaron que cada ítem era buen indicador de las preferencias de cuidado al final de la vida; _c)_ 20 usuarios confirmaron la aceptabilidad y comprensibilidad del cuestionario; _d)_ en relación con la fiabilidad, completaron el cuestionario 299 participantes (de los 369 inicialmente seleccionados), y _e)_ la estabilidad del cuestionario es de 0,92 y su consistencia interna de 0,85.
+Conclusión
+El cuestionario LSPQen español (LSPQ-e) es una herramienta fiable diseñada para ayudar a los pacientes a clarificar sus preferencias de cuidado y tratamiento al final de la vida.

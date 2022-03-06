@@ -1,0 +1,11 @@
+{
+  "entities": {
+    "Protein": { "short": "Protein", "verbose": false },
+    "Deacetylation": { "short": "Deacetylation", "verbose": false },
+    "Catalysis": { "short": "Catalysis", "verbose": false },
+    "Ubiquitination": { "short": "Ubiquitination", "verbose": false }
+  },
+  "relations": {
+    "Theme": { "symmetric": false, "short": "Ubiquitination", "verbose": false }
+  }
+}

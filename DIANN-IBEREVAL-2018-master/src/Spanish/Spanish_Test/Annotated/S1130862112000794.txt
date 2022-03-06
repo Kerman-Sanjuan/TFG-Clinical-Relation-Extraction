@@ -1,0 +1,15 @@
+Resumen
+ Objetivo
+Describir la calidad de vida de los pacientes complejos atendidos en un programa de gestión de casos en Atención Primaria de Salud.
+Material y métodos
+Estudio descriptivo transversal, mediante muestreo consecutivo, de los pacientes complejos <scp><neg>sin</neg> <dis>deterioro cognitivo</dis></scp> atendidos durante el segundo semestre de 2010 en 2 áreas básicas de salud de Barcelona litoral.
+Se administró el test EuroQol, mediante entrevista individualizada, analizándose los valores en la escala visual analógica (EQ-EVA), y el índice EuroQol, a partir de las 5 dimensiones clave del instrumento.
+Resultados
+Se analizan 50 pacientes, con una edad media de 71,46 años, de las cuales son mujeres el 66%.
+De las dimensiones clave, el dolor es el problema más prevalente, presente en el 80% de los casos, seguido de los problemas de movilidad, actividades de la vida cotidiana, y ansiedad/depresión, con el 62,5%, y por último, los problemas para el cuidado personal, con el 47,5%.
+Los valores globales en EQ-EVA e índice EuroQol son 51,89 (DE 21,19) y 0,53 (DE 0,26), respectivamente.
+Se ha detectado peor calidad de vida en EQ-EVA e índice EuroQol en mujeres, y en situaciones de soledad, comorbilidad e hiperfrecuentación al hospital.
+En el caso de EQ-EVA se aprecia una tendencia a puntuar mejor a mayor edad, y sensiblemente inferior en el caso de los hombres que viven solos (EQ-EVA 36,67 ± 15,27).
+Conclusiones
+Los pacientes complejos de nuestro contexto presentan peor calidad de vida que la población >70 años de Cataluña.
+El uso del EuroQol es útil para realizar comparaciones entre grupos poblacionales.

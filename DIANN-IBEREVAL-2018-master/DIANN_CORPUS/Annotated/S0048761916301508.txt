@@ -1,0 +1,8 @@
+Abstract
+ The basal mesolimbic system is among the dopaminergic systems that undergo changes during human evolution and that, under certain conditions, connectivity and abnormal neurotransmission trigger pathological changes during adolescence and adulthood.
+Transcranial ultrasound in adults is performed through the temporal squama with equipment that has a focal sectorial transducer from 1.8 to 2.8 MHz.
+The key points of the ultrasound evaluation are mesencephalon, substantia nigra area, raphe, striatum and thalamus, third ventricle, and orbitofrontal sectors.
+Despite its limited anatomical access, it is one of the neuroimaging methods that quantifies the echogenicity (0-3) and the sectional area of the substantia nigra (normal up to 0.2 cm2), which correlates with the worsening of Parkinsonian motor symptoms.
+It also evaluates and measures the raphe (normal 1 mm) which correlates with humour or apathy.
+Thickness changes of the mesencephalic tegmentum (interpeduncular angle, smaller or greater than 60°), thalamus and striatum increased echogenicity, and the third ventricle dilation (greater than 5 mm), are other possible findings.
+These are used to corroborate the diagnosis, classification, treatment and monitoring of different pathologies, like Parkinson's disease, supranuclear progressive palsy, dystonias, cortico-basal degeneration, schizophrenia, depression, bipolar disorder, and <dis>autism</dis>.

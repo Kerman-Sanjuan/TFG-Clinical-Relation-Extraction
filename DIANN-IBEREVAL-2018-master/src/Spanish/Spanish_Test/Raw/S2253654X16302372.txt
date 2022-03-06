@@ -1,0 +1,16 @@
+Objetivos.
+El hipometabolismo cortical posterior por PET con 18F-FDG (PET-FDG) y la alteración de los niveles del péptido Aß1-42 y las proteínas Tau total (tTau) y Tau fosforilada (pTau) en líquido cefalorraquídeo (LCR) son biomarcadores establecidos para el diagnóstico de la enfermedad de Alzheimer (EA). 
+Evaluamos la concordancia y la relación entre los resultados de la PET-FDG y los biomarcadores en LCR en pacientes sintomáticos con sospecha de EA.
+
+Material y métodos.
+Revisión retrospectiva de 120 pacientes con deterioro cognitivo admitidos en la Unidad de Neurología Cognitiva a los que se les ha realizado punción lumbar para la determinación de biomarcadores en LCR y una PET-FDG cerebral. 
+Para el análisis de concordancia (coeficiente Kappa), el resultado de la PET-FDG y del conjunto de los biomarcadores-LCR se clasificó en cada paciente como normal, no-concluyente, o compatible-EA. 
+Se efectuó además una regresión logística incluyendo las variables cuantitativas Aß1-42, tTau y pTau como predictores y la PET-FDG como variable dependiente.
+
+Resultados.
+El coeficiente Kappa ponderado entre PET-FDG y biomarcadores-LCR fue de 0,46 (IC 95%: 0,35-0,57). 
+En el análisis por regresión logística, la Aß1-42 y la tTau fueron en conjunto capaces de discriminar un resultado PET metabólicamente sugestivo de EA de uno no sugestivo de EA, con una sensibilidad del 91% y una especificidad del 93% aplicando la recta de corte Aß1-42=44+1,3×tTau.
+
+Conclusiones.
+La concordancia entre la PET-FDG cerebral y los biomarcadores-LCR es moderada, lo cual indica su valor complementario en el diagnóstico de EA. 
+Los niveles de Aß1-42 y tTau en LCR son buenos predictores del estatus metabólico característico de EA por PET-FDG cerebral.

@@ -1,0 +1,15 @@
+Resumen
+ Introducción
+Los estudios con pruebas neuropsicológicas han demostrado déficits en la memoria operativa de pacientes con trastorno afectivo bipolar (TAB).
+Todavía no es clara la correlación de estos déficits con activaciones funcionales detectados con neuroimágenes, como la resonancia magnética funcional (RMf).
+Objetivo
+Describir la aplicación de un nuevo paradigma de evaluación neurocognitiva para identificar las posibles diferencias en las características de respuesta neurofuncional en pacientes con TAB en tareas de memoria operativa.
+Método
+Estudio descriptivo-correlacional de corte transversal.
+Se evaluaron 12 pacientes eutímicos con TAB tipo I (cuatro en tratamiento con carbonato de litio, cuatro con ácido valproico y cuatro sin medicación al menos durante dos meses previos a la evaluación) y cuatro controles.
+La RMf se usó para correlacionar sus procesos de memoria operativa con los cambios vistos en la señal BOLD, usando un paradigma que combina la presentación de bloques y eventos relacionados.
+Resultados
+La activación cerebral del grupo control fue significativamente mayor durante su condición de respuesta, comparada con la presentada en pacientes con TAB; pero al contrastar los grupos de pacientes no hubo diferencia estadísticamente significativa (p>0,05).
+Discusión
+El paradigma evaluado es útil en el estudio de áreas de activación cerebral en procesos de memoria operativa.
+Los resultados diferenciales en pacientes bipolares requieren estudios con muestras más grandes para comparar otros posibles déficits cognitivos asociados y efectos específicos de los medicamentos.

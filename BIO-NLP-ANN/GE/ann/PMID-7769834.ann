@@ -1,0 +1,38 @@
+T1	Protein 26 49	early growth response-1
+T2	Protein 197 220	early growth response-1
+T3	Protein 227 232	EGR-1
+T4	Protein 273 278	EGR-1
+T5	Protein 391 396	EGR-1
+T6	Protein 430 463	chloramphenicol acetyltransferase
+T7	Protein 465 468	CAT
+T8	Protein 505 510	EGR-1
+T9	Protein 576 581	EGR-1
+T10	Protein 703 724	serum response factor
+T11	Protein 726 729	SRF
+T12	Protein 876 881	EGR-1
+*	Equiv T11 T10
+*	Equiv T6 T7
+T13	Positive_regulation 0 10	Activation
+T14	Gene_expression 55 65	expression
+T15	Regulation 143 150	effects
+T16	Positive_regulation 184 193	induction
+T17	Regulation 263 272	regulates
+T18	Gene_expression 284 294	expression
+T19	Positive_regulation 497 504	induced
+T20	Transcription 511 524	transcription
+T21	Positive_regulation 528 537	conferred
+T22	Entity 545 555	CArG motif
+T23	Phosphorylation 677 692	phosphorylation
+T24	Positive_regulation 882 891	induction
+E1	Positive_regulation:T13 Theme:E2
+E2	Gene_expression:T14 Theme:T1
+E3	Regulation:T15 Theme:E4
+E4	Positive_regulation:T16 Theme:T3
+E5	Regulation:T17 Theme:E6
+E6	Gene_expression:T18 Theme:T4
+E7	Positive_regulation:T19 Theme:E8
+E8	Transcription:T20 Theme:T8
+E9	Positive_regulation:T21 Theme:E7 Cause:T9 CSite:T22
+E10	Phosphorylation:T23 Theme:T11
+E11	Positive_regulation:T24 Theme:T12
+M1	Speculation E3

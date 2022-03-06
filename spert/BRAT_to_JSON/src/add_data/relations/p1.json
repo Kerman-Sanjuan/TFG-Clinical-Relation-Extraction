@@ -1,0 +1,19 @@
+[
+  { "tokens": ["Hola", "como", "estas", "."] },
+  { "tokens": ["Esta", "noche", "te", "quiero", "hacer", "maldades", "."] },
+  { "tokens": ["Hacermelo", "y", "que", "no", "acabe", "."] },
+  {
+    "tokens": [
+      "Hacer",
+      "que",
+      "te",
+      "acuerdes",
+      "de",
+      "mi",
+      ",",
+      "ven",
+      "bebe",
+      "."
+    ]
+  }
+]

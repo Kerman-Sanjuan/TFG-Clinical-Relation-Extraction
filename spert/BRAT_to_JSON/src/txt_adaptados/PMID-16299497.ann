@@ -1,0 +1,42 @@
+T1	Protein 47 64	FLOWERING LOCUS C
+T2	Protein 89 99	histone H3
+T3	Protein 363 373	histone H3
+T4	Protein 415 432	FLOWERING LOCUS C
+T5	Protein 434 437	FLC
+T6	Protein 567 569	H3
+T7	Protein 588 591	FLC
+T8	Protein 642 660	SET DOMAIN GROUP 8
+T9	Protein 662 667	SDG 8
+T10	Protein 709 713	SET2
+T11	Protein 777 787	histone H3
+T12	Protein 838 841	FLC
+T13	Protein 936 940	sdg8
+T14	Protein 965 968	FLC
+T15	Protein 1011 1015	SDG8
+T16	Protein 1025 1027	H3
+T17	Protein 1090 1093	FLC
+T18	Protein 1175 1177	H3
+*	Equiv T4 T5
+*	Equiv T8 T9
+T19	Methylation 74 85	methylation
+T20	Entity 100 103	K36
+T21	Methylation 348 359	methylation
+T22	Entity 374 376	K9
+T23	Entity 381 384	K27
+T24	Methylation 552 563	methylation
+T25	Entity 569 571	K4
+T26	Methylation 760 773	dimethylation
+T27	Entity 787 790	K36
+T28	Catalysis 1016 1024	mediated
+T29	Entity 1027 1030	K36
+T30	Methylation 1031 1042	methylation
+T31	Entity 1177 1180	K36
+T32	Methylation 1181 1192	methylation
+E1	Methylation:T19 Theme:T2 Site:T20 Contextgene:T1
+E2	Methylation:T21 Theme:T3 Site:T22 Contextgene:T4
+E3	Methylation:T21 Theme:T3 Site:T23 Contextgene:T4
+E4	Methylation:T24 Theme:T6 Site:T25 Contextgene:T7
+E5	Methylation:T26 Theme:T11 Site:T27 Contextgene:T12
+E6	Catalysis:T28 Theme:E7 Cause:T15
+E7	Methylation:T30 Theme:T16 Site:T29 Contextgene:T17
+E8	Methylation:T32 Theme:T18 Site:T31

@@ -1,0 +1,6 @@
+Case report
+This is a 19-year-old male with bilateral external rectus muscle palsy secundary to trauma. 
+During treatment, an inadvertent intraocular injection of botulinum toxin was present, causing a retinal tear and localized retinal detachment. 
+Both lesions were delimited with laser observing a spontaneous resolution of the detachment <scp><neg>without</neg> presenting <dis>visual impairment</dis> during the follow-up</scp>.
+Discussion
+Although intraocular botulinum toxin does not generate retinal toxicity, inadvertent intraocular injection should be closely monitored to avoid complications secondary to perforation.

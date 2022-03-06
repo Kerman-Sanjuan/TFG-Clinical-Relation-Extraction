@@ -1,0 +1,70 @@
+T1	Protein 24 37	interleukin-6
+T2	Protein 46 62	interferon-gamma
+T3	Protein 67 94	tumor necrosis factor-alpha
+T4	Protein 143 173	interferon regulatory factor-1
+T5	Protein 191 194	Sp1
+T6	Protein 287 303	interferon-gamma
+T7	Protein 305 314	IFN-gamma
+T8	Protein 316 343	tumor necrosis factor-alpha
+T9	Protein 345 354	TNF-alpha
+T10	Protein 365 378	interleukin-6
+T11	Protein 380 384	IL-6
+T12	Protein 519 523	IL-6
+T13	Protein 588 597	IFN-gamma
+T14	Protein 605 614	TNF-alpha
+T15	Protein 815 824	TNF-alpha
+T16	Protein 913 922	IFN-gamma
+T17	Protein 927 936	TNF-alpha
+T18	Protein 1014 1023	IFN-gamma
+T19	Protein 1095 1098	p50
+T20	Protein 1099 1102	p65
+T21	Protein 1146 1150	IL-6
+T22	Protein 1159 1168	IFN-gamma
+T23	Protein 1173 1182	TNF-alpha
+T24	Protein 1237 1242	IRF-1
+T25	Protein 1258 1261	p65
+T26	Protein 1374 1378	IL-6
+T27	Protein 1445 1448	Sp1
+T28	Protein 1527 1536	IFN-gamma
+*	Equiv T9 T8
+*	Equiv T11 T10
+*	Equiv T7 T6
+T29	Positive_regulation 0 10	Triggering
+T30	Regulation 114 134	involves cooperation
+T31	Positive_regulation 274 283	induction
+T32	Positive_regulation 456 465	induction
+T33	Entity 524 532	promoter
+T34	Regulation 615 621	action
+T35	Positive_regulation 1077 1087	activation
+T36	Positive_regulation 1129 1138	induction
+T37	Positive_regulation 1204 1212	involved
+T38	Positive_regulation 1414 1424	activation
+T39	Positive_regulation 1463 1472	increased
+T40	Binding 1473 1489	binding activity
+T41	Phosphorylation 1494 1509	phosphorylation
+T42	Positive_regulation 1515 1523	mediated
+E1	Positive_regulation:T29 Theme:T1 Cause:T2
+E2	Positive_regulation:T29 Theme:T1 Cause:T3
+E3	Regulation:T30 Theme:E2 Cause:T5
+E4	Regulation:T30 Theme:E1 Cause:T4
+E5	Positive_regulation:T31 Theme:T11 Cause:T7
+E6	Positive_regulation:T31 Theme:T11 Cause:T9
+E7	Positive_regulation:T32 Theme:T11
+E8	Regulation:T34 Theme:T12 Cause:T13 Site:T33
+E9	Regulation:T34 Theme:T12 Cause:T14 Site:T33
+E10	Positive_regulation:T35 Theme:T20
+E11	Positive_regulation:T35 Theme:T19
+E12	Positive_regulation:T36 Theme:T21 Cause:T22
+E13	Positive_regulation:T36 Theme:T21 Cause:T23
+E14	Positive_regulation:T37 Theme:E12 Cause:T25
+E15	Positive_regulation:T37 Theme:E13 Cause:T25
+E16	Positive_regulation:T37 Theme:E13 Cause:T24
+E17	Positive_regulation:T37 Theme:E12 Cause:T24
+E18	Positive_regulation:T38 Theme:T27
+E19	Positive_regulation:T39 Theme:E20
+E20	Binding:T40 Theme:T27
+E21	Phosphorylation:T41 Theme:T27
+E22	Positive_regulation:T42 Theme:E21 Cause:T28
+E23	Positive_regulation:T42 Theme:E19 Cause:T28
+M1	Speculation E5
+M2	Speculation E6

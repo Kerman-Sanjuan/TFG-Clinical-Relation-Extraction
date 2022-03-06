@@ -1,0 +1,13 @@
+Resumen
+ Introducción
+Para aprobar el uso comercial de un medicamento en Estados Unidos, la Food and Drug Administration (FDA) exige, por lo menos, dos ensayos clínicos de fase III que demuestren su seguridad y eficacia.
+En estos estudios, sin embargo, los resultados pueden verse influenciados por la composición de sus muestras.
+Objetivo
+Describir los problemas de generalizabilidad de los resultados de ensayos clínicos en psiquiatría, debido a la composición de las muestras.
+Método
+Breve descripción del efecto del uso de criterios de elegibilidad muy restrictivos en la generalizabilidad de los resultados de los ensayos clínicos.
+También se exponen ejemplos de estudios que han examinado este tema tanto en muestras clínicas como en muestras comunitarias.
+Conclusión
+Tanto en muestras clínicas como en muestras comunitarias, varios estudios han demostrado que, usualmente, una gran proporción de adultos con trastornos psiquiátricos son excluidos, debido a los criterios de elegibilidad comúnmente utilizados en los ensayos clínicos.
+Éstos suelen reclutar muestras altamente selectivas, en lugar de adultos que podrían ser más representativos de pacientes típicos.
+Los ensayos clínicos deben evaluar cuidadosamente los efectos de sus criterios de elegibilidad sobre la generalizabilidad de sus resultados, ya que esto puede limitar su representatividad.

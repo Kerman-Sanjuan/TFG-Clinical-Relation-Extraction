@@ -1,0 +1,20 @@
+T1	Protein 17 20	CD4
+T2	Protein 25 30	Thy-1
+T3	Protein 114 117	CD4
+T4	Protein 120 123	CD4
+T5	Protein 305 308	CD4
+T6	Protein 423 426	CD4
+T7	Protein 530 533	CD4
+T8	Protein 852 855	CD2
+T9	Protein 883 888	Thy-1
+T10	Glycosylation 0 13	Glycosylation
+T11	Glycosylation 51 64	glycosylation
+T12	Glycosylation 325 334	abundance
+T13	Entity 338 350	oligomannose
+T14	Entity 355 374	hybrid type glycans
+T15	Entity 396 414	glycosylation site
+E1	Glycosylation:T10 Theme:T1
+E2	Glycosylation:T10 Theme:T2
+E3	Glycosylation:T11 Theme:T4
+E4	Glycosylation:T12 Theme:T6 Site:T15 Sidechain:T13
+E5	Glycosylation:T12 Theme:T6 Site:T15 Sidechain:T14

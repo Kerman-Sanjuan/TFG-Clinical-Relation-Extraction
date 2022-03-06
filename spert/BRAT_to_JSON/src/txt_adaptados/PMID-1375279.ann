@@ -1,0 +1,12 @@
+T1	Protein 66 94	haemagglutinin-neuraminidase
+T2	Protein 202 230	haemagglutinin-neuraminidase
+T3	Protein 232 234	HN
+T4	Protein 576 578	HN
+T5	Protein 1214 1216	HN
+T6	Protein 1400 1402	HN
+T7	Protein 1542 1544	HN
+*	Equiv T2 T3
+T8	Entity 1510 1538	N-linked glycosylation sites
+T9	Glycosylation 1556 1564	utilized
+E1	Glycosylation:T9 Theme:T7 Site:T8
+M1	Speculation E1

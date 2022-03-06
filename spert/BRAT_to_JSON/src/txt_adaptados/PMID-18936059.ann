@@ -1,0 +1,19 @@
+T1	Protein 41 83	factor inhibiting hypoxia-inducible factor
+T2	Protein 85 88	FIH
+T3	Protein 769 796	HIF asparaginyl hydroxylase
+T4	Protein 797 818	factor inhibiting HIF
+T5	Protein 820 823	FIH
+T6	Protein 900 903	FIH
+T7	Protein 1239 1242	FIH
+T8	Protein 1314 1317	FIH
+T9	Protein 1543 1546	FIH
+T10	Protein 1727 1730	FIH
+T11	Protein 1821 1832	Tankyrase-2
+T12	Protein 1893 1896	FIH
+*	Equiv T1 T2
+*	Equiv T3 T4 T5
+T13	Entity 1843 1854	eight sites
+T14	Catalysis 1897 1906	catalyzed
+T15	Hydroxylation 1907 1920	hydroxylation
+E1	Catalysis:T14 Theme:E2 Cause:T12
+E2	Hydroxylation:T15 Theme:T11 Site:T13

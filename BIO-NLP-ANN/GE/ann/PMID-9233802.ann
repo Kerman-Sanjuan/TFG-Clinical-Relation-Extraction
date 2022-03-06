@@ -1,0 +1,19 @@
+T12	Binding 302 307	binds
+T13	Negative_regulation 775 781	blocks
+T14	Negative_regulation 851 870	synergize to resist
+T15	Regulation 1275 1303	positive/negative regulation
+E1	Binding:T12 Theme:T3
+E2	Negative_regulation:T13 Theme:T7 Cause:T6
+E3	Negative_regulation:T14 Theme:E2 Cause:T7
+E4	Regulation:T15 Theme:T11
+T1	Protein 0 5	c-Myb
+T2	Protein 75 78	ZEB
+T3	Protein 266 269	ZEB
+T4	Protein 432 435	ZEB
+T5	Protein 597 602	c-Myb
+T6	Protein 771 774	ZEB
+T7	Protein 798 803	c-Myb
+T8	Protein 935 940	c-Myb
+T9	Protein 1091 1094	ZEB
+T10	Protein 1129 1134	c-Myb
+T11	Protein 1319 1334	alpha4 integrin

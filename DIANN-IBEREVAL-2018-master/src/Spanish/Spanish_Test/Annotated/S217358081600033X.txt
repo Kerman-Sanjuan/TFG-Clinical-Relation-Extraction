@@ -1,0 +1,16 @@
+Resumen
+ Introducción
+Solo el 20-26% de los pacientes con esclerosis múltiple presenta déficits en habilidades visuoespaciales-visuoconstructivas (VE-VC) pese a la frecuente afectación témporo-parieto-occipital en resonancia magnética.
+No hay estudios que analicen la relación entre estas funciones y el volumen lesional (VL) de estas áreas cerebrales.
+Objetivo
+Evaluar la relación del VL parieto-occipito-temporal y la atrofia subcortical con el rendimiento en funciones VE-VC en esclerosis múltiple.
+Metodología
+De 100 pacientes de esclerosis múltiple con evaluación neuropsicológica rutinaria se seleccionan 21 por afectación en habilidades VE-VC, medidas por Figuras incompletas, Cubos (WAIS-III) y Figura compleja de Rey-Osterrieth, y 13 <scp><neg>sin</neg> <dis>déficit cognitivo</dis></scp> (grupo control).
+El VL regional se cuantifica por un método semiautomático en secuencias FLAIR y T1, y la atrofia subcortical por el ratio bicaudado y la anchura del iii ventrículo (AIIIV).
+Se utilizan correlaciones parciales (controlando con edad y escolarización) y regresión lineal para analizar la relación entre los parámetros de resonancia magnética y el rendimiento cognitivo.
+Resultados
+Todas las medidas de VL y de atrofia cerebral son significativamente mayores en pacientes con <dis>deterioro cognitivo</dis>.
+El VL regional en FLAIR, ratio bicaudado y AIIIV muestran significativa correlación inversa con el rendimiento cognitivo, mayor entre la AIIIV y VC (Cubos: p = 0,001; Figura compleja de Rey-Osterrieth: p < 0,000).
+En el análisis multivariante, la AIIIV influye significativamente en tareas de VC (Cubos: p = 0,000; Figura compleja de Rey- Osterrieth: p = 0,000) y el VL regional en FLAIR en tareas VE (Figuras incompletas; p = 0,002).
+Conclusiones
+Las medidas de atrofia subcortical se relacionan con tareas de visuoconstrucción y el VL regional con tareas VE.

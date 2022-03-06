@@ -1,0 +1,16 @@
+Abstract
+ Purpose
+To determine the prevalence of visual impairment attributable to refractive error and other causes in a youthful Ghanaian population.
+Methods
+A prospective survey of all consecutive visits by first-year tertiary students to the Optometry clinic between August, 2013 and April, 2014.
+Of the 4378 first-year students aged 16–39 years enumerated, 3437 (78.5%) underwent the eye examination.
+The examination protocol included presenting visual acuity (PVA), ocular motility, and slit-lamp examination of the external eye, anterior segment and media, and non-dilated fundus examination.
+Pinhole acuity and fundus examination were performed when the PVA ≤ 6/12 in one or both eyes to determine the principal cause of the vision loss.
+Results
+The mean age of participants was 21.86 years (95% CI: 21.72–21.99).
+The prevalence of bilateral visual impairment (BVI; PVA in the better eye ≤6/12) and unilateral visual impairment UVI; PVA in the worse eye ≤6/12) were 3.08% (95% CI: 2.56–3.72) and 0.79% (95% CI: 0.54–1.14), respectively.
+Among 106 participants with BVI, refractive error (96.2%) and corneal opacity (3.8%) were the causes.
+Of the 27 participants with UVI, refractive error (44.4%), maculopathy (18.5%) and retinal disease (14.8%) were the major causes.
+There was unequal distribution of BVI in the different age groups, with those above 20 years having a lesser burden.
+Conclusion
+Eye screening and provision of affordable spectacle correction to the youth could be timely to eliminate visual impairment.

@@ -1,0 +1,17 @@
+T8	Acetylation 21 32	acetylation
+T9	Acetylation 109 120	acetylation
+T10	Acetylation 555 566	acetylation
+T11	Acetylation 745 756	acetylation
+T12	Acetylation 827 838	acetylation
+E1	Acetylation:T8 Theme:T2
+E2	Acetylation:T9 Theme:T4
+E3	Acetylation:T10 Theme:T5
+E4	Acetylation:T11 Theme:T6
+E5	Acetylation:T12 Theme:T7
+T1	Protein 0 8	Histones
+T2	Protein 13 20	histone
+T3	Protein 88 96	Histones
+T4	Protein 101 108	histone
+T5	Protein 307 315	histones
+T6	Protein 737 744	histone
+T7	Protein 816 826	histone H3

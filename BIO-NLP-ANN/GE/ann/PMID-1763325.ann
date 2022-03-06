@@ -1,0 +1,29 @@
+*	Equiv T1 T2
+*	Equiv T4 T3
+T12	Localization 422 434	distribution
+T13	Binding 447 451	bind
+T14	Positive_regulation 485 495	stabilized
+T15	Binding 570 577	complex
+T16	Positive_regulation 585 593	required
+T17	Regulation 642 648	change
+T18	Binding 657 664	binding
+E1	Localization:T12 Theme:T4
+E2	Binding:T13 Theme:T4
+E3	Positive_regulation:T14 Theme:T5 Cause:T4
+E4	Binding:T15 Theme:T6 Theme2:T7
+E5	Positive_regulation:T16 Theme:E4
+E6	Regulation:T17 Theme:E7 Cause:E4
+E7	Binding:T18 Theme:T9
+M1	Negation E2
+M2	Negation E6
+T1	Protein 215 248	Hepatocyte nuclear factor-1 alpha
+T2	Protein 250 261	HNF-1 alpha
+T3	Protein 328 364	dimerization cofactor of HNF-1 alpha
+T4	Protein 366 370	DCoH
+T5	Protein 496 507	HNF-1 alpha
+T6	Protein 553 557	DCoH
+T7	Protein 558 569	HNF-1 alpha
+T8	Protein 621 632	HNF-1 alpha
+T9	Protein 684 695	HNF-1 alpha
+T10	Protein 749 753	DCoH
+T11	Protein 856 860	DCoH

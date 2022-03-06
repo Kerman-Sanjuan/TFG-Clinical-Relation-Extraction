@@ -1,0 +1,111 @@
+T1	Protein 0 5	RUNX1
+T2	Protein 10 15	RUNX3
+T3	Protein 49 54	Foxp3
+T4	Protein 76 81	RUNX1
+T5	Protein 83 88	RUNX3
+T6	Protein 94 99	FOXP3
+T7	Protein 130 133	CD4
+T8	Protein 172 175	CD2
+T9	Protein 176 177	3
+T10	Protein 178 180	28
+T11	Protein 189 197	TGF-beta
+T12	Protein 229 233	IL-2
+T13	Protein 264 267	CD4
+T14	Protein 364 369	FOXP3
+T15	Protein 393 396	CD2
+T16	Protein 397 398	3
+T17	Protein 399 401	28
+T18	Protein 410 418	TGF-beta
+T19	Protein 434 437	CD4
+T20	Protein 479 484	RUNX1
+T21	Protein 485 486	3
+T22	Protein 536 539	CD4
+T23	Protein 567 572	RUNX1
+T24	Protein 580 585	RUNX3
+T25	Protein 639 642	CD2
+T26	Protein 643 644	3
+T27	Protein 645 647	28
+T28	Protein 649 657	TGF-beta
+T29	Protein 662 666	IL-2
+T30	Protein 732 737	FOXP3
+T31	Protein 811 816	RUNX1
+T32	Protein 821 826	RUNX3
+T33	Protein 846 851	FOXP3
+T34	Protein 853 858	T-bet
+T35	Protein 860 865	GATA3
+T36	Protein 871 876	RORC2
+T37	Protein 894 897	CD4
+T38	Protein 925 930	RUNX1
+T39	Protein 935 940	RUNX3
+T40	Protein 1000 1006	iT reg
+T41	Protein 1021 1025	Th17
+T42	Protein 1119 1124	FOXP3
+T43	Protein 1191 1196	RUNX1
+T44	Protein 1197 1198	3
+T45	Protein 1222 1225	CD4
+T46	Protein 1257 1262	RUNX1
+T47	Protein 1270 1275	RUNX3
+T48	Protein 1331 1334	CD2
+T49	Protein 1335 1336	3
+T50	Protein 1337 1339	28
+T51	Protein 1344 1352	TGF-beta
+T52	Protein 1372 1376	IL-2
+T53	Protein 1378 1381	CD4
+T54	Protein 1400 1405	FOXP3
+T55	Regulation 20 28	involved
+T56	Gene_expression 36 45	induction
+T57	Transcription 100 104	mRNA
+T58	Positive_regulation 105 114	induction
+T59	Transcription 370 374	mRNA
+T60	Positive_regulation 375 384	induction
+T61	Negative_regulation 450 457	reduced
+T62	Positive_regulation 470 478	mediated
+T63	Negative_regulation 487 496	knockdown
+T64	Negative_regulation 586 591	siRNA
+T65	Transcription 738 742	mRNA
+T66	Negative_regulation 746 760	down-regulated
+T67	Positive_regulation 789 797	mediated
+T68	Negative_regulation 798 807	knockdown
+T69	Negative_regulation 941 946	siRNA
+T70	Gene_expression 1133 1142	induction
+T71	Negative_regulation 1162 1169	reduced
+T72	Positive_regulation 1182 1190	mediated
+T73	Negative_regulation 1199 1208	knockdown
+T74	Negative_regulation 1276 1281	siRNA
+E1	Regulation:T55 Theme:E2 Cause:T1
+E3	Regulation:T55 Theme:E2 Cause:T2
+E2	Gene_expression:T56 Theme:T3
+E4	Transcription:T57 Theme:T4
+E5	Transcription:T57 Theme:T5
+E6	Transcription:T57 Theme:T6
+E7	Positive_regulation:T58 Theme:E4 Cause:T12
+E8	Positive_regulation:T58 Theme:E5 Cause:T12
+E9	Positive_regulation:T58 Theme:E6 Cause:T12
+E10	Transcription:T59 Theme:T14
+E11	Positive_regulation:T60 Theme:E10 Cause:T18
+E12	Negative_regulation:T61 Theme:E11 Cause:E13
+E14	Negative_regulation:T61 Theme:E11 Cause:E15
+E16	Positive_regulation:T62 Theme:E13
+E17	Positive_regulation:T62 Theme:E15
+E13	Negative_regulation:T63 Theme:T20
+E15	Negative_regulation:T63 Theme:T21
+E18	Negative_regulation:T64 Theme:T23
+E19	Negative_regulation:T64 Theme:T24
+E20	Transcription:T65 Theme:T30
+E21	Negative_regulation:T66 Theme:E20 Cause:E22
+E23	Negative_regulation:T66 Theme:E20 Cause:E24
+E25	Positive_regulation:T67 Theme:E22
+E26	Positive_regulation:T67 Theme:E24
+E22	Negative_regulation:T68 Theme:T31
+E24	Negative_regulation:T68 Theme:T32
+E27	Negative_regulation:T69 Theme:T38
+E28	Negative_regulation:T69 Theme:T39
+E29	Gene_expression:T70 Theme:T42
+E30	Negative_regulation:T71 Theme:E29 Cause:E31
+E32	Negative_regulation:T71 Theme:E29 Cause:E33
+E34	Positive_regulation:T72 Theme:E31
+E35	Positive_regulation:T72 Theme:E33
+E31	Negative_regulation:T73 Theme:T43
+E33	Negative_regulation:T73 Theme:T44
+E36	Negative_regulation:T74 Theme:T46
+E37	Negative_regulation:T74 Theme:T47

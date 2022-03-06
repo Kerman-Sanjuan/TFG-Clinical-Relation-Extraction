@@ -1,0 +1,58 @@
+T1	Protein 0 8	IKKalpha
+T2	Protein 30 35	IRF-5
+T3	Protein 50 55	MyD88
+T4	Protein 56 61	TRAF6
+T5	Protein 109 114	IRF-3
+T6	Protein 116 121	IRF-5
+T7	Protein 126 131	IRF-7
+T8	Protein 206 211	IRF-3
+T9	Protein 216 221	IRF-7
+T10	Protein 239 244	TBK-1
+T11	Protein 249 260	IKK epsilon
+T12	Protein 321 326	IRF-5
+T13	Protein 334 339	MyD88
+T14	Protein 405 414	IKK alpha
+T15	Protein 430 435	IRF-5
+T16	Protein 461 466	IRF-5
+T17	Protein 505 510	IRF-5
+T18	Protein 532 541	IKK alpha
+T19	Protein 550 555	IRF-5
+T20	Protein 735 744	IKK alpha
+T21	Protein 768 773	IRF-5
+T22	Protein 816 821	IRF-5
+T23	Protein 825 834	IKK alpha
+T24	Protein 885 890	IRF-5
+T25	Protein 948 953	IRF-5
+T26	Protein 1039 1044	MyD88
+T27	Protein 1055 1060	IRF-5
+T28	Protein 1118 1123	IRF-5
+T29	Protein 1202 1211	IKK alpha
+T30	Protein 1270 1275	IRF-5
+T31	Protein 1288 1293	MyD88
+T32	Protein 1389 1394	IRF-5
+T33	Catalysis 261 269	mediated
+T34	Phosphorylation 270 285	phosphorylation
+T35	Phosphorylation 305 320	phosphorylating
+T36	Phosphorylation 415 429	phosphorylates
+T37	Catalysis 415 429	phosphorylates
+T38	Catalysis 542 549	induced
+T39	Phosphorylation 556 571	phosphorylation
+T40	Phosphorylation 797 812	phosphorylation
+T41	Catalysis 797 812	phosphorylation
+T42	Ubiquitination 848 862	ubiquitination
+T43	Dephosphorylation 998 1016	de-phosphorylation
+E1	Catalysis:T33 Theme:E5 Cause:T10
+E2	Catalysis:T33 Theme:E5 Cause:T11
+E3	Catalysis:T33 Theme:E6 Cause:T10
+E4	Catalysis:T33 Theme:E6 Cause:T11
+E5	Phosphorylation:T34 Theme:T8
+E6	Phosphorylation:T34 Theme:T9
+E7	Phosphorylation:T35 Theme:T12
+E8	Phosphorylation:T36 Theme:T15
+E9	Catalysis:T37 Theme:E8 Cause:T14
+E10	Catalysis:T38 Theme:E11 Cause:T18
+E11	Phosphorylation:T39 Theme:T19
+E12	Phosphorylation:T40 Theme:T22
+E13	Catalysis:T41 Theme:E12 Cause:T23
+E14	Ubiquitination:T42 Theme:T24
+E15	Dephosphorylation:T43 Theme:T25

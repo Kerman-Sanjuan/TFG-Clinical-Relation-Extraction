@@ -1,0 +1,29 @@
+{
+  "tokens": [
+    "These",
+    "regions",
+    "also",
+    "exhibited",
+    "higher",
+    "levels",
+    "of",
+    "remethylation",
+    "in",
+    "single-cell",
+    "clones",
+    "and",
+    "subclones",
+    "derived",
+    "from",
+    "5-Aza-CdR-treated",
+    "T24",
+    "cells",
+    "."
+  ],
+  "entities": [{ "start": 7, "end": 8, "type": "DNA_methylation" }],
+  "relations": [
+    { "head": 0, "type": "Theme", "tail": 0 },
+    { "head": 0, "type": "Theme", "tail": 1 },
+    { "head": 0, "type": "Theme", "tail": 2 }
+  ]
+}

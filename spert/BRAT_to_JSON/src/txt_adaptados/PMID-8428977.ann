@@ -1,0 +1,8 @@
+T1	Protein 179 196	type XII collagen
+T2	Protein 218 221	XII
+T3	Protein 227 230	XIV
+T4	Protein 745 762	type XII collagen
+T5	Protein 1617 1634	type XII collagen
+T6	Entity 137 143	prolyl
+T7	Hydroxylation 144 157	hydroxylation
+E1	Hydroxylation:T7 Theme:T1 Site:T6

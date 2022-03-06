@@ -1,0 +1,6 @@
+Current studies based on specific naming subcategories are scarce and specially if they are combined with cortical electrical stimulation mapping (CES). 
+Most researchers use generic categories of objects that have not shown to be useful for epileptic patients. 
+The present study explores the ability to retrieve words with the aim of naming entities through CES during surgery of a patient with left temporal lobe epilepsy (TLE) prior to anterior temporal lobectomy (ATL). 
+During the CES we observed alterations in the naming of faces, living things (LTh) and parts of the body, with conservation of non-living things (NLTh). 
+CES allowed the identification and prediction of regions at risk of being resected. 
+This result shows that the naming deficits are selective and can be used as indicators and predictors of <dis>post-operative cognitive dysfunction</dis> in TLE since the regions involved in this function are associated with the pole and inferior and medial temporal gyrus.

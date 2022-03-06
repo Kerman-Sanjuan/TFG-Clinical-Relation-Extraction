@@ -1,0 +1,16 @@
+T1	Protein 0 5	CIITA
+T2	Protein 294 321	MHC class II transactivator
+T3	Protein 323 328	CIITA
+T4	Protein 519 524	CIITA
+T5	Protein 713 718	CIITA
+T6	Protein 768 773	CIITA
+*	Equiv T2 T3
+T7	Transcription 514 518	have
+T8	Gene_expression 685 697	transfection
+T9	Positive_regulation 685 697	transfection
+T10	Gene_expression 754 764	expression
+E1	Transcription:T7 Theme:T4
+E2	Gene_expression:T8 Theme:T5
+E3	Positive_regulation:T9 Theme:E2
+E4	Gene_expression:T10 Theme:T6
+M1	Negation E1

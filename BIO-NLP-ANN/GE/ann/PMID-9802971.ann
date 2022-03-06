@@ -1,0 +1,3 @@
+T2	Negative_regulation 1166 1174	reducing
+E1	Negative_regulation:T2 Theme:T1
+T1	Protein 1180 1185	Kv1.3

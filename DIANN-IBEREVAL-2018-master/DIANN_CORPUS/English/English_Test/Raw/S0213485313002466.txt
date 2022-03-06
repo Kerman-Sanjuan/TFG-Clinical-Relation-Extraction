@@ -1,0 +1,16 @@
+Abstract
+ Introduction
+Global developmental delay (GDD) and intellectual disability (ID) are common reasons for consultation in paediatric neurology.
+Results from aetiological evaluations of children with GDD/ID vary greatly, and consequently, there is no universal consensus regarding which studies should be performed.
+Material and method
+We review our experience with determining aetiological diagnoses for children with GDD/ID who were monitored by the paediatric neurology unit over the 5-year period between 2006 and 2010.
+Results
+During the study period, 995 children with GDD/ID were monitored.
+An aetiological diagnosis was established for 309 patients (31%), but not in 686 (69%), despite completing numerous tests.
+A genetic cause was identified in 142 cases (46% of the total aetiologies established), broken down as 118 cases of genetic encephalopathy and 24 of metabolic hereditary diseases.
+Our data seem to indicate that diagnosis is easier when GDD/ID is associated with cerebral palsy, epilepsy, infantile spasms/West syndrome, or visual deficit, but more difficult in cases of autism spectrum disorders.
+Genetic studies provide an increasing number of aetiological diagnoses, and they are also becoming the first step in diagnostic studies.
+Array CGH (microarray-based comparative genomic hybridisation) is the genetic test with the highest diagnostic yield in children with unexplained GDD/ID.
+Discussion
+The cost-effectiveness of complementary studies seems to be low if there are no clinically suspected entities.
+However, even in the absence of treatment, aetiological diagnosis is always important in order to provide genetic counselling and possible prenatal diagnosis, resolve family (and doctors’) queries, and halt further diagnostic studies.

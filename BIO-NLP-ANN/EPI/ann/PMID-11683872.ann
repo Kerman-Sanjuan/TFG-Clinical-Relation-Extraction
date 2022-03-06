@@ -1,0 +1,22 @@
+T1	Protein 36 56	vanilloid receptor 1
+T2	Protein 135 138	VR1
+T3	Protein 374 377	VR1
+T4	Protein 509 512	VR1
+T5	Protein 818 821	VR1
+T6	Protein 949 952	VR1
+T7	Protein 962 965	VR1
+T8	Protein 1115 1118	VR1
+T9	Protein 1295 1298	VR1
+T10	Protein 1525 1528	VR1
+T11	Protein 1666 1669	VR1
+T12	Protein 1789 1792	VR1
+T13	Glycosylation 322 335	glycosylation
+T14	Glycosylation 529 541	glycosylated
+T15	Glycosylation 830 842	glycosylated
+T16	Entity 885 889	N604
+T17	Glycosylation 928 941	glycosylation
+E1	Glycosylation:T13 Theme:T3
+E2	Glycosylation:T14 Theme:T4
+E3	Glycosylation:T15 Theme:T5
+M1	Negation E3
+E4	Glycosylation:T17 Theme:T6 Site:T16

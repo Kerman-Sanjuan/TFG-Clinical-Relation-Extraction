@@ -1,0 +1,12 @@
+T1	Protein 89 109	alpha2-macroglobulin
+T2	Protein 312 332	alpha2-macroglobulin
+T3	Protein 334 342	alpha2-M
+T4	Protein 425 433	alpha2-M
+T5	Protein 562 570	alpha2-M
+T6	Protein 907 915	alpha2-M
+T7	Protein 1110 1118	alpha2-M
+*	Equiv T2 T3
+T8	Glycosylation 293 305	glycosylated
+T9	Glycosylation 1093 1106	glycosylation
+E1	Glycosylation:T8 Theme:T2
+E2	Glycosylation:T9 Theme:T7

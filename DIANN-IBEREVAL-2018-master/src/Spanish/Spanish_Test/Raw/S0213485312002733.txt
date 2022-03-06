@@ -1,0 +1,12 @@
+Resumen
+ Introducción y objetivos
+Valorar la memoria episódica, adaptándola a la definición del concepto, haciéndola asequible a las familias, y aplicándola con una alta sensibilidad y especificidad, es el concepto del test episódico y el test episódico del cuidador.
+Métodos y resultados
+Se aplicó un test formado por 10 preguntas relacionadas con hechos episódicos a 332 sujetos, de los cuales 65 tenían enfermedad de Alzheimer (EA), 115 deterioro cognitivo leve amnésico (DCLa) y 152 no mostraron alteración cognitiva, según la escala de deterioro global (GDS) de Reisberg.
+Se calculó la sensibilidad y especificidad del test episódico para detectar EA frente a DCLa y normalidad.
+El área bajo la curva ROC para el diagnóstico de DCLa fue de 0,94 y el mejor punto de corte fue 20, valor con el que se obtuvo una sensibilidad del 89% y una especificidad del 82%.
+Con respecto al diagnóstico de EA, el área bajo la curva ROC fue de 0,99 y el mejor punto de corte fue 17, con el que se obtuvo una sensibilidad del 98% y una especificidad del 91%.
+Un estudio posterior con similar metodología demostró resultados similares cuando el test era pasado directamente por el cuidador.
+Conclusiones
+El test episódico y el test episódico del cuidador son herramientas útiles como test breves de cribado para la captación de enfermos con EA en estadios iniciales, adecuadas para la utilización en atención primaria y en él domicilio, al poder ser pasado directamente por el cuidador.
+Las limitaciones del test vienen dadas por la necesidad de un cuidador fiable y por la medición exclusiva de la memoria episódica.

@@ -1,0 +1,12 @@
+Resumen
+ Introducción
+Se han diseñado diferentes modelos animales de la enfermedad de Alzheimer (EA) para apoyar la hipótesis de que la neurodegeneración (pérdida de neuronas, sinapsis y gliosis reactiva) asociada al depósito de Aβ y tau en estos animales es similar a la del cerebro humano.
+Estas alteraciones producen cambios funcionales que se inician con el <dis>deterioro en la habilidad para realizar actividades de la vida cotidiana</dis>, <dis>pérdida de la memoria</dis> y, en general, <dis>trastorno neuropsiquiátrico</dis>.
+La alteración neuronal desempeña un papel importante en las etapas tempranas de la enfermedad, especialmente en el área CA1 del hipocampo de animales y humanos.
+Métodos
+Se utilizaron ratones _WT_ y 3xTg-AD hembras de 11 meses de edad, para el análisis conductual (construcción del nido) e histológico en la región CA1 del hipocampo dorsal.
+Resultados
+Los ratones 3xTg-AD mostraron deficiencia del 50% en la calidad de construcción del nido asociado a un aumento del 26 ± 6% (p < 0,05) de neuronas dañadas en comparación con el grupo _WT_.
+Conclusiones
+El <dis>deterioro de la capacidad para llevar a cabo las actividades de la vida diaria</dis> (en el hombre) y la construcción del nido (en el ratón 3xTg-AD) están relacionados con las alteraciones en los circuitos nerviosos observados en la EA.
+Estas alteraciones son controladas por el hipocampo que en el análisis _post mortem_ (en el humano), así como en la región CA1 (en el modelo de ratón 3xTg-AD) se han relacionado con alteraciones en el depósito de las proteínas Aß y tau que comienzan a acumularse al inicio de la EA.

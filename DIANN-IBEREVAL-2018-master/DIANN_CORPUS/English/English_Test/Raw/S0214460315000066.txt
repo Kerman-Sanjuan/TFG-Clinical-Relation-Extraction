@@ -1,0 +1,12 @@
+Abstract
+ NEUROBEL (Neuropsychological assessment of language in adults) is a brief battery that allows a screening of the basic processes of language comprehension and production.
+It consists of 8 tasks, assessing oral-language processing from the theoretical model of cognitive neuropsychology.
+The aim has been to carry out a pilot study of initial normative data for NEUROBEL battery in older-adults.
+This in mind, we studied a sample of 30 male and female healthy participants aged over 50 without cognitive impairment (MMSE ≥ 25).
+The NEUROBEL battery was administered to all the participants, which were split into 2 groups: “adults” (50-64) and “older-adults” (> 65).
+The latter group was also analyzed according to their usual residence (private home or nursing home).
+In the Results section, it is shown the scores and time performances of the participants in the battery, as well as main percentiles.
+NEUROBEL is shown as a valid and reliable battery, including high Pearson's correlations among the tasks.
+Univariate ANOVAs show group and schooling effects in the scores of the battery for younger and more schooled participants.
+Conversely, sex factor does not influence the results achieved, although it is shown as significant variable in favor of the women for time execution of the tasks.
+Some differences among participants over 65 years old, depending on their usual place of residence and sex are debated in the Discussion.

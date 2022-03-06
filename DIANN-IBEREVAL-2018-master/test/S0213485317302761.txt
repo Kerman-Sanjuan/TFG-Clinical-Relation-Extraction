@@ -1,0 +1,15 @@
+Introduction
+Chronic kidney disease (CKD) can cause anaemia and neurological disorders. 
+Recombinant human erythropoietin (rHuEPO) is used to manage anaemia in CKD. 
+However, there is little evidence on the effects of rHuEPO on behaviour and cognitive function in CKD. 
+This study aimed to evaluate the impact of rHuEPO in sensorimotor and cognitive functions in a CKD model.
+Methods
+Male Wistar rats were randomly assigned to 4 groups: control and CKD, with and without rHuEPO treatment (1050 IU per kg body weight, once weekly for 4 weeks). 
+The Morris water maze, open field, and adhesive removal tests were performed simultaneously to kidney damage induction and treatment. 
+Markers of anaemia and renal function were measured at the end of the study.
+Results
+Treatment with rHuEPO reduced kidney damage and corrected anaemia in rats with CKD. 
+We observed reduced <dis>sensorimotor dysfunction</dis> in animals with CKD and treated with rHuEPO. 
+These rats also completed the water maze test in a shorter time than the control groups.
+Conclusions
+rHuEPO reduces kidney damage, corrects anemia, and reduces <dis>sensorimotor and cognitive dysfunction</dis> in animals with CKD.

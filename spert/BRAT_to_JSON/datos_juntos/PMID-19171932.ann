@@ -1,0 +1,48 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+*	Equiv T7 T8
+*	Equiv T9 T10
+*	Equiv T11 T12
+*	Equiv T13 T14
+*	Equiv T15 T16
+*	Equiv T17 T18
+*	Equiv T24 T25
+T28	Phosphorylation 29 43	phosphorylates
+T29	Phosphorylation 877 892	phosphorylation
+T30	Entity 896 901	Ser-8
+T31	Entity 906 913	Ser-268
+T32	Phosphorylation 1165 1180	phosphorylation
+T33	Entity 1194 1199	Ser-8
+T34	Ubiquitination 1248 1262	ubiquitination
+E1	Phosphorylation:T28 Theme:T1
+E2	Phosphorylation:T29 Theme:T15 Site:T30
+E3	Phosphorylation:T29 Theme:T15 Site:T31
+E4	Phosphorylation:T32 Theme:T24 Site:T33
+E5	Ubiquitination:T34 Theme:T24
+T1	Protein 44 46	R5
+T2	Protein 47 50	PTG
+T3	Protein 90 92	R5
+T4	Protein 93 96	PTG
+T5	Protein 174 181	laforin
+T6	Protein 182 187	malin
+T7	Protein 198 200	R5
+T8	Protein 201 204	PTG
+T9	Protein 320 322	R5
+T10	Protein 323 326	PTG
+T11	Protein 604 606	R5
+T12	Protein 607 610	PTG
+T13	Protein 715 717	R5
+T14	Protein 718 721	PTG
+T15	Protein 824 826	R5
+T16	Protein 827 830	PTG
+T17	Protein 997 999	R5
+T18	Protein 1000 1003	PTG
+T19	Protein 1029 1036	laforin
+T20	Protein 1037 1042	malin
+T21	Protein 1096 1103	laforin
+T22	Protein 1115 1124	ubiquitin
+T23	Protein 1133 1138	malin
+T24	Protein 1184 1186	R5
+T25	Protein 1187 1190	PTG
+T26	Protein 1224 1231	laforin
+T27	Protein 1232 1237	malin

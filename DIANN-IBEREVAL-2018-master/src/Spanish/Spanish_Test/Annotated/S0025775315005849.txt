@@ -1,0 +1,13 @@
+Resumen
+ Fundamento y objetivo
+La neuropatía óptica hereditaria de Leber se caracteriza por una <dis>pérdida de visión aguda o subaguda</dis>, producida por mutaciones en el ADN mitocondrial.
+Pacientes y métodos
+Presentamos el estudio molecular realizado en una familia en la que solo uno de sus miembros presentaba signos de la enfermedad.
+Resultados
+En el caso índice y en la madre se detectó la mutación m.11778G>A en el gen _MT-ND4_ en heteroplasmia.
+La hermana del caso índice, sin manifestaciones oculares, acudió a consulta para consejo genético.
+El estudio de dicha mutación por secuenciación Sanger mostró que la portaba en homoplasmia.
+Sin embargo, mediante secuenciación de última generación (NGS) se pudo comprobar que se encontraba realmente en heteroplasmia.
+Conclusiones
+Confirmar que una mutación se encuentra en homoplasmia es importante cara al consejo genético.
+Hemos observado que la NGS permite distinguir entre grados elevados de heteroplasmia y verdaderas homoplasmias y, por tanto, es de utilidad en el estudio de pacientes en los que se detectan mutaciones en homoplasmia con metodologías de menor sensibilidad analítica.

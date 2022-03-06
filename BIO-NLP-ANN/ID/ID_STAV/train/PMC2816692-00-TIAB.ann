@@ -1,0 +1,31 @@
+T20	Process 703 712	infection
+T21	Process 977 986	infection
+T22	Binding 1272 1284	interactions
+T23	Process 1460 1470	infections
+T24	Process 1537 1546	infection
+E1	Process:T20 
+E2	Process:T21 
+E3	Binding:T22 Theme1:T13 Theme2:T14
+E4	Binding:T22 Theme1:T13 Theme2:T15
+E5	Binding:T22 Theme1:T13 Theme2:T16
+E6	Process:T23 
+E7	Process:T24 
+T1	Protein 47 51	SrcA
+T2	Organism 99 109	Salmonella
+T3	Organism 153 157	Host
+T4	Organism 208 212	host
+T5	Organism 339 343	host
+T6	Organism 568 572	host
+T7	Organism 583 622	Salmonella enterica serovar Typhimurium
+T8	Organism 990 994	mice
+T9	Protein 1025 1029	SrcA
+T10	Protein 1087 1091	CesT
+T11	Organism 1124 1131	E. coli
+T12	Chemical 1177 1185	carboxyl
+T13	Protein 1290 1294	SrcA
+T14	Protein 1327 1331	SseL
+T15	Protein 1336 1341	PipB2
+T16	Protein 1379 1383	SsaN
+T17	Organism 1474 1478	mice
+T18	Protein 1492 1496	SrcA
+T19	Organism 1532 1536	host

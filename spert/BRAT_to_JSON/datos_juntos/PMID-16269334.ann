@@ -1,0 +1,4 @@
+T3	Acetylation 851 862	acetylation
+E1	Acetylation:T3 Theme:T2
+T1	Protein 183 190	histone
+T2	Protein 840 850	histone H3

@@ -1,0 +1,33 @@
+T17	Gene_expression 222 231	induction
+T18	Gene_expression 449 458	expresses
+T19	Positive_regulation 529 537	inactive
+T20	Positive_regulation 566 576	importance
+T21	Gene_expression 602 612	expression
+T22	Gene_expression 697 707	expressing
+T23	Positive_regulation 803 814	transfected
+T24	Gene_expression 803 814	transfected
+E1	Gene_expression:T17 Theme:T3
+E2	Gene_expression:T18 Theme:T5
+E3	Positive_regulation:T19 Theme:T6
+E4	Positive_regulation:T20 Theme:E5
+E5	Gene_expression:T21 Theme:T3
+E6	Gene_expression:T22 Theme:T8
+E7	Positive_regulation:T23 Theme:E8
+E8	Gene_expression:T24 Theme:T9
+M1	Negation E3
+T1	Protein 49 52	tax
+T2	Protein 139 142	tax
+T3	Protein 207 215	TNF-beta
+T4	Protein 313 316	CAT
+T5	Protein 459 462	tax
+T6	Protein 520 523	CAT
+T7	Protein 614 617	Tax
+T8	Protein 708 711	tax
+T9	Protein 796 799	Tax
+T10	Protein 889 892	CAT
+T11	Protein 905 908	fos
+T12	Protein 909 912	CAT
+T13	Protein 974 977	tax
+T14	Protein 1060 1063	CAT
+T15	Protein 1088 1091	CAT
+T16	Protein 1290 1293	tax

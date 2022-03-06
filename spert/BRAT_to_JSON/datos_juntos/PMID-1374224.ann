@@ -1,0 +1,11 @@
+*	Equiv T2 T3
+T9	Glycosylation 891 903	glycosylated
+E1	Glycosylation:T9 Theme:T6
+T1	Protein 68 84	stem cell factor
+T2	Protein 166 182	Stem cell factor
+T3	Protein 184 187	SCF
+T4	Protein 583 586	SCF
+T5	Protein 752 755	SCF
+T6	Protein 787 791	SCFs
+T7	Protein 882 885	SCF
+T8	Protein 937 941	SCFs

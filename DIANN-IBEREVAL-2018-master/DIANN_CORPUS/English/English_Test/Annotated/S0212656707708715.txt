@@ -1,0 +1,20 @@
+Objective
+To describe the initial treatment of patients >60 years who had subjective memory complaints and/or <dis>cognitive impairment</dis> for at least 6 months.
+Design
+Observational, longitudinal, multicentre, and naturalistic study, with a follow-up period of 12 months.
+Setting
+A total of 105 primary care centres.
+Participants
+The study included 921 patients who attended a clinic.
+Main measurements
+In the baseline visit, the social demographic characteristics, diagnosis, treatment, and the health care referrals were recorded, and in the next 2 (6 and 12 months) the diagnostic change, treatment, and referrals.
+Results
+The majority of subjects were female (66.9%) and the mean age was 74.3 ± 6.8 years.
+In the initial visit, 50.5% (95% confidence interval [CI], 47.3-53.7) of the diagnoses were classed as syndromic and 33.3% (95% CI, 30.3-36.3), aetiological.
+The primary care doctor modified an unconfirmed initial diagnosis in 22% (95% CI, 19.3-24.7) of the patients during the 12 months follow-up study.
+A diagnosis was made in 63.8% (95% CI, 60.7-66.9) of patients by anamnesis, physical examination, the screening test, and laboratory data.
+In the initial visit, el 52.6% (95% CI, 49.4-55.8) received treatment of mainly nootropics and neuroprotectors, and later, the percentage of patients on cholinesterase inhibitors increased.
+The primary care doctor referred 54.9% (95% CI, 51.7-58.1) of the patients during the 12 months of the study.
+Conclusions
+The primary care doctor diagnoses the majority of patients with the means available, mainly based on anamnesis, examination, the screening test, and laboratory data.
+They prescribe drugs that lack efficacy for this disease and few of those that have been shown to be effective.

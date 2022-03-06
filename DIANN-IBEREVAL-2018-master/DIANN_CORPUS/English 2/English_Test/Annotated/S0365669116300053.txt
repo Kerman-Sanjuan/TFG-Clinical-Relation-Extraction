@@ -1,0 +1,18 @@
+Abstract
+ Objective
+The aim of this study was to assess the safety and surgical results of combined pars plana vitrectomy and femtosecond laser-assisted cataract surgery (femtophacovitrectomy).
+Material and methods
+A prospective, non-comparative case series was conducted by selecting patients with cataract and vitreoretinal pathology who underwent femtophacovitrectomy by a single surgeon at the _Hospital Central Militar_ between June 2013 and February 2014.
+An evaluation was made of the preoperative characteristics, surgical indications, results, and postoperative complications, with a minimum follow-up of 3 months.
+Results
+The study included 35 eyes of 35 patients, of whom 20 (57.1%) were male.
+The mean age was 60.76 ± 4.2 years.
+Diagnoses included vitreous haemorrhage (19 cases), macular hole (6 cases), epiretinal membrane (7), and tractional detachment (5 cases).
+The mean best corrected visual acuity was 1.3 LogMAR before surgery, and 0.5 LogMAR at 3-months follow-up ( _P_ <.05).
+<scp><neg>No</neg> patient had <dis>visual loss</dis></scp>.
+The intra-operative complication was miosis in 14.28%.
+In the early postoperative period (<1 month), all had subconjunctival haemorrhage, with moderate corneal oedema in 20% of cases, and only 2.85% (one case) ocular hypertension associated with use of intraocular gas.
+There were no cases of endophthalmitis.
+The mean follow-up was 13.3 months (10-16 months).
+Conclusions
+The use of femtosecond laser in phacovitrectomy is a safe and effective alternative, with similar risk of complications in cases of macular pathology, tractional retinal detachment, and/or vitreous haemorrhage.

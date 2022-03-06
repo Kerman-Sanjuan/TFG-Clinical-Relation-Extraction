@@ -1,0 +1,13 @@
+Resumen
+ Introducción
+Son diversos los instrumentos que se han diseñado para la valoración de la función motora en los niños con parálisis cerebral infantil (PCI).
+El objetivo de este trabajo es realizar una versión en español de la _Gross Motor Function Measure_ (GMFM), desde su versión original en inglés, como primera parte del proceso de su adaptación transcultural a la población española.
+Material y métodos
+La GMFM es una medida observacional diseñada para cuantificar cambios en la función motora grosera a lo largo del tiempo en niños con PCI.
+Está compuesta por 88 ítems agrupados en cinco dimensiones distintas.
+Para el desarrollo de la versión en español de la GMFM se ha utilizado una metodología que consta de varios pasos: traducción-retrotraducción por seis traductores bilingües independientes, valoración de la equivalencia conceptual por un comité de expertos y un estudio piloto realizado por tres médicos especialistas en Medicina Física y Rehabilitación.
+Resultados
+Fueron considerados conceptualmente equivalentes 58 ítems (66 %), siendo clasificados como literales, mientras que 30 ítems (34 %) precisaron modificaciones sintácticas para conservar el mismo significado que en la versión original, siendo catalogados como semejantes.
+Tras el estudio piloto se realizaron modificaciones en 3 ítems cuya redacción resultaba confusa.
+Conclusiones
+Hemos obtenido una versión en castellano de la GMFM de fácil uso y buena aceptación en la práctica clínica diaria, completando con éxito la primera parte de su proceso de adaptación transcultural a la población española, quedando pendiente la validación de la misma donde se comprueben sus características clinimétricas de validez y fiabilidad.

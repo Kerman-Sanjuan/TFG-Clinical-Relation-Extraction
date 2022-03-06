@@ -1,0 +1,10 @@
+T1	Protein 39 48	U2af1-rs1
+T2	Protein 472 481	U2af1-rs1
+T3	Protein 735 744	U2af1-rs1
+T4	Protein 939 948	U2af1-rs1
+T5	Protein 1073 1080	DNase-I
+T6	Protein 1245 1254	U2af1-rs1
+T7	DNA_methylation 716 727	methylation
+T8	DNA_methylation 1328 1343	DNA methylation
+E1	DNA_methylation:T7 Theme:T3
+E2	DNA_methylation:T8 Theme:T6

@@ -1,0 +1,9 @@
+T6	Acetylation 612 621	acetylate
+T7	Acetylation 710 721	acetylation
+E1	Acetylation:T6 Theme:T2
+E2	Acetylation:T7 Theme:T3
+T1	Protein 65 72	histone
+T2	Protein 627 635	histones
+T3	Protein 702 709	histone
+T4	Protein 812 835	glucocorticoid receptor
+T5	Protein 896 903	histone

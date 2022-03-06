@@ -1,0 +1,80 @@
+T1	Protein 330 334	PKD1
+T2	Protein 335 336	3
+T3	Protein 348 352	PKD1
+T4	Protein 353 354	3
+T5	Protein 363 367	PKD3
+T6	Protein 477 481	PKD1
+T7	Protein 482 483	3
+T8	Protein 661 664	Akt
+T9	Protein 666 670	mTOR
+T10	Protein 698 718	S6 ribosomal protein
+T11	Protein 791 795	PKD1
+T12	Protein 796 797	3
+T13	Protein 1001 1005	PKD1
+T14	Protein 1006 1007	3
+T15	Protein 1129 1133	Erk1
+T16	Protein 1134 1138	RSK1
+T17	Protein 1173 1177	PKD1
+T18	Protein 1178 1179	3
+T19	Protein 1518 1522	PKD1
+T20	Protein 1523 1524	3
+T21	Protein 1533 1537	PKD3
+T22	Protein 1617 1621	PKD1
+T23	Protein 1622 1623	3
+T24	Protein 1632 1636	PKD1
+T25	Protein 1637 1638	3
+T26	Protein 1647 1651	PKD3
+T27	Protein 1842 1846	PKD1
+T28	Protein 1847 1848	3
+T29	Protein 2155 2159	PKD1
+T30	Protein 2160 2161	3
+T31	Protein 2260 2264	PKD1
+T32	Protein 2265 2266	3
+T33	Protein 2444 2448	PKD1
+T34	Protein 2449 2450	3
+T35	Protein 2685 2693	MAPKAPK2
+T36	Protein 3318 3334	Bcr-Abl oncogene
+T37	Protein 3393 3397	PKD1
+T38	Protein 3414 3418	HPK1
+T39	Protein 3512 3519	PKCbeta
+T40	Protein 3722 3726	PKD1
+T41	Protein 3727 3728	3
+T42	Protein 3895 3902	PKCbeta
+T43	Protein 4011 4015	PKD1
+T44	Protein 4045 4052	PKCbeta
+T45	Positive_regulation 635 642	induced
+T46	Positive_regulation 643 653	activation
+T47	Phosphorylation 719 734	phosphorylation
+T48	Negative_regulation 777 787	detectable
+T49	Negative_regulation 798 802	null
+T50	Negative_regulation 2436 2440	loss
+T51	Positive_regulation 3366 3392	expression of an activated
+T52	Phosphorylation 3988 4007	autophosphorylation
+T53	Entity 4019 4023	S916
+T54	Positive_regulation 4029 4037	observed
+E1	Positive_regulation:T45 Theme:E2
+E3	Positive_regulation:T45 Theme:E4
+E5	Positive_regulation:T45 Theme:E6
+E2	Positive_regulation:T46 Theme:T8
+E4	Positive_regulation:T46 Theme:T9
+E6	Positive_regulation:T46 Theme:E7
+E7	Phosphorylation:T47 Theme:T10
+E8	Negative_regulation:T48 Theme:E1 Cause:E9
+E10	Negative_regulation:T48 Theme:E1 Cause:E11
+E12	Negative_regulation:T48 Theme:E3 Cause:E9
+E13	Negative_regulation:T48 Theme:E3 Cause:E11
+E14	Negative_regulation:T48 Theme:E5 Cause:E9
+E15	Negative_regulation:T48 Theme:E5 Cause:E11
+E9	Negative_regulation:T49 Theme:T11
+E11	Negative_regulation:T49 Theme:T12
+E16	Negative_regulation:T50 Theme:T33
+E17	Negative_regulation:T50 Theme:T34
+E18	Positive_regulation:T51 Theme:T37
+E19	Phosphorylation:T52 Theme:T43 Site:T53
+E20	Positive_regulation:T54 Theme:E19
+M1	Negation E8
+M2	Negation E10
+M3	Negation E12
+M4	Negation E13
+M5	Negation E14
+M6	Negation E15

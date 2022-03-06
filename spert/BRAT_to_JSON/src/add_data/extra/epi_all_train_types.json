@@ -1,0 +1,53 @@
+{
+  "entities": {
+    "DNA_demethylation": {
+      "short": "DNA_demethylation",
+      "verbose": "DNA_demethylation"
+    },
+    "Glycosylation": { "short": "Glycosylation", "verbose": "Glycosylation" },
+    "Methylation": { "short": "Methylation", "verbose": "Methylation" },
+    "Acetylation": { "short": "Acetylation", "verbose": "Acetylation" },
+    "Hydroxylation": { "short": "Hydroxylation", "verbose": "Hydroxylation" },
+    "DNA_methylation": {
+      "short": "DNA_methylation",
+      "verbose": "DNA_methylation"
+    },
+    "Phosphorylation": {
+      "short": "Phosphorylation",
+      "verbose": "Phosphorylation"
+    },
+    "Entity": { "short": "Entity", "verbose": "Entity" },
+    "Deubiquitination": {
+      "short": "Deubiquitination",
+      "verbose": "Deubiquitination"
+    },
+    "Deglycosylation": {
+      "short": "Deglycosylation",
+      "verbose": "Deglycosylation"
+    },
+    "Deacetylation": { "short": "Deacetylation", "verbose": "Deacetylation" },
+    "Dephosphorylation": {
+      "short": "Dephosphorylation",
+      "verbose": "Dephosphorylation"
+    },
+    "Dehydroxylation": {
+      "short": "Dehydroxylation",
+      "verbose": "Dehydroxylation"
+    },
+    "Protein": { "short": "Protein", "verbose": "Protein" },
+    "Catalysis": { "short": "Catalysis", "verbose": "Catalysis" },
+    "Demethylation": { "short": "Demethylation", "verbose": "Demethylation" },
+    "Ubiquitination": { "short": "Ubiquitination", "verbose": "Ubiquitination" }
+  },
+  "relations": {
+    "Sidechain": { "symmetric": false, "short": "Sidechain", "verbose": "Entity" },
+    "Theme": { "symmetric": false, "short": "Theme", "verbose": "Theme" },
+    "Cause": { "symmetric": false, "short": "Cause", "verbose": "Cause" },
+    "Site": { "symmetric": false, "short": "Site", "verbose": "Site" },
+    "Contextgene": {
+      "symmetric": false,
+      "short": "Contextgene",
+      "verbose": "Contextgene"
+    }
+  }
+}

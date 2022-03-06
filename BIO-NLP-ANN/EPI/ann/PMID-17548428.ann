@@ -1,0 +1,62 @@
+*	Equiv T6 T7
+*	Equiv T12 T13
+*	Equiv T20 T21
+*	Equiv T22 T23
+*	Equiv T24 T25
+T31	Deacetylation 102 115	deacetylation
+T32	Catalysis 102 115	deacetylation
+T33	Deacetylation 246 258	deacetylated
+T34	Deacetylation 532 545	deacetylation
+T35	Catalysis 532 545	deacetylation
+T36	Deacetylation 684 697	deacetylation
+T37	Deacetylation 775 787	deacetylated
+T38	Acetylation 791 801	acetylated
+T39	Entity 817 831	lysine (K) 551
+T40	Deacetylation 851 863	deacetylated
+T41	Acetylation 911 921	acetylated
+T42	Acetylation 1112 1122	acetylated
+T43	Deacetylation 1167 1179	deacetylated
+T44	Deacetylation 1545 1557	deacetylated
+E1	Deacetylation:T31 Theme:T2
+E2	Catalysis:T32 Theme:E1 Cause:T3
+E3	Deacetylation:T33 Theme:T4
+E4	Deacetylation:T34 Theme:T11
+E5	Catalysis:T35 Theme:E4 Cause:T12
+E6	Deacetylation:T36 Theme:T14
+E7	Deacetylation:T37 Theme:T16 Site:T39
+E8	Acetylation:T38 Theme:T16 Site:T39
+E9	Deacetylation:T40 Theme:T17
+E10	Acetylation:T41 Theme:T17
+E11	Acetylation:T42 Theme:T20
+E12	Deacetylation:T43 Theme:T22
+E13	Deacetylation:T44 Theme:T27
+T1	Protein 56 88	telomerase reverse transcriptase
+T2	Protein 119 122	Sp3
+T3	Protein 126 147	histone deacetylase 1
+T4	Protein 259 262	Sp3
+T5	Protein 278 282	TERT
+T6	Protein 403 422	ceramide synthase 1
+T7	Protein 424 429	CerS1
+T8	Protein 456 461	CerS5
+T9	Protein 465 470	CerS6
+T10	Protein 514 518	TERT
+T11	Protein 549 552	Sp3
+T12	Protein 556 577	histone deacetylase 1
+T13	Protein 579 584	HDAC1
+T14	Protein 701 704	Sp3
+T15	Protein 724 728	TERT
+T16	Protein 802 805	Sp3
+T17	Protein 864 867	Sp3
+T18	Protein 944 948	TERT
+T19	Protein 1027 1030	Sp3
+T20	Protein 1123 1126	Sp3
+T21	Protein 1141 1144	Sp3
+T22	Protein 1180 1183	Sp3
+T23	Protein 1191 1194	Sp3
+T24	Protein 1271 1292	histone deacetylase 1
+T25	Protein 1294 1299	HDAC1
+T26	Protein 1433 1438	CerS1
+T27	Protein 1558 1561	Sp3
+T28	Protein 1562 1567	HDAC1
+T29	Protein 1584 1588	TERT
+T30	Protein 1626 1636	histone H3

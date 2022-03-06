@@ -1,0 +1,13 @@
+Introduction.
+Although antidepressants are widely used in Parkinson's disease (PD), few well-designed studies to support their efficacy have been conducted.
+
+Development.
+These clinical guidelines are based on a review of the literature and the results of an AMN <dis>movement disorder</dis> study group survey.
+
+Conclusions.
+Evidence suggests that nortriptyline, venlafaxine, paroxetine, and citalopram may be useful in treating depression in PD, although studies on paroxetine and citalopram yield conflicting results. 
+In clinical practice, however, selective serotonin reuptake inhibitors are usually considered the treatment of choice. 
+Duloxetine may be an alternative to venlafaxine, although the evidence for this is less, and venlafaxine plus mirtazapine may be useful in drug-resistant cases. 
+Furthermore, citalopram may be indicated for the treatment of anxiety, atomoxetine for hypersomnia, trazodone and mirtazapine for insomnia and psychosis, and bupropion for apathy. 
+In general, antidepressants are well tolerated in PD. 
+However, clinicians should consider the anticholinergic effect of tricyclic antidepressants, the impact of serotonin-norepinephrine reuptake inhibitors on blood pressure, the extrapyramidal effects of antidepressants, and any potential interactions between monoamine oxidase B inhibitors and other antidepressants.

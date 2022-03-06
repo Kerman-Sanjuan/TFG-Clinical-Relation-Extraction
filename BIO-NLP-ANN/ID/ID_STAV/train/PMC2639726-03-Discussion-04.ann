@@ -1,0 +1,5 @@
+T1	Organism 557 567	Salmonella
+T2	Organism 725 735	Salmonella
+T3	Organism 1036 1046	Salmonella
+T4	Process 155 164	virulence
+E1	Process:T4 

@@ -1,0 +1,18 @@
+Abstract
+ Objective
+To evaluate the patterns of cerebral cortical distribution of 11C-PIB in patients with <dis>mild cognitive impairment</dis> (<dis>MCI</dis>).
+Material and methods
+The study included 69 patients (37 male, age range 42–79 years) with <dis>MCI</dis>, sub- classified as 53 with <dis>amnestic-MCI</dis> (<dis>A-MCI</dis>), and 16 with <dis>non-amnestic-MCI</dis> (<dis>NA- MCI</dis>).
+Patients underwent 11C-PIB PET/CT scan 60 min after intravenous injection of the radiotracer.
+A visual analysis of the images was performed by 2 experienced physicians.
+11C-PIB-positive studies were considered when gray matter uptake was equal to or greater than white matter.
+According to the regions involved, 11C-PIB-positive studies were classified into A-pattern (predominant retention in frontal, anterior cingulate, lateral temporal, and basal ganglia) and B-pattern (generalized retention).
+Results
+Thirty-nine of the 69 (56%) patients with <dis>MCI</dis> showed 11C-PIB retention.
+Of the 53 <dis>A-MCI</dis> patients, 36 (68%) showed 11C-PIB retention.
+Eleven out of 36 (30%) positive scans in <dis>A-MCI</dis> patients showed A-pattern, and 25 out of 36 (70%) patients had a B-pattern.
+Positive 11C-PIB was observed in 3 out of 16 (19%) patients with <dis>NA-MCI</dis>.
+Regional distribution in these 3 patients showed A-pattern in 1, and B-pattern in 2 patients.
+Conclusion
+Cortical retention of 11C-PIB was more frequent in <dis>A-MCI</dis> than in <dis>NA-MCI</dis> patients, and also B-pattern than A-pattern in the 11C-PIB positive group.
+The recognition of 11C-PIB distribution patterns allows <dis>MCI</dis> patients to be classified, and the A-pattern may offer a therapeutic window for potential future treatments.

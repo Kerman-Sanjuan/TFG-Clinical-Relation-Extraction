@@ -1,0 +1,16 @@
+T1	Protein 103 110	histone
+T2	Protein 142 149	histone
+T3	Protein 352 359	histone
+T4	Protein 466 471	HDAC1
+T5	Protein 550 555	HDAC1
+T6	Protein 622 629	histone
+T7	Protein 731 736	HDAC1
+T8	Protein 911 918	histone
+T9	Protein 987 989	H4
+T10	Protein 1013 1021	histones
+T11	Acetylation 150 166	hyperacetylation
+T12	Acetylation 919 935	hyperacetylation
+T13	Acetylation 966 977	acetylation
+E1	Acetylation:T11 Theme:T2
+E2	Acetylation:T12 Theme:T8
+E3	Acetylation:T13 Theme:T9

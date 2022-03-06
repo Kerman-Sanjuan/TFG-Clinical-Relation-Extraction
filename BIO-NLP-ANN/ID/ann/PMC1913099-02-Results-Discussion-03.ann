@@ -1,0 +1,90 @@
+T1	Organism 19 31	Streptococci
+T2	Protein 298 312	streptolysin O
+T3	Protein 314 317	slo
+T4	Protein 321 328	spy0167
+T5	Protein 338 342	SpeB
+T6	Protein 353 360	spy2039
+T7	Protein 403 423	pyrogenic exotoxin H
+T8	Protein 425 429	speH
+T9	Protein 433 440	spy1008
+T10	Protein 448 484	putative fibronectin-binding protein
+T11	Protein 486 493	spy0130
+T12	Protein 556 563	spy2039
+T13	Protein 568 575	spy0130
+T14	Protein 697 711	Streptolysin O
+T15	Organism 740 745	human
+T16	Organism 946 958	streptococci
+T17	Protein 1025 1028	slo
+T18	Organism 1124 1136	streptococci
+T19	Organism 1220 1232	streptococci
+T20	Protein 1367 1371	SpeB
+T21	Protein 1384 1391	spy2039
+T22	Protein 1414 1431	cysteine protease
+T23	Protein 1563 1567	SpeB
+T24	Organism 1651 1656	human
+T25	Organism 1706 1711	mouse
+T26	Protein 1739 1743	SpeB
+T27	Protein 1864 1868	SpeB
+T28	Protein 1953 1957	SpeB
+T29	Organism 2017 2038	streptococcal strains
+T30	Protein 2124 2153	fibronectin-binding protein F
+T31	Protein 2212 2219	spy0130
+T32	Organism 2326 2331	SF370
+T33	Protein 2384 2393	protein F
+T34	Protein 2535 2539	SpeB
+T35	Protein 2723 2727	speH
+T36	Protein 2814 2818	SpeB
+*	Equiv T3 T2 T4
+*	Equiv T5 T6
+*	Equiv T8 T7 T9
+*	Equiv T10 T11
+*	Equiv T21 T20
+T37	Process 0 9	Virulence
+T38	Process 72 81	infection
+T39	Process 249 258	virulence
+T40	Negative_regulation 367 380	downregulated
+T41	Positive_regulation 500 511	upregulated
+T42	Gene_expression 542 552	expression
+T43	Process 610 619	virulence
+T44	Process 667 676	infection
+T45	Transcription 1033 1044	transcribed
+T46	Negative_regulation 1233 1245	downregulate
+T47	Gene_expression 1246 1256	production
+T48	Process 1455 1464	infection
+T49	Gene_expression 1568 1578	production
+T50	Negative_regulation 1618 1627	decreases
+T51	Process 1712 1721	infection
+T52	Gene_expression 1744 1754	expression
+T53	Negative_regulation 1854 1863	decreased
+T54	Gene_expression 1869 1879	production
+T55	Positive_regulation 2187 2199	upregulation
+T56	Negative_regulation 2540 2554	downregulation
+T57	Positive_regulation 2742 2753	upregulated
+T58	Gene_expression 2819 2829	production
+T59	Process 2980 2989	virulence
+E1	Process:T37 
+E2	Process:T38 Participant:T1
+E3	Process:T39 
+E4	Negative_regulation:T40 Theme:T2
+E5	Negative_regulation:T40 Theme:T5
+E6	Positive_regulation:T41 Theme:T7
+E7	Positive_regulation:T41 Theme:T10
+E8	Gene_expression:T42 Theme:T12
+E9	Gene_expression:T42 Theme:T13
+E10	Process:T43 
+E11	Process:T44 
+E12	Transcription:T45 Theme:T17
+E13	Negative_regulation:T46 Theme:E14
+E14	Gene_expression:T47 Theme:T17
+E15	Process:T48 
+E16	Gene_expression:T49 Theme:T23
+E17	Negative_regulation:T50 Theme:E16
+E18	Process:T51 
+E19	Gene_expression:T52 Theme:T26
+E20	Negative_regulation:T53 Theme:E21
+E21	Gene_expression:T54 Theme:T27
+E22	Positive_regulation:T55 Theme:T31
+E23	Negative_regulation:T56 Theme:T34
+E24	Positive_regulation:T57 Theme:T35
+E25	Gene_expression:T58 Theme:T36
+E26	Process:T59 

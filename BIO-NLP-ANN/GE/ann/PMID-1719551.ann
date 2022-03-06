@@ -1,0 +1,20 @@
+T12	Binding 516 520	bind
+T13	Binding 691 695	bind
+T14	Positive_regulation 718 736	in the presence of
+T15	Binding 758 765	binding
+E1	Binding:T12 Theme:T5
+E2	Binding:T13 Theme:T8
+E3	Positive_regulation:T14 Theme:E4 Cause:T9
+E4	Binding:T15 Theme:T8
+M1	Negation E2
+T1	Protein 46 50	JunD
+T2	Protein 55 59	JunB
+T3	Protein 130 134	JunD
+T4	Protein 391 395	JunD
+T5	Protein 499 503	JunD
+T6	Protein 603 607	JunB
+T7	Protein 652 656	JunD
+T8	Protein 673 677	JunB
+T9	Protein 737 742	c-Fos
+T10	Protein 792 796	JunD
+T11	Protein 1168 1172	JunD

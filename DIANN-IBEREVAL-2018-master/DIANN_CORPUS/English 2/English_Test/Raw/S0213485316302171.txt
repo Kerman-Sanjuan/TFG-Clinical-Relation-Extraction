@@ -1,0 +1,17 @@
+Introduction
+Cognitive impairment, a clinical entity causing complete or partial intellectual dysfunction, is a major public health concern that poses a challenge for health and social services. 
+The purpose of this study is to estimate the prevalence of this disorder in people aged 65 and older visiting the primary care physician in 5 health sentinel networks.
+Method
+A sample of patients visiting their primary care doctor on 4 randomly selected days completed the Mini-Cog screening test. 
+Diagnosis of cognitive impairment was confirmed with the Mini-Mental State Examination and the Alzheimer's Questionnaire. 
+We estimated raw and adjusted rates using demographic and social variables.
+Results
+We included 4,624 patients from 5 autonomous communities and representing a population of 1,723,216 inhabitants. 
+The adjusted prevalence rate was 18.5% (95% CI 17.3-19.7], with differences between sentinel networks.
+Women showed higher adjusted rates than men: 18.5 vs. 14.3%.
+The highest prevalence rate was observed in people aged 85 and older (45.3%); prevalence rates vary depending on education level and marital status.
+Conclusions
+Cognitive impairment is a frequent reason for consultations in primary care. 
+Its prevalence is higher in women and increases exponentially with age. 
+A number of sensitive, validated tools have been proven useful in screening for and confirming cognitive impairment. 
+Using these tools in primary care settings enables early treatment of these patients.

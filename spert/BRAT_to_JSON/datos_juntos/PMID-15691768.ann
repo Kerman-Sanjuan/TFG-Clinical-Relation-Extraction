@@ -1,0 +1,27 @@
+*	Equiv T16 T17
+*	Equiv T8 T9
+T15	Methylation 672 682	methylated
+T16	Entity 683 691	lysine 4
+T17	Entity 708 710	K4
+T18	Catalysis 864 876	required for
+T19	Ubiquitination 881 899	monoubiquitination
+T20	Entity 938 940	K4
+T21	Methylation 941 952	methylation
+E1	Methylation:T15 Theme:T8 Site:T16
+E2	Catalysis:T18 Theme:E3 Cause:T11
+E3	Ubiquitination:T19 Theme:T12
+E4	Methylation:T21 Theme:T13 Site:T20
+T1	Protein 0 4	Bre1
+T2	Protein 41 48	histone
+T3	Protein 317 322	dBre1
+T4	Protein 441 446	dBre1
+T5	Protein 469 474	Su(H)
+T6	Protein 521 526	Su(H)
+T7	Protein 624 629	dBre1
+T8	Protein 695 704	histone 3
+T9	Protein 706 708	H3
+T10	Protein 793 798	dBre1
+T11	Protein 834 839	Bre1p
+T12	Protein 903 914	histone H2B
+T13	Protein 936 938	H3
+T14	Protein 980 987	histone

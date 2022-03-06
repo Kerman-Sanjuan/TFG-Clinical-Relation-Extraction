@@ -1,0 +1,5 @@
+T1	Protein 897 908	VD receptor
+T2	Protein 910 913	VDR
+*	Equiv T2 T1
+T3	Binding 875 889	lower affinity
+E1	Binding:T3 Theme:T2

@@ -1,0 +1,45 @@
+T1	Protein 14 24	connexin32
+T2	Protein 29 39	connexin43
+T3	Protein 257 267	connexin32
+T4	Protein 269 273	Cx32
+T5	Protein 279 289	connexin43
+T6	Protein 291 295	Cx43
+T7	Protein 413 417	Cx32
+T8	Protein 426 430	Cx43
+T9	Protein 483 487	Cx43
+T10	Protein 496 500	Cx32
+T11	Protein 547 551	MspI
+T12	Protein 556 561	HpaII
+T13	Protein 581 585	MspI
+T14	Protein 586 591	HpaII
+T15	Protein 617 621	Cx32
+T16	Protein 746 750	MspI
+T17	Protein 751 756	HpaII
+T18	Protein 781 785	Cx43
+T19	Protein 946 956	luciferase
+T20	Protein 987 991	Cx32
+T21	Protein 1047 1051	Cx43
+T22	Protein 1146 1150	Cx32
+T23	Protein 1155 1159	Cx43
+*	Equiv T3 T4
+*	Equiv T5 T6
+T24	Entity 632 646	positions -147
+T25	Entity 651 655	-847
+T26	DNA_methylation 662 672	methylated
+T27	Entity 796 808	position -38
+T28	DNA_methylation 814 824	methylated
+T29	Entity 1194 1202	promoter
+T30	DNA_methylation 1203 1214	methylation
+E1	DNA_methylation:T26 Theme:T15 Site:T24
+E2	DNA_methylation:T26 Theme:T15 Site:T25
+E3	DNA_methylation:T26 Theme:T15 Site:T24
+M1	Negation E3
+E4	DNA_methylation:T26 Theme:T15 Site:T25
+M2	Negation E4
+E5	DNA_methylation:T28 Theme:T18 Site:T27
+E6	DNA_methylation:T28 Theme:T18 Site:T27
+M3	Negation E6
+E7	DNA_methylation:T30 Theme:T22 Site:T29
+M4	Speculation E7
+E8	DNA_methylation:T30 Theme:T23 Site:T29
+M5	Speculation E8

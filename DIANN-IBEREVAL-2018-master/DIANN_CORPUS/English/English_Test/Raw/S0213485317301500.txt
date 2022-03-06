@@ -1,0 +1,17 @@
+Introduction.
+Given that surgical treatment of refractory mesial temporal lobe epilepsy may cause memory impairment, determining which patients are eligible for surgery is essential. 
+However, there is little agreement on which presurgical memory assessment methods are best able to predict memory outcome after surgery and identify those patients with a greater risk of surgery-induced memory decline.
+
+Objective.
+We conducted a systematic literature review to determine which presurgical memory assessment methods best predict memory outcome.
+
+Material and methods.
+The literature search of PubMed gathered articles published between January 2005 and December 2015 addressing pre- and postsurgical memory assessment in mesial temporal lobe epilepsy patients by means of neuropsychological testing, functional MRI, and other neuroimaging techniques. 
+We obtained 178 articles, 31 of which were included in our review.
+
+Results.
+Most of the studies used neuropsychological tests and fMRI; these methods are considered to have the greatest predictive ability for memory impairment. 
+Other less frequently used techniques included the Wada test and FDG-PET.
+
+Conclusions.
+Current evidence supports performing a presurgical assessment of memory function using both neuropsychological tests and functional MRI to predict memory outcome after surgery.

@@ -1,0 +1,17 @@
+Resumen
+ Introducción
+El síndrome de deleción 22q11.2 (22q11.2 DS) se produce por microdeleciones del brazo largo del cromosoma 22 en la región q11.2.
+Después del síndrome de Down, es el segundo síndrome genético más común.
+En pacientes con esquizofrenia, el 22q11.2 DS tiene una prevalencia del 2%, mientras que en personas con esquizofrenia seleccionadas por características físicas específicas, aumenta un 32-53%.
+Objetivo
+Describir las generalidades del 22q11.2 DS, sus características clínicas, los aspectos genético-moleculares y la frecuencia de la microdeleción de 22q11.2 en diferentes poblaciones.
+Métodos
+Se hizo una revisión desde 1967 hasta 2013 en bases de datos de publicaciones científicas, orientada a recopilar artículos sobre el 22q11.2 DS y su relación con la esquizofrenia.
+Resultados
+El 22q11.2 DS es una entidad genética que se asocia a un fenotipo variable relacionado con defectos congénitos en diferentes tejidos y órganos, así como a una alta frecuencia de <dis>trastornos psiquiátricos</dis>, particularmente la esquizofrenia.
+Se ha identificado alta prevalencia en grupos de personas con esquizofrenia seleccionadas por características sindrómicas comunes, como dificultades de aprendizaje, rasgos faciales típicos, anomalías palatales y defectos cardiacos congénitos.
+Las técnicas de FISH, qPCR, MLPA y, recientemente, aCGH y NGS se están usando para diagnosticar esta microdeleción.
+Conclusiones
+En la práctica clínica es importante tener presente que las personas con 22q11.2 DS tienen alto riesgo de sufrir esquizofrenia, ya que la región 22q11.2 alberga genes candidatos relacionados con vulnerabilidad a esquizofrenia.
+Se considera que la concomitancia de esta enfermedad y 22q11.2 DS representa un subtipo genético de esquizofrenia.
+Existen criterios fenotípicos claros y métodos citogenéticos y moleculares para diagnosticar a este grupo de pacientes y optimizar un abordaje multidisciplinario en su seguimiento.

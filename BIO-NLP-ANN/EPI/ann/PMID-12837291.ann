@@ -1,0 +1,5 @@
+T4	Acetylation 1272 1283	acetylation
+E1	Acetylation:T4 Theme:T2
+T1	Protein 993 997	p300
+T2	Protein 1287 1297	histone H4
+T3	Protein 1332 1342	histone H3

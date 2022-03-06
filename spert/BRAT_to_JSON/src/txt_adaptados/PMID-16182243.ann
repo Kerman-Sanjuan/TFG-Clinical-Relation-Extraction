@@ -1,0 +1,19 @@
+*	Equiv T1 T2
+T12	Ubiquitination 120 134	ubiquitination
+T13	Hydroxylation 294 307	hydroxylation
+T14	Entity 320 328	prolines
+T15	Hydroxylation 787 799	hydroxylated
+E1	Ubiquitination:T12 Theme:T1
+E2	Hydroxylation:T13 Theme:T3 Site:T14
+E3	Hydroxylation:T15 Theme:T8
+T1	Protein 154 185	hypoxia-inducible factor 1alpha
+T2	Protein 187 197	HIF-1alpha
+T3	Protein 332 342	HIF-1alpha
+T4	Protein 444 461	von Hippel-Lindau
+T5	Protein 470 479	Elongin B
+T6	Protein 480 489	Elongin C
+T7	Protein 628 638	HIF-1alpha
+T8	Protein 800 810	HIF-1alpha
+T9	Protein 927 931	PHD2
+T10	Protein 1050 1054	PHD2
+T11	Protein 1164 1174	HIF-1alpha

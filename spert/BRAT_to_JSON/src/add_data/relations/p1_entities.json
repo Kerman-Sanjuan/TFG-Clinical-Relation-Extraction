@@ -1,0 +1,35 @@
+[
+  {
+    "tokens": ["Hola", "como", "estas", "."],
+    "entities": [{ "start": 0, "end": 1, "type": "Start-org" }]
+  },
+  {
+    "tokens": ["Esta", "noche", "te", "quiero", "hacer", "maldades", "."],
+    "entities": [
+      { "start": 5, "end": 6, "type": "Die" },
+      { "start": 1, "end": 2, "type": "Person" }
+    ]
+  },
+  {
+    "tokens": ["Hacermelo", "y", "que", "no", "acabe", "."],
+    "entities": [{ "start": 0, "end": 2, "type": "GPE" }]
+  },
+  {
+    "tokens": [
+      "Hacer",
+      "que",
+      "te",
+      "acuerdes",
+      "de",
+      "mi",
+      ",",
+      "ven",
+      "bebe",
+      "."
+    ],
+    "entities": [
+      { "start": 8, "end": 9, "type": "Be-born" },
+      { "start": 3, "end": 4, "type": "Person" }
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+Abstract
+ Atrial fibrillation is the most common sustained arrhythmia.
+Because of its potentially serious clinical consequences (heart failure, stroke, and <dis>cognitive impairment</dis>), atrial fibrillation has important socioeconomic and health implications.
+This article reviews the major studies on the epidemiology of atrial fibrillation in Spain.
+Recent data suggest that in people older than 40 years, the prevalence of atrial fibrillation may be more than 4%.
+Given the current Spanish demography, these data would imply that more than 1 million people in Spain have atrial fibrillation.

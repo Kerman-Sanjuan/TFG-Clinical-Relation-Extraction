@@ -1,0 +1,21 @@
+T1	Protein 33 39	TDP-43
+T2	Protein 211 217	TDP-43
+T3	Protein 522 528	TDP-43
+T4	Protein 716 722	TDP-43
+T5	Protein 793 844	cystic fibrosis transmembrane conductance regulator
+T6	Protein 846 850	CFTR
+T7	Protein 915 921	TDP-43
+T8	Protein 1011 1017	TDP-43
+*	Equiv T5 T6
+T9	Phosphorylation 0 14	Phosphorylated
+T10	Ubiquitination 19 32	ubiquitinated
+T11	Phosphorylation 129 143	phosphorylated
+T12	Ubiquitination 148 161	ubiquitinated
+T13	Phosphorylation 683 697	phosphorylated
+T14	Ubiquitination 702 715	ubiquitinated
+E1	Phosphorylation:T9 Theme:T1
+E2	Ubiquitination:T10 Theme:T1
+E3	Phosphorylation:T11 Theme:T2
+E4	Ubiquitination:T12 Theme:T2
+E5	Phosphorylation:T13 Theme:T4
+E6	Ubiquitination:T14 Theme:T4

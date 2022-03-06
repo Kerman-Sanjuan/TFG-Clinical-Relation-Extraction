@@ -1,0 +1,28 @@
+T1	Protein 81 86	c-Jun
+T2	Protein 297 306	IFN-gamma
+T3	Protein 702 707	c-Jun
+T4	Protein 737 742	c-Fos
+T5	Protein 818 823	c-Fos
+T6	Protein 824 829	c-Jun
+T7	Protein 940 945	c-Fos
+T8	Protein 946 951	c-Jun
+T9	Protein 1003 1006	DRA
+T10	Binding 801 808	complex
+T11	Gene_expression 850 855	exist
+T12	Binding 873 877	form
+T13	Binding 882 886	bind
+T14	Negative_regulation 989 999	repression
+T15	Gene_expression 1012 1022	expression
+E1	Binding:T10 Theme:T3 Theme2:T4
+E2	Gene_expression:T11 Theme:T6
+E3	Gene_expression:T11 Theme:T5
+E4	Binding:T12 Theme:T5 Theme2:T6
+E5	Binding:T13 Theme:T5
+E6	Binding:T13 Theme:T6
+E7	Negative_regulation:T14 Theme:E9 Cause:T8
+E8	Negative_regulation:T14 Theme:E9 Cause:T7
+E9	Gene_expression:T15 Theme:T9
+M1	Negation E2
+M2	Negation E3
+M3	Speculation E7
+M4	Speculation E8

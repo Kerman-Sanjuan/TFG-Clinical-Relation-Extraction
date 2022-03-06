@@ -1,0 +1,7 @@
+Caso clínico.
+Se trata de un paciente masculino de 19 años con paresia bilateral del músculo recto externo secundario a un traumatismo craneoencefálico. 
+Durante su tratamiento se produjo una inyección intraocular inadvertida de toxina botulínica, ocasionando un desgarro retiniano y desprendimiento de retina localizado. 
+Ambas lesiones fueron delimitadas con láser, observándose una resolución espontánea del desprendimiento <scp><neg>sin</neg> presentar <dis>deterioro visual</dis> durante el seguimiento</scp>.
+
+Discusión.
+A pesar de que la toxina botulínica intraocular no genera toxicidad a nivel retiniano, la inyección intraocular inadvertida debe ser vigilada de manera estrecha para evitar complicaciones secundarias a la perforación.

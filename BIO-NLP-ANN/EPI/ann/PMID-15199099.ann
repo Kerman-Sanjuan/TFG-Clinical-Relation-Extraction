@@ -1,0 +1,32 @@
+T1	Protein 22 32	HIF-1alpha
+T2	Protein 260 270	HIF-1alpha
+T3	Protein 275 284	HIF-1beta
+T4	Protein 308 318	HIF-1alpha
+T5	Protein 360 370	HIF-1alpha
+T6	Protein 617 627	HIF-1alpha
+T7	Protein 712 722	HIF-1alpha
+T8	Protein 958 968	HIF-1alpha
+T9	Protein 1187 1197	HIF-1alpha
+T10	Protein 1273 1283	HIF-1alpha
+T11	Protein 1507 1517	HIF-1alpha
+T12	Protein 2060 2070	HIF-1alpha
+T13	Phosphorylation 57 72	phosphorylation
+T14	Entity 470 476	prolyl
+T15	Hydroxylation 477 490	hydroxylation
+T16	Hydroxylation 543 556	hydroxylation
+T17	Entity 570 586	proline residues
+T18	Phosphorylation 785 800	phosphorylation
+T19	Phosphorylation 1311 1326	phosphorylation
+T20	Phosphorylation 1564 1579	phosphorylation
+T21	Entity 1937 1952	prolyl residues
+T22	Hydroxylation 1973 1986	hydroxylation
+T23	Entity 2016 2024	residues
+T24	Phosphorylation 2041 2056	phosphorylation
+E1	Phosphorylation:T13 Theme:T1
+E2	Hydroxylation:T15 Theme:T5 Site:T14
+E3	Hydroxylation:T16 Theme:T6 Site:T17
+E4	Phosphorylation:T18 Theme:T7
+E5	Phosphorylation:T19 Theme:T10
+E6	Phosphorylation:T20 Theme:T11
+E7	Hydroxylation:T22 Theme:T12 Site:T21
+E8	Phosphorylation:T24 Theme:T12 Site:T23

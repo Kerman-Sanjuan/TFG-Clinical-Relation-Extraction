@@ -1,0 +1,15 @@
+T12	Catalysis 812 835	plays an important role
+T13	Ubiquitination 839 853	ubiquitination
+E1	Catalysis:T12 Theme:E2 Cause:T10
+E2	Ubiquitination:T13 Theme:T11
+T1	Protein 103 108	Nm23B
+T2	Protein 166 170	RCC1
+T3	Protein 618 623	HERC3
+T4	Protein 633 642	ubiquitin
+T5	Protein 658 664	PLIC-1
+T6	Protein 670 676	PLIC-2
+T7	Protein 709 714	HERC5
+T8	Protein 746 751	Nm23B
+T9	Protein 799 804	HERC3
+T10	Protein 806 811	HERC5
+T11	Protein 857 862	Nm23B

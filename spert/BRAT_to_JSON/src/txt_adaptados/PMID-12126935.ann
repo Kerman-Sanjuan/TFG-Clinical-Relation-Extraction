@@ -1,0 +1,24 @@
+*	Equiv T2 T3
+T12	Hydroxylation 89 102	hydroxylation
+T13	Entity 106 112	lysine
+T14	Entity 1182 1194	residues 930
+T15	Entity 1213 1216	933
+T16	Hydroxylation 1273 1285	hydroxylated
+T17	Hydroxylation 1706 1723	underhydroxylated
+E1	Hydroxylation:T12 Theme:T1 Site:T13
+E2	Hydroxylation:T16 Theme:T6 Site:T14
+M1	Negation E2
+E3	Hydroxylation:T16 Theme:T7 Site:T15
+M2	Negation E3
+E4	Hydroxylation:T17 Theme:T9
+T1	Protein 132 134	II
+T2	Protein 365 384	lysyl hydroxylase 1
+T3	Protein 391 396	PLOD1
+T4	Protein 910 915	PLOD1
+T5	Protein 1002 1018	type II collagen
+T6	Protein 1198 1208	alpha 1(I)
+T7	Protein 1220 1230	alpha 2(I)
+T8	Protein 1504 1520	type II collagen
+T9	Protein 1739 1755	type II collagen
+T10	Protein 1982 1987	PLOD1
+T11	Protein 2177 2193	type II collagen

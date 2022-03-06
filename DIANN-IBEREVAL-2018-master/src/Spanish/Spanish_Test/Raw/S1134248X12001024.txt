@@ -1,0 +1,23 @@
+Resumen
+ Objetivo
+Analizar en los pacientes fallecidos dentro del proceso asistencial (PA) de cuidados paliativos (CP) todas las fases del procedimiento de la sedación paliativa (SP) cuya indicación se realizó en nuestra unidad.
+Método
+Estudio retrospectivo de revisión de historias clínicas (HHCC) de pacientes a los que se aplicó una SP entre julio de 2009 y junio de 2010 en una unidad de atención a crónicos de media y larga estancia de Valencia.
+Se analizaron variables generales de los pacientes y específicas de la SP.
+Resultados
+Se realizó una SP en 51 pacientes (17,7% de los fallecidos).
+La mayoría tenían más de 64 años (76,5%), patología oncológica (63%) y, al ingreso, dependencia total (76,5%), deterioro cognitivo de grado significativo (65%) y desnutrición importante (84,5%).
+Los síntomas refractarios (SSRR) más frecuentes fueron disnea (38,5%), dolor (23%), sufrimiento inespecífico (23%) y agitación (20,5%).
+Los pasos de la SP que se registraron con menor frecuencia fueron la situación de fallecimiento cercano (37%) y la intensidad (41%) y el motivo de la refractariedad (31%) del SR. El consentimiento informado (CI) fue mayoritariamente dado por la familia (83%) y el mismo día en que se inició la SP (81%).
+El empleo de hidratación artificial (HA) fue escaso (12%).
+Como fármaco sedante se utilizó en un 96% de casos midazolam (MDZ), administrándose en la gran mayoría (98%) en una pauta continua y por vía subcutánea.
+La dosis media final de MDZ fue de 28 mg/d.
+Se mantuvieron durante la SP un opioide mayor (100%) y un anticolinérgico (68%).
+Un 71% de los pacientes tenían registrados datos sobre la monitorización de la SP con aceptable control del SR en un 80%.
+La duración media de la SP fue de 68 h. Los pacientes no oncológicos (NO) con SP presentaron, respecto a los oncológicos (O), mayor dependencia al ingreso, menor inclusión al ingreso en el PA de CP y menor posibilidad de poder dar el CI.
+Conclusiones
+La frecuencia de uso y duración de la SP y los SSRR y su control se encuentran dentro de los rangos referidos en la literatura.
+Se realiza de forma casi exclusiva con MDZ y es escaso el uso de HA.
+Todavía existe un margen importante de mejora en el registro de ciertos pasos de la SP.
+Anticipar la planificación de los cuidados al final de la vida haría que aumentara la participación de los pacientes en el CI para la SP.
+Las diferencias en el empleo de la SP entre pacientes O y NO depende más de sus distintas características clínicas y asistenciales que de la técnica en sí.

@@ -1,0 +1,16 @@
+Resumen
+ Objetivo
+Evaluar la utilidad diagnóstica (UD) del Mini-Mental (MMS) en la detección del <dis>deterioro cognitivo</dis> (<dis>DC</dis>) en Atención Primaria (AP) y determinar las mejores condiciones de aplicación para este fin.
+Diseño
+Análisis conjunto de 2 estudios de evaluación de pruebas diagnósticas prospectivos con selección consecutiva y sistemática, verificación completa y doble cegamiento, realizados en Madrid y Granada.
+Emplazamiento
+El MMS fue aplicado en AP y el diagnóstico de referencia en Atención Especializada.
+Participantes
+Se seleccionaron de forma consecutiva y sistemática sujetos con quejas o sospecha de <dis>DC</dis> atendidos en AP.
+Mediciones principales
+La UD del MMS se evaluó mediante el área bajo la curva ROC (AUC) y se consideró mejor punto de corte el que ofrecía la mayor tasa de aciertos diagnósticos (TAD) y el mayor índice _kappa_.
+Se analizó de forma independiente la UD para las puntuaciones directas (MMSd) y ajustadas por edad y nivel educativo (MMSa) Resultados
+En la muestra total de 360 sujetos (214 <dis>DC</dis>), la UD de MMSd fue significativamente superior a la de MMSa (0,84 ± 0,02 vs 0,82 ± 0,02, p ≤ 0,001).
+El rendimiento diagnóstico conseguido por el MMSd con el mejor punto de corte (22/23) fue discreto (TAD 0,77, _kappa_ 0,52 ± 0,05), pero no fue mejorado por ningún punto de corte del MMSa.
+Conclusión
+El Mini-Mental tiene una UD discreta para la detección de <dis>DC</dis> en AP que no mejora con la corrección de las puntuaciones por edad y nivel educativo; el mejor punto de corte es 22/23, inferior al habitualmente recomendado.

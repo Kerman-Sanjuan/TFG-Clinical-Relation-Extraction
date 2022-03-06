@@ -1,0 +1,8 @@
+*	Equiv T2 T3
+T6	Glycosylation 65 87	N-linked glycosylation
+E1	Glycosylation:T6 Theme:T1
+T1	Protein 34 53	insulin proreceptor
+T2	Protein 175 191	insulin receptor
+T3	Protein 194 198	INSR
+T4	Protein 227 234	insulin
+T5	Protein 1057 1076	insulin proreceptor

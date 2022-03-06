@@ -1,0 +1,13 @@
+Abstract
+ Introduction and objectives
+The purpose of the episodic memory test and the caregiver's episodic memory test is to evaluate episodic memory according to its definition in a way that is feasible for families and achieves high degrees of sensitivity and specificity.
+Methods and results
+We administered a test consisting of 10 questions about episodic events to 332 subjects, of whom 65 had Alzheimer's disease (AD), 115 had <dis>amnestic MCI</dis> (<dis>aMCI</dis>) and 152 showed <scp><neg>no</neg> <dis>cognitive impairment</dis> according to Reisberg's global deterioration scale</scp> (GDS).
+We calculated the test's sensitivity and specificity to distinguish AD from <dis>episodic aMCI</dis> and from normal ageing.
+The area under the ROC curve for the diagnosis of <dis>aMCI</dis> was 0.94 and the best cut- off value was 20; for that value, sensitivity was 89% and specificity was 82%.
+For a diagnosis of AD, the area under the ROC curve was 0.99 and the best cut- off point was 17, with a sensitivity of 98% and a specificity of 91%.
+A subsequent study using similar methodology yielded similar results when the test was administered directly by the caregiver.
+Conclusions
+The episodic memory test and the caregiver's episodic memory test are useful as brief screening tools for identifying patients with early-stage AD.
+It is suitable for use by primary care medical staff and in the home, since it can be administered by a caregiver.
+The test's limitations are that it must be administered by a reliable caregiver and the fact that it measures episodic memory only.

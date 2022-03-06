@@ -1,0 +1,48 @@
+*	Equiv T9 T10
+*	Equiv T24 T25
+*	Equiv T18 T19
+T22	Catalysis 700 706	govern
+T23	Methylation 707 718	methylation
+T24	Entity 733 737	Lys9
+T25	Entity 742 746	Lys9
+T26	Methylation 986 989	di-
+T27	Methylation 994 1007	trimethylated
+T28	Entity 1011 1015	Lys9
+T29	Methylation 1061 1073	dimethylated
+T30	Methylation 1078 1091	trimethylated
+T31	Entity 1095 1099	Lys9
+T32	Methylation 1109 1123	monomethylated
+T33	Entity 1127 1131	Lys9
+T34	Entity 1169 1173	Lys9
+T35	Methylation 1174 1185	methylation
+E1	Catalysis:T22 Theme:E3 Cause:T7
+E2	Catalysis:T22 Theme:E3 Cause:T8
+E3	Methylation:T23 Theme:T9 Site:T24
+E4	Methylation:T26 Theme:T11 Site:T28
+E5	Methylation:T27 Theme:T11 Site:T28
+E6	Methylation:T29 Theme:T12 Site:T31
+M1	Negation E6
+E7	Methylation:T30 Theme:T12 Site:T31
+E8	Methylation:T32 Theme:T13 Site:T33
+E9	Methylation:T35 Theme:T14 Site:T34
+T1	Protein 67 74	Suv39h1
+T2	Protein 79 86	Suv39h2
+T3	Protein 87 94	histone
+T4	Protein 600 607	histone
+T5	Protein 637 644	Suv39h1
+T6	Protein 649 656	Suv39h2
+T7	Protein 680 687	Suv39h1
+T8	Protein 692 699	Suv39h2
+T9	Protein 722 732	histone H3
+T10	Protein 739 741	H3
+T11	Protein 1008 1010	H3
+T12	Protein 1092 1094	H3
+T13	Protein 1124 1126	H3
+T14	Protein 1166 1168	H3
+T15	Protein 1260 1264	Cbx1
+T16	Protein 1266 1270	Cbx3
+T17	Protein 1275 1279	Cbx5
+T18	Protein 1317 1342	heterochromatin protein 1
+T19	Protein 1344 1347	HP1
+T20	Protein 1602 1609	Suv39h1
+T21	Protein 1614 1621	Suv39h2

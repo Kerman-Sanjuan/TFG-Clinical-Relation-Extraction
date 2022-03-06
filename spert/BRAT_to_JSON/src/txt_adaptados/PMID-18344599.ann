@@ -1,0 +1,58 @@
+*	Equiv T6 T7
+*	Equiv T10 T11
+T31	Catalysis 25 38	ubiquitylates
+T32	Ubiquitination 25 38	ubiquitylates
+T33	Catalysis 142 155	ubiquitylates
+T34	Ubiquitination 142 155	ubiquitylates
+T35	Catalysis 602 620	poly-ubiquitylated
+T36	Ubiquitination 602 620	poly-ubiquitylated
+T37	Catalysis 926 933	mediate
+T38	Ubiquitination 938 947	formation
+T39	Catalysis 1048 1057	mediating
+T40	Ubiquitination 1058 1077	poly-ubiquitylation
+E1	Catalysis:T31 Theme:E2 Cause:T1
+E2	Ubiquitination:T32 Theme:T2
+E3	Ubiquitination:T34 Theme:T5
+E4	Ubiquitination:T34 Theme:T6
+E5	Ubiquitination:T34 Theme:T8
+E6	Ubiquitination:T34 Theme:T9
+E7	Catalysis:T33 Theme:E3 Cause:T3
+E8	Catalysis:T33 Theme:E4 Cause:T3
+E9	Catalysis:T33 Theme:E5 Cause:T3
+E10	Catalysis:T33 Theme:E6 Cause:T3
+E11	Ubiquitination:T36 Theme:T18
+E12	Catalysis:T35 Theme:E11 Cause:T17
+E13	Catalysis:T37 Theme:E14 Cause:T23
+E14	Ubiquitination:T38 Theme:T26
+E15	Catalysis:T39 Theme:E16 Cause:T27
+E16	Ubiquitination:T40 Theme:T29
+T1	Protein 0 5	Pirh2
+T2	Protein 39 88	signal recognition particle receptor beta subunit
+T3	Protein 91 96	Pirh2
+T4	Protein 119 128	ubiquitin
+T5	Protein 183 186	p53
+T6	Protein 188 191	p27
+T7	Protein 192 196	Kip1
+T8	Protein 199 204	HDAC1
+T9	Protein 210 221	epsilon-COP
+T10	Protein 252 301	signal recognition particle receptor beta subunit
+T11	Protein 303 309	SRbeta
+T12	Protein 387 392	Pirh2
+T13	Protein 462 467	Pirh2
+T14	Protein 484 490	SRbeta
+T15	Protein 555 560	Pirh2
+T16	Protein 578 584	SRbeta
+T17	Protein 596 601	Pirh2
+T18	Protein 621 627	SRbeta
+T19	Protein 734 739	Pirh2
+T20	Protein 778 783	Pirh2
+T21	Protein 810 815	Pirh2
+T22	Protein 825 831	SRbeta
+T23	Protein 851 856	Pirh2
+T24	Protein 913 922	ubiquitin
+T25	Protein 955 964	ubiquitin
+T26	Protein 975 981	SRbeta
+T27	Protein 1010 1015	Pirh2
+T28	Protein 1029 1035	SRbeta
+T29	Protein 1081 1087	SRbeta
+T30	Protein 1123 1129	SRbeta

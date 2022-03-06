@@ -1,0 +1,22 @@
+*	Equiv T2 T3
+*	Equiv T4 T5
+T11	Hydroxylation 19 32	hydroxylation
+T12	Entity 40 50	N-terminus
+T13	Hydroxylation 1034 1044	conversion
+T14	Entity 1107 1112	Pro44
+T15	Hydroxylation 1146 1158	hydroxylated
+T16	Hydroxylation 1292 1305	hydroxylation
+E1	Hydroxylation:T11 Theme:T1 Site:T12
+E2	Hydroxylation:T13 Theme:T8 Site:T14
+E3	Hydroxylation:T15 Theme:T9 Site:T14
+E4	Hydroxylation:T16 Theme:T10
+T1	Protein 58 71	prion protein
+T2	Protein 214 220	PrP(C)
+T3	Protein 231 244	prion protein
+T4	Protein 280 283	PrP
+T5	Protein 289 302	prion protein
+T6	Protein 381 384	PrP
+T7	Protein 633 636	PrP
+T8	Protein 952 955	PrP
+T9	Protein 1201 1204	PrP
+T10	Protein 1324 1327	PrP

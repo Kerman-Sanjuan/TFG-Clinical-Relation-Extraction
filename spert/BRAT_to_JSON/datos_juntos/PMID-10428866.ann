@@ -1,0 +1,14 @@
+T8	Glycosylation 22 35	glycosylation
+T9	Glycosylation 404 426	N-linked glycosylation
+T10	Glycosylation 951 959	N-linked
+T11	Entity 960 976	oligosaccharides
+E1	Glycosylation:T8 Theme:T1
+E2	Glycosylation:T9 Theme:T3
+E3	Glycosylation:T10 Theme:T3 Sidechain:T11
+T1	Protein 39 55	insulin receptor
+T2	Protein 80 96	insulin receptor
+T3	Protein 430 446	insulin receptor
+T4	Protein 823 828	GRP78
+T5	Protein 876 891	N-Glycosidase F
+T6	Protein 983 1000	endoglycosidase H
+T7	Protein 1534 1551	endoglycosidase H

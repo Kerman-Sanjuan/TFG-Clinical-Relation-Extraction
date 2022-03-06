@@ -1,0 +1,46 @@
+*	Equiv T8 T9
+T22	Negative_regulation 17 27	repression
+T23	Negative_regulation 312 327	down-regulation
+T24	Regulation 682 689	effects
+T25	Binding 1307 1311	bind
+T26	Binding 1438 1447	associate
+T27	Regulation 1460 1469	dependent
+T28	Binding 1548 1556	contacts
+T29	Entity 1576 1589	finger region
+T30	Entity 1598 1626	N-terminal activation domain
+T31	Regulation 1701 1711	modulating
+T32	Binding 1752 1763	interaction
+E1	Negative_regulation:T22 Theme:T1 Cause:T2
+E2	Negative_regulation:T23 Theme:T5
+E3	Negative_regulation:T23 Theme:T4
+E4	Negative_regulation:T23 Theme:T3
+E5	Regulation:T24 Theme:T6
+E6	Binding:T25 Theme:T13 Theme2:T14
+E7	Binding:T26 Theme:T15 Theme2:T16
+E8	Regulation:T27 Theme:E7
+E9	Binding:T28 Theme:T17 Theme2:T18 Site:T29
+E10	Binding:T28 Theme:T17 Theme2:T18 Site:T30
+E11	Regulation:T31 Theme:T20
+E12	Binding:T32 Theme:T20 Theme2:T21
+M1	Speculation E5
+T1	Protein 66 72	GATA-1
+T2	Protein 80 97	estrogen receptor
+T3	Protein 377 383	alpha-
+T4	Protein 388 399	beta-globin
+T5	Protein 459 461	H5
+T6	Protein 693 699	GATA-1
+T7	Protein 926 932	GATA-1
+T8	Protein 962 979	estrogen receptor
+T9	Protein 981 983	ER
+T10	Protein 1092 1094	ER
+T11	Protein 1118 1124	GATA-1
+T12	Protein 1285 1291	GATA-1
+T13	Protein 1293 1299	GATA-1
+T14	Protein 1304 1306	ER
+T15	Protein 1424 1430	GATA-1
+T16	Protein 1435 1437	ER
+T17	Protein 1512 1518	GATA-1
+T18	Protein 1527 1529	ER
+T19	Protein 1630 1636	GATA-1
+T20	Protein 1712 1718	GATA-1
+T21	Protein 1773 1775	ER

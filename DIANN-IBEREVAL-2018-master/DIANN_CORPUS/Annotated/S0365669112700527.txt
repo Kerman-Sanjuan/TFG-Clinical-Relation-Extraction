@@ -1,0 +1,5 @@
+Abstract
+ Retinal vein occlusion (RVO) is the second most common cause of retinal vascular disease after diabetic retinopathy.
+Despite the existence of several possible treatment options, none was entirely satisfactory and many patients suffered <dis>irreversible visual loss</dis>.
+As a result of the BRAVO, CRUISE and GENEVA trials, ranibizumab and the intravitreal biodegradable implants of dexamethasone has recently been approved by the US Food and Drug Administration and the European Medicines Agency for the treatment of RVO secondary edema.
+In this paper we begin by describing the current treatment options for RVO associated macular edema and continue with the description of the treatment regimen with ranibizumab.

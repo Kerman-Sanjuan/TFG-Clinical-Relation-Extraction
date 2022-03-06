@@ -1,0 +1,16 @@
+*	Equiv T2 T1
+T7	Negative_regulation 880 887	reduced
+T8	Positive_regulation 902 914	upregulation
+T9	Negative_regulation 1002 1009	reduced
+T10	Gene_expression 1427 1437	production
+E1	Negative_regulation:T7 Theme:T2
+E2	Negative_regulation:T7 Theme:T3
+E3	Positive_regulation:T8 Theme:T4
+E4	Negative_regulation:T9 Theme:E3
+E5	Gene_expression:T10 Theme:T6
+T1	Protein 763 790	tumor necrosis factor-alpha
+T2	Protein 792 801	TNF-alpha
+T3	Protein 826 859	macrophage inflammatory protein-2
+T4	Protein 955 988	intercellular adhesion molecule-1
+T5	Protein 1190 1199	TNF-alpha
+T6	Protein 1441 1450	TNF-alpha

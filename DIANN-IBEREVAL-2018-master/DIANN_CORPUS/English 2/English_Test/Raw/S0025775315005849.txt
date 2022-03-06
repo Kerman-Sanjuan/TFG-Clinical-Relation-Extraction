@@ -1,0 +1,13 @@
+Abstract
+ Background and objective
+Leber hereditary optic neuropathy is characterized by acute and subacute visual loss, produced by mitochondrial DNA mutations.
+Patients and methods
+The molecular study of a family with only one affected member is presented.
+Results
+In the index case and in her mother, the mitochondrial mutation m.11778G>A in the _MT-ND4_ was detected in the heteroplasmic state.
+The index case's sister, without ocular manifestations, asked for genetic counseling.
+The study of the mentioned mutation by Sanger sequencing identified it in an apparent homoplasmic state.
+However, by means of next-generation sequencing (NGS), the mutation was actually in a heteroplasmic state.
+Conclusions
+Regarding genetic counseling, verifying a mutation in homoplasmic state is really important.
+We have observed that NGS allows us to discriminate between high levels of heteroplasmy and homoplasmy, meaning that it is a useful technique for the analysis of apparent homoplasmic results obtained with less sensitive technique, as Sanger sequencing.

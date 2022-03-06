@@ -1,0 +1,18 @@
+*	Equiv T2 T3
+T14	Glycosylation 713 725	glycosylated
+T15	Glycosylation 850 865	N-glycosylation
+E1	Glycosylation:T14 Theme:T7
+E2	Glycosylation:T15 Theme:T9
+T1	Protein 32 53	acid sphingomyelinase
+T2	Protein 178 199	acid sphingomyelinase
+T3	Protein 202 208	aSMase
+T4	Protein 310 316	aSMase
+T5	Protein 321 327	aSMase
+T6	Protein 535 541	aSMase
+T7	Protein 677 683	aSMase
+T8	Protein 828 834	aSMase
+T9	Protein 995 1001	aSMase
+T10	Protein 1061 1067	aSMase
+T11	Protein 1072 1078	aSMase
+T12	Protein 1226 1232	aSMase
+T13	Protein 1462 1468	aSMase

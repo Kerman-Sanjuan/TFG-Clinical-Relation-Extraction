@@ -1,0 +1,27 @@
+T1	Protein 82 121	hypoxia-inducible factors (HIFs) 1alpha
+T2	Protein 126 132	2alpha
+T3	Protein 417 434	von Hippel-Lindau
+T4	Protein 436 456	VHL tumor suppressor
+T5	Protein 458 467	ubiquitin
+T6	Protein 792 796	p300
+T7	Protein 889 893	p300
+T8	Protein 961 971	HIF-1alpha
+T9	Protein 976 983	-2alpha
+*	Equiv T3 T4
+T10	Entity 345 352	proline
+T11	Hydroxylation 353 366	hydroxylation
+T12	Entity 1029 1032	Pro
+T13	Entity 1037 1040	Asn
+T14	Hydroxylation 1041 1054	hydroxylation
+E1	Hydroxylation:T11 Theme:T1 Site:T10
+M1	Negation E1
+E2	Hydroxylation:T11 Theme:T2 Site:T10
+M2	Negation E2
+E3	Hydroxylation:T14 Theme:T8 Site:T12
+M3	Negation E3
+E4	Hydroxylation:T14 Theme:T8 Site:T13
+M4	Negation E4
+E5	Hydroxylation:T14 Theme:T9 Site:T12
+M5	Negation E5
+E6	Hydroxylation:T14 Theme:T9 Site:T13
+M6	Negation E6

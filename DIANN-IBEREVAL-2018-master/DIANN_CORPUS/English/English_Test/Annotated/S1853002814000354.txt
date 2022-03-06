@@ -1,0 +1,7 @@
+Abstract
+ Lately, there have been a few studies warning about an increased risk of sudden death in patients with Parkinson's disease.
+We report two men with Parkinson's disease with a disease duration of more than ten years.
+In the first case, the subject was treated with L-dopa/carbidopa/entacapone, rasagiline, and amantadine.
+The second subject was treated with L-dopa/carbidopa, piribedil, and amantadine (in this case we had to perform an autopsy).
+We discuss the causes of this phenomenon: sympathetic cardioselective neuronal degeneration, <dis>parasympathetic dysautonomia</dis>, and QTc interval prolongation by antiparkinsonian drugs.
+Practical approaches are suggested for monitoring this group of patients until more data about the origin of this phenomenon is available.

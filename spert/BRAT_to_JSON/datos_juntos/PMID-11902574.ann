@@ -1,0 +1,9 @@
+T1	Protein 0 7	Histone
+T2	Protein 66 73	histone
+T3	Protein 97 104	histone
+T4	Protein 162 170	histones
+T5	Acetylation 140 151	acetylation
+T6	Acetylation 177 188	acetylation
+E1	Acetylation:T5 Theme:T4
+M1	Speculation E1
+E2	Acetylation:T6 Theme:T4

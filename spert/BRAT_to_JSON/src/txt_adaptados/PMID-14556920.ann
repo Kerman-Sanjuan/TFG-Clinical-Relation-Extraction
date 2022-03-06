@@ -1,0 +1,29 @@
+T15	DNA_methylation 9 20	methylation
+T16	DNA_methylation 685 696	methylation
+T17	Entity 727 736	promoters
+T18	DNA_methylation 818 829	methylation
+T19	Entity 838 847	promoters
+T20	Entity 936 944	promoter
+T21	DNA_methylation 945 956	methylation
+E1	DNA_methylation:T15 Theme:T1
+E2	DNA_methylation:T15 Theme:T2
+E3	DNA_methylation:T16 Theme:T9 Site:T17
+E4	DNA_methylation:T16 Theme:T10 Site:T17
+E5	DNA_methylation:T18 Theme:T9 Site:T19
+E6	DNA_methylation:T18 Theme:T10 Site:T19
+E7	DNA_methylation:T21 Theme:T11 Site:T20
+E8	DNA_methylation:T21 Theme:T12 Site:T20
+T1	Protein 24 32	p16INK4A
+T2	Protein 37 43	p14ARF
+T3	Protein 178 188	p16(INK4A)
+T4	Protein 193 201	p14(ARF)
+T5	Protein 444 454	p16(INK4A)
+T6	Protein 458 466	p14(ARF)
+T7	Protein 559 569	p16(INK4A)
+T8	Protein 573 581	p14(ARF)
+T9	Protein 704 714	p16(INK4A)
+T10	Protein 718 726	p14(ARF)
+T11	Protein 872 882	p16(INK4A)
+T12	Protein 887 895	p14(ARF)
+T13	Protein 1018 1028	p16(INK4A)
+T14	Protein 1033 1041	p14(ARF)

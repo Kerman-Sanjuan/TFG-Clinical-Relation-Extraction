@@ -1,0 +1,14 @@
+*	Equiv T5 T6
+*	Equiv T9 T10
+T7	Acetylation 537 548	acetylation
+T8	Acetylation 1341 1352	acetylation
+T9	Entity 1370 1378	lysine 8
+T10	Entity 1384 1386	K8
+E1	Acetylation:T7 Theme:T3
+E2	Acetylation:T8 Theme:T5 Site:T9
+T1	Protein 0 7	Histone
+T2	Protein 449 456	histone
+T3	Protein 529 536	histone
+T4	Protein 1333 1340	histone
+T5	Protein 1356 1366	Histone H4
+T6	Protein 1382 1384	H4

@@ -1,0 +1,18 @@
+Resumen
+ Justificación
+Estudios retrospectivos y prospectivos aleatorizados han comparado la anestesia locorregional y la general para la endarterectomía carotídea pero sin resultados definitivos.
+Objetivos
+Evaluar la incidencia de las complicaciones médicas, quirúrgicas, neurológicas y de la mortalidad intrahospitalaria en un centro terciario en Portugal y la revisión de la literatura.
+Método
+Análisis retrospectivo de los enfermos sometidos a endarterectomía entre 2000 y 2011 con el _software_ de consulta hospitalaria.
+Resultados
+Fueron identificados 750 enfermos pero en 13 de ellos fue necesario convertir la anestesia locorregional en anestesia general.
+De los 737 enfermos incluidos en este análisis, un 74% fueron sometidos a anestesia locorregional y un 26% a anestesia general.
+No fueron encontradas diferencias estadísticamente significativas relativas a las variables estudiadas en el perioperatorio entre los 2 grupos.
+El uso de _shunt_ fue más frecuente en enfermos sometidos a anestesia general, con diferencia estadísticamente significativa.
+La diferencia de accidentes cerebrovasculares y mortalidad entre los grupos no fue estadísticamente significativa.
+El tiempo promedio de ingreso fue más corto en los enfermos sometidos a anestesia locorregional; diferencia estadísticamente significativa.
+Conclusiones
+Verificamos que los datos encontrados se sobreponen a los descritos en la literatura.
+Después de la revisión de la literatura constatamos que el número de estudios que compararon la anestesia locorregional con la anestesia general y su impacto en el _delirium_ , en las alteraciones cognitivas y en la reducción de la calidad de vida en el postoperatorio es todavía pequeño y puede suministrar datos importantes para la comparación de las 2 técnicas.
+Así, permanecen algunas cuestiones abiertas que nos obligan a realizar estudios aleatorizados con un mayor número de enfermos y en nuevas áreas.

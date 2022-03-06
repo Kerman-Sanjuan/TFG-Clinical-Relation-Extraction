@@ -1,0 +1,49 @@
+
+--- Entities (named entity recognition (NER)) ---                                                                                                                           [0/1291]
+An entity is considered correct if the entity type and span is predicted correctly
+
+                type    precision       recall     f1-score      support
+             Protein        97.05        98.48        97.76        11345
+              Entity        72.45        99.17        83.73          480
+ Positive_regulation        82.19        95.13        88.18         2546
+       Transcription        79.66        95.86        87.01          531
+  Protein_catabolism        83.05        98.99        90.32           99
+     Phosphorylation        96.71        94.23        95.45          156
+             Binding        84.08        98.12        90.56          743
+        Localization        97.79        98.66        98.22          224
+          Regulation        83.33        97.79        89.98          813
+ Negative_regulation       86.26        98.54        91.99          962
+     Gene_expression        95.48        98.34        96.89         1805
+
+               micro        91.74        97.91        94.72        19704
+               macro        87.10        97.57        91.83        19704
+
+--- Relations ---
+
+Without named entity classification (NEC)
+A relation is considered correct if the relation type and the spans of the two related entities are predicted correctly (entity type is not considered)
+
+                type    precision       recall     f1-score      support
+               ToLoc        85.00       100.00        91.89           51
+               AtLoc        33.10        97.96        49.48           49
+              Theme2        49.18        95.54        64.94          157
+               Theme        80.91        96.59        88.06         5103
+                Site        35.44        97.97        52.05          246
+               Cause        79.33        91.79        85.11          719
+
+               micro        74.92        96.11        84.20         6325
+               macro        60.49        96.64        71.92         6325
+
+With named entity classicfication (NEC)
+A relation is considered correct if the relation type and the two related entities are predicted correctly (in span and entity type)
+
+                type    precision       recall     f1-score      support
+               ToLoc        85.00       100.00        91.89           51
+               AtLoc        32.41        95.92        48.45           49
+              Theme2        48.85        94.90        64.50          157
+               Theme        79.43        94.83        86.45         5103
+                Site        35.44        97.97        52.05          246
+               Cause        78.37        90.68        84.07          719
+
+               micro        73.69        94.53        82.82         6325
+               macro        59.92        95.72        71.24         6325 

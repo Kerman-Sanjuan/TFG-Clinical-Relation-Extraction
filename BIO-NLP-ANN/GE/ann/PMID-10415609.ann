@@ -1,0 +1,18 @@
+T1	Protein 490 494	IL-2
+T2	Protein 496 500	IL-6
+T3	Protein 502 511	TNF-alpha
+T4	Protein 513 518	IL-10
+T5	Regulation 386 393	effects
+T6	Gene_expression 465 475	production
+E1	Regulation:T5 Theme:E5
+E2	Regulation:T5 Theme:E8
+E3	Regulation:T5 Theme:E6
+E4	Regulation:T5 Theme:E7
+E5	Gene_expression:T6 Theme:T1
+E6	Gene_expression:T6 Theme:T4
+E7	Gene_expression:T6 Theme:T3
+E8	Gene_expression:T6 Theme:T2
+M1	Speculation E1
+M2	Speculation E2
+M3	Speculation E3
+M4	Speculation E4

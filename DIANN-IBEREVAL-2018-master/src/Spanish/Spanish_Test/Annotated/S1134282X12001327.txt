@@ -1,0 +1,14 @@
+Resumen
+ Objetivos
+Evaluar los conocimientos, percepciones y actitudes de grupos de informantes clave sobre la adherencia al tratamiento de pacientes mayores de 65 años polimedicados que recibieron el alta hospitalaria desde el Servicio de Medicina Interna.
+Material y métodos
+Investigación cualitativa mediante la realización de grupos focales y entrevistas semiestructuradas.
+La población diana fueron pacientes con prescripción anterior al ingreso de 4 o más fármacos, <scp><neg>sin</neg> <dis>deterioro cognitivo</dis></scp> y con autonomía propia.
+Ejes temáticos valorados: ingreso hospitalario, alta domiciliaria, <dis>problemas cognitivos</dis>, creencias que disminuyen el cumplimiento y características de los medicamentos.
+Resultados
+Durante la hospitalización se detecta una falta de información sobre la enfermedad que originó el ingreso, los tratamientos suministrados durante la hospitalización y los prescritos tras el alta.
+En el domicilio la polimedicación, la acumulación de fármacos, la confusión con los genéricos, la complejidad de la pauta, la duplicidad terapéutica y la falta de coordinación entre hospital, primaria y farmacias junto a los <dis>problemas cognitivos</dis>, las creencias negativas y determinadas características de los medicamentos disminuyen la adherencia al tratamiento.
+Conclusiones
+A la vista de los resultados, sería oportuno aumentar los conocimientos que los pacientes tienen sobre su enfermedad de ingreso, los tratamientos suministrados durante la hospitalización y los prescritos tras el alta.
+En relación con las actitudes, los profesionales deben mejorar las explicaciones sobre el tratamiento y adaptar los informes del alta hospitalaria.
+En cuanto a las percepciones, se deben disminuir las creencias negativas y preocupaciones que los pacientes o cuidadores tengan sobre un fármaco ya que pueden dificultar la adherencia al tratamiento.

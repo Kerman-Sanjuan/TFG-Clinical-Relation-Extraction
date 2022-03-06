@@ -1,0 +1,27 @@
+T14	DNA_methylation 567 580	nonmethylated
+T15	DNA_methylation 829 840	methylation
+T16	DNA_methylation 1078 1089	methylation
+T17	DNA_methylation 1328 1339	methylation
+T18	DNA_methylation 1462 1473	methylation
+T19	DNA_methylation 1949 1960	methylation
+E1	DNA_methylation:T14 Theme:T4
+M1	Negation E1
+E2	DNA_methylation:T15 Theme:T7
+E3	DNA_methylation:T16 Theme:T8
+E4	DNA_methylation:T17 Theme:T9
+E5	DNA_methylation:T18 Theme:T10
+M2	Negation E5
+E6	DNA_methylation:T19 Theme:T12
+T1	Protein 52 56	Gnas
+T2	Protein 254 258	GNAS
+T3	Protein 412 419	Gsalpha
+T4	Protein 462 466	GNAS
+T5	Protein 520 527	Gsalpha
+T6	Protein 644 648	GNAS
+T7	Protein 824 828	GNAS
+T8	Protein 1073 1077	GNAS
+T9	Protein 1323 1327	Gnas
+T10	Protein 1457 1461	Gnas
+T11	Protein 1546 1553	Gsalpha
+T12	Protein 1944 1948	Gnas
+T13	Protein 2008 2012	Gnas

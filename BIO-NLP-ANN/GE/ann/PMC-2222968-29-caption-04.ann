@@ -1,0 +1,25 @@
+T14	Positive_regulation 6 15	Induction
+T15	Gene_expression 297 307	expression
+T16	Gene_expression 404 412	staining
+E1	Positive_regulation:T14 Theme:T1
+E2	Gene_expression:T15 Theme:T8
+E3	Gene_expression:T15 Theme:T9
+E4	Gene_expression:T16 Theme:T10
+E5	Gene_expression:T16 Theme:T11
+M1	Speculation E2
+M2	Speculation E3
+M3	Speculation E4
+M4	Speculation E5
+T1	Protein 0 5	FOXP3
+T2	Protein 61 64	CD4
+T3	Protein 65 71	CD45RA
+T4	Protein 118 121	CD3
+T5	Protein 122 126	CD28
+T6	Protein 146 154	TGF-beta
+T7	Protein 168 172	IL-4
+T8	Protein 281 286	FOXP3
+T9	Protein 291 296	GATA3
+T10	Protein 388 393	GATA3
+T11	Protein 398 403	FOXP3
+T12	Protein 440 443	CD4
+T13	Protein 444 450	CD45RA

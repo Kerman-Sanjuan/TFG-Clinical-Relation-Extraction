@@ -1,0 +1,69 @@
+T1	Protein 488 497	IKK-alpha
+T2	Protein 499 507	IKK-beta
+T3	Protein 509 534	NF-kappaB-inducing kinase
+T4	Protein 536 539	NIK
+T5	Protein 542 551	IKK-gamma
+T6	Protein 589 619	IKK complex-associated protein
+T7	Protein 742 751	IKK-alpha
+T8	Protein 760 768	IKK-beta
+T9	Protein 830 838	IKK-beta
+T10	Protein 992 1001	IKK-alpha
+T11	Protein 1006 1011	-beta
+T12	Protein 1188 1191	NIK
+T13	Protein 1193 1206	IkappaB-alpha
+T14	Protein 1211 1219	-epsilon
+T15	Protein 1298 1311	IkappaB-alpha
+T16	Protein 1316 1331	IkappaB-epsilon
+T17	Protein 1395 1404	IKK-alpha
+T18	Protein 1406 1414	IKK-beta
+T19	Protein 1420 1423	NIK
+T20	Protein 1453 1456	NIK
+T21	Protein 1478 1491	IkappaB-alpha
+T22	Protein 1573 1576	NIK
+T23	Protein 1665 1674	IKK-alpha
+T24	Protein 1678 1683	-beta
+*	Equiv T3 T4
+T25	Regulation 732 738	effect
+T26	Positive_regulation 819 829	stimulated
+T27	Positive_regulation 862 871	increased
+T28	Positive_regulation 955 966	stimulation
+T29	Binding 1137 1148	association
+T30	Positive_regulation 1266 1269	led
+T31	Binding 1332 1345	disappearance
+T32	Binding 1355 1365	reassembly
+T33	Regulation 1424 1432	remained
+T34	Binding 1441 1451	associated
+T35	Phosphorylation 1464 1477	phosphorylate
+T36	Positive_regulation 1464 1477	phosphorylate
+E1	Regulation:T25 Theme:T8
+E2	Regulation:T25 Theme:T7
+E3	Positive_regulation:T26 Theme:T9
+E4	Positive_regulation:T27 Theme:E3
+E5	Positive_regulation:T28 Theme:T10
+E6	Positive_regulation:T28 Theme:T11
+E7	Binding:T29 Theme:T13
+E8	Binding:T29 Theme:T12
+E9	Binding:T29 Theme:T14
+E10	Positive_regulation:T30 Theme:E15
+E11	Positive_regulation:T30 Theme:E14
+E12	Positive_regulation:T30 Theme:E16
+E13	Positive_regulation:T30 Theme:E17
+E14	Binding:T31 Theme:T15
+E15	Binding:T31 Theme:T16
+E16	Binding:T32 Theme:T16
+E17	Binding:T32 Theme:T15
+E18	Regulation:T33 Theme:E22
+E19	Regulation:T33 Theme:E21
+E20	Regulation:T33 Theme:E23
+E21	Binding:T34 Theme:T18
+E22	Binding:T34 Theme:T17
+E23	Binding:T34 Theme:T19
+E24	Phosphorylation:T35 Theme:T21
+E25	Positive_regulation:T36 Theme:E24 Cause:T20
+M1	Negation E14
+M2	Negation E15
+M3	Negation E18
+M4	Negation E19
+M5	Negation E20
+M6	Negation E24
+M7	Negation E25

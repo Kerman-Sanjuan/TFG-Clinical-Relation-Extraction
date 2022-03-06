@@ -1,0 +1,12 @@
+Resumen
+ La batería NEUROBEL (Evaluación neuropsicológica del lenguaje en adultos) es una prueba breve que permite una valoración de sondeo de los procesos básicos de comprensión y producción del lenguaje.
+Consta de 8 tareas, que analizan el correcto funcionamiento del lenguaje oral desde el modelo teórico propuesto por la neuropsicología cognitiva.
+El objetivo de este trabajo ha consistido en realizar un estudio piloto de los valores de referencia normativos iniciales de esta batería en adultos y mayores.
+Para ello, se ha estudiado una muestra de 30 participantes <scp><neg>sin</neg> <dis>deterioro cognitivo</dis></scp> (MMSE ≥ 25), de ambos sexos y de más de 50 años.
+La batería NEUROBEL fue administrada a toda la muestra dividida en 2 grupos de edad: «adultos» (50-64) y «adultos-mayores» (> 65).
+Estos últimos analizados también según su lugar habitual de residencia (domicilio particular o centros de mayores).
+En el apartado Resultados se presentan las puntuaciones, tiempos de referencia y percentiles principales obtenidos en la batería.
+NEUROBEL se muestra como una herramienta válida y fiable, con altas correlaciones bivariadas entre las tareas.
+ANOVA univariantes muestran efectos de grupo y escolaridad en puntuación, a favor de los participantes más jóvenes y escolarizados.
+Por el contrario, el sexo no influye en los resultados alcanzados, aunque sí se muestra como un factor significativo en el tiempo de ejecución de la batería, a favor de las mujeres.
+Ciertas diferencias observadas en los resultados entre los participantes del grupo de mayores de 65 años, dependiendo de su lugar habitual de residencia y sexo, se debaten en el apartado Discusión.

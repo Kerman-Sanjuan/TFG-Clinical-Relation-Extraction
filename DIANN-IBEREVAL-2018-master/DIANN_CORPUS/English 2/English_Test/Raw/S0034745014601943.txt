@@ -1,0 +1,12 @@
+Abstract
+ Background
+Large scale neuropsychological studies of patients with bipolar disorder have reported verbal memory and executive function deficits that persist during remission.
+A recent analysis by Thompson et al. (2009) indicated that verbal memory deficits could be entirely explained by the statistical variance attributed to primary executive function deficits.
+This study tests the hypothesis that verbal memory deficits in bipolar patients are largely the result of executive difficulties by direct comparison of verbal neuropsychological tests primarily differing in their executive load as well as examining potential interactions with medication status.
+Methods
+33 Bipolar I patients not taking medication, 40 Bipolar I patients taking medication, and 28 healthy controls were compared on measures of IQ, verbal fluency, category fluency, verbal recall, and category prompted recall.
+Results
+After controlling for IQ, performance on tasks that involved additional executive involvement was significantly worse.
+Medication had a small but reliable effect on cognitive performance.
+Conclusions
+The results provide support to the hypothesis that the most significant source of cognitive impairment in bipolar disorder stems from executive impairment and that verbal memory deficits may arise as a result of this, rather than from primary impairment to core verbal memory mechanisms.

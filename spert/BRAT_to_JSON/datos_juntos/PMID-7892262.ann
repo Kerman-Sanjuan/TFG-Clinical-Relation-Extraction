@@ -1,0 +1,23 @@
+T1	Protein 461 470	G gamma 2
+T2	Protein 479 488	G gamma 3
+T3	Protein 492 501	G gamma 7
+T4	Protein 535 544	G gamma 2
+T5	Protein 633 642	G gamma 2
+T6	Protein 823 832	G gamma 2
+T7	Protein 1022 1031	G gamma 2
+T8	Protein 1196 1205	G gamma 2
+T9	Protein 1490 1499	G gamma 2
+T10	Methylation 520 531	methylation
+T11	Methylation 720 731	methylation
+T12	Methylation 833 844	methylation
+T13	Methylation 1045 1055	methylated
+T14	Methylation 1168 1179	methylation
+T15	Methylation 1181 1192	Methylation
+T16	Methylation 1465 1486	methyl esterification
+E1	Methylation:T10 Theme:T4
+E2	Methylation:T11 Theme:T5
+E3	Methylation:T12 Theme:T6
+E4	Methylation:T13 Theme:T7
+E5	Methylation:T14 Theme:T7
+E6	Methylation:T15 Theme:T8
+E7	Methylation:T16 Theme:T9

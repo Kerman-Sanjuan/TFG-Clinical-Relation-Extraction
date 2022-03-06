@@ -1,0 +1,254 @@
+T1	Protein 42 50	APOBEC3G
+T2	Protein 224 232	APOBEC3G
+T3	Protein 547 555	APOBEC3G
+T4	Protein 683 686	A3G
+T5	Protein 1176 1186	Luciferase
+T6	Protein 1388 1391	A3G
+T7	Protein 1682 1685	A3G
+T8	Protein 1873 1876	A3G
+T9	Protein 1907 1916	IFN-alpha
+T10	Protein 1920 1929	IFN-gamma
+T11	Protein 2061 2064	A3G
+T12	Protein 2756 2765	IFN-alpha
+T13	Protein 2929 2938	IFN-alpha
+T14	Protein 3001 3010	IFN-gamma
+T15	Protein 3093 3102	IFN-gamma
+T16	Protein 3137 3140	A3G
+T17	Protein 3315 3324	IFN-alpha
+T18	Protein 3328 3337	IFN-gamma
+T19	Protein 3341 3344	A3G
+T20	Protein 3455 3458	A3G
+T21	Protein 3465 3474	IFN-alpha
+T22	Protein 3504 3507	CD4
+T23	Protein 3773 3776	A3G
+T24	Protein 3956 3959	A3G
+T25	Protein 3989 3992	Vif
+T26	Protein 4043 4046	A3G
+T27	Protein 4085 4088	A3G
+T28	Protein 4277 4280	Vif
+T29	Protein 4308 4311	A3G
+T30	Protein 4361 4364	A3G
+T31	Protein 4430 4433	Vif
+T32	Protein 4473 4476	A3G
+T33	Protein 4567 4570	A3G
+T34	Protein 4597 4600	Vif
+T35	Protein 4663 4666	A3G
+T36	Protein 5028 5031	A3G
+T37	Protein 5132 5135	A3G
+T38	Protein 5228 5238	TGTTCGGGAC
+T39	Protein 5291 5294	A3G
+T40	Protein 5560 5563	A3G
+T41	Protein 5659 5662	Sp1
+T42	Protein 5667 5670	Sp3
+T43	Protein 5795 5798	Sp1
+T44	Protein 5803 5806	Sp3
+T45	Protein 5825 5828	A3G
+T46	Protein 5967 5970	Sp1
+T47	Protein 6010 6027	RNA polymerase II
+T48	Protein 6212 6215	Sp1
+T49	Protein 6219 6222	Sp3
+T50	Protein 6252 6255	A3G
+T51	Protein 6275 6285	Luciferase
+T52	Protein 6307 6310	A3G
+T53	Protein 6439 6442	Sp1
+T54	Protein 6450 6453	Sp3
+T55	Protein 6624 6627	Sp1
+T56	Protein 6660 6663	Sp3
+T57	Protein 6739 6742	A3G
+T58	Protein 6894 6897	Sp1
+T59	Protein 6901 6904	Sp3
+T60	Protein 7108 7111	Sp1
+T61	Protein 7112 7115	Sp3
+T62	Protein 7237 7240	A3G
+T63	Protein 7315 7323	APOBEC3F
+T64	Protein 7325 7328	A3F
+T65	Protein 7375 7378	A3F
+T66	Protein 7432 7435	A3G
+T67	Protein 7578 7581	A3F
+T68	Protein 7643 7646	A3G
+T69	Protein 7742 7745	A3G
+T70	Protein 7773 7776	A3F
+T71	Protein 7798 7801	Sp1
+T72	Protein 7802 7805	Sp3
+T73	Protein 7886 7889	A3F
+T74	Protein 7931 7934	A3G
+T75	Protein 8033 8036	A3G
+T76	Protein 8340 8343	Sp1
+T77	Protein 8348 8351	Sp3
+T78	Protein 8454 8457	A3G
+T79	Protein 8462 8465	A3F
+*	Equiv T63 T64
+T80	Gene_expression 210 220	expression
+T81	Gene_expression 381 389	detected
+T82	Entity 556 564	promoter
+T83	Regulation 582 592	regulation
+T84	Transcription 662 675	transcription
+T85	Positive_regulation 1329 1336	enhance
+T86	Transcription 1337 1352	transcriptional
+T87	Positive_regulation 1372 1384	upregulation
+T88	Negative_regulation 1481 1486	block
+T89	Transcription 1495 1508	transcription
+T90	Positive_regulation 1605 1613	enhanced
+T91	Transcription 1614 1627	transcription
+T92	Positive_regulation 1662 1671	increased
+T93	Entity 1877 1885	promoter
+T94	Positive_regulation 1894 1903	inducible
+T95	Gene_expression 2070 2080	expression
+T96	Positive_regulation 2084 2095	upregulated
+T97	Entity 2444 2458	60 bp fragment
+T98	Regulation 2502 2510	affected
+T99	Entity 2572 2616	the described interferon-responsive elements
+T100	Positive_regulation 2670 2677	enhance
+T101	Transcription 2678 2691	transcription
+T102	Regulation 3302 3311	influence
+T103	Gene_expression 3345 3355	expression
+T104	Positive_regulation 3432 3440	enhanced
+T105	Gene_expression 3441 3451	expression
+T106	Positive_regulation 4071 4080	Targeting
+T107	Protein_catabolism 4101 4124	proteasomal degradation
+T108	Regulation 4434 4440	alters
+T109	Transcription 4441 4454	transcription
+T110	Regulation 4455 4465	controlled
+T111	Entity 4477 4485	promoter
+T112	Transcription 4544 4557	transcription
+T113	Positive_regulation 4558 4562	from
+T114	Entity 4571 4579	promoter
+T115	Regulation 4583 4593	unaffected
+T116	Entity 4667 4675	promoter
+T117	Positive_regulation 4699 4705	active
+T118	Regulation 5014 5024	regulation
+T119	Transcription 5037 5050	transcription
+T120	Regulation 5546 5556	regulation
+T121	Transcription 5564 5577	transcription
+T122	Gene_expression 5694 5703	expressed
+T123	Binding 5724 5728	bind
+T124	Binding 5784 5791	binding
+T125	Entity 5829 5837	promoter
+T126	Positive_regulation 5983 6005	play an important role
+T127	Binding 6031 6035	bind
+T128	Gene_expression 6194 6208	overexpression
+T129	Gene_expression 6404 6414	expression
+T130	Entity 6743 6751	promoter
+T131	Positive_regulation 6780 6800	serve as activators,
+T132	Negative_regulation 6828 6837	silencing
+T133	Negative_regulation 6919 6926	reduced
+T134	Transcription 6927 6940	transcription
+T135	Regulation 6941 6951	controlled
+T136	Entity 6959 6974	180 bp promoter
+T137	Transcription 6976 6991	transcriptional
+T138	Negative_regulation 7009 7016	reduced
+T139	Regulation 7241 7251	regulation
+T140	Regulation 7301 7311	regulation
+T141	Gene_expression 7382 7391	expressed
+T142	Gene_expression 7424 7431	express
+T143	Binding 7473 7493	form heteromultimers
+T144	Positive_regulation 7849 7858	mediating
+T145	Transcription 7865 7878	transcription
+T146	Regulation 7943 7953	controlled
+T147	Entity 7959 8009	promoter with multiple transcriptional start sites
+T148	Entity 8037 8045	promoter
+T149	Positive_regulation 8069 8075	active
+T150	Positive_regulation 8087 8096	inducible
+T151	Entity 8251 8257	GC-box
+T152	Positive_regulation 8261 8268	crucial
+T153	Entity 8292 8305	core promoter
+T154	Binding 8323 8330	binding
+T155	Gene_expression 8466 8476	expression
+T156	Regulation 8480 8490	controlled
+E1	Gene_expression:T80 Theme:T2
+E2	Gene_expression:T81 Theme:T2
+E3	Regulation:T83 Theme:T3 Site:T82
+E4	Transcription:T84 Theme:T4
+E5	Positive_regulation:T85 Theme:E6
+E6	Transcription:T86 Theme:T6
+E7	Positive_regulation:T87 Theme:T6
+E8	Negative_regulation:T88 Theme:E9
+E9	Transcription:T89 Theme:T6
+E10	Positive_regulation:T90 Theme:E11
+E11	Transcription:T91 Theme:T7
+E12	Positive_regulation:T92 Theme:T7 Cause:E10
+E13	Positive_regulation:T94 Theme:T8 Cause:T9 Site:T93
+E14	Positive_regulation:T94 Theme:T8 Cause:T10 Site:T93
+E15	Gene_expression:T95 Theme:T11
+E16	Positive_regulation:T96 Theme:E15 Cause:T9
+E17	Positive_regulation:T96 Theme:E15 Cause:T10
+E18	Regulation:T98 Theme:T8 Cause:T9 Site:T97
+E19	Regulation:T98 Theme:T8 Cause:T10 Site:T97
+E20	Positive_regulation:T100 Theme:E21 Cause:T8 CSite:T99
+E21	Transcription:T101 Theme:T8
+E22	Regulation:T102 Theme:E23 Cause:T17
+E24	Regulation:T102 Theme:E23 Cause:T18
+E23	Gene_expression:T103 Theme:T19
+E25	Positive_regulation:T104 Theme:E26 Cause:T21
+E26	Gene_expression:T105 Theme:T20
+E27	Positive_regulation:T106 Theme:E28 Cause:T25
+E28	Protein_catabolism:T107 Theme:T27
+E29	Regulation:T108 Theme:E30 Cause:T31
+E31	Transcription:T109 Theme:T32
+E30	Regulation:T110 Theme:E31 Cause:T32 CSite:T111
+E32	Transcription:T112 Theme:T33
+E33	Positive_regulation:T113 Theme:E32 Cause:T33 CSite:T114
+E34	Regulation:T115 Theme:E32 Cause:T34
+E35	Positive_regulation:T117 Theme:T35 Site:T116
+E36	Regulation:T118 Theme:E37
+E37	Transcription:T119 Theme:T36
+E38	Regulation:T120 Theme:E39
+E39	Transcription:T121 Theme:T40
+E40	Gene_expression:T122 Theme:T41
+E41	Gene_expression:T122 Theme:T42
+E42	Binding:T123 Theme:T41
+E43	Binding:T123 Theme:T42
+E44	Binding:T124 Theme:T43 Theme2:T45 Site2:T125
+E45	Binding:T124 Theme:T44 Theme2:T45 Site2:T125
+E46	Positive_regulation:T126 Theme:E47 Cause:T46
+E47	Binding:T127 Theme:T47
+E48	Gene_expression:T128 Theme:T48
+E49	Gene_expression:T128 Theme:T49
+E50	Gene_expression:T129 Theme:T53
+E51	Gene_expression:T129 Theme:T54
+E52	Positive_regulation:T131 Theme:T57 Cause:T55 Site:T130
+E53	Positive_regulation:T131 Theme:T57 Cause:T56 Site:T130
+E54	Negative_regulation:T132 Theme:T55
+E55	Negative_regulation:T132 Theme:T56
+E56	Negative_regulation:T133 Theme:E57
+E57	Transcription:T134 Theme:T57
+E58	Regulation:T135 Theme:E57 Cause:T57 CSite:T136
+E59	Transcription:T137 Theme:T57
+E60	Negative_regulation:T138 Theme:E59
+E61	Regulation:T139 Theme:T62
+E62	Regulation:T140 Theme:T63
+E63	Gene_expression:T141 Theme:T65
+E64	Gene_expression:T142 Theme:T66
+E65	Binding:T143 Theme:T65 Theme2:T66
+E66	Positive_regulation:T144 Theme:E67 Cause:T71
+E68	Positive_regulation:T144 Theme:E67 Cause:T72
+E67	Transcription:T145 Theme:T73
+E69	Regulation:T146 Theme:T74 Cause:T74 CSite:T147
+E70	Positive_regulation:T149 Theme:T75 Site:T148
+E71	Positive_regulation:T150 Theme:T75 Site:T148
+E72	Positive_regulation:T152 Theme:E73 Cause:T75 CSite:T151
+E74	Positive_regulation:T152 Theme:E75 Cause:T75 CSite:T151
+E73	Binding:T154 Theme:T75 Theme2:T76 Site:T153
+E75	Binding:T154 Theme:T75 Theme2:T77 Site:T153
+E76	Gene_expression:T155 Theme:T78
+E77	Gene_expression:T155 Theme:T79
+E78	Regulation:T156 Theme:E76
+E79	Regulation:T156 Theme:E77
+M1	Negation E5
+M2	Negation E13
+M3	Negation E14
+M4	Negation E18
+M5	Negation E19
+M6	Negation E20
+M7	Negation E22
+M8	Negation E24
+M9	Negation E25
+M10	Speculation E29
+M11	Negation E34
+M12	Speculation E35
+M13	Negation E60
+M14	Speculation E66
+M15	Speculation E68
+M16	Negation E71
+M17	Speculation E78
+M18	Speculation E79

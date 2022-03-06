@@ -1,0 +1,15 @@
+Abstract
+ Introduction
+The 22q11.2 deletion syndrome (22q11.2 DS) is associated with the microdeletion of this chromosomal region, and represents the second most common genetic syndrome after Down's syndrome.
+In patients with schizophrenia, 22q11.2 DS has a prevalence of 2%, and in selected groups can be increased to between 32-53%.
+Objective
+To describe the generalities of 22q11.2 DS syndrome as a genetic subtype of schizophrenia, its clinical characteristics, molecular genetic aspects, and frequency in different populations.
+Methods
+A review was performed from 1967 to 2013 in scientific databases, compiling articles about 22q11.2 DS syndrome and its association with schizophrenia.
+Results
+The 22q11.2 DS syndrome has a variable phenotype associated with other genetic syndromes, birth defects in many tissues and organs, and a high rate of psychiatric disorders, particularly schizophrenia.
+Likewise, it has been identified in clinical populations with schizophrenia selected by the presence of common syndromic characteristics.
+FISH, qPCR and MLPA techniques, and recently, aCGH and NGS technologies, are being used to diagnose this microdeletion.
+Conclusions
+It is important in clinical practice to remember that people suffering the 22q11.2 DS have a high genetic risk for developing schizophrenia, and it is considered that the simultaneous presence of this disease and 22q11.2 DS represents a genetic subtype of schizophrenia.
+There are clear phenotypic criteria, molecular and cytogenetic methods to diagnose this group of patients, and to optimize a multidisciplinary approach in their monitoring.

@@ -1,0 +1,14 @@
+T1	Protein 24 29	FOXP3
+T2	Protein 96 99	CD3
+T3	Protein 100 104	CD28
+T4	Protein 121 129	TGF-beta
+T5	Protein 203 208	FOXP3
+T6	Protein 382 385	CD3
+T7	Protein 386 390	CD28
+T8	Protein 392 400	TGF-beta
+T9	Protein 410 414	IL-4
+T10	Positive_regulation 17 23	Induce
+T11	Gene_expression 30 40	Expression
+E1	Positive_regulation:T10 Theme:E2
+E2	Gene_expression:T11 Theme:T1
+M1	Negation E1

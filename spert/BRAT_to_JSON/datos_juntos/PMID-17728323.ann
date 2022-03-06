@@ -1,0 +1,38 @@
+T17	Catalysis 24 33	dependent
+T18	Ubiquitination 39 57	polyubiquitination
+T19	Ubiquitination 377 395	polyubiquitination
+T20	Catalysis 753 762	dependent
+T21	Ubiquitination 768 786	polyubiquitination
+T22	Ubiquitination 867 881	ubiquitination
+T23	Entity 897 912	lysine residues
+T24	Entity 966 973	lysines
+T25	Ubiquitination 979 992	ubiquitinated
+T26	Entity 1033 1040	lysines
+T27	Ubiquitination 1087 1101	ubiquitination
+T28	Ubiquitination 1391 1409	polyubiquitination
+E1	Catalysis:T17 Theme:E2 Cause:T1
+E2	Ubiquitination:T18 Theme:T2
+E3	Ubiquitination:T19 Theme:T5
+E4	Catalysis:T20 Theme:E5 Cause:T8
+E5	Ubiquitination:T21 Theme:T9
+E6	Ubiquitination:T22 Theme:T9 Site:T23
+E7	Ubiquitination:T25 Theme:T9 Site:T24
+E8	Ubiquitination:T25 Theme:T9 Site:T26
+E9	Ubiquitination:T27 Theme:T9
+E10	Ubiquitination:T28 Theme:T16
+T1	Protein 18 23	TRAF6
+T2	Protein 34 38	NEMO
+T3	Protein 90 94	NEMO
+T4	Protein 160 164	NEMO
+T5	Protein 320 324	NEMO
+T6	Protein 468 472	NEMO
+T7	Protein 659 662	TNF
+T8	Protein 747 752	TRAF6
+T9	Protein 763 767	NEMO
+T10	Protein 807 811	NEMO
+T11	Protein 812 817	TRAF6
+T12	Protein 1058 1063	TRAF6
+T13	Protein 1186 1190	Nod2
+T14	Protein 1191 1195	RICK
+T15	Protein 1298 1301	TNF
+T16	Protein 1367 1371	NEMO

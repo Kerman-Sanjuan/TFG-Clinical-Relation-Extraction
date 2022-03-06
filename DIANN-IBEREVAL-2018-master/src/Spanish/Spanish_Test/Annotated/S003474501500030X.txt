@@ -1,0 +1,18 @@
+Resumen
+ Introducción
+Existen estereotipos y prejuicios alrededor de la vida sexual de los adultos mayores; no obstante, no se cuenta con instrumentos válidos y confiables para la medición en el contexto latinoamericano.
+Objetivo
+Conocer consistencia interna, dimensionalidad, funcionamiento diferencial de los ítems (FDI) según sexo y estabilidad del Cuestionario de Actitudes hacia la Sexualidad en la Vejez (CASV) en adultos mayores de 60 años en Cartagena, Colombia.
+Método
+Se diseñó un estudio de validación.
+Participaron 130 adultos mayores <scp><neg>sin</neg> <dis>deterioro cognitivo</dis></scp> asistentes a Centros de Vida.
+Las edades observadas estaban entre 60 y 90 (media, 73,7 ± 8,0) años; el 61,5% eran mujeres.
+Se calculó la consistencia interna con alfa de Cronbach y omega de McDonald, análisis factorial exploratorio (AFE) (dimensionalidad), FDI por sexo (teoría de respuesta al ítem) con la correlación de Kendall y la estabilidad (reproducibilidad) con la correlación de Pearson y el coeficiente de correlación intraclase (CCI).
+Resultados
+La consistencia interna del CASV fue alta en la primera aplicación (α = 0,83 y ω = 0,87) y en la segunda (α = 0,85 y ω = 0,89).
+El AFE mostró dos factores relevantes (prejuicios y limitaciones) que explicaron el 42,6% de la varianza.
+El FDI mostró coeficientes adecuados, con excepción del ítem 14, que presentó valor alto (τ = 0,37).
+El CASV presento alta estabilidad (r = 0,82 y CCI = 0,89; intervalo de confianza del 95% [IC95%], 0,83-0,92; p < 0,001).
+Conclusiones
+El CASV es una escala bidimensional y confiable en adultos mayores que asisten a Centros de Vida en Cartagena, Colombia.
+Se necesitan nuevas investigaciones que evalúen el funcionamiento en una muestra representativa.

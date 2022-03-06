@@ -1,0 +1,12 @@
+T1	Protein 177 180	A3G
+T2	Protein 331 341	luciferase
+T3	Protein 357 367	luciferase
+T4	Protein 418 428	luciferase
+T5	Protein 685 695	luciferase
+T6	Protein 757 767	luciferase
+T7	Gene_expression 398 409	coexpressed
+T8	Gene_expression 737 748	coexpressed
+E1	Gene_expression:T7 Theme:T3
+E2	Gene_expression:T7 Theme:T4
+E3	Gene_expression:T8 Theme:T5
+E4	Gene_expression:T8 Theme:T6

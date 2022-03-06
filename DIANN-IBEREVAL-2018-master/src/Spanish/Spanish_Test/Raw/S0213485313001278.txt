@@ -1,0 +1,15 @@
+Resumen
+ Introducción
+Nuestros objetivos fueron comparar la capacidad de diagnóstico precoz de los biomarcadores (BMC) de enfermedad de Alzheimer (EA) en LCR y RM cerebral, en condiciones posibles de nuestra práctica clínica y, además, conocer la precisión diagnóstica de la combinación de ambas técnicas.
+Métodos
+Entre 2008 y 2009, estudiamos a 30 pacientes con deterioro cognitivo leve (DCL) mediante RM cerebral de 1,5 teslas y análisis de BMC de EA en el LCR.
+Las RM fueron valoradas por 2 neurorradiólogos, atendiendo a la escala visual de Korf (2004).
+Los BMC de EA en LCR se analizaron mediante reactivos INNOTEST para proteínas Aβ1-42, total-tau y fosfo-tau.
+Se evaluó la evolución clínica (según criterios NINCDS-ADRDA) a los 2 años tras la inclusión.
+Resultados
+Entre los 30 pacientes iniciales, 15 evolucionaron a EA (criterios NINCDS- ADRDA) a los 2 años de la inclusión.
+La capacidad predictiva de los BMC en LCR (RR 2,7; IC del 95%, 1,1-6,7; p < 0,01) es superior a los de RM (RR 1,5; IC del 95%, 0,7-3,4; p < 0,2), y la combinación de ambas técnicas alcanza una sensibilidad y valor predictivo negativo del 100%.
+La normalidad de ambas pruebas complementarias descartó al 100% el desarrollo de EA, en los 2 años siguientes a la realización de las mismas.
+Conclusiones
+Siguiendo nuestra metodología, la precisión diagnóstica de los BMC en LCR es superior a los de la RM para el diagnóstico precoz de EA.
+La combinación de ambas técnicas consigue una precisión diagnóstica muy alta, tanto para diagnosticar como para excluir precozmente EA, en pacientes con DCL.

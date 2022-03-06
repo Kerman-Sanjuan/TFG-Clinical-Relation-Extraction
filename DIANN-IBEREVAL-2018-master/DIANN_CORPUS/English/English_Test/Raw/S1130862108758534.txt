@@ -1,0 +1,16 @@
+Abstract
+ Objective
+To measure recovery of independence in activities of daily living (ADL) 6 months after surgery in elderly patients (previously independent and without cognitive impairment) with hip fracture caused by a fall.
+Method
+We performed a longitudinal, prospective cohort study of patients who were previously independent for ADL, or had mild dependence, and who showed no cognitive impairment.
+Consecutive sampling was performed.
+The variables studied were age, sex, habitual residence, type of hip fracture, mental status (SPMSQ Pfeiffer), and independence in ADL (according to Barthel Index [BI]) prior to the fall and 6 months after the fall.
+Results
+The study included 207 patients.
+There was a predominance of female sex (74.4%) and pertrochanteric fractures (45.9%).
+The mean age was 80.17 years old (SD = 6.95), and 7.7% were institutionalized.
+Six months after surgery, the mean BI score was 73.37 (SD = 26.76) (versus 90.05 before the fall), 16.8% showed urinary incontinence (versus 5.9%), 59.2% walked without assistance (versus 82.4%) and 24.6% climbed stairs unaided (versus 50.7%).
+The ability to walk down the street was regained in 64.6% (versus 82.1% before the fall).
+Recovery of autonomy for ADL was statistically significantly lower in patients unable to walk outdoors, who were institutionalized or who had mild cognitive impairment before the fall.
+Conclusions
+Only 33.6% of patients regained prior levels of autonomy 6 months after surgery.

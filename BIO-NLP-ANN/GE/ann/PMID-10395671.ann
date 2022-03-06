@@ -1,0 +1,37 @@
+T1	Protein 18 32	Janus kinase 3
+T2	Protein 33 39	STAT5a
+T3	Protein 54 58	CD40
+T4	Protein 118 122	CD40
+T5	Protein 123 134	CD40 ligand
+T6	Protein 303 307	CD40
+T7	Protein 405 409	CD40
+T8	Protein 492 496	CD40
+T9	Protein 567 571	CD40
+T10	Protein 809 812	p50
+T11	Protein 857 861	CD40
+T12	Protein 912 915	p65
+T13	Protein 971 985	Janus kinase 3
+T14	Protein 1022 1026	CD40
+T15	Protein 1076 1090	Janus kinase 3
+T16	Protein 1138 1142	CD40
+T17	Protein 1193 1199	STAT5a
+T18	Protein 1335 1339	CD40
+T19	Protein 1413 1417	CD40
+T20	Protein 1463 1467	CD40
+T21	Protein 1515 1519	CD40
+T22	Binding 135 147	interactions
+T23	Positive_regulation 846 853	induced
+T24	Positive_regulation 925 932	induced
+T25	Binding 1006 1016	associated
+T26	Phosphorylation 1091 1106	phosphorylation
+T27	Positive_regulation 1107 1116	induction
+T28	Positive_regulation 1180 1189	induction
+T29	Binding 1204 1211	binding
+E1	Binding:T22 Theme:T4 Theme2:T5
+E2	Positive_regulation:T23 Theme:T10
+E3	Positive_regulation:T24 Theme:T12
+E4	Binding:T25 Theme:T13 Theme2:T14
+E5	Phosphorylation:T26 Theme:T15
+E6	Positive_regulation:T27 Theme:E5
+E7	Positive_regulation:T28 Theme:E8
+E8	Binding:T29 Theme:T17

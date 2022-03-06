@@ -1,0 +1,17 @@
+Abstract
+ Introduction
+In our environment, <dis>cerebral palsy</dis> (<dis>CP</dis>) is the most common cause of <dis>physical disability</dis> in children.
+The people with <dis>CP</dis> have problems with muscle tone and that cause musculoskeletal deformities and postural and balance disorders.
+Physiotherapy is required from birth.
+The main objective of this study is to improve psychomotor development of children with <dis>CP</dis> using video games in physical therapy treatment.
+Patients and methods
+A longitudinal, prospective experimental pretest posttest design type with one group.
+Participants were 8 patients with <dis>CP</dis> aged between 6 and 12, I-II level in GMFCS and score between 75%-100% in GMFM-88.
+Physiotherapy intervention uses the Nintendo Wii console and the Wii-fit balance board game for 15 sessions.
+Balance (Berg scale), location load-distribution center of gravity (with the software of the balance board), and motivation in physical therapy sessions (measured by an ad-hoc scale) were studied.
+The study was conducted during the 2013-2014 school year in the physiotherapy room of a school.
+Results
+This study shows statistically significant evidence supporting the improvement in balance, in patient satisfaction and more adequate distribution in the load of the lower limbs.
+Discussion and conclusions
+Virtual reality helps in achieving different objectives of physiotherapy, with interesting use to improve balance and postural control.
+The results support the use of the Wii console as a complement, never a substitute, the child with PCI physiotherapist treatment.

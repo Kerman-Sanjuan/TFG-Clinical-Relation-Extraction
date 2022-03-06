@@ -1,0 +1,17 @@
+Introduction.
+Previous studies suggest that the severity of alterations in cognitive functions in people with a diagnosis of bipolar I disorder (BP-I) are directly related to the deterioration in overall functioning and life quality. 
+Altered cognitive function is associated with a worse prognosis of BP-I, however little is known about the relationship between cognitive functions and the clinical features of BP-I.
+
+Objective.
+To establish possible associations between cognitive function and the clinical and socio-demographic characteristics of patients with BP-I.
+
+Methods.
+Cognitive function was evaluated by applying a neuropsychological battery to a group of patients with a BP-I diagnosis, who did not have affective episodes for at least 6 months, and who were outpatients treated at the San Juan de Dios Clinic in Manizales. 
+The statistical analysis involved using clustering methocology in order to divide those patients with the best and worst cognitive function and it was later correlated with the clinical and socio-demographic variables.
+
+Results.
+A statistically significant corrrelation was found between the number of years of education and the age the disorder started with alterations in the level of cognitive function (P=.002 and P=.017 respectively). 
+No significant correlations were found with other variables.
+
+Conclusions.
+An early onset of the pathology and fewer years of education seems to be risk factors associated with poorer cognitive function in patients with BP-I.

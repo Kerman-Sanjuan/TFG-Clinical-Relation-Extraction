@@ -1,0 +1,17 @@
+Introducción.
+El tratamiento quirúrgico de los pacientes con epilepsia mesial del lóbulo temporal refractaria al tratamiento farmacológico conlleva el riesgo de <dis>deterioro de la memoria</dis>, siendo así importante una correcta selección de los pacientes. 
+Sin embargo, no existe un consenso claro en cuanto a qué métodos de la evaluación prequirúrgica de la memoria permitirían predecir mejor sus cambios tras la cirugía para identificar a aquellos pacientes con mayor riesgo de deterioro.
+
+Objetivos.
+Identificar qué métodos de evaluación de la memoria podrían ser más útiles en la predicción de sus posibles cambios tras la cirugía, a través de una revisión sistemática de la literatura.
+
+Material y métodos.
+Se realizó una búsqueda de los estudios publicados entre los años 2005 y 2015 en la base de datos Pubmed, incorporando aquellos en los que se evaluaba la memoria, mediante test neuropsicológicos, neuroimagen funcional, y otras, antes y después de la intervención neuroquirúrgica en pacientes con epilepsia mesial del lóbulo temporal, con objeto de predecir sus cambios. 
+Se identificaron 178 artículos, de los cuales 31 fueron finalmente incluidos en la revisión.
+
+Resultados.
+La mayoría de los estudios utilizan test neuropsicológicos y RM funcional, con una amplia variedad de técnicas diferentes, que son los métodos con mayor utilidad predictiva. 
+Otras técnicas, como el test de Wada o el FDG-PET, son menos utilizadas.
+
+Conclusiones.
+La evidencia actual apoya que una evaluación prequirúrgica adecuada de la memoria mediante test neuropsicológicos y RM funcional constituye el mejor modo de predicción de sus cambios tras la cirugía.

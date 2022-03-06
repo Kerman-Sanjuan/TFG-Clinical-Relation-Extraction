@@ -1,0 +1,14 @@
+Abstract
+ Background and objective
+Conventional cytogenetics diagnoses 3-5% of patients with unexplained developmental delay/intellectual disability and/or multiple congenital anomalies.
+The Multiplex Ligation-dependent Probe Amplification increases diagnostic rates from between 2.4 to 5.8%.
+Currently the comparative genomic hybridisation array or aCGH is the highest performing diagnostic tool in patients with developmental delay/intellectual disability, congenital anomalies and autism spectrum disorders.
+Our aim is to evaluate the efficiency of the use of aCGH as first-line test in these and other indications (epilepsy, short stature).
+Patients and method
+A total of 1000 patients referred due to one or more of the abovementioned disorders were analysed by aCGH.
+Results
+Pathogenic genomic imbalances were detected in 14% of the cases, with a variable distribution of diagnosis according to the phenotypes: 18.9% of patients with developmental delay/intellectual disability; 13.7% of multiple congenital anomalies, 9.76% of psychiatric pathologies, 7.02% of patients with epilepsy, and 13.3% of patients with short stature.
+Within the multiple congenital anomalies, central nervous system abnormalities and congenital heart diseases accounted for 14.9% and 10.6% of diagnoses, respectively.
+Among the psychiatric disorders, patients with autism spectrum disorders accounted for 8.9% of the diagnoses.
+Conclusions
+Our results demonstrate the effectiveness and efficiency of the use of aCGH as the first line test in genetic diagnosis of patients suspected of genomic imbalances, supporting its inclusion within the National Health System.

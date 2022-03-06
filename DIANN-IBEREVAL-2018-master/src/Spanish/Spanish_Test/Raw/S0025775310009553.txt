@@ -1,0 +1,14 @@
+Resumen
+ Fundamento y objetivo
+Analizar el rol de la depresión en el déficit cognitivo del paciente con síndrome de fatiga crónica (SFC).
+Pacientes y método
+Un total de 57 mujeres con diagnóstico de SFC fueron evaluadas mediante tests neuropsicológicos que incluían medidas de atención (CalCap, Control Mental del WMS-III, PASAT, dígitos directos e inversos del WAIS-III y _symbol digit modalities test_ [SDMT]) funciones ejecutivas (test Stroop, _Trail Making Test_ [TMT A y B], FAS y Torre de Londres), memoria (Test de Aprendizaje Auditivo-Verbal [TAAVL] y Test de la Figura Compleja de Rey [FCR]) y velocidad psicomotora ( _Grooved Pegboard_ ).
+Las puntuaciones directas fueron ajustadas de acuerdo a datos normativos y transformadas a puntuaciones típicas.
+La muestra fue dividida en dos grupos en función de la presencia o no de depresión, evaluada mediante entrevista clínica y la administración de la Escala Hospitalaria de Ansiedad y Depresión (HAD).
+Las puntuaciones de los test neuropsicológicos fueron comparadas entre ambos grupos de pacientes.
+Resultados
+Los pacientes con SFC presentaron déficit cognitivo en funciones atencionales y ejecutivas, independientemente de la presencia de depresión.
+No se observaron diferencias significativas en funciones cognitivas entre los dos grupos de pacientes.
+Conclusiones
+Estos datos sugieren que el déficit cognitivo que presentan los pacientes con SFC no es secundario a la depresión.
+Se debería tener en cuenta este resultado en la implementación de un programa terapéutico en estos enfermos.

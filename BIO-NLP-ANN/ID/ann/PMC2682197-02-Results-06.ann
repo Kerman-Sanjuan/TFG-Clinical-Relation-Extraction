@@ -1,0 +1,38 @@
+T1	Organism 27 63	ATP-binding-deficient Rv2623 mutants
+T2	Chemical 27 30	ATP
+T3	Protein 49 55	Rv2623
+T4	Chemical 114 117	ATP
+T5	Protein 152 158	Rv2623
+T6	Protein 198 204	Rv2623
+T7	Chemical 359 362	ATP
+T8	Chemical 439 447	hydrogen
+T9	Chemical 717 720	ATP
+T10	Protein 799 805	Rv2623
+T11	Protein 814 820	Rv2623
+T12	Chemical 884 887	ATP
+T13	Chemical 984 987	ATP
+T14	Protein 1007 1013	Rv2623
+T15	Chemical 1102 1105	ATP
+T16	Chemical 1216 1219	ATP
+T17	Protein 1297 1303	Rv2623
+T18	Protein 1378 1384	Rv2623
+T19	Protein 1386 1392	Rv2623
+T20	Protein 1401 1407	Rv2623
+T21	Protein 1482 1488	Rv2623
+T22	Chemical 1645 1648	ATP
+T23	Chemical 1720 1723	ATP
+T24	Protein 1750 1756	Rv2623
+T25	Regulation 118 127	dependent
+T26	Binding 721 728	binding
+T27	Negative_regulation 871 880	deficient
+T28	Binding 888 895	binding
+T29	Binding 988 993	bound
+T30	Negative_regulation 1696 1703	reduced
+T31	Binding 1714 1719	bound
+E1	Regulation:T25 Theme:T5 Cause:T4
+E2	Binding:T26 Theme:T9
+E3	Negative_regulation:T27 Theme:E4
+E4	Binding:T28 Theme:T12
+E5	Binding:T29 Theme1:T13 Theme2:T14
+E6	Negative_regulation:T30 Theme:E7
+E7	Binding:T31 Theme1:T23 Theme2:T24

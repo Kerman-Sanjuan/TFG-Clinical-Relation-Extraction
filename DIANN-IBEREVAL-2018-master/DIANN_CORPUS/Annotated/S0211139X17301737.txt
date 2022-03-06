@@ -1,0 +1,14 @@
+Introduction
+The prevention and management of <dis>neurocognitive disorders</dis> (<dis>NCD</dis>) among older adults can be improved by early identification of risk factors such as walking speed. 
+The objective of the study is to assess the association between gait speed and <dis>NCD</dis> onset in a population of Peruvian older adults.
+Material and methods
+Cohort conducted in older adults who attended the geriatrics service of Naval Medical Center (Callao, Peru). 
+During the baseline assessment, participants’ gait speed was recorded. 
+Subsequently, participants were followed-up annually for 5 years, with a mean of 21 months. 
+<dis>NCD</dis> onset was defined as the occurrence of a score ≤24 points on the Mini Mental State Examination (screening test) during follow-up. 
+The hazard ratios (HR) and their 95% confidence intervals (95% CI) were calculated using Cox regression.
+Results
+The study included 657 participants, with a mean age of 73.4±9.2 (SD) years, of whom 47.0% were male, 47.8% had a gait speed <0.8 m/s, and 20.1% developed <dis>NCD</dis> during the follow up. 
+It was found that older adults who had gait speed <0.8 m/s at baseline were more likely to develop <dis>NCD</dis> than those who had a gait speed ≥0.8 m/s (adjusted HR=1.41, 95% CI=1.34-1.47).
+Conclusion
+A longitudinal association was found between decreased gait speed and <dis>NCD</dis> onset, suggesting that gait speed could be useful to identify patients at risk of <dis>NCD</dis> onset.

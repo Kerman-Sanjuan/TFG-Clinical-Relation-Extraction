@@ -1,0 +1,24 @@
+T1	Protein 73 81	histones
+T2	Protein 161 169	histones
+T3	Protein 367 374	histone
+T4	Protein 558 566	histones
+T5	Protein 869 879	histone H3
+T6	Protein 884 886	H4
+T7	Protein 915 918	H2A
+T8	Protein 997 1005	histones
+T9	Protein 1104 1106	H3
+T10	Protein 1147 1149	H4
+T11	Phosphorylation 850 865	phosphorylation
+T12	Phosphorylation 896 911	phosphorylation
+T13	Deacetylation 957 976	loss of acetylation
+T14	DNA_methylation 1061 1072	methylation
+T15	Entity 1107 1112	Lys27
+T16	Entity 1117 1122	Lys36
+T17	Entity 1150 1155	Lys20
+E1	Phosphorylation:T11 Theme:T5
+E2	Phosphorylation:T11 Theme:T6
+E3	Phosphorylation:T12 Theme:T7
+E4	Deacetylation:T13 Theme:T8
+E5	DNA_methylation:T14 Theme:T9 Site:T15
+E6	DNA_methylation:T14 Theme:T9 Site:T16
+E7	DNA_methylation:T14 Theme:T10 Site:T17

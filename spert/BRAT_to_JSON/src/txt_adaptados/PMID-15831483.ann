@@ -1,0 +1,32 @@
+T1	Protein 96 106	histone H3
+T2	Protein 428 438	histone H3
+T3	Protein 444 446	H3
+T4	Protein 764 772	albino-1
+T5	Protein 774 778	al-1
+T6	Protein 842 849	histone
+T7	Protein 882 886	al-1
+T8	Protein 999 1007	histones
+T9	Protein 1087 1089	H3
+T10	Protein 1252 1254	H3
+T11	Protein 1307 1314	histone
+T12	Protein 1340 1345	dim-5
+T13	Protein 1527 1532	dim-5
+T14	Protein 1623 1628	DIM-5
+*	Equiv T18 T19
+*	Equiv T2 T3
+*	Equiv T4 T5
+T15	Entity 107 111	Lys9
+T16	Methylation 112 123	methylation
+T17	Methylation 405 416	methylation
+T18	Entity 420 424	Lys9
+T19	Entity 440 444	Lys9
+T20	Methylation 1064 1079	hypermethylated
+T21	Entity 1083 1087	Lys9
+T22	Methylation 1126 1141	hypermethylated
+T23	Entity 1248 1252	Lys9
+T24	Methylation 1255 1266	methylation
+E1	Methylation:T16 Theme:T1 Site:T15
+E2	Methylation:T17 Theme:T2 Site:T18
+E3	Methylation:T20 Theme:T9 Site:T21 Contextgene:T7
+E4	Methylation:T22 Theme:T9 Site:T21 Contextgene:T7
+E5	Methylation:T24 Theme:T10 Site:T23 Contextgene:T7

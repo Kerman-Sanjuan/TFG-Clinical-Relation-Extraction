@@ -1,0 +1,25 @@
+T1	Protein 44 47	AID
+T2	Protein 848 885	activation-induced cytidine deaminase
+T3	Protein 887 890	AID
+T4	Protein 906 911	AICDA
+T5	Protein 969 973	OCT4
+T6	Protein 989 995	POU5F1
+T7	Protein 1001 1006	NANOG
+T8	Protein 1024 1027	AID
+T9	Protein 1060 1064	OCT4
+T10	Protein 1069 1074	NANOG
+T11	Protein 1199 1202	AID
+*	Equiv T2 T3 T4
+*	Equiv T5 T6
+T12	Entity 929 937	promoter
+T13	DNA_demethylation 938 951	demethylation
+T14	DNA_methylation 1049 1059	methylated
+T15	Entity 1075 1084	promoters
+T16	DNA_demethylation 1116 1128	demethylated
+T17	Entity 1129 1138	promoters
+E1	DNA_demethylation:T13 Theme:T5 Site:T12
+E2	DNA_demethylation:T13 Theme:T7 Site:T12
+E3	DNA_methylation:T14 Theme:T9 Site:T15
+E4	DNA_methylation:T14 Theme:T10 Site:T15
+E5	DNA_demethylation:T16 Theme:T9 Site:T17
+E6	DNA_demethylation:T16 Theme:T10 Site:T17

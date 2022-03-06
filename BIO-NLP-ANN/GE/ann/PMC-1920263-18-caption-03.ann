@@ -1,0 +1,17 @@
+T1	Protein 0 10	Luciferase
+T2	Protein 25 28	A3G
+T3	Protein 78 81	A3G
+T4	Protein 161 171	luciferase
+T5	Protein 348 351	A3G
+T6	Protein 431 434	A3G
+T7	Protein 465 468	A3G
+T8	Protein 592 595	A3G
+T9	Protein 659 669	luciferase
+T10	Protein 685 695	luciferase
+T11	Protein 746 756	luciferase
+T12	Positive_regulation 11 21	activities
+T13	Entity 29 37	promoter
+T14	Gene_expression 726 737	coexpressed
+E1	Positive_regulation:T12 Theme:T1 Cause:T2 CSite:T13
+E2	Gene_expression:T14 Theme:T10
+E3	Gene_expression:T14 Theme:T11

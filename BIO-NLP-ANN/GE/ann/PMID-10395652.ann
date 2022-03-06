@@ -1,0 +1,36 @@
+*	Equiv T3 T2
+T18	Positive_regulation 47 56	activated
+T19	Regulation 143 151	responds
+T20	Binding 280 290	associates
+T21	Binding 638 645	recruit
+T22	Binding 788 802	form complexes
+T23	Gene_expression 1037 1048	coexpressed
+T24	Negative_regulation 1218 1228	inhibition
+E1	Positive_regulation:T18 Theme:T1
+E2	Regulation:T19 Theme:T3
+E3	Binding:T20 Theme:T5 Theme2:T6
+E4	Binding:T21 Theme:T9
+E5	Binding:T22 Theme:T9 Theme2:T10
+E6	Gene_expression:T23 Theme:T14
+E7	Gene_expression:T23 Theme:T13
+E8	Gene_expression:T23 Theme:T12
+E9	Negative_regulation:T24 Theme:T17
+M1	Negation E4
+M2	Speculation E9
+T1	Protein 57 77	toll-like receptor 2
+T2	Protein 86 106	Toll-like receptor 2
+T3	Protein 108 112	TLR2
+T4	Protein 237 241	TLR2
+T5	Protein 275 279	TLR2
+T6	Protein 343 347	CD14
+T7	Protein 440 444	TLR2
+T8	Protein 544 548	TLR2
+T9	Protein 593 597	TLR2
+T10	Protein 818 822	TLR2
+T11	Protein 876 880	TLR2
+T12	Protein 967 999	TNF receptor-associated factor 6
+T13	Protein 1005 1030	NF-kappaB-inducing kinase
+T14	Protein 1054 1058	TLR2
+T15	Protein 1069 1073	TLR2
+T16	Protein 1160 1164	TLR2
+T17	Protein 1232 1236	TLR2

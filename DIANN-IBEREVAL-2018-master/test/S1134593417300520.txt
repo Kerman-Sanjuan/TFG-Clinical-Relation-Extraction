@@ -1,0 +1,6 @@
+Abstract
+ <dis>Cognitive dysfunction</dis> in major depressive disorder (MDD) spans multiple domains, including–but not limited to–executive function, verbal memory and attention.
+Moreover, <dis>cognitive dysfunction</dis> is a common residual manifestation in depression and may persist during the remission phase of affective and somatic symptoms.
+<dis>Cognitive deficits</dis> can also prevent functional recovery, including the ability to work, and social and familar recovery.
+New antidepressants such as Vortioxetine seem to achieve a significant improvement in the cognitive domains that are altered in MDD, thus providing additional benefits over conventional and selective antidepressants.
+The general objectives of this article are to critically assess the effects of available antidepressants and to discuss new therapeutic targets on <dis>neurocognitive dysfunction</dis> in MDD.

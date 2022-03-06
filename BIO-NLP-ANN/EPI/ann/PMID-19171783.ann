@@ -1,0 +1,41 @@
+*	Equiv T12 T13
+T21	Acetylation 291 302	acetylation
+T22	Acetylation 322 333	acetylation
+T23	Phosphorylation 373 388	phosphorylation
+T24	Catalysis 726 734	mediated
+T25	Acetylation 735 746	acetylation
+T26	Acetylation 827 838	acetylation
+T27	Catalysis 871 880	catalyzes
+T28	Dephosphorylation 881 898	dephosphorylation
+T29	Phosphorylation 1139 1154	phosphorylation
+T30	Acetylation 1159 1170	acetylation
+E1	Acetylation:T21 Theme:T5
+E2	Acetylation:T22 Theme:T6
+E3	Phosphorylation:T23 Theme:T7
+E4	Catalysis:T24 Theme:E5 Cause:T15
+E5	Acetylation:T25 Theme:T14
+E6	Acetylation:T26 Theme:T16
+E7	Catalysis:T27 Theme:E8 Cause:T17
+E8	Dephosphorylation:T28 Theme:T18
+E9	Phosphorylation:T29 Theme:T20
+E10	Acetylation:T30 Theme:T20
+T1	Protein 47 52	STAT1
+T2	Protein 191 198	Histone
+T3	Protein 228 235	histone
+T4	Protein 260 263	CBP
+T5	Protein 285 290	STAT1
+T6	Protein 337 342	STAT1
+T7	Protein 367 372	STAT1
+T8	Protein 531 536	STAT1
+T9	Protein 591 596	STAT1
+T10	Protein 611 614	CBP
+T11	Protein 616 621	HDAC3
+T12	Protein 631 666	T-cell protein tyrosine phosphatase
+T13	Protein 668 673	TCP45
+T14	Protein 702 707	STAT1
+T15	Protein 722 725	CBP
+T16	Protein 821 826	STAT1
+T17	Protein 858 863	TCP45
+T18	Protein 914 919	STAT1
+T19	Protein 985 990	STAT1
+T20	Protein 1063 1068	STAT1

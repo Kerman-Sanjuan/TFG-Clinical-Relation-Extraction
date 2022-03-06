@@ -1,0 +1,10 @@
+T5	Deacetylation 120 133	deacetylation
+T6	Deacetylation 406 419	deacetylation
+T7	Deacetylation 506 519	deacetylation
+E1	Deacetylation:T5 Theme:T1
+E2	Deacetylation:T6 Theme:T2
+E3	Deacetylation:T7 Theme:T3
+T1	Protein 112 119	histone
+T2	Protein 398 405	histone
+T3	Protein 498 505	histone
+T4	Protein 1038 1045	Histone

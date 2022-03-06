@@ -1,0 +1,17 @@
+Abstract
+ Introduction
+About 20% to 26% of patients with multiple sclerosis (MS) show alterations in visuospatial/visuoconstructive (VS–VC) skills even though temporo-parieto- occipital impairment is a frequent finding in magnetic resonance imaging.
+No studies have specifically analysed the relationship between these functions and lesion volume (LV) in these specific brain areas.
+Objective
+To evaluate the relationship between VS–VC impairment and magnetic resonance imaging temporo-parieto-occipital LV with subcortical atrophy in patients with MS.
+Methodology
+Of 100 MS patients undergoing a routine neuropsychological evaluation, 21 were selected because they displayed VS–VC impairments in the following tests: incomplete picture, block design (WAIS-III), and Rey–Osterrieth Complex Figure Test.
+We also selected 13 MS patients <scp><neg>without</neg> <dis>cognitive impairment</dis></scp> (control group).
+Regional LV was measured in FLAIR and T1-weighted images using a semiautomated method; subcortical atrophy was measured by bicaudate ratio and third ventricle width.
+Partial correlations (controlling for age and years of schooling) and linear regression analysis were employed to analyse correlations between magnetic resonance imaging parameters and cognitive performance.
+Results
+All measures of LV and brain atrophy were significantly higher in patients with <dis>cognitive impairment</dis>.
+Regional LV, bicaudate ratio, and third ventricle width are significantly and inversely correlated with cognitive performance; the strongest correlation was between third ventricle width and VC performance (block design: _P_ = .001; Rey–Osterrieth complex figure: _P_ < .000).
+In the multivariate analysis, third ventricle width only had a significant effect on performance of VC tasks (block design: _P_ = .000; Rey–Osterrieth complex figure: _P_ = .000), and regional FLAIR VL was linked to the VS task (incomplete picture; _P_ = .002).
+Conclusions
+Measures of subcortical atrophy explain the variations in performance on visuocostructive tasks, and regional FLAIR VL measures are linked to VS tasks.

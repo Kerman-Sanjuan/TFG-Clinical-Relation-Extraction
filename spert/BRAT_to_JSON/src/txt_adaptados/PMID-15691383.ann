@@ -1,0 +1,18 @@
+T9	Entity 84 92	promoter
+T10	DNA_methylation 93 109	hypermethylation
+T11	DNA_methylation 555 566	methylation
+T12	Entity 588 596	promoter
+T13	Entity 970 978	promoter
+T14	DNA_methylation 979 995	hypermethylation
+E1	DNA_methylation:T10 Theme:T1 Site:T9
+E2	DNA_methylation:T11 Theme:T5 Site:T12
+M1	Speculation E2
+E3	DNA_methylation:T14 Theme:T6 Site:T13
+T1	Protein 12 18	NKX3.1
+T2	Protein 166 172	NKX3.1
+T3	Protein 290 296	NKX3.1
+T4	Protein 438 444	NKX3.1
+T5	Protein 581 587	NKX3.1
+T6	Protein 924 930	NKX3.1
+T7	Protein 1131 1139	histones
+T8	Protein 1165 1171	NKX3.1

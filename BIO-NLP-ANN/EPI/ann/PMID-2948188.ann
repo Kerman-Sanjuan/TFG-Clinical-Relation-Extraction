@@ -1,0 +1,12 @@
+*	Equiv T5 T6
+T9	Hydroxylation 845 858	hydroxylation
+T10	Entity 862 872	asparagine
+E1	Hydroxylation:T9 Theme:T8 Site:T10
+T1	Protein 52 75	epidermal growth factor
+T2	Protein 89 118	vitamin K-dependent protein S
+T3	Protein 121 150	Vitamin K-dependent protein S
+T4	Protein 319 327	thrombin
+T5	Protein 417 440	epidermal growth factor
+T6	Protein 442 445	EGF
+T7	Protein 728 731	EGF
+T8	Protein 764 773	protein S

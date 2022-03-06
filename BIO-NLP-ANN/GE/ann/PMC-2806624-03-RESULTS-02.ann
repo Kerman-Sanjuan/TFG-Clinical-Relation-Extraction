@@ -1,0 +1,100 @@
+T1	Protein 0 5	RUNX1
+T2	Protein 10 15	RUNX3
+T3	Protein 28 33	FOXP3
+T4	Protein 101 106	FOXP3
+T5	Protein 350 355	FOXP3
+T6	Protein 412 417	RUNX1
+T7	Protein 422 427	RUNX3
+T8	Protein 541 545	RUNX
+T9	Protein 561 566	FOXP3
+T10	Protein 728 733	RUNX1
+T11	Protein 737 742	RUNX3
+T12	Protein 874 879	RUNX1
+T13	Protein 883 888	RUNX3
+T14	Protein 926 931	FOXP3
+T15	Protein 1023 1028	RUNX1
+T16	Protein 1032 1037	RUNX3
+T17	Protein 1065 1069	RUNX
+T18	Protein 1147 1152	RUNX1
+T19	Protein 1157 1162	RUNX3
+T20	Protein 1542 1547	Foxp3
+T21	Protein 1612 1617	RUNX1
+T22	Protein 1622 1627	RUNX3
+T23	Protein 1838 1843	RUNX1
+T24	Protein 1848 1853	RUNX3
+T25	Protein 1875 1882	CBFbeta
+T26	Protein 1886 1891	FOXP3
+T27	Protein 1977 1980	CD4
+T28	Protein 2009 2013	IL-2
+T29	Protein 2020 2023	CD2
+T30	Protein 2024 2025	3
+T31	Protein 2026 2028	28
+T32	Protein 2038 2046	TGF-beta
+T33	Protein 2052 2057	Foxp3
+T34	Protein 2119 2124	FOXP3
+T35	Protein 2191 2196	RUNX1
+T36	Protein 2198 2203	RUNX3
+T37	Protein 2209 2216	CBFbeta
+T38	Protein 2259 2264	FOXP3
+T39	Binding 16 20	bind
+T40	Entity 34 42	promoter
+T41	Gene_expression 381 392	transfected
+T42	Binding 546 553	binding
+T43	Entity 567 575	promoter
+T44	Entity 690 702	binding site
+T45	Binding 716 720	bind
+T46	Positive_regulation 857 868	transfected
+T47	Gene_expression 889 899	expression
+T48	Entity 932 940	promoter
+T49	Binding 1017 1022	bound
+T50	Binding 1136 1143	binding
+T51	Entity 1223 1236	binding sites
+T52	Binding 1259 1266	binding
+T53	Binding 1411 1418	binding
+T54	Entity 1426 1430	-333
+T55	Entity 1435 1445	-287 sites
+T56	Binding 1465 1472	binding
+T57	Entity 1526 1534	-53 site
+T58	Binding 1601 1608	binding
+T59	Binding 1644 1651	binding
+T60	Entity 1670 1683	binding sites
+T61	Binding 1827 1834	binding
+T62	Entity 1892 1900	promoter
+T63	Positive_regulation 2058 2066	inducing
+T64	Binding 2222 2249	immunoprecipitated together
+T65	Entity 2265 2273	promoter
+E1	Binding:T39 Theme:T1 Theme2:T3 Site2:T40
+E2	Binding:T39 Theme:T2 Theme2:T3 Site2:T40
+E3	Gene_expression:T41 Theme:T6
+E4	Gene_expression:T41 Theme:T7
+E5	Binding:T42 Theme:T8 Theme2:T9 Site2:T43
+E6	Binding:T45 Theme:T9 Theme2:T10 Site:T44
+E7	Binding:T45 Theme:T9 Theme2:T11 Site:T44
+E8	Positive_regulation:T46 Theme:E9
+E10	Positive_regulation:T46 Theme:E11
+E9	Gene_expression:T47 Theme:T12
+E11	Gene_expression:T47 Theme:T13
+E12	Binding:T49 Theme:T14 Theme2:T15 Site:T48
+E13	Binding:T49 Theme:T14 Theme2:T16 Site:T48
+E14	Binding:T50 Theme:T14 Theme2:T18 Site:T51
+E15	Binding:T50 Theme:T14 Theme2:T19 Site:T51
+E16	Binding:T52 Theme:T18
+E17	Binding:T52 Theme:T19
+E18	Binding:T53 Theme:T20 Site:T54
+E19	Binding:T53 Theme:T20 Site:T55
+E20	Binding:T56 Theme:T20 Site:T57
+E21	Binding:T58 Theme:T21
+E22	Binding:T58 Theme:T22
+E23	Binding:T59 Theme:T20 Site:T60
+E24	Binding:T61 Theme:T23 Theme2:T26 Site2:T62
+E25	Binding:T61 Theme:T24 Theme2:T26 Site2:T62
+E26	Binding:T61 Theme:T25 Theme2:T26 Site2:T62
+E27	Positive_regulation:T63 Theme:T33 Cause:T28
+E28	Positive_regulation:T63 Theme:T33 Cause:T32
+E29	Binding:T64 Theme:T35 Theme2:T38 Site2:T65
+E30	Binding:T64 Theme:T36 Theme2:T38 Site2:T65
+E31	Binding:T64 Theme:T37 Theme2:T38 Site2:T65
+M1	Speculation E6
+M2	Speculation E7
+M3	Negation E16
+M4	Negation E17

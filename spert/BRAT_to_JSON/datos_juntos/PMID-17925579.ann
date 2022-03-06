@@ -1,0 +1,48 @@
+*	Equiv T4 T5
+*	Equiv T6 T7
+*	Equiv T8 T9
+*	Equiv T11 T12
+*	Equiv T13 T14
+*	Equiv T15 T16
+T24	Hydroxylation 403 416	hydroxylation
+T25	Catalysis 403 416	hydroxylation
+T26	Entity 420 439	proline residue 402
+T27	Entity 441 444	564
+T28	Ubiquitination 576 590	ubiquitination
+T29	Hydroxylation 637 650	hydroxylation
+T30	Catalysis 637 650	hydroxylation
+T31	Entity 654 676	asparagine residue 803
+T32	Hydroxylation 823 836	hydroxylation
+T33	Ubiquitination 1428 1442	ubiquitination
+E1	Hydroxylation:T24 Theme:T3 Site:T26
+E2	Catalysis:T25 Theme:E1 Cause:T4
+E3	Hydroxylation:T24 Theme:T3 Site:T27
+E4	Catalysis:T25 Theme:E3 Cause:T4
+E5	Ubiquitination:T28 Theme:T3
+E6	Hydroxylation:T29 Theme:T3 Site:T31
+E7	Catalysis:T30 Theme:E6 Cause:T8
+E8	Hydroxylation:T32 Theme:T3
+E9	Ubiquitination:T33 Theme:T17
+T1	Protein 203 213	HIF-1alpha
+T2	Protein 218 227	HIF-1beta
+T3	Protein 355 365	HIF-1alpha
+T4	Protein 458 493	prolyl hydroxylase domain protein 2
+T5	Protein 495 499	PHD2
+T6	Protein 532 549	von Hippel-Lindau
+T7	Protein 559 562	VHL
+T8	Protein 680 703	factor inhibiting HIF-1
+T9	Protein 705 710	FIH-1
+T10	Protein 781 785	p300
+T11	Protein 791 811	CREB binding protein
+T12	Protein 813 816	CBP
+T13	Protein 1288 1321	Receptor for activated C kinase 1
+T14	Protein 1323 1328	RACK1
+T15	Protein 1344 1365	heat shock protein 90
+T16	Protein 1367 1372	HSP90
+T17	Protein 1389 1399	HIF-1alpha
+T18	Protein 1627 1631	PHD2
+T19	Protein 1633 1636	VHL
+T20	Protein 1638 1643	FIH-1
+T21	Protein 1645 1650	RACK1
+T22	Protein 1655 1660	HSP90
+T23	Protein 1666 1676	HIF-1alpha

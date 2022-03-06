@@ -1,0 +1,19 @@
+Introducción.
+El <dis>deterioro cognitivo</dis> es una entidad clínica en la que las <dis>funciones intelectuales están parcial o totalmente alteradas</dis> y supone un problema de salud pública y un reto para los servicios sanitarios y sociales. 
+El objetivo de este trabajo es estimar la prevalencia de estos trastornos en la población mayor de 65 años que consulta en atención primaria en 5 redes centinelas sanitarias.
+
+Método.
+Se realizó el test Mini-Cog de cribado de <dis>deterioro cognitivo</dis> en una muestra de pacientes que acudieron a su médico de familia en 4 días seleccionados al azar. 
+La confirmación se hizo con el test Mini-Mental y el Alzheimer's Questionnaire. 
+Se estimaron tasas brutas y ajustadas por las variables demográficas y sociales.
+
+Resultados.
+Se estudiaron 4.624 pacientes, que representan a una población de 1.723.216 personas de 5 comunidades autónomas. 
+La prevalencia ajustada para el conjunto de la población estudiada fue del 18,5% (IC 95% 17,3-19,7), con diferencias entre las redes centinelas. 
+Las mujeres presentan tasas ajustadas significativamente más elevadas que los hombres: 18,5 y 14,3%, respectivamente. 
+La prevalencia por grupo de edad alcanza el 45,3% por encima de los 85 años y presenta diferencias por nivel de estudios alcanzado y tipo de convivencia.
+
+Conclusiones.
+El <dis>deterioro cognitivo</dis> es un motivo de consulta frecuente en atención primaria. 
+Es mayor en mujeres y aumenta exponencialmente con la edad. 
+Tanto la sospecha como la confirmación del <dis>deterioro cognitivo</dis> pueden realizarse por el médico de familia con instrumentos sensibles y validados, lo que permite iniciar un tratamiento precoz.

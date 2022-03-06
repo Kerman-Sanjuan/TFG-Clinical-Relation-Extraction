@@ -1,0 +1,20 @@
+T8	Entity 18 26	promoter
+T9	DNA_methylation 27 43	hypermethylation
+T10	DNA_methylation 317 333	hypermethylation
+T11	Entity 341 353	5'CpG island
+T12	DNA_methylation 625 636	methylation
+T13	DNA_demethylation 738 751	demethylation
+T14	Entity 834 842	promoter
+T15	DNA_methylation 843 859	hypermethylation
+E1	DNA_methylation:T9 Theme:T1 Site:T8
+E2	DNA_methylation:T10 Theme:T3 Site:T11
+E3	DNA_methylation:T12 Theme:T4
+E4	DNA_demethylation:T13 Theme:T5
+E5	DNA_methylation:T15 Theme:T6 Site:T14
+T1	Protein 47 54	RASSF1A
+T2	Protein 194 201	RASSF1A
+T3	Protein 357 364	RASSF1A
+T4	Protein 641 648	RASSF1A
+T5	Protein 759 766	RASSF1A
+T6	Protein 919 926	RASSF1A
+T7	Protein 962 969	RASSF1A

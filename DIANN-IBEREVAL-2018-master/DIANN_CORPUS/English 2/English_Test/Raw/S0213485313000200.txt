@@ -1,0 +1,13 @@
+Abstract
+ Introduction
+Different animal models for Alzheimer disease (AD) have been designed to support the hypothesis that the neurodegeneration (loss of neurons and synapses with reactive gliosis) associated with Aβ and tau deposition in these models is similar to that in the human brain.
+These alterations produce functional changes beginning with decreased ability to carry out daily and social life activities, memory loss, and neuropsychiatric disorders in general.
+Neuronal alteration plays an important role in early stages of the disease, especially in the CA1 area of hippocampus in both human and animal models.
+Methods
+Two groups ( _WT_ and 3xTg-AD) of 11-month-old female mice were used in a behavioural analysis (nest building) and a morphometric analysis of the CA1 region of the dorsal hippocampus.
+Results
+The 3xTg-AD mice showed a 50% reduction in nest quality associated with a significant increase in damaged neurons in the CA1 hippocampal area (26% ± 6%, _P_ < .05) compared to the _WT_ group.
+Conclusions
+The decreased ability to carry out activities of daily living (humans) or nest building (3xTg-AD mice) is related to the neuronal alterations observed in AD.
+These alterations are controlled by the hippocampus.
+_Post-mortem_ analyses of the human hippocampus, and the CA1 region in 3xTg-AD mice, show that these areas are associated with alterations in the deposition of Aβ and tau proteins, which start accumulating in the early stages of AD.

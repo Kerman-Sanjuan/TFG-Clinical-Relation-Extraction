@@ -1,0 +1,14 @@
+Abstract
+ Introduction
+To approve the prescription of a medication in the United States, the Food and Drug Agency (Food and Drug Administration (FDA)) requires at least two Phase III clinical trials demonstrate the safety and efficacy of the medication.
+In these studies, however, the results can be influenced by the composition of their samples.
+Objective
+To describe issues with the generalizability of results from clinical trials in psychiatry due to the use of highly selected samples.
+Methods
+We briefly describe the effects of stringent eligibility criteria on the results of clinical trials.
+We summarize studies that have examined this issue both in clinical and community samples.
+Conclusion
+Both in clinical and community samples, studies have shown that a significant proportion of adults with psychiatric disorders are typically excluded by eligibility criteria commonly used in clinical trials.
+This tends to recruit highly selective samples, rather than adults who might be more representative of typical patients.
+Clinical trials should carefully evaluate the effects of eligibility criteria on the generalizability of their results.
+The use of stringent exclusionary criteria could limit the representativeness of results.

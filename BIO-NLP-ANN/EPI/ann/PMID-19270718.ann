@@ -1,0 +1,39 @@
+T1	Protein 29 32	p65
+T2	Protein 56 62	COMMD1
+T3	Protein 510 513	p65
+T4	Protein 523 545	Tumour necrosis factor
+T5	Protein 573 576	p65
+T6	Protein 605 611	COMMD1
+T7	Protein 616 624	cullin 2
+T8	Protein 653 662	ubiquitin
+T9	Protein 688 691	p65
+T10	Protein 720 723	p65
+T11	Protein 751 754	p65
+T12	Protein 809 812	p65
+T13	Protein 885 890	Icam1
+T14	Protein 1005 1008	p65
+T15	Protein 1013 1019	COMMD1
+T16	Protein 1027 1032	Icam1
+T17	Protein 1062 1065	p65
+T18	Protein 1085 1094	ubiquitin
+T19	Protein 1143 1146	p65
+T20	Phosphorylation 0 15	Phosphorylation
+T21	Entity 36 42	Ser468
+T22	Catalysis 63 72	dependent
+T23	Ubiquitination 73 87	ubiquitination
+T24	Phosphorylation 554 569	phosphorylation
+T25	Entity 580 586	Ser468
+T26	Ubiquitination 692 706	ubiquitination
+T27	Ubiquitination 755 769	ubiquitination
+T28	Entity 983 989	Ser468
+T29	Phosphorylation 990 1004	phosphorylated
+T30	Phosphorylation 1043 1058	Phosphorylation
+T31	Entity 1069 1075	Ser468
+E1	Phosphorylation:T20 Theme:T1 Site:T21
+E2	Catalysis:T22 Theme:E3 Cause:T2
+E3	Ubiquitination:T23 Theme:T1
+E4	Phosphorylation:T24 Theme:T5 Site:T25
+E5	Ubiquitination:T26 Theme:T9
+E6	Ubiquitination:T27 Theme:T11
+E7	Phosphorylation:T29 Theme:T14 Site:T28
+E8	Phosphorylation:T30 Theme:T17 Site:T31

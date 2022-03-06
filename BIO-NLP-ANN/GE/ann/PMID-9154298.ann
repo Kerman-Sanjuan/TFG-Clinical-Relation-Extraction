@@ -1,0 +1,60 @@
+T1	Protein 49 62	interleukin-6
+T2	Protein 243 256	Interleukin-6
+T3	Protein 258 262	IL-6
+T4	Protein 332 345	Interleukin-6
+T5	Protein 456 460	IL-6
+T6	Protein 633 637	IL-6
+T7	Protein 735 748	Interleukin-6
+T8	Protein 761 765	IL-6
+T9	Protein 874 878	IL-6
+T10	Protein 879 913	chloramphenicol acetyl transferase
+T11	Protein 915 918	CAT
+T12	Protein 923 927	IL-6
+T13	Protein 969 973	IL-6
+T14	Protein 1002 1015	Interleukin-6
+T15	Protein 1257 1261	IL-6
+T16	Protein 1288 1292	IL-6
+T17	Protein 1293 1296	CAT
+T18	Protein 1301 1305	IL-6
+T19	Protein 1459 1463	IL-6
+T20	Protein 1620 1624	IL-6
+T21	Protein 1666 1670	IL-6
+T22	Protein 1762 1766	IL-6
+T23	Protein 1796 1805	TNF alpha
+T24	Protein 1903 1907	IL-6
+*	Equiv T2 T3
+*	Equiv T10 T11
+T25	Positive_regulation 38 48	upregulate
+T26	Gene_expression 68 78	expression
+T27	Positive_regulation 357 366	increased
+T28	Regulation 442 452	regulation
+T29	Regulation 624 632	modulate
+T30	Gene_expression 638 648	production
+T31	Transcription 1033 1043	production
+T32	Positive_regulation 1063 1072	increased
+T33	Positive_regulation 1229 1237	enhanced
+T34	Positive_regulation 1242 1253	stimulation
+T35	Entity 1262 1270	promoter
+T36	Positive_regulation 1597 1605	enhanced
+T37	Gene_expression 1606 1616	expression
+T38	Entity 1767 1775	promoter
+T39	Regulation 1776 1786	responsive
+T40	Positive_regulation 1895 1902	enhance
+T41	Gene_expression 1908 1918	production
+E1	Positive_regulation:T25 Theme:E2
+E2	Gene_expression:T26 Theme:T1
+E3	Positive_regulation:T27 Theme:T4
+E4	Regulation:T28 Theme:T5
+E5	Regulation:T29 Theme:E6
+E6	Gene_expression:T30 Theme:T6
+E7	Transcription:T31 Theme:T14
+E8	Positive_regulation:T32 Theme:E7
+E9	Positive_regulation:T33 Theme:E10
+E10	Positive_regulation:T34 Theme:T15 Site:T35
+E11	Positive_regulation:T36 Theme:E12
+E12	Gene_expression:T37 Theme:T20
+E13	Regulation:T39 Theme:T22 Site:T38
+E14	Regulation:T39 Theme:T22 Cause:T23 Site:T38
+E15	Positive_regulation:T40 Theme:E16
+E16	Gene_expression:T41 Theme:T24
+M1	Speculation E5

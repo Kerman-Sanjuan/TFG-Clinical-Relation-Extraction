@@ -1,0 +1,8 @@
+T1	Be-born 113 117	bebe
+E1	Be-born:T1 Person-Arg:T4
+T2	Start-org 0 4	Hola
+E2	Start-org:T2 
+T3	Die 44 52	maldades
+E3	Die:T3 Person-Arg:T5
+T4	Person 93 101	acuerdes
+T5	Person 22 27	noche

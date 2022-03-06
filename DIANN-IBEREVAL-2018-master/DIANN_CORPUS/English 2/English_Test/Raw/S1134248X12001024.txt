@@ -1,0 +1,27 @@
+Abstract
+ Objective
+To analyse, all phases of palliative sedation therapy (PST) procedure in our Palliative Care Unit, in patients who died during the palliative care process (PCP).
+Method
+A retrospective and descriptive study was conducted.
+The clinical histories of patients admitted to a Chronic and Long Term Care Hospital in Valencia during the period from July 15, 2009 and June 15, 2010 were reviewed.
+The general variables of the patients, as well as those specific to the PST, were analysed.
+The data analysis was performed using SPSS 15.0 statistical program.
+Results
+PST was performed on 51 patients (17.7% of deaths).
+The majority (76.5%) were over 64 years old, with an oncological disease (63%) and, on admission, total dependence (76.5%), and with a significant degree of cognitive impairment (65%) and malnutrition (84.5%).
+The most common refractory symptoms (RS) were: dyspnea (38.5%), pain (23%), non-specific suffering (23%), and agitation (20.5%).
+The steps of PST that were recorded less frequently were: near death situation (37%), and intensity (41%), and the reason for the refractoriness (31%) of the RS.
+The informed consent (IC) was given mostly by the family (83%), and on the same day the PST was started (81%).
+The use of artificial hydration (AH) was low (12%).
+As a sedative drug was used in 96% of cases, Midazolam (MDZ) was the drug most used for sedation (96%), administered in the vast majority (98%) as a continuous and subcutaneous infusion.
+The final mean dose of MDZ was 28 mg/day.
+A major opioid (100%) and an anticholinergic (68%) were associated with PST.
+Data on the PST monitoring had been recorded in 71% of patients, with acceptable control of the RS in 80% of cases.
+The average duration of the PST was 68 hours.
+Non-oncological patients (NO) with PST were less likely to be included in the PCP on admission, as well as being more dependent, and less likely to give IC, compared to oncological patients (O).
+Conclusions
+The frequency of use and duration of the PST and the RS and their control are within the ranges reported in the literature.
+It is almost exclusively performed with, and there is little use of AH.
+There is still significant scope for improvement in certain steps of the PST.
+To do an Advance Care Planning before the last days of life would increase patient involvement in the IC for PST.
+The differences in the use of PST in oncological patients and non-oncological patients depends more on distinct clinic and care characteristics than that of the technique itself.

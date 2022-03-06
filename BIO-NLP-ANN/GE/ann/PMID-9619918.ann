@@ -1,0 +1,46 @@
+*	Equiv T4 T3
+T19	Gene_expression 121 131	expression
+T20	Binding 138 145	binding
+T21	Positive_regulation 204 211	induces
+T22	Positive_regulation 269 279	activation
+T23	Gene_expression 574 583	expressed
+T24	Positive_regulation 665 673	increase
+T25	Gene_expression 688 698	expression
+T26	Transcription 765 771	detect
+T27	Positive_regulation 1036 1045	increased
+T28	Transcription 1050 1068	abundance of mRNAs
+T29	Binding 1139 1146	binding
+E1	Gene_expression:T19 Theme:T2
+E2	Binding:T20 Theme:T4
+E3	Positive_regulation:T21 Theme:E4 Cause:E2
+E4	Positive_regulation:T22 Theme:T5
+E5	Gene_expression:T23 Theme:T7
+E6	Gene_expression:T23 Theme:T6
+E7	Positive_regulation:T24 Theme:E8 Cause:T9
+E8	Gene_expression:T25 Theme:T8
+E9	Transcription:T26 Theme:T10
+E10	Positive_regulation:T27 Theme:E13 Cause:T13
+E11	Positive_regulation:T27 Theme:E12 Cause:T13
+E12	Transcription:T28 Theme:T14
+E13	Transcription:T28 Theme:T15
+E14	Binding:T29 Theme:T16
+M1	Negation E9
+M2	Speculation E14
+T1	Protein 0 4	IL-2
+T2	Protein 101 120	IL-2 receptor alpha
+T3	Protein 149 162	interleukin-2
+T4	Protein 164 168	IL-2
+T5	Protein 287 320	IL-2 receptor (IL-2R) alpha chain
+T6	Protein 584 594	IL-2Ralpha
+T7	Protein 599 603	beta
+T8	Protein 677 687	IL-2Ralpha
+T9	Protein 726 730	IL-2
+T10	Protein 772 776	IL-2
+T11	Protein 799 803	IL-2
+T12	Protein 907 911	IL-2
+T13	Protein 1031 1035	IL-2
+T14	Protein 1103 1108	c-Rel
+T15	Protein 1113 1117	KBF1
+T16	Protein 1134 1138	IL-2
+T17	Protein 1174 1178	IL-2
+T18	Protein 1336 1340	IL-2

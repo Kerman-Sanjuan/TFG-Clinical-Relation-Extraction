@@ -1,0 +1,7 @@
+Abstract
+ Parkinson's Disease (PD) and Essential Tremor (ET) patients represent a significant percentage of the clinical cases in <dis>movement disorders pathologies</dis>, which prevents to the affected people leading a normal life.
+A <dis>physical disability</dis> results and important social exclusion in many cases are produced.
+The treatment methods are very differents, so it is critical hitting with the diagnosis in the early stages of these diseases.
+Until today, professionals and experts in medicine, use qualitative scales to differentiate pathology cases and its level of affectation.
+These scales are used to follow up clinically and register the patient's history.
+This work proposes the use of binary classifiers focused on the Vector Support Machines (SVM) to obtain a differential diagnosis between the essential tremor and Parkinson's disease.

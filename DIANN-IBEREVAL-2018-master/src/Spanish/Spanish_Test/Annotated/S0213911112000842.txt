@@ -1,0 +1,12 @@
+Resumen
+ Objetivo
+Evaluar la asociación entre satisfacción vital con el nivel socioeconómico y el autorreporte del estado de salud en una cohorte de adultos mayores de Santiago de Chile en los años 2005 y 2006.
+Métodos
+Estudio transversal que incluyó 2002 sujetos entre 65 y 67,9 años de edad, registrados en 20 centros de salud primaria del Gran Santiago, autovalentes, <scp><neg>sin</neg> <dis>deterioro cognitivo</dis></scp>, sospecha de cáncer ni enfermedad terminal.
+Se evaluó la satisfacción vital mediante la adaptación abreviada de una escala de satisfacción con la vida (de 0 a 11), además de los ingresos económicos, el nivel de educación, el apoyo social y autorreporte del estado de salud y la memoria.
+Se utilizó un modelo log-binomial para analizar la asociación entre las variables evaluadas y los extremos del puntaje de satisfacción vital (cuartil 4 frente a 1).
+Resultados
+Se observó una asociación significativa (análisis bivariado y multivariado) entre satisfacción vital e ingresos económicos en los hombres, y en ambos sexos con el apoyo social, el autorreporte de salud, la memoria y los diagnósticos de problemas articulares, diabetes e hipertensión.
+Conclusión
+La situación económica, el apoyo social y el estado de salud se asocian de forma independiente con la satisfacción vital en los adultos mayores de Santiago.
+Se requieren nuevos estudios para evaluar la dirección temporal del efecto, así como las implicaciones de estos hallazgos en las políticas públicas de salud en esta población.

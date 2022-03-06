@@ -1,0 +1,12 @@
+Resumen
+ Objetivo
+Estudio in vivo de la luz dispersa que alcanza la retina en un paciente antes y después de someterse a una queratoplastia penetrante (o sus siglas en inglés, PKP).
+Métodos
+En un paciente varón de 65 años con una úlcera corneal herpética se midió la proporción de luz dispersa que alcanza la retina tanto antes como después de una PKP, utilizando para ello un método psicométrico denominado “de comparación por compensación” («Compensation comparison method», C-Quant straylightmeter, Oculus GmbH, Alemania).
+Resultados
+La cantidad de luz dispersa que alcanza la retina medida antes de la cirugía fue elevada en comparación con los valores obtenidos en estudios previos en sujetos normales de la misma edad, debido principalmente a la dispersión provocada por la úlcera corneal.
+La cantidad de luz dispersa que llega a la retina (media ± desviación típica), en las medidas preoperativas y en las realizadas 9 meses después de la intervención de PKP, fue igual a log(s)=1,71±0,09 y 1,05±0,08 respectivamente.
+La disminución de la cantidad de luz dispersa podría deberse a un aumento de la transparencia corneal, lo que también ocasionaría una mejora significativa de la agudeza visual.
+Conclusiones
+La medida de la luz dispersa que llega a la retina proporciona información clínicamente relevante sobre la dispersión de la luz hacia delante como causa de discapacidad visual.
+Las medidas de agudeza visual subestiman la mejora de la función visual obtenida tras la cirugía.

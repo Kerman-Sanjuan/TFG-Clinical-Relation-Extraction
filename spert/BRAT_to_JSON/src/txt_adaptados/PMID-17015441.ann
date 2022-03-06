@@ -1,0 +1,14 @@
+T8	Glycosylation 119 132	glycosylation
+T9	Glycosylation 574 586	glycosylated
+T10	Entity 844 856	position 934
+T11	Glycosylation 878 891	glycosylation
+E1	Glycosylation:T8 Theme:T2
+E2	Glycosylation:T9 Theme:T5
+E3	Glycosylation:T11 Theme:T6 Site:T10
+T1	Protein 30 35	TRPM8
+T2	Protein 184 189	TRPM8
+T3	Protein 218 223	c-myc
+T4	Protein 227 240	hemagglutinin
+T5	Protein 515 520	TRPM8
+T6	Protein 741 746	TRPM8
+T7	Protein 1573 1578	TRPM8

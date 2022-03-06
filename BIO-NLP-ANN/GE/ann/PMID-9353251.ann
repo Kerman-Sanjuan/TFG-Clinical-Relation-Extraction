@@ -1,0 +1,38 @@
+T1	Protein 0 4	CD30
+T2	Protein 30 35	TRAF2
+T3	Protein 127 131	CD30
+T4	Protein 277 281	CD30
+T5	Protein 414 418	CD30
+T6	Protein 496 533	type 1 tumor necrosis factor receptor
+T7	Protein 535 540	TNFR1
+T8	Protein 612 616	CD30
+T9	Protein 686 691	TRAF2
+T10	Protein 749 754	TNFR1
+T11	Protein 845 849	CD30
+T12	Protein 896 901	TRAF2
+T13	Protein 931 935	CD30
+T14	Protein 970 975	TRAF2
+T15	Protein 1003 1008	TRAF1
+T16	Protein 1061 1065	CD30
+T17	Protein 1160 1165	TRAF2
+T18	Protein 1194 1199	TRAF2
+T19	Protein 1351 1356	TNFR1
+T20	Protein 1433 1438	TRAF2
+T21	Protein 1463 1468	TNFR1
+T22	Protein 1543 1547	CD30
+*	Equiv T6 T7
+T23	Regulation 5 14	dependent
+T24	Protein_catabolism 15 26	degradation
+T25	Entity 582 600	TRAF-binding sites
+T26	Binding 662 667	binds
+T27	Binding 885 892	binding
+T28	Positive_regulation 936 943	results
+T29	Protein_catabolism 1012 1023	proteolysis
+T30	Positive_regulation 1304 1314	activation
+E1	Regulation:T23 Theme:E2 Cause:T1
+E2	Protein_catabolism:T24 Theme:T2
+E3	Binding:T26 Theme:T8 Theme2:T9 Site:T25
+E4	Binding:T27 Theme:T12 Theme2:T13
+E5	Positive_regulation:T28 Theme:E6 Cause:E4
+E6	Protein_catabolism:T29 Theme:T14
+E7	Positive_regulation:T30 Theme:T19

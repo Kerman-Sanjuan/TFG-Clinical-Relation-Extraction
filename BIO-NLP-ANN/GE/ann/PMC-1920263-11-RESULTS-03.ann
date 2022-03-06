@@ -1,0 +1,73 @@
+T31	Entity 8 16	promoter
+T32	Positive_regulation 24 33	inducible
+T33	Negative_regulation 193 203	counteract
+T34	Gene_expression 220 230	expressing
+T35	Positive_regulation 267 274	induces
+T36	Protein_catabolism 287 298	degradation
+T37	Negative_regulation 323 331	inhibits
+T38	Gene_expression 488 497	expressed
+T39	Regulation 1042 1052	modulating
+T40	Gene_expression 1057 1067	expression
+T41	Positive_regulation 1159 1168	increased
+T42	Positive_regulation 1282 1292	upregulate
+T43	Gene_expression 1297 1307	expression
+T44	Positive_regulation 1635 1644	increased
+T45	Transcription 1645 1660	transcriptional
+T46	Positive_regulation 1661 1669	activity
+T47	Positive_regulation 1739 1747	enhanced
+T48	Positive_regulation 2319 2331	upregulation
+T49	Positive_regulation 2492 2501	induction
+T50	Entity 2513 2521	promoter
+E1	Positive_regulation:T32 Theme:T1 Site:T31
+E2	Negative_regulation:T33 Theme:T3 Cause:E3
+E3	Gene_expression:T34 Theme:T4
+E4	Positive_regulation:T35 Theme:E5 Cause:T5
+E5	Protein_catabolism:T36 Theme:T6
+E6	Negative_regulation:T37 Theme:T7 Cause:T5
+E7	Gene_expression:T38 Theme:T9
+E8	Gene_expression:T38 Theme:T10
+E9	Regulation:T39 Theme:E10
+E10	Gene_expression:T40 Theme:T15
+E11	Positive_regulation:T41 Theme:T16
+E12	Positive_regulation:T42 Theme:E13
+E13	Gene_expression:T43 Theme:T17
+E14	Positive_regulation:T44 Theme:E15
+E15	Transcription:T45 Theme:T19
+E16	Positive_regulation:T46 Theme:E15
+E17	Positive_regulation:T47 Theme:E14
+E18	Positive_regulation:T48 Theme:T25
+E19	Positive_regulation:T49 Theme:T26 Site:T50
+M1	Negation E1
+M2	Negation E9
+M3	Speculation E9
+M4	Negation E17
+T1	Protein 4 7	A3G
+T2	Protein 81 89	APOBEC3G
+T3	Protein 204 207	A3G
+T4	Protein 254 257	Vif
+T5	Protein 263 266	Vif
+T6	Protein 302 305	A3G
+T7	Protein 332 335	A3G
+T8	Protein 455 458	A3G
+T9	Protein 504 507	Vif
+T10	Protein 521 524	Tat
+T11	Protein 849 859	Luciferase
+T12	Protein 915 918	A3G
+T13	Protein 977 980	Vif
+T14	Protein 982 985	Tat
+T15	Protein 1053 1056	A3G
+T16	Protein 1136 1139	A3G
+T17	Protein 1293 1296	A3G
+T18	Protein 1400 1403	A3G
+T19	Protein 1581 1591	luciferase
+T20	Protein 1984 1987	A3G
+T21	Protein 2022 2031	IFN-alpha
+T22	Protein 2035 2044	IFN-gamma
+T23	Protein 2205 2215	luciferase
+T24	Protein 2250 2259	IFN-alpha
+T25	Protein 2315 2318	A3G
+T26	Protein 2509 2512	A3G
+T27	Protein 2552 2561	IFN-alpha
+T28	Protein 2565 2574	IFN-gamma
+T29	Protein 2604 2613	IFN-gamma
+T30	Protein 2682 2685	A3G

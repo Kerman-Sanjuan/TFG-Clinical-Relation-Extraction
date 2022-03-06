@@ -1,0 +1,18 @@
+Introducción.
+La enfermedad renal crónica (ERC) puede provocar anemia e inducir afectaciones neurológicas. 
+La eritropoyetina humana recombinante (rHuEPO) se utiliza en el tratamiento de la anemia en la ERC. 
+Sin embargo, existe poca evidencia de los efectos de la rHuEPO sobre la conducta y las funciones cognitivas en la ERC. 
+El objetivo de este estudio fue evaluar el efecto del tratamiento con rHuEPO sobre las funciones sensoriomotoras y cognitivas en un modelo de ERC.
+
+Métodos.
+Ratas macho de la cepa Wistar fueron asignadas a 4 grupos: control y ERC, con y sin tratamiento con rHuEPO (1.050 UI/kg de peso, una vez por semana durante 4 semanas). 
+Las pruebas conductuales de laberinto acuático de Morris, campo abierto y cinta adhesiva se realizaron de manera simultánea a la inducción del daño renal y el tratamiento. 
+Mientras que la determinación de marcadores de función renal y anemia se realizaron al término del estudio.
+
+Resultados.
+El tratamiento con rHuEPO redujo el daño en el riñón y corrigió la anemia en las ratas con ERC. 
+En las pruebas conductuales, el tratamiento con rHuEPO redujo la <dis>disfunción sensoriomotora</dis> observada en los animales con ERC. 
+Por otra parte, en los animales con ERC y tratamiento con rHuEPO resolvieron el laberinto en menor tiempo en comparación a los grupos control.
+
+Conclusiones.
+El tratamiento con rHuEPO reduce el daño en el riñón, corrige la anemia y reduce la <dis>disfunción sensoriomotora y cognitiva</dis> en los animales con ERC.

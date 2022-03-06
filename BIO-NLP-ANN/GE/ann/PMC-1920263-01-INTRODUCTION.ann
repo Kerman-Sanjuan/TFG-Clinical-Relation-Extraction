@@ -1,0 +1,63 @@
+T1	Protein 186 194	APOBEC3A
+T2	Protein 196 197	B
+T3	Protein 199 200	C
+T4	Protein 202 204	DE
+T5	Protein 206 207	F
+T6	Protein 209 210	G
+T7	Protein 212 213	H
+T8	Protein 302 310	APOBEC3G
+T9	Protein 312 315	A3G
+T10	Protein 459 484	virion infectivity factor
+T11	Protein 486 489	Vif
+T12	Protein 579 582	A3G
+T13	Protein 610 613	vif
+T14	Protein 902 905	A3G
+T15	Protein 1016 1019	A3G
+T16	Protein 1264 1267	A3G
+T17	Protein 1386 1389	A3G
+T18	Protein 1527 1535	APOBEC3F
+T19	Protein 1537 1540	A3F
+T20	Protein 1583 1586	A3G
+T21	Protein 1596 1599	A3F
+T22	Protein 1632 1635	vif
+T23	Protein 1776 1779	A3F
+T24	Protein 1832 1835	A3G
+T25	Protein 1878 1881	A3G
+T26	Protein 2048 2051	A3G
+T27	Protein 2268 2271	A3G
+T28	Protein 2356 2359	A3G
+T29	Protein 2439 2442	A3G
+T30	Protein 2527 2530	A3G
+T31	Protein 2626 2629	A3G
+T32	Protein 2810 2820	interferon
+T33	Protein 2886 2912	Sp (specificity protein) 1
+T34	Protein 2917 2920	Sp3
+*	Equiv T8 T9
+*	Equiv T10 T11
+*	Equiv T18 T19
+T35	Negative_regulation 491 498	deleted
+T36	Gene_expression 1824 1831	express
+T37	Binding 1852 1872	form heteromultimers
+T38	Localization 1908 1916	localize
+T39	Entity 1920 1946	mRNA processing (P) bodies
+T40	Gene_expression 2073 2082	expressed
+T41	Regulation 2167 2177	regulation
+T42	Positive_regulation 2256 2267	upregulates
+T43	Gene_expression 2272 2283	mRNA levels
+T44	Entity 2443 2451	promoter
+T45	Regulation 2473 2483	regulation
+T46	Entity 2855 2861	GC-box
+T47	Binding 2872 2882	recognized
+E1	Negative_regulation:T35 Theme:T10
+E2	Gene_expression:T36 Theme:T23
+E3	Gene_expression:T36 Theme:T24
+E4	Binding:T37 Theme:T23 Theme2:T25
+E5	Localization:T38 Theme:T23 ToLoc:T39
+E6	Localization:T38 Theme:T24 ToLoc:T39
+E7	Gene_expression:T40 Theme:T26
+E8	Regulation:T41 Theme:T26
+E9	Positive_regulation:T42 Theme:E10
+E10	Gene_expression:T43 Theme:T27
+E11	Regulation:T45 Theme:T29 Site:T44
+E12	Binding:T47 Theme:T31 Theme2:T33 Site:T46
+E13	Binding:T47 Theme:T31 Theme2:T34 Site:T46

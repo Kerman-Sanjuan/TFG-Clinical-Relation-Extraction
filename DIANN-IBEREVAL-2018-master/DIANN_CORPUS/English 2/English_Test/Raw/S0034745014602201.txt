@@ -1,0 +1,15 @@
+Abstract
+ Background
+Previous studies with neuropsychological testing have shown deficits in working memory in patients with bipolar disorder (BD).
+It is not yet clear if there is correlation with functional activation in neuroimaging such as functional Magnetic Resonance Imaging (fMRI).
+Objective
+To describe a new paradigm of neurocognitive assessment to identify the possible differences in the characteristics of neurofunctional response in patients with BD using a working memory task.
+Methods
+Descriptive, correlational, cross-sectional study.
+We evaluated 12 euthymic patients with BD-I (in treatment with lithium or valproate or without treatment at least 2 months prior to the study) and 4 participants with no psychiatric disorder.
+fMRI was used to correlate their operative memory processes with the changes seen in the BOLD signal using a paradigm that combines the presentation of blocks and related events.
+Results
+Control's brain activation was greater during response condition compared with bipolar patients.
+When comparing between patient groups there was no statistically significant difference (p>0.05).
+_Discussion:_ The paradigm we deployed is useful to study activation in brain areas involved in working memory processes.
+The results with bipolar patients need to be expanded with larger populations to compare other possible cognitive deficits and medication specific effects.

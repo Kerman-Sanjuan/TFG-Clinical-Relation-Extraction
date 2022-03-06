@@ -1,0 +1,13 @@
+Objectives
+Cortical posterior hypometabolism on PET imaging with 18F-FDG (FDG-PET), and altered levels of Aß1-42 peptide, total Tau (tTau) and phosphorylated Tau (pTau) proteins in cerebrospinal fluid (CSF) are established diagnostic biomarkers in Alzheimer's disease (AD). 
+An evaluation has been made of the concordance and relationship between the results of FDG-PET and CSF biomarkers in symptomatic patients with suspected AD.
+Material and methods
+A retrospective review was carried out on 120 patients with <dis>cognitive impairment</dis> referred to our Cognitive Neurology Unit, and who were evaluated by brain FDG-PET and a lumbar puncture for CSF biomarkers. 
+In order to calculate their Kappa coefficient of concordance, the result of the FDG-PET and the set of the three CSF biomarkers in each patient was classified as normal, inconclusive, or AD-compatible. 
+The relationship between the results of both methods was further assessed using logistic regression analysis, including the Aß1-42, tTau and pTau levels as quantitative predictors, and the FDG-PET result as the dependent variable.
+Results
+The weighted Kappa coefficient between FDG-PET and CSF biomarkers was 0.46 (95% CI: 0.35-0.57). 
+Logistic regression analysis showed that the Aß1-42 and tTau values together were capable of discriminating an FDG-PET result metabolically suggestive of AD from one non-suggestive of AD, with a 91% sensitivity and 93% specificity at the cut-off line Aß1-42=44+1.3×tTau.
+Conclusions
+The level of concordance between FDG-PET and CSF biomarkers was moderate, indicating their complementary value in diagnosing AD. 
+The Aß1-42 and tTau levels in CSF help to predict the patient FDG-PET cortical metabolic status.

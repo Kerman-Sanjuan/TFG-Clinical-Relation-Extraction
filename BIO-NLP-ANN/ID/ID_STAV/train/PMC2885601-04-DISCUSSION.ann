@@ -1,0 +1,142 @@
+T86	Positive_regulation 228 235	cleaves
+T87	Protein_catabolism 228 235	cleaves
+T88	Positive_regulation 480 486	cleave
+T89	Protein_catabolism 480 486	cleave
+T90	Positive_regulation 510 516	cleave
+T91	Protein_catabolism 510 516	cleave
+T92	Protein_catabolism 819 828	Cleavable
+T93	Protein_catabolism 862 875	non-cleavable
+T94	Positive_regulation 1004 1016	cleavability
+T95	Positive_regulation 1079 1088	cleavable
+T96	Protein_catabolism 1079 1088	cleavable
+T97	Protein_catabolism 1151 1158	cleaved
+T98	Positive_regulation 1202 1209	cleaved
+T99	Protein_catabolism 1202 1209	cleaved
+T100	Positive_regulation 1403 1409	cleave
+T101	Protein_catabolism 1403 1409	cleave
+T102	Gene_expression 2126 2134	produced
+T103	Regulation 2186 2196	controlled
+T104	Process 2290 2299	virulence
+T105	Regulation 2470 2479	regulated
+E1	Protein_catabolism:T87 Theme:T9
+E2	Positive_regulation:T86 Theme:E1 Cause:T7
+E3	Protein_catabolism:T89 Theme:T19
+E4	Positive_regulation:T88 Theme:E3 Cause:T15
+E5	Positive_regulation:T88 Theme:E3 Cause:T17
+E6	Protein_catabolism:T91 Theme:T21
+E7	Positive_regulation:T90 Theme:E6 Cause:T15
+M1	Negation E7
+E8	Positive_regulation:T90 Theme:E6 Cause:T17
+M2	Negation E8
+E9	Protein_catabolism:T92 Theme:T26
+E10	Protein_catabolism:T93 Theme:T28
+E11	Positive_regulation:T94 Theme:E9 Cause:T29
+E12	Positive_regulation:T94 Theme:E9 Cause:T31
+E13	Positive_regulation:T94 Theme:E10 Cause:T29
+M3	Negation E13
+E14	Positive_regulation:T94 Theme:E10 Cause:T31
+M4	Negation E14
+E15	Protein_catabolism:T96 Theme:T33
+M5	Speculation E15
+E16	Positive_regulation:T95 Theme:E15 Cause:T34
+M6	Speculation E16
+E17	Protein_catabolism:T97 Theme:T36
+M7	Negation E17
+M8	Speculation E17
+E18	Protein_catabolism:T99 Theme:T38
+E19	Positive_regulation:T98 Theme:E18 Cause:T39
+M9	Negation E19
+E20	Protein_catabolism:T101 Theme:T46
+E21	Positive_regulation:T100 Theme:E20 Cause:T44
+E22	Gene_expression:T102 Theme:T63
+M10	Negation E22
+E23	Gene_expression:T102 Theme:T65
+E24	Regulation:T103 Theme:T66 Cause:T67
+E25	Process:T104 
+E26	Regulation:T105 Theme:T71
+E27	Regulation:T105 Theme:T72
+T1	Protein 43 48	SeMac
+T2	Protein 54 76	cysteine endopeptidase
+T3	Organism 107 112	horse
+T4	Protein 113 116	IgG
+T5	Organism 164 171	S. equi
+T6	Organism 175 180	horse
+T7	Protein 210 215	SeMac
+T8	Organism 255 260	human
+T9	Protein 261 264	IgG
+T10	Protein 365 370	SeMac
+T11	Organism 383 386	GAS
+T12	Protein 390 393	Mac
+T13	Protein 401 406	SeMac
+T14	Protein 412 434	cysteine endopeptidase
+T15	Protein 450 455	SeMac
+T16	Organism 460 463	GAS
+T17	Protein 464 467	Mac
+T18	Organism 487 492	human
+T19	Protein 493 496	IgG
+T20	Organism 539 544	horse
+T21	Protein 545 548	IgG
+T22	Protein 648 651	Mac
+T23	Organism 793 798	horse
+T24	Protein 799 802	IgG
+T25	Organism 829 834	horse
+T26	Protein 835 839	IgG1
+T27	Organism 876 881	horse
+T28	Protein 882 886	IgG4
+T29	Protein 1020 1025	SeMac
+T30	Organism 1030 1033	GAS
+T31	Protein 1034 1037	Mac
+T32	Organism 1056 1061	horse
+T33	Protein 1062 1066	IgG3
+T34	Protein 1092 1097	SeMac
+T35	Organism 1120 1125	horse
+T36	Protein 1126 1129	IgG
+T37	Organism 1166 1171	horse
+T38	Protein 1172 1175	IgG
+T39	Protein 1213 1218	SeMac
+T40	Organism 1268 1275	S. equi
+T41	Protein 1277 1282	SeMac
+T42	Organism 1287 1290	GAS
+T43	Protein 1294 1297	Mac
+T44	Protein 1393 1398	SeMac
+T45	Organism 1410 1415	human
+T46	Protein 1416 1419	IgG
+T47	Organism 1458 1461	GAS
+T48	Organism 1465 1470	human
+T49	Organism 1523 1528	horse
+T50	Protein 1529 1532	IgG
+T51	Organism 1580 1587	S. equi
+T52	Organism 1591 1596	horse
+T53	Protein 1666 1671	SeMac
+T54	Protein 1735 1740	SeMac
+T55	Organism 1756 1759	GAS
+T56	Protein 1763 1766	Mac
+T57	Organism 1810 1813	GAS
+T58	Organism 1817 1822	human
+T59	Protein 1867 1871	IdeE
+T60	Protein 1872 1877	SeMac
+T61	Organism 1924 1930	equine
+T62	Organism 1940 1947	S. equi
+T63	Protein 2113 2118	SeMac
+T64	Organism 2153 2156	GAS
+T65	Protein 2157 2160	Mac
+T66	Protein 2174 2177	mac
+T67	Two-component-system 2236 2241	CovRS
+T68	Protein 2236 2240	CovR
+T69	Protein 2240 2241	S
+T70	Organism 2373 2380	S. equi
+T71	Protein 2446 2451	semac
+T72	Protein 2456 2459	mac
+T73	Organism 2576 2583	S. equi
+T74	Organism 2591 2594	GAS
+T75	Protein 2625 2630	semac
+T76	Protein 2635 2638	mac
+T77	Organism 2646 2653	S. equi
+T78	Organism 2659 2664	horse
+T79	Protein 2689 2694	SeMac
+T80	Organism 2734 2741	S. equi
+T81	Organism 2745 2750	horse
+T82	Protein 2771 2776	SeMac
+T83	Organism 2824 2829	horse
+T84	Organism 2847 2854	S. equi
+T85	Protein 2875 2880	SeMac

@@ -1,0 +1,12 @@
+*	Equiv T3 T2
+T8	Positive_regulation 221 235	overexpression
+T9	Gene_expression 221 235	overexpression
+E1	Positive_regulation:T8 Theme:E2
+E2	Gene_expression:T9 Theme:T3
+T1	Protein 24 58	Ca2+-modulating cyclophilin ligand
+T2	Protein 113 147	Ca2+-modulating cyclophilin ligand
+T3	Protein 149 153	CAML
+T4	Protein 185 198	cyclophilin B
+T5	Protein 421 425	CAML
+T6	Protein 471 475	CAML
+T7	Protein 638 642	CAML

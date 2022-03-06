@@ -1,0 +1,18 @@
+Resumen
+ Objetivos
+Pretendemos estudiar aquellos factores que pueden potenciar el riesgo de accidentes en ancianos, sin deterioro cognitivo, de la provincia de Guadalajara.
+Métodos
+Se trata de un estudio observacional transversal, en el ámbito de la atención primaria, diferenciando ámbito urbano y rural.
+Aplicamos un cuestionario (con pilotaje previo y estudio de fiabilidad mediante análisis de estabilidad en las respuestas a partir de coeficiente kappa), a una muestra aleatoria estratificada, polietápica y proporcional según edad, sexo y núcleos de población.
+Las variables estudiadas fueron: situación de convivencia, tipo de vivienda, barreras arquitectónicas en el hogar, sistema de calefacción, revisión periódica visual y auditiva, uso de lentes correctoras y audífonos, seguridad vial y variables sociodemográficas.
+Efectuamos el análisis de datos mediante procedimientos propios de la estadística descriptiva, analítica y multivariante por regresión logística.
+La muestra seleccionada la componían 473 personas en el medio rural y 477 en el urbano.
+La muestra finalmente estudiada incluía 388 personas en el medio rural y 392 en el urbano.
+El porcentaje de pérdidas oscila entre el 16% (varones del ámbito rural) y el 26% (mujeres del ámbito rural).
+Resultados
+El tipo de vivienda es diferente dependiendo del ámbito, predominando las casas de planta baja en el medio rural; supera el 80% en todos los casos el número de los hogares que tienen entre una y cuatro barreras arquitectónicas, destacando la ausencia de asideros en los lavabos, la presencia de alfombras, de moquetas y los desniveles y escaleras interiores.
+El porcentaje de ancianos que efectúan revisión visual o auditiva menos de una vez al año, es mayor al 75% en el caso de la vista y al 90% en la audición, cualquiera que sea el ámbito.
+A pesar de la obligatoriedad, no utilizan el cinturón de seguridad entre el 3 y el 7% de los ancianos.
+Conclusiones
+Encontramos una alta prevalencia de condiciones que pueden aumentar la accidentalidad en personas mayores de 65 años de nuestra provincia.
+El estudio pone de relieve la necesidad de implementar medidas correctoras.

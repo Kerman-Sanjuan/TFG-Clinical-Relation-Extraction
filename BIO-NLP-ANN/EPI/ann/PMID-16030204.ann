@@ -1,0 +1,16 @@
+T7	Methylation 1045 1056	methylation
+T8	Demethylation 1058 1071	demethylation
+E1	Methylation:T7 Theme:T3
+M1	Speculation E1
+E2	Methylation:T7 Theme:T4
+M2	Speculation E2
+E3	Demethylation:T8 Theme:T3
+M3	Speculation E3
+E4	Demethylation:T8 Theme:T4
+M4	Speculation E4
+T1	Protein 323 327	CheR
+T2	Protein 347 351	CheB
+T3	Protein 911 914	Tsr
+T4	Protein 918 921	Tar
+T5	Protein 1263 1267	CheB
+T6	Protein 1312 1316	CheR

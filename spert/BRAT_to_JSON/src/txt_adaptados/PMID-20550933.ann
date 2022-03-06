@@ -1,0 +1,19 @@
+T1	Protein 0 3	ATM
+T2	Protein 223 226	ATM
+T3	Protein 235 246	Histone H2A
+T4	Protein 264 267	H2A
+T5	Protein 376 379	H2A
+T6	Protein 666 669	ATM
+T7	Protein 730 733	ATM
+T8	Protein 873 882	ubiquitin
+T9	Protein 891 895	RNF8
+T10	Protein 900 906	RNF168
+T11	Protein 953 956	H2A
+T12	Protein 981 986	USP16
+*	Equiv T3 T4
+T13	Ubiquitination 247 261	ubiquitylation
+T14	Deubiquitination 957 973	deubiquitylating
+T15	Catalysis 957 973	deubiquitylating
+E1	Ubiquitination:T13 Theme:T3
+E2	Deubiquitination:T14 Theme:T11
+E3	Catalysis:T15 Theme:E2 Cause:T12

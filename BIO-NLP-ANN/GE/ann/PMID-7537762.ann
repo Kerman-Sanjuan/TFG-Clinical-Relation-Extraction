@@ -1,0 +1,44 @@
+T1	Protein 22 32	P-selectin
+T2	Protein 43 73	monocyte chemotactic protein-1
+T3	Protein 78 105	tumor necrosis factor-alpha
+T4	Protein 430 440	P-selectin
+T5	Protein 526 556	monocyte chemotactic protein-1
+T6	Protein 558 563	MCP-1
+T7	Protein 569 596	tumor necrosis factor-alpha
+T8	Protein 598 607	TNF-alpha
+T9	Protein 757 767	P-selectin
+T10	Protein 786 796	P-selectin
+T11	Protein 825 857	P-selectin glycoprotein ligand-1
+T12	Protein 900 910	P-selectin
+T13	Protein 1045 1050	MCP-1
+T14	Protein 1052 1061	TNF-alpha
+T15	Protein 1127 1137	P-selectin
+*	Equiv T6 T5
+*	Equiv T8 T7
+T16	Regulation 33 42	regulates
+T17	Localization 106 115	secretion
+T18	Gene_expression 459 468	expressed
+T19	Positive_regulation 499 508	increased
+T20	Localization 513 522	secretion
+T21	Positive_regulation 627 631	when
+T22	Negative_regulation 777 785	prevents
+T23	Binding 802 809	binding
+T24	Positive_regulation 1018 1026	required
+T25	Gene_expression 1031 1041	expression
+E1	Regulation:T16 Theme:E4
+E2	Regulation:T16 Theme:E3
+E3	Localization:T17 Theme:T3
+E4	Localization:T17 Theme:T2
+E5	Gene_expression:T18 Theme:T4
+E6	Positive_regulation:T19 Theme:E9
+E7	Positive_regulation:T19 Theme:E8
+E8	Localization:T20 Theme:T8
+E9	Localization:T20 Theme:T6
+E10	Positive_regulation:T21 Theme:E8
+E11	Positive_regulation:T21 Theme:E9
+E12	Negative_regulation:T22 Theme:E13
+E13	Binding:T23 Theme:T10 Theme2:T11
+E14	Positive_regulation:T24 Theme:E16
+E15	Positive_regulation:T24 Theme:E17
+E16	Gene_expression:T25 Theme:T13
+E17	Gene_expression:T25 Theme:T14

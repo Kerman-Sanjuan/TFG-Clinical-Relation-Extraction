@@ -1,0 +1,11 @@
+Subacute sclerosing panencephalitis (SSPE) is a rare entity with an invariably fatal course that progressively affects the central nervous system.
+It is caused by persistent infection with the wild-type measles virus.
+While rare in industrial countries, it is not infrequent in developing countries, where there are still areas of endemic measles infection and immunization is not yet generalized.
+We describe an eight-year-old Spanish girl who presented rhythmic and symmetric myoclonus.
+She contracted measles at 13 months and required hospitalization.
+<scp><neg>No</neg> <dis>cognitive deterioration</dis> was found</scp>.
+Neuroimaging and the initial electroencephalogram were normal.
+Oligoclonal bands and high titers of measles antibodies were found in serum and cerebrospinal fluid.
+She was treated with oral metisoprinol and intraventricular alpha-interferon (IFN-a) and showed no further progression of her symptoms.
+The importance of including SSPE in the differential diagnosis of patients consulting for school failure, neurological deterioration or <dis>movement disorders</dis> is highlighted.
+Special attention should be paid to the immigrant population from countries where the incidence of SSPE is greater than in Spain.

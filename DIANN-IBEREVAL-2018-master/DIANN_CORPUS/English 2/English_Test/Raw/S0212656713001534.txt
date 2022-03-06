@@ -1,0 +1,19 @@
+Abstract
+ Objective
+To evaluate the diagnostic accuracy (DA) of the Mini-Mental State (MMS) for the detection of cognitive impairment (CI) in Primary Care (PC) and to determine the best conditions of use for that purpose.
+Design
+Pooled analysis of two prospective, double blind, studies on the evaluation of diagnostic tools with complete verification that were conducted in Madrid and Granada (Spain).
+Setting
+The MMS was administered in PC and the final cognitive diagnosis (gold standard) was made in Specialized Care.
+Participants
+Subjects with cognitive complaints or suspected of having CI were consecutively recruited in the PC clinic.
+Principal measures
+The DA of the MMS was evaluated using the area under the receiver operating characteristic (ROC) curve (AUC).
+The best cut-off point was selected according to the ratio of cases correctly classified (RCC) and to the _kappa_ index.
+Direct (MMSd) and age- and education-adjusted (MMSa) total scores were analyzed separately.
+Results
+In the total sample of 360 subjects (214 CI), the DA of the MMSd was significantly superior to that of the MMSa (0.84 ± 0.02 vs 0.82 ± 0.02, p ≤ .001).
+The yield obtained by the best cut-off point of the MMSd (22/23) was modest (RCC 0.77, _kappa_ 0.52 ± 0.05) and was not improved by any MMSa cut- off point.
+Conclusion
+The DA of the MMS for detection of CI in PC was modest and did not improve with adjustment of the score by age and education.
+The best cut-off point was 22/23, inferior to the usually recommended cut-off.

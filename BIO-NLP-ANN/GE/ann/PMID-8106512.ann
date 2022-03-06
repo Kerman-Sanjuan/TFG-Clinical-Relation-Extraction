@@ -1,0 +1,33 @@
+T1	Protein 6 36	interferon regulatory factor 2
+T2	Protein 116 146	Interferon regulatory factor 2
+T3	Protein 148 153	IRF-2
+T4	Protein 211 226	interferon beta
+T5	Protein 251 281	interferon regulatory factor 1
+T6	Protein 336 341	IRF-2
+T7	Protein 398 403	IRF-2
+T8	Protein 556 561	IRF-2
+T9	Protein 594 599	IRF-2
+T10	Protein 870 886	interferon-alpha
+T11	Protein 891 897	-gamma
+T12	Protein 903 933	interferon regulatory factor 1
+T13	Protein 1133 1138	IRF-2
+T14	Protein 1247 1277	interferon regulatory factor 1
+T15	Protein 1279 1294	interferon beta
+T16	Protein 1352 1382	interferon regulatory factor 1
+T17	Protein 1565 1570	IRF-2
+*	Equiv T3 T2
+T18	Negative_regulation 200 210	terminates
+T19	Gene_expression 227 237	expression
+T20	Positive_regulation 238 247	initiated
+T21	Entity 600 615	promoter region
+T22	Positive_regulation 839 848	inducible
+T23	Positive_regulation 1533 1543	activating
+T24	Transcription 1548 1561	transcription
+E1	Negative_regulation:T18 Theme:E2 Cause:T3
+E2	Gene_expression:T19 Theme:T4
+E3	Positive_regulation:T20 Theme:E2 Cause:T5
+E4	Positive_regulation:T22 Theme:T9 Cause:T11 Site:T21
+E5	Positive_regulation:T22 Theme:T9 Cause:T10 Site:T21
+E6	Positive_regulation:T22 Theme:T9 Cause:T12 Site:T21
+E7	Positive_regulation:T23 Theme:E8 Cause:T16
+E8	Transcription:T24 Theme:T17

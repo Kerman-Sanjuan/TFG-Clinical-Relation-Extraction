@@ -1,0 +1,14 @@
+Abstract
+ Background and objective
+To analyze the role of depression in <dis>cognitive deficits</dis> of patients with chronic fatigue syndrome (CFS).
+Patients and methods
+57 women with CFS were assessed by neuropsychological tests that included measures of attention: CalCap, Mental control of the WMS-III, PASAT, forward and backward digits (WAIS-III), symbol digit modalities test (SDMT); executive functions: Stroop Test, Trail Making Test (TMT A y B) _ **,**_ FAS, Tower of London; memory: Auditory-Verbal Learning Test (AVL), Rey Complex Figure (RCF), and psychomotor skills: Grooved Pegboard.
+The raw scores on the tests were adjusted according to normative data and transformed to T scores.
+The sample was divided into two groups based on the presence or absence of depression, assessed by clinical interview and administration of the Hospital Anxiety and Depression Scale (HADS).
+This study compared neuropsychological test scores between the two groups.
+Results
+CFS patients showed <dis>cognitive deficit in attention and executive functions</dis>, regardless of the presence of depression.
+There were no significant differences between the two CFS groups.
+Conclusions
+The <dis>cognitive impairments</dis> in patients with CFS are not secondary to the presence of depression.
+These results should be taken into account in the implementation of therapeutic programs in these patients.

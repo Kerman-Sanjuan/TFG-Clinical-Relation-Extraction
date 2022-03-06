@@ -1,0 +1,46 @@
+*	Equiv T6 T7
+T28	Process 86 93	infects
+T29	Process 285 294	infection
+T30	Gene_expression 2163 2173	expression
+T31	Process 2277 2285	infected
+T32	Process 2360 2369	infection
+T33	Process 2433 2447	hypervirulence
+T34	Gene_expression 2507 2517	expression
+T35	Gene_expression 2594 2608	overexpression
+T36	Binding 2737 2742	binds
+E1	Process:T28 Participant:T1
+E2	Process:T29 Participant:T3
+E3	Gene_expression:T30 Theme:T16
+E4	Process:T31 Participant:T18
+E5	Process:T32 Participant:T18
+E6	Process:T33 Participant:T20
+E7	Gene_expression:T34 Theme:T21
+E8	Gene_expression:T35 Theme:T22
+E9	Binding:T36 Theme1:T23 Theme2:T24
+T1	Organism 14 40	Mycobacterium tuberculosis
+T2	Organism 69 74	human
+T3	Organism 269 284	M. tuberculosis
+T4	Organism 877 892	M. tuberculosis
+T5	Organism 1009 1024	M. tuberculosis
+T6	Chemical 1177 1189	Nitric oxide
+T7	Chemical 1191 1193	NO
+T8	Organism 1395 1410	M. tuberculosis
+T9	Organism 1500 1515	M. tuberculosis
+T10	Two-component-system 1596 1605	DosR-DosS
+T11	Protein 1596 1600	DosR
+T12	Protein 1601 1605	DosS
+T13	Protein 1683 1689	rv2623
+T14	Organism 1704 1719	M. tuberculosis
+T15	Protein 2061 2067	rv2623
+T16	Protein 2177 2183	rv2623
+T17	Organism 2286 2290	mice
+T18	Organism 2344 2359	M. tuberculosis
+T19	Protein 2418 2424	rv2623
+T20	Organism 2455 2472	tubercle bacillus
+T21	Protein 2521 2527	Rv2623
+T22	Protein 2612 2618	Rv2623
+T23	Protein 2730 2736	Rv2623
+T24	Chemical 2743 2746	ATP
+T25	Protein 2826 2832	Rv2623
+T26	Organism 2938 2953	M. tuberculosis
+T27	Chemical 2975 2978	ATP

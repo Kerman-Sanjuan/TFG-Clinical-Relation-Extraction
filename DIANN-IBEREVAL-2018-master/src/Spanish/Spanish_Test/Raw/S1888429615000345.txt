@@ -1,0 +1,16 @@
+Resumen
+ Objetivo
+Determinar la prevalencia de la deficiencia visual atribuible al error refractivo y a otras causas en una población de jóvenes de Ghana.
+Métodos
+Estudio prospectivo de todas las visitas consecutivas realizadas por estudiantes terciarios de primer año que acudieron a la Clínica de Optometría entre Agosto de 2013 y Abril de 2014.
+De los 4.378 estudiantes de primer año registrados, de edades comprendidas entre 16 y 39 años, 3.437 (78,5%) se sometieron a un examen ocular.
+El protocolo del examen incluyó la revisión de la agudeza visual (AV), la motilidad ocular y la biomicroscopía del ojo externo, segmento anterior y medio, y el examen del fondo de ojo sin dilatación.
+Los exámenes de la agudeza con agujero estenopeico y del fondo de ojo se realizaron en aquellos casos de AV ≤ 6/12 en uno o ambos ojos para determinar la causa principal de la pérdida de visión.
+Resultados
+La edad media de los participantes fue de 21,86 años (95% IC: de 21,72 a 21,99).
+La prevalencia de la deficiencia visual bilateral (BVI; AV en el mejor ojo ≤ 6/12) y la deficiencia visual unilateral (UVI; AV en el peor ojo ≤ 6/12) fue del 3,08% (95% IC: de 2,56 a 3,72) y el 0,79% (95% IC: de 0,54 a 1,14), respectivamente.
+En 106 participantes con BVI, las causas principales fueron el error refractivo (96,2%) y la opacidad corneal (3,8%).
+De los 27 participantes con UVI, el error refractivo (44,4%), la maculopatía (18,5%) y la enfermedad retiniana (14.8%) fueron los principales motivos.
+Se produjo una distribución desigual de la BVI en los diferentes grupos de edad, habiendo un menor impacto en aquellos participantes con edades superiores a 20 años.
+Conclusión
+La exploración ocular y la adaptación de una corrección en gafa asequible en los jóvenes podría eliminar a tiempo la deficiencia visual.

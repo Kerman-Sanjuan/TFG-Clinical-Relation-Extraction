@@ -1,0 +1,48 @@
+--- Entities (named entity recognition (NER)) ---
+An entity is considered correct if the entity type and span is predicted correctly
+
+
+                type    precision       recall     f1-score      support
+         Methylation        80.95       100.00        89.47           17
+           Catalysis         0.00         0.00         0.00            8
+     Deglycosylation        50.00        50.00        50.00            2
+             Protein        78.94        77.78        78.35          477
+     DNA_methylation       100.00        66.67        80.00            3
+       Glycosylation        70.83        62.96        66.67           27
+              Entity        61.54        51.61        56.14           31
+       Demethylation         0.00         0.00         0.00            2
+       Hydroxylation        40.00       100.00        57.14            2
+   DNA_demethylation       100.00       100.00       100.00            1
+         Acetylation        95.00       100.00        97.44           19
+       Deacetylation       100.00       100.00       100.00            2
+
+               micro        78.05        75.80        76.91          591
+               macro        64.77        67.42        64.60          591
+
+--- Relations ---
+
+Without named entity classification (NEC)
+A relation is considered correct if the relation type and the spans of the two related entities are predicted correctly (entity type is not considered)
+
+                type    precision       recall     f1-score      support
+           Catalysis        66.67        50.00        57.14            8
+     DNA_methylation        71.43        46.88        56.60           32
+         Methylation        44.23        63.89        52.27           36
+             Protein         0.00         0.00         0.00            2
+         Acetylation         0.00         0.00         0.00           12
+
+               micro        53.16        46.67        49.70           90
+               macro        36.47        32.15        33.20           90
+
+With named entity classification (NEC)
+A relation is considered correct if the relation type and the two related entities are predicted correctly (in span and entity type)
+
+                type    precision       recall     f1-score      support
+           Catalysis        50.00        37.50        42.86            8
+     DNA_methylation        71.43        46.88        56.60           32
+         Methylation        44.23        63.89        52.27           36
+             Protein         0.00         0.00         0.00            2
+         Acetylation         0.00         0.00         0.00           12
+
+               micro        51.90        45.56        48.52           90
+               macro        33.13        29.65        30.35           90

@@ -1,0 +1,25 @@
+T1	Protein 44 47	A3G
+T2	Protein 165 175	luciferase
+T3	Protein 544 547	Sp1
+T4	Protein 552 555	Sp3
+T5	Protein 985 995	luciferase
+T6	Protein 1105 1108	A3G
+T7	Protein 1477 1487	luciferase
+T8	Protein 1661 1671	Luciferase
+T9	Entity 483 529	the (G/T)GGGCGG(G/A)(G/A)(C/T) consensus motif
+T10	Binding 530 540	recognized
+T11	Regulation 1502 1519	under the control
+T12	Entity 1797 1802	30 nt
+T13	Positive_regulation 1809 1817	enhanced
+T14	Transcription 1822 1846	transcriptional activity
+T15	Positive_regulation 1958 1969	responsible
+T16	Positive_regulation 1987 1995	enhanced
+T17	Positive_regulation 1996 2020	transcriptional activity
+E1	Binding:T10 Theme:T1 Theme2:T3 Site:T9
+E2	Binding:T10 Theme:T1 Theme2:T4 Site:T9
+E3	Regulation:T11 Theme:T7
+E4	Positive_regulation:T13 Theme:E5 Cause:T6 CSite:T12
+E5	Transcription:T14 Theme:T8
+E6	Positive_regulation:T15 Theme:E7
+E7	Positive_regulation:T16 Theme:E8
+E8	Positive_regulation:T17 Theme:T8

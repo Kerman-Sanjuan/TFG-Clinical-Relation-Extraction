@@ -1,0 +1,20 @@
+Objetivo
+Describir el tratamiento inicial de pacientes > 60 años con quejas subjetivas de memoria y/o <dis>deterioro cognitivo</dis> de al menos 6 meses de evolución.
+Diseño
+Estudio observacional, longitudinal, multicéntrico y naturalístico, con un período de seguimiento de 12 meses.
+Emplazamiento
+Un total de 105 centros de atención primaria.
+Participantes
+Participaron 921 pacientes que acudieron a consulta.
+Mediciones principales
+En la visita basal se recogieron las características sociodemográficas, el diagnóstico, el tratamiento y las derivaciones asistenciales, y en las 2 siguientes (6 y 12 meses), el cambio de diagnóstico, el tratamiento y las derivaciones.
+Resultados
+El 66,9% de los sujetos eran mujeres y la edad media fue de 74,3 ± 6,8 años.
+En la visita inicial, el 50,5% (intervalo de confianza [IC] del 95%, 47,3-53,7) de los diagnósticos fue de tipo sindrómico y el 33,3% (IC del 95%, 30,3-36,3), etiológico.
+El médico de atención primaria modificó el diagnóstico de sospecha inicial en el 22% (IC del 95%, 19,3-24,7) de los pacientes durante el año de seguimiento del estudio.
+El 63,8% (IC del 95%, 60,7-66,9) de los pacientes fue diagnosticado a través de la anamnesis, la exploración física, el test de cribado y los datos de laboratorio.
+En la visita inicial, el 52,6% (IC del 95%, 49,4-55,8) de los pacientes recibían tratamiento, principalmente nootropos y neuroprotectores, y más tarde aumentó el porcentaje de pacientes con inhibidores de la colinesterasa.
+Durante los 12 meses de estudio, el médico de atención primaria remitió a un 54,9% (IC del 95%, 51,7-58,1) de los pacientes.
+Conclusiones
+El médico de atención primaria diagnostica a la mayoría de los pacientes con los medios disponibles, basándose fundamentalmente en la anamnesis, la exploración, el test de cribado y los datos de laboratorio.
+Se prescriben fármacos que carecen de eficacia en esta enfermedad y pocos de los que han demostrado eficacia.

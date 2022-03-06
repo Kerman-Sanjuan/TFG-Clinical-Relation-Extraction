@@ -1,0 +1,24 @@
+T15	Acetylation 14 25	acetylation
+T16	Acetylation 252 262	acetylated
+T17	Acetylation 303 314	acetylation
+T18	Acetylation 747 758	acetylation
+T19	Acetylation 1257 1268	acetylation
+E1	Acetylation:T15 Theme:T1
+E2	Acetylation:T16 Theme:T3
+E3	Acetylation:T17 Theme:T4
+E4	Acetylation:T18 Theme:T9
+E5	Acetylation:T19 Theme:T14
+T1	Protein 29 32	p53
+T2	Protein 84 91	Histone
+T3	Protein 263 271	histones
+T4	Protein 363 366	p53
+T5	Protein 482 485	p53
+T6	Protein 501 504	p53
+T7	Protein 600 603	p21
+T8	Protein 682 685	p21
+T9	Protein 762 765	p53
+T10	Protein 841 844	p53
+T11	Protein 870 873	p21
+T12	Protein 1083 1086	p53
+T13	Protein 1155 1158	p21
+T14	Protein 1289 1292	p53

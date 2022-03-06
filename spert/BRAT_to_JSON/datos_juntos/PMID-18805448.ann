@@ -1,0 +1,13 @@
+T1	Protein 97 102	GLT-1
+T2	Protein 374 379	GLT-1
+T3	Protein 713 722	ubiquitin
+T4	Protein 728 733	GLT-1
+T5	Protein 1089 1094	GLT-1
+T6	Protein 1333 1338	GLT-1
+T7	Ubiquitination 0 14	Ubiquitination
+T8	Ubiquitination 972 986	ubiquitination
+T9	Entity 1213 1219	lysine
+T10	Ubiquitination 1292 1305	ubiquitinated
+E1	Ubiquitination:T7 Theme:T1
+E2	Ubiquitination:T8 Theme:T4
+E3	Ubiquitination:T10 Theme:T6 Site:T9

@@ -1,0 +1,21 @@
+T1	Protein 111 117	restin
+T2	Protein 122 132	endostatin
+T3	Protein 135 141	Restin
+T4	Protein 146 156	endostatin
+T5	Protein 215 226	collagen XV
+T6	Protein 231 245	collagen XVIII
+T7	Protein 878 884	restin
+T8	Protein 913 923	endostatin
+T9	Protein 929 939	endostatin
+T10	Protein 1080 1094	beta1 integrin
+T11	Protein 1533 1539	restin
+T12	Protein 1865 1872	restins
+T13	Glycosylation 1231 1247	O-glycosylations
+T14	Glycosylation 1253 1267	O-glycosylated
+T15	Entity 1452 1456	S311
+T16	Entity 1457 1473	GalNAc-Gal2-NANA
+T17	Entity 1505 1509	S311
+T18	Entity 1510 1521	GalNAc-Gal2
+E1	Glycosylation:T13 Theme:T9
+E2	Glycosylation:T14 Theme:T9 Site:T15 Sidechain:T16
+E3	Glycosylation:T14 Theme:T9 Site:T17 Sidechain:T18

@@ -1,0 +1,24 @@
+T13	Positive_regulation 29 38	Increased
+T14	Gene_expression 39 49	expression
+T15	Process 192 201	infection
+T16	Positive_regulation 230 242	upregulation
+T17	Positive_regulation 851 863	upregulation
+T18	Process 979 988	infection
+E1	Positive_regulation:T13 Theme:E2
+E2	Gene_expression:T14 Theme:T2
+E3	Process:T15 
+E4	Positive_regulation:T16 Theme:T4
+E5	Positive_regulation:T17 Theme:T12
+E6	Process:T18 
+T1	Protein 23 27	speH
+T2	Protein 53 57	speH
+T3	Protein 109 113	SpeH
+T4	Protein 246 250	speH
+T5	Protein 394 398	SpeH
+T6	Organism 484 489	SF370
+T7	Organism 491 505	SF370DeltaspeH
+T8	Protein 501 505	speH
+T9	Organism 614 619	human
+T10	Organism 712 717	SF370
+T11	Protein 767 771	SpeH
+T12	Protein 871 875	speH

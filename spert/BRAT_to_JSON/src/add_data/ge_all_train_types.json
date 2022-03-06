@@ -1,0 +1,46 @@
+{
+  "entities": {
+    "Gene_expression": {
+      "short": "Gene_expression",
+      "verbose": "Gene_expression"
+    },
+    "Localization": { "short": "Localization", "verbose": "Localization" },
+    "Transcription": { "short": "Transcription", "verbose": "Transcription" },
+    "Entity": { "short": "Entity", "verbose": "Entity" },
+    "Binding": { "short": "Binding", "verbose": "Binding" },
+    "Phosphorylation": {
+      "short": "Phosphorylation",
+      "verbose": "Phosphorylation"
+    },
+    "Positive_regulation": {
+      "short": "Positive_regulation",
+      "verbose": "Positive_regulation"
+    },
+    "Regulation": { "short": "Regulation", "verbose": "Regulation" },
+    "Protein_catabolism": {
+      "short": "Protein_catabolism",
+      "verbose": "Protein_catabolism"
+    },
+    "Protein": { "short": "Protein", "verbose": "Protein" },
+    "Negative_regulation": {
+      "short": "Negative_regulation",
+      "verbose": "Negative_regulation"
+    }
+  },
+  "relations": {
+    "Site": {
+      "symmetric": false,
+      "short": "Site",
+      "verbose": "Site"
+    },
+    "Theme2": { "symmetric": false, "short": "Theme2", "verbose": "Theme2" },
+    "Theme": { "symmetric": false, "short": "Theme", "verbose": "Theme" },
+    "ToLoc": { "symmetric": false, "short": "ToLoc", "verbose": "ToLoc" },
+    "AtLoc": { "symmetric": false, "short": "AtLoc", "verbose": "AtLoc" },
+    "Cause": {
+      "symmetric": false,
+      "short": "Cause",
+      "verbose": "Cause"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Abstract
+ Purpose
+In vivo study of retinal straylight in a patient before and after penetrating keratoplasty (PKP).
+Methods
+Retinal straylight was measured in a 65-year-old man suffering from a post- herpetic corneal scar, both before and after PKP using the compensation comparison method (C-Quant straylight meter, Oculus GmbH, Germany).
+Results
+Retinal straylight values before surgery were high compared to those obtained for age-matched normals in previous studies, due to light scattering induced by the corneal scar.
+Mean and standard deviation straylight values before and 9 months after PKP were log(s)=1.71±0.09 and 1.05±0.08, respectively.
+Decrease in retinal straylight could be explained by an improved corneal transparency, resulting in a significant improvement in visual acuity.
+Conclusions
+Retinal straylight measurement provides objective and clinically valuable information about forward light scattering as the cause of visual disability.
+Improvement of the visual function after surgery is underestimated by visual acuity measures.

@@ -1,0 +1,32 @@
+2022-02-15 16:21:49,558 [MainThread  ] [INFO ]  Dataset: data/datasets/bionlp-epi/epi_test.json
+2022-02-15 16:21:49,559 [MainThread  ] [INFO ]  Model: spert
+2022-02-15 16:21:53,851 [MainThread  ] [INFO ]  Relation type count: 2
+2022-02-15 16:21:53,851 [MainThread  ] [INFO ]  Entity type count: 18
+2022-02-15 16:21:53,852 [MainThread  ] [INFO ]  Entities:
+2022-02-15 16:21:53,852 [MainThread  ] [INFO ]  No Entity=0
+2022-02-15 16:21:53,852 [MainThread  ] [INFO ]  DNA_demethylation=1
+2022-02-15 16:21:53,852 [MainThread  ] [INFO ]  Glycosylation=2
+2022-02-15 16:21:53,852 [MainThread  ] [INFO ]  Methylation=3
+2022-02-15 16:21:53,852 [MainThread  ] [INFO ]  Acetylation=4
+2022-02-15 16:21:53,852 [MainThread  ] [INFO ]  Hydroxylation=5
+2022-02-15 16:21:53,852 [MainThread  ] [INFO ]  DNA_methylation=6
+2022-02-15 16:21:53,852 [MainThread  ] [INFO ]  Phosphorylation=7
+2022-02-15 16:21:53,852 [MainThread  ] [INFO ]  Entity=8
+2022-02-15 16:21:53,852 [MainThread  ] [INFO ]  Deubiquitination=9
+2022-02-15 16:21:53,852 [MainThread  ] [INFO ]  Deglycosylation=10
+2022-02-15 16:21:53,852 [MainThread  ] [INFO ]  Deacetylation=11
+2022-02-15 16:21:53,852 [MainThread  ] [INFO ]  Dephosphorylation=12
+2022-02-15 16:21:53,852 [MainThread  ] [INFO ]  Dehydroxylation=13
+2022-02-15 16:21:53,853 [MainThread  ] [INFO ]  Protein=14
+2022-02-15 16:21:53,853 [MainThread  ] [INFO ]  Catalysis=15
+2022-02-15 16:21:53,853 [MainThread  ] [INFO ]  Demethylation=16
+2022-02-15 16:21:53,853 [MainThread  ] [INFO ]  Ubiquitination=17
+2022-02-15 16:21:53,853 [MainThread  ] [INFO ]  Relations:
+2022-02-15 16:21:53,853 [MainThread  ] [INFO ]  No Relation=0
+2022-02-15 16:21:53,853 [MainThread  ] [INFO ]  Methylation=1
+2022-02-15 16:21:53,853 [MainThread  ] [INFO ]  Dataset: test
+2022-02-15 16:21:53,853 [MainThread  ] [INFO ]  Document count: 1424
+2022-02-15 16:21:53,853 [MainThread  ] [INFO ]  Relation count: 425
+2022-02-15 16:21:53,853 [MainThread  ] [INFO ]  Entity count: 2216
+2022-02-15 16:21:57,512 [MainThread  ] [INFO ]  Evaluate: test
+2022-02-15 16:25:08,531 [MainThread  ] [INFO ]  Logged in: data/log/epi_eval/2022-02-15_16:21:49.392959

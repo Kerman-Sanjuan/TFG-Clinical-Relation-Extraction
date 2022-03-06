@@ -1,0 +1,17 @@
+Abstract
+ Introduction
+Pressure ulcer (PU) infection is a significant clinical problem in many elderly patients.
+Material and methods
+To determine the microbiology of PU and vascular ulcer (VU) infections by conducting a cross-sectional study of outpatients treated in a chronic wounds unit over an 18 month period.
+Results
+Sixty six patients with PU infection and 159 patients with an infected VU were identified.
+The PUs were located below the knee in 36 patients (52%).
+Patients with pressure ulcers had a higher proportion of institutionalization, <dis>cognitive impairment</dis>, <dis>inability to walk</dis>, and sphincter incontinence.
+There was a greater number of infections caused by _Enterobacteriaceae_ (52%, _P_ =.002) and fewer _S. aureus_ infections (24%, _P_ <.001) in patients with a PU compared to those with those with a VU.
+Forty-one percent of _S. aureus_ strains isolated in all the patients were resistant to methicillin (MRSA).
+The proportion of _Enterobacteriaceae_ infections was similar in patients with infection of pelvic girdle PU and in those located below the knee.
+Conclusions
+PU patients suffer a higher rate of infection by enterobacteria.
+The most common pathogen in UV infections is _S. aureus_.
+The proportion of MRSA infection in patients with chronic wounds is high.
+The microbiology of the infection in the pelvic girdle PU is similar to those located below the knee.

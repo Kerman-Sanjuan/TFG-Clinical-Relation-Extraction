@@ -1,0 +1,11 @@
+T1	Protein 64 94	type IIb Na-P(i) cotransporter
+T2	Protein 209 220	Na-P(i)-IIb
+T3	Protein 481 492	Na-P(i)-IIb
+T4	Protein 653 664	Na-P(i)-IIb
+T5	Protein 973 984	Na-P(i)-IIb
+T6	Protein 1188 1199	Na-P(i)-IIb
+T7	Protein 1254 1265	Na-P(i)-IIb
+T8	Glycosylation 30 43	glycosylation
+T9	Glycosylation 1303 1316	glycosylation
+E1	Glycosylation:T8 Theme:T1
+E2	Glycosylation:T9 Theme:T7

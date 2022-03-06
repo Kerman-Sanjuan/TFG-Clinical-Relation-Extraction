@@ -1,0 +1,43 @@
+Objetivo.
+Objetivo primario. 
+Determinar la supervivencia y los factores predictores de supervivencia en pacientes con insuficiencia renal crónica avanzada (IRCA) desestimados para tratamiento renal sustitutivo (TRS). 
+Objetivos secundarios. 
+Describir: a) las características sociodemográficas de los pacientes y del cuidador principal; b) la etiología de la nefropatía y la comorbilidad asociada; c) variables clínicas de los pacientes cuando son incluidos en el programa; d) la evolución clínica en términos de tensión arterial (TA), número de episodios de sobrecarga hídrica, tratamientos recibidos, frecuencia de hospitalizaciones, causas de las mismas, lugar y causa del fallecimiento; e) la evolución de los parámetros analíticos; f) el grado de información del diagnóstico y del pronóstico del paciente y de la familia, y g) la actividad asistencial realizada por los equipos de soporte de atención paliativa domiciliaria (ESAPD) durante el seguimiento.
+
+Material y método.
+Diseño. 
+Estudio descriptivo longitudinal de cohorte histórica. 
+Ámbito. 
+ESAPD áreas 1, 5 y 7 de Madrid. 
+Sujetos a estudio. 
+Pacientes con IRCA que han sido considerados y desestimados para TRS. 
+Criterios de selección. 
+1) Pacientes con IRCA que han sido considerados y desestimados para depuración extrarrenal, y 2) el paciente y/o cuidador y/o familia acepta el seguimiento de la enfermedad por el ESAPD y/o por su médico de Atención Primaria. 
+Tamaño de la muestra. 
+Se seleccionaron todas las historias clínicas de los archivos desde la creación de los respectivos ESAPD, desde 1997 hasta diciembre del 2009. 
+Variables analizadas. 
+1) Respuesta principal: tiempo de supervivencia; 2) variables secundarias: 2.1) sociodemográficas paciente y cuidador principal; edad, sexo; cuidador principal: estado civil, parentesco; 2.2) variables relacionadas con la enfermedad renal; etiología de la nefropatía, motivo de exclusión de TRS, comorbilidad; 2.3) variables clínicas; grado de control TA a lo largo de la evolución de la enfermedad; se recoge la TA en sucesivas visitas; presencia o ausencia de alguno de los siguientes síntomas al inicio del programa: edemas, dolor, estreñimiento, prurito, disnea, insomnio, ansiedad, tristeza y <dis>deterioro cognitivo</dis>; número de episodios sobrecarga hídrica; causa de salida del programa; lugar del fallecimiento; causa del fallecimiento y síntomas presentes en situación de últimos días; 2.4) variables terapéuticas; número de fármacos al inicio del programa; número de fármacos a la salida del programa de los pacientes cuyo motivo de salida era el exitus; tipo de fármacos; número de transfusiones realizadas; 2.5) variables de ingresos hospitalarios; número de ingresos hospitalarios; causas de hospitalización; 2.6) variables analíticas; grado de control a lo largo de la enfermedad de parámetros analíticos hasta el fallecimiento; 2.7) variables del grado de información del diagnóstico y del pronóstico; 2.8) variables de actividad asistencial; número de visitas domiciliarias realizadas al paciente.
+
+Resultados.
+N: 102 pacientes. 
+Edad media: 79,62 (9,94) años. 
+Etiología IRCA más frecuentes: vascular 37, no filiada 32, diabética 15. 
+Comorbilidad: SCG riesgo bajo 17, SCG riesgo medio 35, SCG riesgo alto 50. 
+Ponderación media del índice de Charlson: 6,88 (2,5).Causa desestimación TRS: comorbilidad 47,5%, edad 25,7%, decisión paciente 22,8%, otras 4%. 
+Grado información diagnóstico paciente y cuidador 57,9 y 94,4%, respectivamente. 
+Grado información pronóstica paciente y cuidador 11,8 y 90%, respectivamente. 
+Síntomas más frecuentes en primera visita: disnea 33,3%, prurito 30,4%, insomnio 34,3%, tristeza 36,3 y edemas 43,1%. 
+Mediana consumo fármacos al inicio: 10, al final de seguimiento: 11. 
+Número de transfusiones: 5. 
+Número de ingresos hospitalarios: 50, por sobrecarga hídrica: 35, comorbilidad: 12, oliguria: 3. 
+Causa exitus: IRCA 72,9%, enfermedad intercurrente 27,1%. 
+Localización exitus: domicilio 39, hospital agudos 31, unidad cuidados paliativos 13, urgencias 2. 
+Media visitas por ESAPD: 11,32, mediana: 6,5. 
+Mediana supervivencia: 4 meses, supervivencia al año: 25%. 
+Factores predictores de supervivencia: creatinina primera visita HZ 1,106 (IC 95% 1,01-1,20), p=0,024; edad 71-80 años, HZ 4,42 (IC 95% 1,60-12,21), edad>81 años, HZ 2,97 (IC 95% 1,16-7,61). 
+No se asoció a supervivencia niveles TA, volumen diuresis, niveles sodio, potasio, calcio, fósforo ni hemoglobina.
+
+Conclusiones.
+Los pacientes con IRCA en los que se desestimó TRS y que fueron seguidos en su domicilio por unidades de cuidados paliativos a domicilio tuvieron una mediana de supervivencia de 4 meses, siendo la edad y la función renal residual factores predictores de supervivencia, sin que la comorbilidad ni los niveles de electrólitos, TA ni el volumen de diuresis se asocien a supervivencia. 
+Durante el seguimiento la causa más frecuente de ingreso hospitalario fue la sobrecarga hídrica. 
+La mayoría de los pacientes fallecieron por la progresión de la IRCA, en su domicilio o en una unidad de cuidados paliativos de media-larga estancia.

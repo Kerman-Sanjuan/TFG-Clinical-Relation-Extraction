@@ -1,0 +1,12 @@
+T1	Protein 98 154	low density lipoprotein (LDL) receptor-related protein 1
+T2	Protein 156 160	LRP1
+T3	Protein 395 399	LRP1
+T4	Protein 584 618	apolipoprotein E (apoE) receptor-2
+T5	Protein 620 626	apoER2
+T6	Protein 893 899	apoER2
+*	Equiv T1 T2
+*	Equiv T4 T5
+T7	Glycosylation 418 430	glycosylated
+T8	Glycosylation 987 1000	glycosylation
+E1	Glycosylation:T7 Theme:T3
+E2	Glycosylation:T8 Theme:T6

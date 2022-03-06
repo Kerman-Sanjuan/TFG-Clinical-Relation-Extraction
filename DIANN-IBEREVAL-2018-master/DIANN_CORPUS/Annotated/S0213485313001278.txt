@@ -1,0 +1,15 @@
+Abstract
+ Introduction
+The goals of this study were to compare the early diagnostic utility of Alzheimer disease biomarkers in the CSF with those in brain MRI in conditions found in our clinical practice, and to ascertain the diagnostic accuracy of both techniques used together.
+Methods
+Between 2008 and 2009, we included 30 patients with <dis>mild cognitive impairment</dis> (<dis>MCI</dis>) who were examined using 1.5 Tesla brain MRI and AD biomarker analysis in CSF.
+MRI studies were evaluated by 2 radiologists according to the Korf́s visual scale.
+CSF biomarkers were analysed using INNOTEST reagents for Aβ1-42, total-tau and phospho-tau181p.
+We evaluated clinical changes 2 years after inclusion.
+Results
+By 2 years after inclusion, 15 of the original 30 patients (50%) had developed AD (NINCDS-ADRA criteria).
+The predictive utility of AD biomarkers in CSF (RR 2.7; 95% CI, 1.1-6.7; _P_ <.01) was greater than that of MRI (RR 1.5; 95% CI 95%, 0.7-3.4; _P_ <.2); using both techniques together yielded a sensitivity and a negative predictive value of 100%.
+Normal results on both complementary tests ruled out progression to AD (100%) within 2 years of inclusion.
+Conclusions
+Our results show that the diagnostic accuracy of biomarkers in CSF is higher than that of biomarkers in MRI.
+Combined use of both techniques is highly accurate for either early diagnosis or exclusion of AD in patients with <dis>MCI</dis>.

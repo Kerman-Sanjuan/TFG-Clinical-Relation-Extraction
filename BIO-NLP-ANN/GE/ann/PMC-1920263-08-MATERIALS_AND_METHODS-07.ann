@@ -1,0 +1,18 @@
+T1	Protein 43 46	Sp1
+T2	Protein 51 54	Sp3
+T3	Protein 506 509	Sp1
+T4	Protein 514 517	Sp3
+T5	Protein 897 900	Sp1
+T6	Protein 905 908	Sp3
+T7	Protein 944 947	Sp1
+T8	Protein 992 995	Sp3
+T9	Protein 1118 1125	tubulin
+T10	Protein 1133 1140	tubulin
+T11	Gene_expression 493 502	detection
+T12	Gene_expression 923 931	detected
+E1	Gene_expression:T11 Theme:T3
+E2	Gene_expression:T11 Theme:T4
+E3	Gene_expression:T12 Theme:T5
+E4	Gene_expression:T12 Theme:T6
+M1	Speculation E1
+M2	Speculation E2

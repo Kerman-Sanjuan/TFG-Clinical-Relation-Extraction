@@ -1,0 +1,8 @@
+Resumen
+ Entre los sistemas dopaminérgicos que se modifican durante la evolución humana y que, en ciertas condiciones de conectividad y neurotransmisión anormal, desencadenan cambios patológicos en la adolescencia y adultez, se encuentra el mesolímbico basal.
+En adultos el ultrasonido transcraneal se realiza por la escama del hueso temporal con un equipamiento con transductor sectorial y focal de 1,8 a 2,8 MHz.
+Los puntos de evaluación ecográficos fundamentales son el mesencéfalo, el área de la sustancia negra, el rafe, el cuerpo estriado y los tálamos, el tercer ventrículo y los sectores orbitofrontales.
+A pesar del acceso anatómico limitado, es uno de los métodos de Neuroimágenes que cuantifica la ecogenicidad (de 0 a 3) y el área de sección de la sustancia negra (normal hasta 0,2 cm2), lo cual se correlaciona con el empeoramiento de los síntomas motores parkinsonianos.
+Además, se evalúa y mensura el rafe (normal: 1 mm), que se correlaciona con el humor o la apatía según corresponda.
+Los otros hallazgos evaluables son los cambios en el espesor del _tegmentum_ mesenfálico (ángulo interpeduncular menor o mayor de 60°), el aumento de la ecogenicidad de los tálamos y los cuerpos estriados, y la dilatación del tercer ventrículo (mayor de 5 mm).
+Su presencia colabora en el diagnóstico, clasificación, tratamiento y seguimiento de distintas patologías, como enfermedad de Parkinson, parálisis supranuclear progresiva, distonías, degeneración córtico-basal, esquizofrenia, depresiones, trastorno bipolar y <dis>autismo</dis>.

@@ -1,0 +1,45 @@
+T1	Protein 14 18	Nat4
+T2	Protein 105 117	histones H2A
+T3	Protein 122 124	H4
+T4	Protein 127 131	Nat4
+T5	Protein 149 153	NatD
+T6	Protein 206 218	histones H2A
+T7	Protein 223 225	H4
+T8	Protein 431 441	histone H4
+T9	Protein 451 469	iso-1-cytochrome c
+T10	Protein 509 513	NatD
+T11	Protein 582 592	histone H4
+T12	Protein 720 724	NatA
+T13	Protein 726 730	NatB
+T14	Protein 736 740	NatC
+T15	Protein 863 867	NatD
+T16	Protein 902 906	nat4
+T17	Protein 1039 1043	nat4
+T18	Protein 1143 1153	histone H4
+T19	Protein 1262 1264	H4
+T20	Protein 1320 1330	histone H4
+T21	Protein 1398 1411	histone H2A.Z
+*	Equiv T4 T5
+T22	Acetylation 179 188	acetylate
+T23	Catalysis 179 188	acetylate
+T24	Entity 193 202	N termini
+T25	Acetylation 494 505	acetylation
+T26	Catalysis 494 505	acetylation
+T27	Entity 568 578	N terminus
+T28	Entity 1183 1200	N-terminal serine
+T29	Acetylation 1201 1212	acetylation
+T30	Acetylation 1243 1254	acetylation
+T31	Entity 1272 1279	lysines
+T32	Entity 1287 1304	N-terminal serine
+T33	Acetylation 1305 1316	acetylation
+E1	Acetylation:T22 Theme:T6 Site:T24
+E2	Catalysis:T23 Theme:E1 Cause:T4
+E3	Acetylation:T22 Theme:T7 Site:T24
+E4	Catalysis:T23 Theme:E3 Cause:T4
+E5	Acetylation:T25 Theme:T11 Site:T27
+E6	Catalysis:T26 Theme:E5 Cause:T10
+E7	Acetylation:T29 Theme:T19 Site:T28
+M1	Negation E7
+E8	Acetylation:T30 Theme:T19 Site:T31
+M2	Negation E8
+E9	Acetylation:T33 Theme:T20 Site:T32

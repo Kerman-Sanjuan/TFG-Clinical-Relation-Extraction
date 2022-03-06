@@ -1,0 +1,18 @@
+T11	Entity 8 14	lysine
+T12	Methylation 15 26	methylation
+T13	Entity 196 211	lysine residues
+T14	Methylation 230 240	methylated
+T15	Methylation 344 355	methylation
+E1	Methylation:T12 Theme:T1 Site:T11
+E2	Methylation:T14 Theme:T3 Site:T13
+E3	Methylation:T15 Theme:T4 Contextgene:T5
+T1	Protein 30 40	histone H3
+T2	Protein 120 128	histones
+T3	Protein 215 225	histone H3
+T4	Protein 341 343	H3
+T5	Protein 393 398	MET16
+T6	Protein 561 565	Isw1
+T7	Protein 691 695	Spp1
+T8	Protein 731 735	Set1
+T9	Protein 750 754	Set2
+T10	Protein 878 882	Isw1

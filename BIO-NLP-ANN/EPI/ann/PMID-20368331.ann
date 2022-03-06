@@ -1,0 +1,16 @@
+T1	Protein 27 36	HIF1alpha
+T2	Protein 259 268	HIF1alpha
+T3	Protein 465 474	HIF1alpha
+T4	Protein 718 727	HIF1alpha
+T5	Protein 846 855	HIF1alpha
+T6	Protein 998 1007	HIF1alpha
+T7	Protein 1152 1161	HIF1alpha
+T8	Protein 1322 1331	HIF1alpha
+T9	Protein 1767 1776	HIF1alpha
+T10	Entity 79 85	prolyl
+T11	Hydroxylation 86 99	hydroxylation
+T12	Hydroxylation 411 424	hydroxylation
+T13	Hydroxylation 1162 1175	hydroxylation
+E1	Hydroxylation:T11 Theme:T1 Site:T10
+E2	Hydroxylation:T12 Theme:T3
+E3	Hydroxylation:T13 Theme:T7

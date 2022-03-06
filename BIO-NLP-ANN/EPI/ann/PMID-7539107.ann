@@ -1,0 +1,10 @@
+T7	Glycosylation 277 290	serine-linked
+T8	Entity 277 283	serine
+T9	Entity 291 307	oligosaccharides
+E1	Glycosylation:T7 Theme:T2 Site:T8 Sidechain:T9
+T1	Protein 43 83	chorionic gonadotropin (CG) beta-subunit
+T2	Protein 210 225	CG beta-subunit
+T3	Protein 538 546	FSH beta
+T4	Protein 1297 1304	CG beta
+T5	Protein 1405 1420	CG beta-subunit
+T6	Protein 1598 1613	LH-hCG receptor

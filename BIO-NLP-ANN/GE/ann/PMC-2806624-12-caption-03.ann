@@ -1,0 +1,25 @@
+T1	Protein 11 16	RUNX1
+T2	Protein 21 26	RUNX3
+T3	Protein 74 79	FOXP3
+T4	Protein 536 541	RUNX1
+T5	Protein 551 556	RUNX3
+T6	Protein 884 889	FOXP3
+T7	Protein 1020 1025	RUNX1
+T8	Protein 1030 1035	RUNX3
+T9	Protein 1057 1064	CBFbeta
+T10	Protein 1078 1083	FOXP3
+T11	Protein 1102 1105	CD4
+T12	Protein 1139 1143	IL-2
+T13	Protein 1163 1166	CD2
+T14	Protein 1167 1168	3
+T15	Protein 1169 1171	28
+T16	Protein 1176 1184	TGF-beta
+T17	Binding 0 7	Binding
+T18	Entity 53 66	binding sites
+T19	Binding 1009 1016	binding
+T20	Entity 1084 1092	promoter
+E1	Binding:T17 Theme:T1 Theme2:T3 Site2:T18
+E2	Binding:T17 Theme:T2 Theme2:T3 Site2:T18
+E3	Binding:T19 Theme:T7 Theme2:T10 Site2:T20
+E4	Binding:T19 Theme:T8 Theme2:T10 Site2:T20
+E5	Binding:T19 Theme:T9 Theme2:T10 Site2:T20
